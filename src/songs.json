@@ -285,5 +285,264 @@
     "categories": ["Pop", "Pop 10s"],
     "snippet": "/songs/pop/royals.mp3",
     "cover": "/songs/covers/pure.jpg"
+  },
+  {
+    "title": "Green Light",
+    "artist": "Lorde",
+    "categories": ["Pop", "Pop 10s"],
+    "snippet": "/songs/pop/green_light.mp3",
+    "cover": "/songs/covers/melodrama.jpg"
+  },
+  {
+    "title": "Perfect Places",
+    "artist": "Lorde",
+    "categories": ["Pop", "Pop 10s"],
+    "snippet": "/songs/pop/perfect_places.mp3",
+    "cover": "/songs/covers/melodrama.jpg"
+  },
+  {
+    "title": "What Was That",
+    "artist": "Lorde",
+    "categories": ["Pop", "Pop 20s"],
+    "snippet": "/songs/pop/what_was_that.mp3",
+    "cover": "/songs/covers/virgin.jpg"
+  },
+  {
+    "title": "Can't Hold Us",
+    "artist": "Macklemore ft. Ryan Lewis",
+    "categories": ["Pop", "Pop 10s"],
+    "snippet": "/songs/pop/cant_hold.mp3",
+    "cover": "/songs/covers/heist.jpg"
+  },
+  {
+    "title": "Thrift Shop",
+    "artist": "Macklemore ft. Ryan Lewis",
+    "categories": ["Pop", "Pop 10s"],
+    "snippet": "/songs/pop/thrift.mp3",
+    "cover": "/songs/covers/heist.jpg"
+  },
+  {
+    "title": "Time of Our Lives",
+    "artist": "Pitbull ft. Ne-Yo",
+    "categories": ["Pop", "Pop 10s"],
+    "snippet": "/songs/pop/time_of_lives.mp3",
+    "cover": "/songs/covers/globalization.jpg"
+  },
+  {
+    "title": "Timber",
+    "artist": "Pitbull ft. Ke$ha",
+    "categories": ["Pop", "Pop 10s"],
+    "snippet": "/songs/pop/timber.mp3",
+    "cover": "/songs/covers/globalwarn.jpg"
+  },
+  {
+    "title": "International Love",
+    "artist": "Pitbull ft. Chris Brown",
+    "categories": ["Pop", "Pop 10s"],
+    "snippet": "/songs/pop/international.mp3",
+    "cover": "/songs/covers/pit.jpg"
+  },
+  {
+    "title": "Hotel Room Service",
+    "artist": "Pitbull",
+    "categories": ["Pop", "Pop 00s"],
+    "snippet": "/songs/pop/hotel_room.mp3",
+    "cover": "/songs/covers/pitbull.jpg"
+  },
+  {
+    "title": "Feel This Moment",
+    "artist": "Pitbull ft. Christina Aguilera",
+    "categories": ["Pop", "Pop 10s"],
+    "snippet": "/songs/pop/feel_this_moment.mp3",
+    "cover": "/songs/covers/globalwarn.jpg"
+  },
+  {
+    "title": "Fireball",
+    "artist": "Pitbull ft. John Ryan",
+    "categories": ["Pop", "Pop 10s"],
+    "snippet": "/songs/pop/fireball.mp3",
+    "cover": "/songs/covers/globalization.jpg"
+  },
+  {
+    "title": "Hey Baby",
+    "artist": "Pitbull ft. T-Pain",
+    "categories": ["Pop", "Pop 10s"],
+    "snippet": "/songs/pop/hey_baby.mp3",
+    "cover": "/songs/covers/pit.jpg"
+  },
+  {
+    "title": "That's So True",
+    "artist": "Gracie Abrams",
+    "categories": ["Pop", "Pop 20s"],
+    "snippet": "/songs/pop/thats_true.mp3",
+    "cover": "/songs/covers/secretus2.jpg"
+  },
+  {
+    "title": "Risk",
+    "artist": "Gracie Abrams",
+    "categories": ["Pop", "Pop 20s"],
+    "snippet": "/songs/pop/risk.mp3",
+    "cover": "/songs/covers/secretus.jpg"
+  },
+  {
+    "title": "Close to You",
+    "artist": "Gracie Abrams",
+    "categories": ["Pop", "Pop 20s"],
+    "snippet": "/songs/pop/close_to_you.mp3",
+    "cover": "/songs/covers/secretus.jpg"
+  },
+  {
+    "title": "I Love You I'm Sorry",
+    "artist": "Gracie Abrams",
+    "categories": ["Pop", "Pop 20s"],
+    "snippet": "/songs/pop/love_you_sorry.mp3",
+    "cover": "/songs/covers/secretus.jpg"
+  },
+  {
+    "title": "I Miss You I'm Sorry",
+    "artist": "Gracie Abrams",
+    "categories": ["Pop", "Pop 20s"],
+    "snippet": "/songs/pop/miss_you.mp3",
+    "cover": "/songs/covers/minor.jpg"
+  },
+  {
+    "title": "21",
+    "artist": "Gracie Abrams",
+    "categories": ["Pop", "Pop 20s"],
+    "snippet": "/songs/pop/21.mp3",
+    "cover": "/songs/covers/minor.jpg"
+  },
+  {
+    "title": "Call Me Maybe",
+    "artist": "Carly Rae Jepsen",
+    "categories": ["Pop", "Pop 10s"],
+    "snippet": "/songs/pop/call_maybe.mp3",
+    "cover": "/songs/covers/kiss.jpg"
+  },
+  {
+    "title": "I Really Like you",
+    "artist": "Carly Rae Jepsen",
+    "categories": ["Pop", "Pop 10s"],
+    "snippet": "/songs/pop/really_like.mp3",
+    "cover": "/songs/covers/emotion.jpg"
+  },
+  {
+    "title": "Run Away With Me",
+    "artist": "Carly Rae Jepsen",
+    "categories": ["Pop", "Pop 10s"],
+    "snippet": "/songs/pop/run_away_with_me.mp3",
+    "cover": "/songs/covers/emotion.jpg"
+  },
+  {
+    "title": "Dandelions",
+    "artist": "Ruth B.",
+    "categories": ["Pop", "Pop 10s"],
+    "snippet": "/songs/pop/dandelions.mp3",
+    "cover": "/songs/covers/dandelions.jpg"
+  },
+  {
+    "title": "In The End",
+    "artist": "Linkin Park",
+    "categories": ["Rock", "Rock 00s"],
+    "snippet": "/songs/rock/in_the_end.mp3",
+    "cover": "/songs/covers/hybrid.jpg"
+  },
+  {
+    "title": "Papercut",
+    "artist": "Linkin Park",
+    "categories": ["Rock", "Rock 00s"],
+    "snippet": "/songs/rock/papercut.mp3",
+    "cover": "/songs/covers/hybrid.jpg"
+  },
+  {
+    "title": "One Step Closer",
+    "artist": "Linkin Park",
+    "categories": ["Rock", "Rock 00s"],
+    "snippet": "/songs/rock/one_step_closer.mp3",
+    "cover": "/songs/covers/hybrid.jpg"
+  },
+  {
+    "title": "Crawling",
+    "artist": "Linkin Park",
+    "categories": ["Rock", "Rock 00s"],
+    "snippet": "/songs/rock/crawling.mp3",
+    "cover": "/songs/covers/hybrid.jpg"
+  },
+  {
+    "title": "Faint",
+    "artist": "Linkin Park",
+    "categories": ["Rock", "Rock 00s"],
+    "snippet": "/songs/rock/faint.mp3",
+    "cover": "/songs/covers/meteora.jpg"
+  },
+  {
+    "title": "Numb",
+    "artist": "Linkin Park",
+    "categories": ["Rock", "Rock 00s"],
+    "snippet": "/songs/rock/numb.mp3",
+    "cover": "/songs/covers/meteora.jpg"
+  },
+  {
+    "title": "What I've Done",
+    "artist": "Linkin Park",
+    "categories": ["Rock", "Rock 00s"],
+    "snippet": "/songs/rock/what_ive_done.mp3",
+    "cover": "/songs/covers/minutesmd.jpg"
+  },
+  {
+    "title": "Given Up",
+    "artist": "Linkin Park",
+    "categories": ["Rock", "Rock 00s"],
+    "snippet": "/songs/rock/given_up.mp3",
+    "cover": "/songs/covers/minutesmd.jpg"
+  },
+  {
+    "title": "Bleed It Out",
+    "artist": "Linkin Park",
+    "categories": ["Rock", "Rock 00s"],
+    "snippet": "/songs/rock/bleed_it_out.mp3",
+    "cover": "/songs/covers/minutesmd.jpg"
+  },
+  {
+    "title": "Burn It Down",
+    "artist": "Linkin Park",
+    "categories": ["Rock", "Rock 10s"],
+    "snippet": "/songs/rock/burn_down.mp3",
+    "cover": "/songs/covers/livingthings.jpg"
+  },
+  {
+    "title": "One More Light",
+    "artist": "Linkin Park",
+    "categories": ["Rock", "Rock 10s"],
+    "snippet": "/songs/rock/one_light.mp3",
+    "cover": "/songs/covers/one_light.jpg"
+  },
+  {
+    "title": "Heavy",
+    "artist": "Linkin Park",
+    "categories": ["Rock", "Rock 10s"],
+    "snippet": "/songs/rock/heavy.mp3",
+    "cover": "/songs/covers/one_light.jpg"
+  },
+  {
+    "title": "The Emptiness Machine",
+    "artist": "Linkin Park",
+    "categories": ["Rock", "Rock 20s"],
+    "snippet": "/songs/rock/emptiness_machine.mp3",
+    "cover": "/songs/covers/fromzero.jpg"
+  },
+  {
+    "title": "Heavy Is The Crown",
+    "artist": "Linkin Park",
+    "categories": ["Rock", "Rock 20s"],
+    "snippet": "/songs/rock/heavy_crown.mp3",
+    "cover": "/songs/covers/fromzero.jpg"
+  },
+  {
+    "title": "Two Faced",
+    "artist": "Linkin Park",
+    "categories": ["Rock", "Rock 20s"],
+    "snippet": "/songs/rock/two_faced.mp3",
+    "cover": "/songs/covers/fromzero.jpg"
   }
 ]
