@@ -515,14 +515,14 @@
     "artist": "Linkin Park",
     "categories": ["Rock", "Rock 10s"],
     "snippet": "/songs/rock/one_light.mp3",
-    "cover": "/songs/covers/one_light.jpg"
+    "cover": "/songs/covers/onelight.jpg"
   },
   {
     "title": "Heavy",
     "artist": "Linkin Park",
     "categories": ["Rock", "Rock 10s"],
     "snippet": "/songs/rock/heavy.mp3",
-    "cover": "/songs/covers/one_light.jpg"
+    "cover": "/songs/covers/onelight.jpg"
   },
   {
     "title": "The Emptiness Machine",
@@ -544,5 +544,160 @@
     "categories": ["Rock", "Rock 20s"],
     "snippet": "/songs/rock/two_faced.mp3",
     "cover": "/songs/covers/fromzero.jpg"
+  },
+  {
+    "title": "Hot N Cold",
+    "artist": "Katy Perry",
+    "categories": ["Pop", "Pop 00s"],
+    "snippet": "/songs/rock/hot_cold.mp3",
+    "cover": "/songs/covers/oneboys.jpg"
+  },
+  {
+    "title": "I Kissed A Girl",
+    "artist": "Katy Perry",
+    "categories": ["Pop", "Pop 00s"],
+    "snippet": "/songs/rock/kissed_girl.mp3",
+    "cover": "/songs/covers/oneboys.jpg"
+  },
+  {
+    "title": "Teenage Dream",
+    "artist": "Katy Perry",
+    "categories": ["Pop", "Pop 10s"],
+    "snippet": "/songs/rock/teenage_dream.mp3",
+    "cover": "/songs/covers/teenagedream.jpg"
+  },
+  {
+    "title": "Last Friday Night",
+    "artist": "Katy Perry",
+    "categories": ["Pop", "Pop 10s"],
+    "snippet": "/songs/rock/last_friday.mp3",
+    "cover": "/songs/covers/teenagedream.jpg"
+  },
+  {
+    "title": "California Gurls",
+    "artist": "Katy Perry ft. Snoop Dogg",
+    "categories": ["Pop", "Pop 10s"],
+    "snippet": "/songs/rock/california_gurls.mp3",
+    "cover": "/songs/covers/teenagedream.jpg"
+  },
+  {
+    "title": "Firework",
+    "artist": "Katy Perry",
+    "categories": ["Pop", "Pop 10s"],
+    "snippet": "/songs/rock/firework.mp3",
+    "cover": "/songs/covers/teenagedream.jpg"
+  },
+  {
+    "title": "The One That Got Away",
+    "artist": "Katy Perry",
+    "categories": ["Pop", "Pop 10s"],
+    "snippet": "/songs/rock/the_one_that.mp3",
+    "cover": "/songs/covers/teenagedream.jpg"
+  },
+  {
+    "title": "E.T",
+    "artist": "Katy Perry",
+    "categories": ["Pop", "Pop 10s"],
+    "snippet": "/songs/rock/et.mp3",
+    "cover": "/songs/covers/teenagedream.jpg"
+  },
+  {
+    "title": "Part Of Me",
+    "artist": "Katy Perry",
+    "categories": ["Pop", "Pop 10s"],
+    "snippet": "/songs/rock/part_of_me.mp3",
+    "cover": "/songs/covers/teenagedream2.jpg"
+  },
+  {
+    "title": "Wide Awake",
+    "artist": "Katy Perry",
+    "categories": ["Pop", "Pop 10s"],
+    "snippet": "/songs/rock/wide_awake.mp3",
+    "cover": "/songs/covers/teenagedream2.jpg"
+  },
+  {
+    "title": "Roar",
+    "artist": "Katy Perry",
+    "categories": ["Pop", "Pop 10s"],
+    "snippet": "/songs/rock/roar.mp3",
+    "cover": "/songs/covers/prism.jpg"
+  },
+  {
+    "title": "Dark Horse",
+    "artist": "Katy Perry ft. Juicy J",
+    "categories": ["Pop", "Pop 10s"],
+    "snippet": "/songs/rock/dark_horse.mp3",
+    "cover": "/songs/covers/prism.jpg"
+  },
+  {
+    "title": "Chained To The Rhythm",
+    "artist": "Katy Perry ft. Skip Marley",
+    "categories": ["Pop", "Pop 10s"],
+    "snippet": "/songs/rock/chained_rhythm.mp3",
+    "cover": "/songs/covers/witness.jpg"
+  },
+  {
+    "title": "Chihiro",
+    "artist": "Billie Eilish",
+    "categories": ["Pop", "Pop 20s"],
+    "snippet": "/songs/pop/chihiro.mp3",
+    "cover": "/songs/covers/hit_me_hard.jpg"
+  },
+  {
+    "title": "Wildflower",
+    "artist": "Billie Eilish",
+    "categories": ["Pop", "Pop 20s"],
+    "snippet": "/songs/pop/wildflower.mp3",
+    "cover": "/songs/covers/hit_me_hard.jpg"
+  },
+  {
+    "title": "Taste",
+    "artist": "Sabrina Carpenter",
+    "categories": ["Pop", "Pop 20s"],
+    "snippet": "/songs/pop/taste.mp3",
+    "cover": "/songs/covers/short_sweet.jpg"
+  },
+  {
+    "title": "Please Please Please",
+    "artist": "Sabrina Carpenter",
+    "categories": ["Pop", "Pop 20s"],
+    "snippet": "/songs/pop/ppp.mp3",
+    "cover": "/songs/covers/short_sweet.jpg"
+  },
+  {
+    "title": "Von Dutch",
+    "artist": "Charli XCX",
+    "categories": ["Pop", "Pop 20s"],
+    "snippet": "/songs/pop/von_dutch.mp3",
+    "cover": "/songs/covers/brat.jpg"
+  },
+  {
+    "title": "Apple",
+    "artist": "Charli XCX",
+    "categories": ["Pop", "Pop 20s"],
+    "snippet": "/songs/pop/apple.mp3",
+    "cover": "/songs/covers/brat.jpg"
+  },
+  {
+    "title": "360",
+    "artist": "Charli XCX",
+    "categories": ["Pop", "Pop 20s"],
+    "snippet": "/songs/pop/360.mp3",
+    "cover": "/songs/covers/brat.jpg"
+  },
+  {
+    "title": "Girl, so confusing",
+    "artist": "Charli XCX ft. Lorde",
+    "categories": ["Pop", "Pop 20s"],
+    "snippet": "/songs/pop/girl_confusing.mp3",
+    "cover": "/songs/covers/brat2.jpg"
+  },
+  {
+    "title": "Guess",
+    "artist": "Charli XCX ft. Billie Eilish",
+    "categories": ["Pop", "Pop 20s"],
+    "snippet": "/songs/pop/guess.mp3",
+    "cover": "/songs/covers/brat2.jpg"
   }
+  
 ]
