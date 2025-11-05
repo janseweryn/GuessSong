@@ -26,5 +26,47 @@
     "categories": ["Pop", "Pop 20s"],
     "snippet": "/songs/pop/drivers_license.mp3",
     "cover": "/songs/covers/SOUR.jpg"
+  },
+  {
+    "title": "Can't Catch Me Now",
+    "artist": "Olivia Rodrigo",
+    "categories": ["Pop", "Pop 20s"],
+    "snippet": "/songs/pop/cant_catch_me_now.mp3",
+    "cover": "/songs/covers/cant_catch_me_now.jpg"
+  },
+  {
+    "title": "Birds of a Feather",
+    "artist": "Billie Eilish",
+    "categories": ["Pop", "Pop 20s"],
+    "snippet": "/songs/pop/birds_of_a_feather.mp3",
+    "cover": "/songs/covers/hit_me_hard.jpg"
+  },
+  {
+    "title": "Espresso",
+    "artist": "Sabrina Carpenter",
+    "categories": ["Pop", "Pop 20s"],
+    "snippet": "/songs/pop/espresso.mp3",
+    "cover": "/songs/covers/short_sweet.jpg"
+  },
+  {
+    "title": "Greedy",
+    "artist": "Tate McRae",
+    "categories": ["Pop", "Pop 20s"],
+    "snippet": "/songs/pop/greedy.mp3",
+    "cover": "/songs/covers/think_later.jpg"
+  },
+  {
+    "title": "Exes",
+    "artist": "Tate McRae",
+    "categories": ["Pop", "Pop 20s"],
+    "snippet": "/songs/pop/exes.mp3",
+    "cover": "/songs/covers/think_later.jpg"
+  },
+  {
+    "title": "Sports Car",
+    "artist": "Tate McRae",
+    "categories": ["Pop", "Pop 20s"],
+    "snippet": "/songs/pop/sports_car.mp3",
+    "cover": "/songs/covers/so_close_to_what.jpg"
   }
 ]

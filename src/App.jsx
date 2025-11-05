@@ -184,7 +184,7 @@ export default function App() {
       }}
     >
       <h1 style={{ fontSize: "2.5rem", marginBottom: 20 }}>
-        🎵 Guess The Song
+        🎵 SongGuess 🎵
       </h1>
 
       {!category ? (
