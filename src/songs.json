@@ -1,0 +1,30 @@
+[
+  {
+    "title": "Bad Guy",
+    "artist": "Billie Eilish",
+    "categories": ["Pop", "Pop 10s"],
+    "snippet": "/songs/pop/bad_guy.mp3",
+    "cover": "/songs/covers/when_we_all_fall.jpg"
+  },
+  {
+    "title": "Good 4 U",
+    "artist": "Olivia Rodrigo",
+    "categories": ["Pop", "Pop 20s"],
+    "snippet": "/songs/pop/good_4_u.mp3",
+    "cover": "/songs/covers/SOUR.jpg"
+  },
+  {
+    "title": "Little Lies",
+    "artist": "Fleetwood Mac",
+    "categories": ["Rock", "Rock 70s"],
+    "snippet": "/songs/rock/little_lies.mp3",
+    "cover": "/songs/covers/tango.jpg"
+  },
+  {
+    "title": "Drivers License",
+    "artist": "Olivia Rodrigo",
+    "categories": ["Pop", "Pop 20s"],
+    "snippet": "/songs/pop/drivers_license.mp3",
+    "cover": "/songs/covers/SOUR.jpg"
+  }
+]
