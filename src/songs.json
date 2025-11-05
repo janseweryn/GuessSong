@@ -68,5 +68,61 @@
     "categories": ["Pop", "Pop 20s"],
     "snippet": "/songs/pop/sports_car.mp3",
     "cover": "/songs/covers/so_close_to_what.jpg"
+  },
+  {
+    "title": "Deja Vu",
+    "artist": "Olivia Rodrigo",
+    "categories": ["Pop", "Pop 20s"],
+    "snippet": "/songs/pop/deja_vu.mp3",
+    "cover": "/songs/covers/SOUR.jpg"
+  },
+  {
+    "title": "Traitor",
+    "artist": "Olivia Rodrigo",
+    "categories": ["Pop", "Pop 20s"],
+    "snippet": "/songs/pop/traitor.mp3",
+    "cover": "/songs/covers/SOUR.jpg"
+  },
+  {
+    "title": "Happier",
+    "artist": "Olivia Rodrigo",
+    "categories": ["Pop", "Pop 20s"],
+    "snippet": "/songs/pop/happier.mp3",
+    "cover": "/songs/covers/SOUR.jpg"
+  },
+  {
+    "title": "jealousy, jealousy",
+    "artist": "Olivia Rodrigo",
+    "categories": ["Pop", "Pop 20s"],
+    "snippet": "/songs/pop/jealousy.mp3",
+    "cover": "/songs/covers/SOUR.jpg"
+  },
+  {
+    "title": "Vampire",
+    "artist": "Olivia Rodrigo",
+    "categories": ["Pop", "Pop 20s"],
+    "snippet": "/songs/pop/vampire.mp3",
+    "cover": "/songs/covers/guts.jpg"
+  },
+  {
+    "title": "Bad Idea Right?",
+    "artist": "Olivia Rodrigo",
+    "categories": ["Pop", "Pop 20s"],
+    "snippet": "/songs/pop/bad_idea_right.mp3",
+    "cover": "/songs/covers/guts.jpg"
+  },
+  {
+    "title": "Obsessed",
+    "artist": "Olivia Rodrigo",
+    "categories": ["Pop", "Pop 20s"],
+    "snippet": "/songs/pop/obsessed.mp3",
+    "cover": "/songs/covers/guts2.jpg"
+  },
+  {
+    "title": "Get Him Back!",
+    "artist": "Olivia Rodrigo",
+    "categories": ["Pop", "Pop 20s"],
+    "snippet": "/songs/pop/vampire.mp3",
+    "cover": "/songs/covers/guts.jpg"
   }
 ]
