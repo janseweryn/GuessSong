@@ -122,7 +122,7 @@
     "title": "Get Him Back!",
     "artist": "Olivia Rodrigo",
     "categories": ["Pop", "Pop 20s"],
-    "snippet": "/songs/pop/vampire.mp3",
+    "snippet": "/songs/pop/get_him_back.mp3",
     "cover": "/songs/covers/guts.jpg"
   },
   {
@@ -185,9 +185,9 @@
     "title": "I'm With You",
     "artist": "Avril Lavigne",
     "categories": ["Pop", "Pop 00s", "Rock", "Rock 00s"],
-    "snippet": "/songs/pop/complicated.mp3",
-    "cover": "/songs/covers/with_you.jpg"
-  }
+    "snippet": "/songs/pop/with_you.mp3",
+    "cover": "/songs/covers/letgo.jpg"
+  },
   {
     "title": "Girlfriend",
     "artist": "Avril Lavigne",
