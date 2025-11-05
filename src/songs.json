@@ -549,91 +549,91 @@
     "title": "Hot N Cold",
     "artist": "Katy Perry",
     "categories": ["Pop", "Pop 00s"],
-    "snippet": "/songs/rock/hot_cold.mp3",
+    "snippet": "/songs/pop/hot_cold.mp3",
     "cover": "/songs/covers/oneboys.jpg"
   },
   {
     "title": "I Kissed A Girl",
     "artist": "Katy Perry",
     "categories": ["Pop", "Pop 00s"],
-    "snippet": "/songs/rock/kissed_girl.mp3",
+    "snippet": "/songs/pop/kissed_girl.mp3",
     "cover": "/songs/covers/oneboys.jpg"
   },
   {
     "title": "Teenage Dream",
     "artist": "Katy Perry",
     "categories": ["Pop", "Pop 10s"],
-    "snippet": "/songs/rock/teenage_dream.mp3",
+    "snippet": "/songs/pop/teenage_dream.mp3",
     "cover": "/songs/covers/teenagedream.jpg"
   },
   {
     "title": "Last Friday Night",
     "artist": "Katy Perry",
     "categories": ["Pop", "Pop 10s"],
-    "snippet": "/songs/rock/last_friday.mp3",
+    "snippet": "/songs/pop/last_friday.mp3",
     "cover": "/songs/covers/teenagedream.jpg"
   },
   {
     "title": "California Gurls",
     "artist": "Katy Perry ft. Snoop Dogg",
     "categories": ["Pop", "Pop 10s"],
-    "snippet": "/songs/rock/california_gurls.mp3",
+    "snippet": "/songs/pop/california_gurls.mp3",
     "cover": "/songs/covers/teenagedream.jpg"
   },
   {
     "title": "Firework",
     "artist": "Katy Perry",
     "categories": ["Pop", "Pop 10s"],
-    "snippet": "/songs/rock/firework.mp3",
+    "snippet": "/songs/pop/firework.mp3",
     "cover": "/songs/covers/teenagedream.jpg"
   },
   {
     "title": "The One That Got Away",
     "artist": "Katy Perry",
     "categories": ["Pop", "Pop 10s"],
-    "snippet": "/songs/rock/the_one_that.mp3",
+    "snippet": "/songs/pop/the_one_that.mp3",
     "cover": "/songs/covers/teenagedream.jpg"
   },
   {
     "title": "E.T",
     "artist": "Katy Perry",
     "categories": ["Pop", "Pop 10s"],
-    "snippet": "/songs/rock/et.mp3",
+    "snippet": "/songs/pop/et.mp3",
     "cover": "/songs/covers/teenagedream.jpg"
   },
   {
     "title": "Part Of Me",
     "artist": "Katy Perry",
     "categories": ["Pop", "Pop 10s"],
-    "snippet": "/songs/rock/part_of_me.mp3",
+    "snippet": "/songs/pop/part_of_me.mp3",
     "cover": "/songs/covers/teenagedream2.jpg"
   },
   {
     "title": "Wide Awake",
     "artist": "Katy Perry",
     "categories": ["Pop", "Pop 10s"],
-    "snippet": "/songs/rock/wide_awake.mp3",
+    "snippet": "/songs/pop/wide_awake.mp3",
     "cover": "/songs/covers/teenagedream2.jpg"
   },
   {
     "title": "Roar",
     "artist": "Katy Perry",
     "categories": ["Pop", "Pop 10s"],
-    "snippet": "/songs/rock/roar.mp3",
+    "snippet": "/songs/pop/roar.mp3",
     "cover": "/songs/covers/prism.jpg"
   },
   {
     "title": "Dark Horse",
     "artist": "Katy Perry ft. Juicy J",
     "categories": ["Pop", "Pop 10s"],
-    "snippet": "/songs/rock/dark_horse.mp3",
+    "snippet": "/songs/pop/dark_horse.mp3",
     "cover": "/songs/covers/prism.jpg"
   },
   {
     "title": "Chained To The Rhythm",
     "artist": "Katy Perry ft. Skip Marley",
     "categories": ["Pop", "Pop 10s"],
-    "snippet": "/songs/rock/chained_rhythm.mp3",
+    "snippet": "/songs/pop/chained_rhythm.mp3",
     "cover": "/songs/covers/witness.jpg"
   },
   {
@@ -698,6 +698,12 @@
     "categories": ["Pop", "Pop 20s"],
     "snippet": "/songs/pop/guess.mp3",
     "cover": "/songs/covers/brat2.jpg"
+  },
+  {
+    "title": "Nonsense",
+    "artist": "Sabrina Carpenter",
+    "categories": ["Pop", "Pop 20s"],
+    "snippet": "/songs/pop/nonsense.mp3",
+    "cover": "/songs/covers/emails.jpg"
   }
-  
 ]
