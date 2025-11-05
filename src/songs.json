@@ -124,5 +124,159 @@
     "categories": ["Pop", "Pop 20s"],
     "snippet": "/songs/pop/vampire.mp3",
     "cover": "/songs/covers/guts.jpg"
+  },
+  {
+    "title": "Just Dance",
+    "artist": "Lady Gaga ft. Colby O'Donis",
+    "categories": ["Pop", "Pop 00s"],
+    "snippet": "/songs/pop/just_dance.mp3",
+    "cover": "/songs/covers/fame.jpg"
+  },
+  {
+    "title": "Paparazzi",
+    "artist": "Lady Gaga",
+    "categories": ["Pop", "Pop 00s"],
+    "snippet": "/songs/pop/paparazzi.mp3",
+    "cover": "/songs/covers/fame.jpg"
+  },
+  {
+    "title": "Poker Face",
+    "artist": "Lady Gaga",
+    "categories": ["Pop", "Pop 00s"],
+    "snippet": "/songs/pop/poker_face.mp3",
+    "cover": "/songs/covers/fame.jpg"
+  },
+  {
+    "title": "Bad Romance",
+    "artist": "Lady Gaga",
+    "categories": ["Pop", "Pop 00s"],
+    "snippet": "/songs/pop/bad_romance.mp3",
+    "cover": "/songs/covers/fame.jpg"
+  },
+  {
+    "title": "Alejandro",
+    "artist": "Lady Gaga",
+    "categories": ["Pop", "Pop 00s"],
+    "snippet": "/songs/pop/alejandro.mp3",
+    "cover": "/songs/covers/fame.jpg"
+  },
+  {
+    "title": "Telephone",
+    "artist": "Lady Gaga ft. Beyonce",
+    "categories": ["Pop", "Pop 00s"],
+    "snippet": "/songs/pop/telephone.mp3",
+    "cover": "/songs/covers/fame.jpg"
+  },
+  {
+    "title": "Complicated",
+    "artist": "Avril Lavigne",
+    "categories": ["Pop", "Pop 00s", "Rock", "Rock 00s"],
+    "snippet": "/songs/pop/complicated.mp3",
+    "cover": "/songs/covers/letgo.jpg"
+  },
+  {
+    "title": "Sk8er Boi",
+    "artist": "Avril Lavigne",
+    "categories": ["Pop", "Pop 00s", "Rock", "Rock 00s"],
+    "snippet": "/songs/pop/sk8er.mp3",
+    "cover": "/songs/covers/letgo.jpg"
+  },
+  {
+    "title": "I'm With You",
+    "artist": "Avril Lavigne",
+    "categories": ["Pop", "Pop 00s", "Rock", "Rock 00s"],
+    "snippet": "/songs/pop/complicated.mp3",
+    "cover": "/songs/covers/with_you.jpg"
+  }
+  {
+    "title": "Girlfriend",
+    "artist": "Avril Lavigne",
+    "categories": ["Pop", "Pop 00s", "Rock", "Rock 00s"],
+    "snippet": "/songs/pop/girlfriend.mp3",
+    "cover": "/songs/covers/bestthing.jpg"
+  },
+  {
+    "title": "What The Hell",
+    "artist": "Avril Lavigne",
+    "categories": ["Pop", "Pop 00s", "Rock", "Rock 00s"],
+    "snippet": "/songs/pop/what_the_hell.mp3",
+    "cover": "/songs/covers/glullaby.jpg"
+  },
+  {
+    "title": "Outside",
+    "artist": "Calvin Harris ft. Ellie Goulding",
+    "categories": ["Pop", "Pop 10s"],
+    "snippet": "/songs/pop/outside.mp3",
+    "cover": "/songs/covers/motion.jpg"
+  },
+  {
+    "title": "Blame",
+    "artist": "Calvin Harris ft. John Newman",
+    "categories": ["Pop", "Pop 10s"],
+    "snippet": "/songs/pop/blame.mp3",
+    "cover": "/songs/covers/motion.jpg"
+  },
+  {
+    "title": "Summer",
+    "artist": "Calvin Harris",
+    "categories": ["Pop", "Pop 10s"],
+    "snippet": "/songs/pop/summer.mp3",
+    "cover": "/songs/covers/motion.jpg"
+  },
+  {
+    "title": "This Is What You Came For",
+    "artist": "Calvin Harris ft. Rihanna",
+    "categories": ["Pop", "Pop 10s"],
+    "snippet": "/songs/pop/outside.mp3",
+    "cover": "/songs/covers/24.jpg"
+  },
+  {
+    "title": "One Kiss",
+    "artist": "Calvin Harris ft. Dua Lipa",
+    "categories": ["Pop", "Pop 10s"],
+    "snippet": "/songs/pop/one_kiss.mp3",
+    "cover": "/songs/covers/24.jpg"
+  },
+  {
+    "title": "How Deep Is Your Love",
+    "artist": "Calvin Harris ft. Disciples",
+    "categories": ["Pop", "Pop 10s"],
+    "snippet": "/songs/pop/outside.mp3",
+    "cover": "/songs/covers/24.jpg"
+  },
+  {
+    "title": "Cool Kids",
+    "artist": "Echosmith",
+    "categories": ["Pop", "Pop 10s", "Rock", "Rock 10s"],
+    "snippet": "/songs/pop/cool_kids.mp3",
+    "cover": "/songs/covers/dreams.jpg"
+  },
+  {
+    "title": "Hate Me",
+    "artist": "Ellie Goulding ft. Juice WRLD",
+    "categories": ["Pop", "Pop 10s"],
+    "snippet": "/songs/pop/hate_me.mp3",
+    "cover": "/songs/covers/blue.jpg"
+  },
+  {
+    "title": "Love Me Like You Do",
+    "artist": "Ellie Goulding",
+    "categories": ["Pop", "Pop 10s"],
+    "snippet": "/songs/pop/love_me_like.mp3",
+    "cover": "/songs/covers/deli.jpg"
+  },
+  {
+    "title": "Burn",
+    "artist": "Ellie Goulding",
+    "categories": ["Pop", "Pop 10s"],
+    "snippet": "/songs/pop/burn.mp3",
+    "cover": "/songs/covers/halcyon.jpg"
+  },
+  {
+    "title": "Lights",
+    "artist": "Ellie Goulding",
+    "categories": ["Pop", "Pop 10s"],
+    "snippet": "/songs/pop/lights.mp3",
+    "cover": "/songs/covers/lights.jpg"
   }
 ]
