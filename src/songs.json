@@ -705,5 +705,166 @@
     "categories": ["Pop", "Pop 20s"],
     "snippet": "/songs/pop/nonsense.mp3",
     "cover": "/songs/covers/emails.jpg"
+  },
+  {
+    "title": "Feather",
+    "artist": "Sabrina Carpenter",
+    "categories": ["Pop", "Pop 20s"],
+    "snippet": "/songs/pop/feather.mp3",
+    "cover": "/songs/covers/emails2.jpg"
+  },
+  {
+    "title": "Pink Pony Club",
+    "artist": "Chappell Roan",
+    "categories": ["Pop", "Pop 20s"],
+    "snippet": "/songs/pop/pink_pony.mp3",
+    "cover": "/songs/covers/princess.jpg"
+  },
+  {
+    "title": "Hot To Go!",
+    "artist": "Chappell Roan",
+    "categories": ["Pop", "Pop 20s"],
+    "snippet": "/songs/pop/hot_go.mp3",
+    "cover": "/songs/covers/princess.jpg"
+  },
+  {
+    "title": "Good Luck, Babe!",
+    "artist": "Chappell Roan",
+    "categories": ["Pop", "Pop 20s"],
+    "snippet": "/songs/pop/good_luck_babe.mp3",
+    "cover": "/songs/covers/goodluck.jpg"
+  },
+  {
+    "title": "You Broke Me First",
+    "artist": "Tate McRae",
+    "categories": ["Pop", "Pop 20s"],
+    "snippet": "/songs/pop/you_broke_first.mp3",
+    "cover": "/songs/covers/youbroke.jpg"
+  },
+  {
+    "title": "She's All I Wanna Be",
+    "artist": "Tate McRae",
+    "categories": ["Pop", "Pop 20s"],
+    "snippet": "/songs/pop/shes_all.mp3",
+    "cover": "/songs/covers/ithinkfly.jpg"
+  },
+  {
+    "title": "Revolving Door",
+    "artist": "Tate McRae",
+    "categories": ["Pop", "Pop 20s"],
+    "snippet": "/songs/pop/revolving_door.mp3",
+    "cover": "/songs/covers/so_close_to_what.jpg"
+  },
+  {
+    "title": "It's Ok I'm Ok",
+    "artist": "Tate McRae",
+    "categories": ["Pop", "Pop 20s"],
+    "snippet": "/songs/pop/its_ok.mp3",
+    "cover": "/songs/covers/so_close_to_what.jpg"
+  },
+  {
+    "title": "Just Keep Watching",
+    "artist": "Tate McRae",
+    "categories": ["Pop", "Pop 20s"],
+    "snippet": "/songs/pop/just_watching.mp3",
+    "cover": "/songs/covers/f1.jpg"
+  },
+  {
+    "title": "Money Trees",
+    "artist": "Kendrick Lamar",
+    "categories": ["Rap", "Rap 10s"],
+    "snippet": "/songs/pop/money_trees.mp3",
+    "cover": "/songs/covers/gkmd.jpg"
+  },
+  {
+    "title": "Happier Than Ever",
+    "artist": "Billie Eilish",
+    "categories": ["Pop", "Pop 20s"],
+    "snippet": "/songs/pop/happier_than.mp3",
+    "cover": "/songs/covers/happierthan.jpg"
+  },
+  {
+    "title": "Therefore I Am",
+    "artist": "Billie Eilish",
+    "categories": ["Pop", "Pop 20s"],
+    "snippet": "/songs/pop/therefore.mp3",
+    "cover": "/songs/covers/happierthan.jpg"
+  },
+  {
+    "title": "You Should See Me In A Crown",
+    "artist": "Billie Eilish",
+    "categories": ["Pop", "Pop 10s"],
+    "snippet": "/songs/pop/you_should_see.mp3",
+    "cover": "/songs/covers/when_we_all_fall.jpg"
+  },
+  {
+    "title": "When The Party's Over",
+    "artist": "Billie Eilish",
+    "categories": ["Pop", "Pop 10s"],
+    "snippet": "/songs/pop/when_partys.mp3",
+    "cover": "/songs/covers/when_we_all_fall.jpg"
+  },
+  {
+    "title": "Bury A Friend",
+    "artist": "Billie Eilish",
+    "categories": ["Pop", "Pop 10s"],
+    "snippet": "/songs/pop/bury_friend.mp3",
+    "cover": "/songs/covers/when_we_all_fall.jpg"
+  },
+  {
+    "title": "Everything I Wanted",
+    "artist": "Billie Eilish",
+    "categories": ["Pop", "Pop 10s"],
+    "snippet": "/songs/pop/everything_wanted.mp3",
+    "cover": "/songs/covers/everythingwanted.jpg"
+  },
+  {
+    "title": "Lovely",
+    "artist": "Billie Eilish",
+    "categories": ["Pop", "Pop 10s"],
+    "snippet": "/songs/pop/lovely.mp3",
+    "cover": "/songs/covers/lovely.jpg"
+  },
+  {
+    "title": "What Was I Made For",
+    "artist": "Billie Eilish",
+    "categories": ["Pop", "Pop 20s"],
+    "snippet": "/songs/pop/what_was_made.mp3",
+    "cover": "/songs/covers/whatwasmade.jpg"
+  },
+  {
+    "title": "Ocean Eyes",
+    "artist": "Billie Eilish",
+    "categories": ["Pop", "Pop 10s"],
+    "snippet": "/songs/pop/ocean_eyes.mp3",
+    "cover": "/songs/covers/dontsmile.jpg"
+  },
+  {
+    "title": "Rockstar",
+    "artist": "Lisa",
+    "categories": ["Pop", "Pop 20s", "Rap", "Rap 20s"],
+    "snippet": "/songs/pop/rockstar_l.mp3",
+    "cover": "/songs/covers/alterego.jpg"
+  },
+  {
+    "title": "Born Again",
+    "artist": "Lisa",
+    "categories": ["Pop", "Pop 20s"],
+    "snippet": "/songs/pop/born_again.mp3",
+    "cover": "/songs/covers/alterego.jpg"
+  },
+  {
+    "title": "Money",
+    "artist": "Lisa",
+    "categories": ["Pop", "Pop 20s", "Rap", "Rap 20s"],
+    "snippet": "/songs/pop/money.mp3",
+    "cover": "/songs/covers/lisa.jpg"
+  },
+  {
+    "title": "Lalisa",
+    "artist": "Lisa",
+    "categories": ["Pop", "Pop 20s", "Rap", "Rap 20s"],
+    "snippet": "/songs/pop/lalisa.mp3",
+    "cover": "/songs/covers/lisa.jpg"
   }
 ]
