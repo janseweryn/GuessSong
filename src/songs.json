@@ -773,7 +773,7 @@
     "title": "Money Trees",
     "artist": "Kendrick Lamar",
     "categories": ["Rap", "Rap 10s"],
-    "snippet": "/songs/pop/money_trees.mp3",
+    "snippet": "/songs/rap/money_trees.mp3",
     "cover": "/songs/covers/gkmd.jpg"
   },
   {
@@ -866,5 +866,341 @@
     "categories": ["Pop", "Pop 20s", "Rap", "Rap 20s"],
     "snippet": "/songs/pop/lalisa.mp3",
     "cover": "/songs/covers/lisa.jpg"
+  },
+  {
+    "title": "Bellyache",
+    "artist": "Billie Eilish",
+    "categories": ["Pop", "Pop 10s"],
+    "snippet": "/songs/pop/bellyache.mp3",
+    "cover": "/songs/covers/dontsmile.jpg"
+  },
+  {
+    "title": "Like Jennie",
+    "artist": "Jennie",
+    "categories": ["Pop", "Pop 20s"],
+    "snippet": "/songs/pop/jennie.mp3",
+    "cover": "/songs/covers/ruby.jpg"
+  },
+  {
+    "title": "Mantra",
+    "artist": "Jennie",
+    "categories": ["Pop", "Pop 20s"],
+    "snippet": "/songs/pop/mantra.mp3",
+    "cover": "/songs/covers/ruby.jpg"
+  },
+  {
+    "title": "Solo",
+    "artist": "Jennie",
+    "categories": ["Pop", "Pop 10s"],
+    "snippet": "/songs/pop/solo.mp3",
+    "cover": "/songs/covers/solo.jpg"
+  },
+  {
+    "title": "Ride or Die",
+    "artist": "Anixto",
+    "categories": ["Pop", "Pop 20s"],
+    "snippet": "/songs/pop/ride_die.mp3",
+    "cover": "/songs/covers/hymn.jpg"
+  },
+  {
+    "title": "P*rnstar",
+    "artist": "Nessa Barrett",
+    "categories": ["Pop", "Pop 20s"],
+    "snippet": "/songs/pop/pornstar.mp3",
+    "cover": "/songs/covers/aftercare.jpg"
+  },
+  {
+    "title": "Die First",
+    "artist": "Nessa Barrett",
+    "categories": ["Pop", "Pop 20s"],
+    "snippet": "/songs/pop/die_first.mp3",
+    "cover": "/songs/covers/youngforever.jpg"
+  },
+  {
+    "title": "Can You Feel My Heart",
+    "artist": "Bring Me The Horizon",
+    "categories": ["Rock", "Rock 10s"],
+    "snippet": "/songs/rock/can_you_feel.mp3",
+    "cover": "/songs/covers/sempti.jpg"
+  },
+  {
+    "title": "Sleepwalking",
+    "artist": "Bring Me The Horizon",
+    "categories": ["Rock", "Rock 10s"],
+    "snippet": "/songs/rock/sleepwalking.mp3",
+    "cover": "/songs/covers/sempti.jpg"
+  },
+  {
+    "title": "Throne",
+    "artist": "Bring Me The Horizon",
+    "categories": ["Rock", "Rock 10s"],
+    "snippet": "/songs/rock/throne.mp3",
+    "cover": "/songs/covers/spirit.jpg"
+  },
+  {
+    "title": "Drown",
+    "artist": "Bring Me The Horizon",
+    "categories": ["Rock", "Rock 10s"],
+    "snippet": "/songs/rock/drown.mp3",
+    "cover": "/songs/covers/spirit.jpg"
+  },
+  {
+    "title": "Kingslayer",
+    "artist": "Bring Me The Horizon ft. Babymetal",
+    "categories": ["Rock", "Rock 20s"],
+    "snippet": "/songs/rock/kingslayer.mp3",
+    "cover": "/songs/covers/posthuman.jpg"
+  },
+  {
+    "title": "DArkSide",
+    "artist": "Bring Me The Horizon",
+    "categories": ["Rock", "Rock 20s"],
+    "snippet": "/songs/rock/darkside.mp3",
+    "cover": "/songs/covers/posthuman.jpg"
+  },
+  {
+    "title": "Problem",
+    "artist": "Ariana Grande ft. Iggy Azalea",
+    "categories": ["Pop", "Pop 10s"],
+    "snippet": "/songs/pop/problem.mp3",
+    "cover": "/songs/covers/everything.jpg"
+  },
+  {
+    "title": "One Last Time",
+    "artist": "Ariana Grande",
+    "categories": ["Pop", "Pop 10s"],
+    "snippet": "/songs/pop/one_last_time.mp3",
+    "cover": "/songs/covers/everything.jpg"
+  },
+  {
+    "title": "Break Free",
+    "artist": "Ariana Grande ft. Zedd",
+    "categories": ["Pop", "Pop 10s"],
+    "snippet": "/songs/pop/break_free.mp3",
+    "cover": "/songs/covers/everything.jpg"
+  },
+  {
+    "title": "Dangerous Woman",
+    "artist": "Ariana Grande",
+    "categories": ["Pop", "Pop 10s"],
+    "snippet": "/songs/pop/dangerous_woman.mp3",
+    "cover": "/songs/covers/woman.jpg"
+  },
+  {
+    "title": "Into You",
+    "artist": "Ariana Grande",
+    "categories": ["Pop", "Pop 10s"],
+    "snippet": "/songs/pop/into_you.mp3",
+    "cover": "/songs/covers/woman.jpg"
+  },
+  {
+    "title": "Side to Side",
+    "artist": "Ariana Grande ft. Nicki Minaj",
+    "categories": ["Pop", "Pop 10s"],
+    "snippet": "/songs/pop/side_to_side.mp3",
+    "cover": "/songs/covers/woman.jpg"
+  },
+  {
+    "title": "God Is A Woman",
+    "artist": "Ariana Grande",
+    "categories": ["Pop", "Pop 10s"],
+    "snippet": "/songs/pop/god_woman.mp3",
+    "cover": "/songs/covers/sweet.jpg"
+  },
+  {
+    "title": "No Tears Left To Cry",
+    "artist": "Ariana Grande",
+    "categories": ["Pop", "Pop 10s"],
+    "snippet": "/songs/pop/tears_left.mp3",
+    "cover": "/songs/covers/sweet.jpg"
+  },
+  {
+    "title": "7 rings",
+    "artist": "Ariana Grande",
+    "categories": ["Pop", "Pop 10s"],
+    "snippet": "/songs/pop/7rings.mp3",
+    "cover": "/songs/covers/thanku.jpg"
+  },
+  {
+    "title": "Thank u, next",
+    "artist": "Ariana Grande",
+    "categories": ["Pop", "Pop 10s"],
+    "snippet": "/songs/pop/thank_next.mp3",
+    "cover": "/songs/covers/thanku.jpg"
+  },
+  {
+    "title": "Break Up With Your Girlfriend, I'm Bored",
+    "artist": "Ariana Grande",
+    "categories": ["Pop", "Pop 10s"],
+    "snippet": "/songs/pop/break_up_bored.mp3",
+    "cover": "/songs/covers/thanku.jpg"
+  },
+  {
+    "title": "Positions",
+    "artist": "Ariana Grande",
+    "categories": ["Pop", "Pop 20s"],
+    "snippet": "/songs/pop/positions.mp3",
+    "cover": "/songs/covers/positions.jpg"
+  },
+  {
+    "title": "We Can't Be Friends",
+    "artist": "Ariana Grande",
+    "categories": ["Pop", "Pop 20s"],
+    "snippet": "/songs/pop/we_cant_friends.mp3",
+    "cover": "/songs/covers/eternal.jpg"
+  },
+  {
+    "title": "Born To Die",
+    "artist": "Lana Del Rey",
+    "categories": ["Pop", "Pop 10s"],
+    "snippet": "/songs/pop/born_die.mp3",
+    "cover": "/songs/covers/borndie.jpg"
+  },
+  {
+    "title": "Summertime Sandness",
+    "artist": "Lana Del Rey",
+    "categories": ["Pop", "Pop 10s"],
+    "snippet": "/songs/pop/zamiataj_sedes.mp3",
+    "cover": "/songs/covers/borndie.jpg"
+  },
+  {
+    "title": "Video Games",
+    "artist": "Lana Del Rey",
+    "categories": ["Pop", "Pop 10s"],
+    "snippet": "/songs/pop/video_games.mp3",
+    "cover": "/songs/covers/borndie.jpg"
+  },
+  {
+    "title": "Brooklyn Baby",
+    "artist": "Lana Del Rey",
+    "categories": ["Pop", "Pop 10s"],
+    "snippet": "/songs/pop/brooklyn_baby.mp3",
+    "cover": "/songs/covers/ultra.jpg"
+  },
+  {
+    "title": "West Coast",
+    "artist": "Lana Del Rey",
+    "categories": ["Pop", "Pop 10s"],
+    "snippet": "/songs/pop/west_coast.mp3",
+    "cover": "/songs/covers/ultra.jpg"
+  },
+  {
+    "title": "Lust For Life",
+    "artist": "Lana Del Rey ft. The Weeknd",
+    "categories": ["Pop", "Pop 10s"],
+    "snippet": "/songs/pop/lust_life.mp3",
+    "cover": "/songs/covers/lustlife.jpg"
+  },
+  {
+    "title": "Doin Time",
+    "artist": "Lana Del Rey",
+    "categories": ["Pop", "Pop 10s"],
+    "snippet": "/songs/pop/doin_time.mp3",
+    "cover": "/songs/covers/norman.jpg"
+  },
+  {
+    "title": "Cinnamon Girl",
+    "artist": "Lana Del Rey",
+    "categories": ["Pop", "Pop 10s"],
+    "snippet": "/songs/pop/cinnamon_girl.mp3",
+    "cover": "/songs/covers/norman.jpg"
+  },
+  {
+    "title": "Illegal",
+    "artist": "PinkPantheress",
+    "categories": ["Pop", "Pop 20s"],
+    "snippet": "/songs/pop/illegal.mp3",
+    "cover": "/songs/covers/fancy.jpg"
+  },
+  {
+    "title": "Pain",
+    "artist": "PinkPantheress",
+    "categories": ["Pop", "Pop 20s"],
+    "snippet": "/songs/pop/pain.mp3",
+    "cover": "/songs/covers/hell.jpg"
+  },
+  {
+    "title": "Boy's a Liar pt. 2",
+    "artist": "PinkPantheress ft. Ice Spice",
+    "categories": ["Pop", "Pop 20s"],
+    "snippet": "/songs/pop/boys_liar.mp3",
+    "cover": "/songs/covers/heavenknow.jpg"
+  },
+  {
+    "title": "Lovers Rock",
+    "artist": "TV Girl",
+    "categories": ["Pop", "Pop 10s"],
+    "snippet": "/songs/pop/lovers_rock.mp3",
+    "cover": "/songs/covers/french.jpg"
+  },
+  {
+    "title": "Cigarettes Out Of Window",
+    "artist": "TV Girl",
+    "categories": ["Pop", "Pop 10s"],
+    "snippet": "/songs/pop/cigarettes_window.mp3",
+    "cover": "/songs/covers/reallycares.jpg"
+  },
+  {
+    "title": "Not Allowed",
+    "artist": "TV Girl",
+    "categories": ["Pop", "Pop 10s"],
+    "snippet": "/songs/pop/not_allowed.mp3",
+    "cover": "/songs/covers/reallycares.jpg"
+  },
+  {
+    "title": "Cold Heart",
+    "artist": "Elton John ft. Dua Lipa, PNAU",
+    "categories": ["Pop", "Pop 20s"],
+    "snippet": "/songs/pop/cold_heart.mp3",
+    "cover": "/songs/covers/coldheart.jpg"
+  },
+  {
+    "title": "Don't Start Now",
+    "artist": "Dua Lipa",
+    "categories": ["Pop", "Pop 10s"],
+    "snippet": "/songs/pop/dont_start_now.mp3",
+    "cover": "/songs/covers/nostalgia.jpg"
+  },
+  {
+    "title": "Levitating",
+    "artist": "Dua Lipa",
+    "categories": ["Pop", "Pop 20s"],
+    "snippet": "/songs/pop/levitating.mp3",
+    "cover": "/songs/covers/nostalgia.jpg"
+  },
+  {
+    "title": "Break My Heart",
+    "artist": "Dua Lipa",
+    "categories": ["Pop", "Pop 20s"],
+    "snippet": "/songs/pop/break_heart.mp3",
+    "cover": "/songs/covers/nostalgia.jpg"
+  },
+  {
+    "title": "Dance The Night",
+    "artist": "Dua Lipa",
+    "categories": ["Pop", "Pop 20s"],
+    "snippet": "/songs/pop/dance_night.mp3",
+    "cover": "/songs/covers/barbie.jpg"
+  },
+  {
+    "title": "New Rules",
+    "artist": "Dua Lipa",
+    "categories": ["Pop", "Pop 10s"],
+    "snippet": "/songs/pop/new_rules.mp3",
+    "cover": "/songs/covers/lipa.jpg"
+  },
+  {
+    "title": "IDGAF",
+    "artist": "Dua Lipa",
+    "categories": ["Pop", "Pop 10s"],
+    "snippet": "/songs/pop/idgaf.mp3",
+    "cover": "/songs/covers/lipa.jpg"
+  },
+  {
+    "title": "Houdini",
+    "artist": "Dua Lipa",
+    "categories": ["Pop", "Pop 20s"],
+    "snippet": "/songs/pop/houdini_d.mp3",
+    "cover": "/songs/covers/radical.jpg"
   }
 ]
