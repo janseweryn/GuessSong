@@ -1328,5 +1328,12 @@
     "categories": ["Rock", "Rock 80s"],
     "snippet": "/songs/rock/lullaby.mp3",
     "cover": "/songs/covers/disint.jpg"
+  },
+  {
+    "title": "Jump",
+    "artist": "Blackpink",
+    "categories": ["Pop", "Pop 20s"],
+    "snippet": "/songs/pop/jump.mp3",
+    "cover": "/songs/covers/junmp.jpg"
   }
 ]
