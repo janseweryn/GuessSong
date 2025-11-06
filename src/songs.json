@@ -126,8 +126,8 @@
     "cover": "/songs/covers/guts.jpg"
   },
   {
-    "title": "Just Dance",
-    "artist": "Lady Gaga ft. Colby O'Donis",
+    "title": "Just Dance (feat. Colby O'Donis)",
+    "artist": "Lady Gaga",
     "categories": ["Pop", "Pop 00s"],
     "snippet": "/songs/pop/just_dance.mp3",
     "cover": "/songs/covers/fame.jpg"
@@ -161,8 +161,8 @@
     "cover": "/songs/covers/fame.jpg"
   },
   {
-    "title": "Telephone",
-    "artist": "Lady Gaga ft. Beyonce",
+    "title": "Telephone (feat. Beyoncé)",
+    "artist": "Lady Gaga",
     "categories": ["Pop", "Pop 00s"],
     "snippet": "/songs/pop/telephone.mp3",
     "cover": "/songs/covers/fame.jpg"
@@ -189,7 +189,7 @@
     "cover": "/songs/covers/letgo.jpg"
   },
   {
-    "title": "Girlfriend",
+    "title": "Girlfriend (Radio Edit)",
     "artist": "Avril Lavigne",
     "categories": ["Pop", "Pop 00s", "Rock", "Rock 00s"],
     "snippet": "/songs/pop/girlfriend.mp3",
@@ -203,15 +203,15 @@
     "cover": "/songs/covers/glullaby.jpg"
   },
   {
-    "title": "Outside",
-    "artist": "Calvin Harris ft. Ellie Goulding",
+    "title": "Outside (feat. Ellie Goulding)",
+    "artist": "Calvin Harris",
     "categories": ["Pop", "Pop 10s"],
     "snippet": "/songs/pop/outside.mp3",
     "cover": "/songs/covers/motion.jpg"
   },
   {
-    "title": "Blame",
-    "artist": "Calvin Harris ft. John Newman",
+    "title": "Blame (feat. John Newman)",
+    "artist": "Calvin Harris",
     "categories": ["Pop", "Pop 10s"],
     "snippet": "/songs/pop/blame.mp3",
     "cover": "/songs/covers/motion.jpg"
@@ -225,21 +225,21 @@
   },
   {
     "title": "This Is What You Came For",
-    "artist": "Calvin Harris ft. Rihanna",
+    "artist": "Calvin Harris & Rihanna",
     "categories": ["Pop", "Pop 10s"],
     "snippet": "/songs/pop/came_for.mp3",
     "cover": "/songs/covers/24.jpg"
   },
   {
     "title": "One Kiss",
-    "artist": "Calvin Harris ft. Dua Lipa",
+    "artist": "Calvin Harris, Dua Lipa",
     "categories": ["Pop", "Pop 10s"],
     "snippet": "/songs/pop/one_kiss.mp3",
     "cover": "/songs/covers/24.jpg"
   },
   {
     "title": "How Deep Is Your Love",
-    "artist": "Calvin Harris ft. Disciples",
+    "artist": "Calvin Harris, Disciples",
     "categories": ["Pop", "Pop 10s"],
     "snippet": "/songs/pop/deep_love.mp3",
     "cover": "/songs/covers/24.jpg"
@@ -253,7 +253,7 @@
   },
   {
     "title": "Hate Me",
-    "artist": "Ellie Goulding ft. Juice WRLD",
+    "artist": "Ellie Goulding & Juice WRLD",
     "categories": ["Pop", "Pop 10s"],
     "snippet": "/songs/pop/hate_me.mp3",
     "cover": "/songs/covers/blue.jpg"
@@ -308,36 +308,36 @@
     "cover": "/songs/covers/virgin.jpg"
   },
   {
-    "title": "Can't Hold Us",
-    "artist": "Macklemore ft. Ryan Lewis",
+    "title": "Can't Hold Us (feat. Ryan Dalton)",
+    "artist": "Macklemore & Ryan Lewis",
     "categories": ["Pop", "Pop 10s"],
     "snippet": "/songs/pop/cant_hold.mp3",
     "cover": "/songs/covers/heist.jpg"
   },
   {
-    "title": "Thrift Shop",
-    "artist": "Macklemore ft. Ryan Lewis",
+    "title": "Thrift Shop (feat. Wanz)",
+    "artist": "Macklemore & Ryan Lewis",
     "categories": ["Pop", "Pop 10s"],
     "snippet": "/songs/pop/thrift.mp3",
     "cover": "/songs/covers/heist.jpg"
   },
   {
     "title": "Time of Our Lives",
-    "artist": "Pitbull ft. Ne-Yo",
+    "artist": "Pitbull & Ne-Yo",
     "categories": ["Pop", "Pop 10s"],
     "snippet": "/songs/pop/time_of_lives.mp3",
     "cover": "/songs/covers/globalization.jpg"
   },
   {
     "title": "Timber",
-    "artist": "Pitbull ft. Ke$ha",
+    "artist": "Pitbull & Ke$ha",
     "categories": ["Pop", "Pop 10s"],
     "snippet": "/songs/pop/timber.mp3",
     "cover": "/songs/covers/globalwarn.jpg"
   },
   {
-    "title": "International Love",
-    "artist": "Pitbull ft. Chris Brown",
+    "title": "International Love (feat. Chris Brown)",
+    "artist": "Pitbull",
     "categories": ["Pop", "Pop 10s"],
     "snippet": "/songs/pop/international.mp3",
     "cover": "/songs/covers/pit.jpg"
@@ -350,22 +350,22 @@
     "cover": "/songs/covers/pitbull.jpg"
   },
   {
-    "title": "Feel This Moment",
-    "artist": "Pitbull ft. Christina Aguilera",
+    "title": "Feel This Moment (feat. Christina Aguilera)",
+    "artist": "Pitbull",
     "categories": ["Pop", "Pop 10s"],
     "snippet": "/songs/pop/feel_this_moment.mp3",
     "cover": "/songs/covers/globalwarn.jpg"
   },
   {
-    "title": "Fireball",
-    "artist": "Pitbull ft. John Ryan",
+    "title": "Fireball (feat. John Ryan) ",
+    "artist": "Pitbull",
     "categories": ["Pop", "Pop 10s"],
     "snippet": "/songs/pop/fireball.mp3",
     "cover": "/songs/covers/globalization.jpg"
   },
   {
-    "title": "Hey Baby",
-    "artist": "Pitbull ft. T-Pain",
+    "title": "Hey Baby (Drop It To The Floor) [feat. T-Pain]",
+    "artist": "Pitbull",
     "categories": ["Pop", "Pop 10s"],
     "snippet": "/songs/pop/hey_baby.mp3",
     "cover": "/songs/covers/pit.jpg"
@@ -518,14 +518,7 @@
     "cover": "/songs/covers/onelight.jpg"
   },
   {
-    "title": "Heavy",
-    "artist": "Linkin Park",
-    "categories": ["Rock", "Rock 10s"],
-    "snippet": "/songs/rock/heavy.mp3",
-    "cover": "/songs/covers/onelight.jpg"
-  },
-  {
-    "title": "The Emptiness Machine",
+    "title": "The Emptiness Machine (Instrumental)",
     "artist": "Linkin Park",
     "categories": ["Rock", "Rock 20s"],
     "snippet": "/songs/rock/emptiness_machine.mp3",
@@ -567,15 +560,15 @@
     "cover": "/songs/covers/teenagedream.jpg"
   },
   {
-    "title": "Last Friday Night",
+    "title": "Last Friday Night (T.G.I.F.)",
     "artist": "Katy Perry",
     "categories": ["Pop", "Pop 10s"],
     "snippet": "/songs/pop/last_friday.mp3",
     "cover": "/songs/covers/teenagedream.jpg"
   },
   {
-    "title": "California Gurls",
-    "artist": "Katy Perry ft. Snoop Dogg",
+    "title": "California Gurls (feat. Snoop Dogg)",
+    "artist": "Katy Perry",
     "categories": ["Pop", "Pop 10s"],
     "snippet": "/songs/pop/california_gurls.mp3",
     "cover": "/songs/covers/teenagedream.jpg"
@@ -623,15 +616,15 @@
     "cover": "/songs/covers/prism.jpg"
   },
   {
-    "title": "Dark Horse",
-    "artist": "Katy Perry ft. Juicy J",
+    "title": "Dark Horse (feat. Juicy J)",
+    "artist": "Katy Perry",
     "categories": ["Pop", "Pop 10s"],
     "snippet": "/songs/pop/dark_horse.mp3",
     "cover": "/songs/covers/prism.jpg"
   },
   {
-    "title": "Chained To The Rhythm",
-    "artist": "Katy Perry ft. Skip Marley",
+    "title": "Chained To The Rhythm (feat. Skip Marley)",
+    "artist": "Katy Perry",
     "categories": ["Pop", "Pop 10s"],
     "snippet": "/songs/pop/chained_rhythm.mp3",
     "cover": "/songs/covers/witness.jpg"
@@ -666,35 +659,35 @@
   },
   {
     "title": "Von Dutch",
-    "artist": "Charli XCX",
+    "artist": "Charli xcx",
     "categories": ["Pop", "Pop 20s"],
     "snippet": "/songs/pop/von_dutch.mp3",
     "cover": "/songs/covers/brat.jpg"
   },
   {
     "title": "Apple",
-    "artist": "Charli XCX",
+    "artist": "Charli xcx",
     "categories": ["Pop", "Pop 20s"],
     "snippet": "/songs/pop/apple.mp3",
     "cover": "/songs/covers/brat.jpg"
   },
   {
     "title": "360",
-    "artist": "Charli XCX",
+    "artist": "Charli xcx",
     "categories": ["Pop", "Pop 20s"],
     "snippet": "/songs/pop/360.mp3",
     "cover": "/songs/covers/brat.jpg"
   },
   {
-    "title": "Girl, so confusing",
-    "artist": "Charli XCX ft. Lorde",
+    "title": "Girl, so confusing (feat. Lorde)",
+    "artist": "Charli xcx & Lorde",
     "categories": ["Pop", "Pop 20s"],
     "snippet": "/songs/pop/girl_confusing.mp3",
     "cover": "/songs/covers/brat2.jpg"
   },
   {
-    "title": "Guess",
-    "artist": "Charli XCX ft. Billie Eilish",
+    "title": "Guess featuring Billie Eilish",
+    "artist": "Charli xcx & Billie Eilish",
     "categories": ["Pop", "Pop 20s"],
     "snippet": "/songs/pop/guess.mp3",
     "cover": "/songs/covers/brat2.jpg"
@@ -770,7 +763,7 @@
     "cover": "/songs/covers/f1.jpg"
   },
   {
-    "title": "Money Trees",
+    "title": "Money Trees (feat. Jay Rock)",
     "artist": "Kendrick Lamar",
     "categories": ["Rap", "Rap 10s"],
     "snippet": "/songs/rap/money_trees.mp3",
@@ -820,7 +813,7 @@
   },
   {
     "title": "Lovely",
-    "artist": "Billie Eilish",
+    "artist": "Billie Eilish & Khalid",
     "categories": ["Pop", "Pop 10s"],
     "snippet": "/songs/pop/lovely.mp3",
     "cover": "/songs/covers/lovely.jpg"
@@ -847,7 +840,7 @@
     "cover": "/songs/covers/alterego.jpg"
   },
   {
-    "title": "Born Again",
+    "title": "Born Again (feat. Doja Cat & RAYE)",
     "artist": "Lisa",
     "categories": ["Pop", "Pop 20s"],
     "snippet": "/songs/pop/born_again.mp3",
@@ -903,13 +896,6 @@
     "cover": "/songs/covers/hymn.jpg"
   },
   {
-    "title": "P*rnstar",
-    "artist": "Nessa Barrett",
-    "categories": ["Pop", "Pop 20s"],
-    "snippet": "/songs/pop/pornstar.mp3",
-    "cover": "/songs/covers/aftercare.jpg"
-  },
-  {
     "title": "Die First",
     "artist": "Nessa Barrett",
     "categories": ["Pop", "Pop 20s"],
@@ -945,22 +931,15 @@
     "cover": "/songs/covers/spirit.jpg"
   },
   {
-    "title": "Kingslayer",
-    "artist": "Bring Me The Horizon ft. Babymetal",
+    "title": "Kingslayer (feat. BABYMETAL)",
+    "artist": "Bring Me The Horizon",
     "categories": ["Rock", "Rock 20s"],
     "snippet": "/songs/rock/kingslayer.mp3",
     "cover": "/songs/covers/posthuman.jpg"
   },
   {
-    "title": "DArkSide",
-    "artist": "Bring Me The Horizon",
-    "categories": ["Rock", "Rock 20s"],
-    "snippet": "/songs/rock/darkside.mp3",
-    "cover": "/songs/covers/posthuman.jpg"
-  },
-  {
-    "title": "Problem",
-    "artist": "Ariana Grande ft. Iggy Azalea",
+    "title": "Problem (feat. Iggy Azalea)",
+    "artist": "Ariana Grande",
     "categories": ["Pop", "Pop 10s"],
     "snippet": "/songs/pop/problem.mp3",
     "cover": "/songs/covers/everything.jpg"
@@ -973,8 +952,8 @@
     "cover": "/songs/covers/everything.jpg"
   },
   {
-    "title": "Break Free",
-    "artist": "Ariana Grande ft. Zedd",
+    "title": "Break Free (feat. Zedd)",
+    "artist": "Ariana Grande",
     "categories": ["Pop", "Pop 10s"],
     "snippet": "/songs/pop/break_free.mp3",
     "cover": "/songs/covers/everything.jpg"
@@ -994,8 +973,8 @@
     "cover": "/songs/covers/woman.jpg"
   },
   {
-    "title": "Side to Side",
-    "artist": "Ariana Grande ft. Nicki Minaj",
+    "title": "Side to Side (feat. Nicki Minaj)",
+    "artist": "Ariana Grande",
     "categories": ["Pop", "Pop 10s"],
     "snippet": "/songs/pop/side_to_side.mp3",
     "cover": "/songs/covers/woman.jpg"
@@ -1043,7 +1022,7 @@
     "cover": "/songs/covers/positions.jpg"
   },
   {
-    "title": "We Can't Be Friends",
+    "title": "We Can't Be Friends (wait for your love)",
     "artist": "Ariana Grande",
     "categories": ["Pop", "Pop 20s"],
     "snippet": "/songs/pop/we_cant_friends.mp3",
@@ -1085,14 +1064,14 @@
     "cover": "/songs/covers/ultra.jpg"
   },
   {
-    "title": "Lust For Life",
-    "artist": "Lana Del Rey ft. The Weeknd",
+    "title": "Lust For Life (feat. The Weeknd)",
+    "artist": "Lana Del Rey",
     "categories": ["Pop", "Pop 10s"],
     "snippet": "/songs/pop/lust_life.mp3",
     "cover": "/songs/covers/lustlife.jpg"
   },
   {
-    "title": "Doin Time",
+    "title": "Doin' Time",
     "artist": "Lana Del Rey",
     "categories": ["Pop", "Pop 10s"],
     "snippet": "/songs/pop/doin_time.mp3",
@@ -1120,8 +1099,8 @@
     "cover": "/songs/covers/hell.jpg"
   },
   {
-    "title": "Boy's a Liar pt. 2",
-    "artist": "PinkPantheress ft. Ice Spice",
+    "title": "Boy's a Liar",
+    "artist": "PinkPantheress",
     "categories": ["Pop", "Pop 20s"],
     "snippet": "/songs/pop/boys_liar.mp3",
     "cover": "/songs/covers/heavenknow.jpg"
@@ -1141,15 +1120,8 @@
     "cover": "/songs/covers/reallycares.jpg"
   },
   {
-    "title": "Not Allowed",
-    "artist": "TV Girl",
-    "categories": ["Pop", "Pop 10s"],
-    "snippet": "/songs/pop/not_allowed.mp3",
-    "cover": "/songs/covers/reallycares.jpg"
-  },
-  {
-    "title": "Cold Heart",
-    "artist": "Elton John ft. Dua Lipa, PNAU",
+    "title": "Cold Heart (PNAU Remix)",
+    "artist": "Elton John & Dua Lipa",
     "categories": ["Pop", "Pop 20s"],
     "snippet": "/songs/pop/cold_heart.mp3",
     "cover": "/songs/covers/coldheart.jpg"
@@ -1267,8 +1239,8 @@
     "cover": "/songs/covers/howim.jpg"
   },
   {
-    "title": "I Love it",
-    "artist": "Icona Pop ft. Charli XCX",
+    "title": "I Love it (feat. Charli XCX)",
+    "artist": "Icona Pop",
     "categories": ["Pop", "Pop 10s"],
     "snippet": "/songs/pop/i_love_it.mp3",
     "cover": "/songs/covers/loveit.jpg"
@@ -1282,13 +1254,13 @@
   },
   {
     "title": "1999",
-    "artist": "Charli XCX ft. Troye Sivan",
+    "artist": "Charli xcx & Troye Sivan",
     "categories": ["Pop", "Pop 20s"],
     "snippet": "/songs/pop/1999.mp3",
     "cover": "/songs/covers/1999.jpg"
   },
   {
-    "title": "Boys Don't Cry",
+    "title": "Boys Don't Cry (Single Version)",
     "artist": "The Cure",
     "categories": ["Rock", "Rock 70s"],
     "snippet": "/songs/rock/boys_dont_cry.mp3",

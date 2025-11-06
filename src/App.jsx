@@ -17,6 +17,7 @@ const CATEGORY_NAMES = {
   all: "All",
   pop: "Pop",
   rock: "Rock",
+  rap: "Rap",
 };
 
 export default function App() {
@@ -32,7 +33,7 @@ export default function App() {
   const [canReplayFull, setCanReplayFull] = useState(false);
   const [fullPlayTime, setFullPlayTime] = useState(0);
   const [isFullPlaying, setIsFullPlaying] = useState(false);
-  const [wrongAnswers, setWrongAnswers] = useState([]); // 🟡 lista błędnych odpowiedzi
+  const [wrongAnswers, setWrongAnswers] = useState([]);
 
   const audioRef = useRef(null);
   const intervalRef = useRef(null);
@@ -59,7 +60,7 @@ export default function App() {
     setCanReplayFull(false);
     setFullPlayTime(0);
     setIsFullPlaying(false);
-    setWrongAnswers([]); // 🔄 reset błędnych odpowiedzi
+    setWrongAnswers([]);
     clearTimers();
     if (audioRef.current) {
       audioRef.current.pause();
@@ -110,7 +111,6 @@ export default function App() {
     clearTimers();
   };
 
-  // 🧠 Weryfikacja odpowiedzi gracza
   const handleGuess = () => {
     if (!currentSong) return;
     const [guessTitle, guessArtist = ""] = userGuess
@@ -125,7 +125,6 @@ export default function App() {
       setCanReplayFull(true);
       stopSnippet();
     } else {
-      // 🟥 błędna odpowiedź → dodaj do listy
       const artistMatches =
         guessArtist && correctArtist.includes(guessArtist.toLowerCase());
 
@@ -137,7 +136,6 @@ export default function App() {
         },
       ]);
 
-      // automatyczny skip do następnego timestampa
       skipToNext();
     }
 
@@ -197,6 +195,10 @@ export default function App() {
   return (
     <div
       style={{
+        display: "flex",
+        justifyContent: "center",
+        alignItems: "center",
+        flexDirection: "column",
         textAlign: "center",
         padding: 20,
         fontFamily: "sans-serif",
@@ -208,7 +210,7 @@ export default function App() {
       <h1 style={{ fontSize: "2.5rem", marginBottom: 20 }}>🎵 SongGuess 🎵</h1>
 
       {!category ? (
-        <div style={{ marginTop: 40 }}>
+        <div>
           <h2>Wybierz kategorię:</h2>
           <div style={{ marginTop: 20 }}>
             <button onClick={() => selectCategory("all")} style={{ margin: 8 }}>
@@ -219,6 +221,9 @@ export default function App() {
             </button>
             <button onClick={() => selectCategory("rock")} style={{ margin: 8 }}>
               🎸 Rock
+            </button>
+            <button onClick={() => selectCategory("rap")} style={{ margin: 8 }}>
+              🧢 Rap
             </button>
           </div>
         </div>
@@ -274,7 +279,6 @@ export default function App() {
                     </button>
                   </div>
 
-                  {/* 🔎 Wyszukiwarka + przycisk */}
                   <div style={{ marginTop: 12, position: "relative" }}>
                     <SearchBar
                       onSelectSong={(title, artist) => {
@@ -295,7 +299,6 @@ export default function App() {
                     </button>
                   </div>
 
-                  {/* 🟥 Wyświetlanie błędnych odpowiedzi */}
                   <div style={{ marginTop: 20 }}>
                     {wrongAnswers.map((ans, i) => (
                       <div
@@ -335,46 +338,41 @@ export default function App() {
                 </>
               )}
 
-              {/* ✅ poprawna odpowiedź */}
-              {isCorrect && (
+              {(isCorrect || gameOver) && (
                 <div style={{ marginTop: 16 }}>
-                  <h2>✅ Correct!</h2>
+                  {isCorrect ? (
+                    <h2>✅ Correct!</h2>
+                  ) : (
+                    <h2 style={{ color: "red" }}>❌ Nie udało się odgadnąć</h2>
+                  )}
                   <p>
                     <strong>Tytuł:</strong> {currentSong.title}
                     <br />
                     <strong>Artysta:</strong> {currentSong.artist}
                   </p>
+
                   {currentSong.cover && (
                     <img
                       src={currentSong.cover}
                       alt="cover"
-                      width={200}
+                      width={220}
                       style={{ borderRadius: 12, marginTop: 10 }}
                     />
                   )}
+
+                  <div style={{ marginTop: 10 }}>
+                    {isFullPlaying ? (
+                      <button onClick={stopFullSong}>⏹ Stop Full Song</button>
+                    ) : (
+                      <button onClick={playFullSong}>▶️ Play Full Song</button>
+                    )}
+                  </div>
+
                   <button
                     onClick={() => startNewSong(filteredSongs)}
-                    style={{ marginTop: 10 }}
+                    style={{ marginTop: 16 }}
                   >
                     Next Song →
-                  </button>
-                </div>
-              )}
-
-              {/* ❌ game over */}
-              {gameOver && !isCorrect && (
-                <div style={{ marginTop: 16 }}>
-                  <h2 style={{ color: "red" }}>❌ Nie udało się odgadnąć</h2>
-                  <p>
-                    <strong>Tytuł:</strong> {currentSong.title}
-                    <br />
-                    <strong>Artysta:</strong> {currentSong.artist}
-                  </p>
-                  <button
-                    onClick={() => startNewSong(filteredSongs)}
-                    style={{ marginTop: 10 }}
-                  >
-                    Try again
                   </button>
                 </div>
               )}
