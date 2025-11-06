@@ -1202,5 +1202,131 @@
     "categories": ["Pop", "Pop 20s"],
     "snippet": "/songs/pop/houdini_d.mp3",
     "cover": "/songs/covers/radical.jpg"
+  },
+  {
+    "title": "Stick Season",
+    "artist": "Noah Kahan",
+    "categories": ["Pop", "Pop 20s"],
+    "snippet": "/songs/pop/stick_season.mp3",
+    "cover": "/songs/covers/noah.jpg"
+  },
+  {
+    "title": "Make You Mine",
+    "artist": "Madison Beer",
+    "categories": ["Pop", "Pop 20s"],
+    "snippet": "/songs/pop/make_mine.mp3",
+    "cover": "/songs/covers/makemine.jpg"
+  },
+  {
+    "title": "Reckless",
+    "artist": "Madison Beer",
+    "categories": ["Pop", "Pop 20s"],
+    "snippet": "/songs/pop/reckless.mp3",
+    "cover": "/songs/covers/silence.jpg"
+  },
+  {
+    "title": "Manchild",
+    "artist": "Sabrina Carpenter",
+    "categories": ["Pop", "Pop 20s"],
+    "snippet": "/songs/pop/manchild.mp3",
+    "cover": "/songs/covers/mansbest.jpg"
+  },
+  {
+    "title": "Tears",
+    "artist": "Sabrina Carpenter",
+    "categories": ["Pop", "Pop 20s"],
+    "snippet": "/songs/pop/tears.mp3",
+    "cover": "/songs/covers/mansbest.jpg"
+  },
+  {
+    "title": "Diet Pepsi",
+    "artist": "Addison Rae",
+    "categories": ["Pop", "Pop 20s"],
+    "snippet": "/songs/pop/diet_pepsi.mp3",
+    "cover": "/songs/covers/addison.jpg"
+  },
+  {
+    "title": "Fame Is A Gun",
+    "artist": "Addison Rae",
+    "categories": ["Pop", "Pop 20s"],
+    "snippet": "/songs/pop/fame_gun.mp3",
+    "cover": "/songs/covers/addison.jpg"
+  },
+  {
+    "title": "Image",
+    "artist": "Magdalena Bay",
+    "categories": ["Pop", "Pop 20s"],
+    "snippet": "/songs/pop/image.mp3",
+    "cover": "/songs/covers/imaginal.jpg"
+  },
+  {
+    "title": "Party 4 u",
+    "artist": "Charli XCX",
+    "categories": ["Pop", "Pop 20s"],
+    "snippet": "/songs/pop/party_u.mp3",
+    "cover": "/songs/covers/howim.jpg"
+  },
+  {
+    "title": "I Love it",
+    "artist": "Icona Pop ft. Charli XCX",
+    "categories": ["Pop", "Pop 10s"],
+    "snippet": "/songs/pop/i_love_it.mp3",
+    "cover": "/songs/covers/loveit.jpg"
+  },
+  {
+    "title": "Boom Clap",
+    "artist": "Charli XCX",
+    "categories": ["Pop", "Pop 10s"],
+    "snippet": "/songs/pop/boom_clap.mp3",
+    "cover": "/songs/covers/sucker.jpg"
+  },
+  {
+    "title": "1999",
+    "artist": "Charli XCX ft. Troye Sivan",
+    "categories": ["Pop", "Pop 20s"],
+    "snippet": "/songs/pop/1999.mp3",
+    "cover": "/songs/covers/1999.jpg"
+  },
+  {
+    "title": "Boys Don't Cry",
+    "artist": "The Cure",
+    "categories": ["Rock", "Rock 70s"],
+    "snippet": "/songs/rock/boys_dont_cry.mp3",
+    "cover": "/songs/covers/threeimaginary.jpg"
+  },
+  {
+    "title": "Friday I'm In Love",
+    "artist": "The Cure",
+    "categories": ["Rock", "Rock 90s"],
+    "snippet": "/songs/rock/friday_im_love.mp3",
+    "cover": "/songs/covers/wish.jpg"
+  },
+  {
+    "title": "Just Like Heaven",
+    "artist": "The Cure",
+    "categories": ["Rock", "Rock 70s"],
+    "snippet": "/songs/rock/just_like_heaven.mp3",
+    "cover": "/songs/covers/kissme.jpg"
+  },
+  {
+    "title": "Lovesong",
+    "artist": "The Cure",
+    "categories": ["Rock", "Rock 80s"],
+    "snippet": "/songs/rock/lovesong.mp3",
+    "cover": "/songs/covers/disint.jpg"
+  },
+  {
+    "title": "Close To Me",
+    "artist": "The Cure",
+    "categories": ["Rock", "Rock 80s"],
+    "snippet": "/songs/rock/close_to_me.mp3",
+    "cover": "/songs/covers/headdoor.jpg"
+  },
+  {
+    "title": "Lullaby",
+    "artist": "The Cure",
+    "categories": ["Rock", "Rock 80s"],
+    "snippet": "/songs/rock/lullaby.mp3",
+    "cover": "/songs/covers/disint.jpg"
   }
 ]

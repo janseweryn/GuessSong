@@ -5,7 +5,6 @@ const SearchBar = ({ onSelectSong }) => {
   const [suggestions, setSuggestions] = useState([]);
   const [loading, setLoading] = useState(false);
 
-  // 🔎 Pobieranie propozycji po wpisaniu 3+ liter
   useEffect(() => {
     if (query.length < 3) {
       setSuggestions([]);
@@ -16,9 +15,7 @@ const SearchBar = ({ onSelectSong }) => {
       setLoading(true);
       try {
         const response = await fetch(
-          `https://itunes.apple.com/search?term=${encodeURIComponent(
-            query
-          )}&entity=song&limit=5`
+          `https://itunes.apple.com/search?term=${encodeURIComponent(query)}&entity=song&limit=25`
         );
         const data = await response.json();
 
@@ -39,72 +36,39 @@ const SearchBar = ({ onSelectSong }) => {
     return () => clearTimeout(delayDebounce);
   }, [query]);
 
-  // 🔘 Gdy gracz wybierze opcję z listy
   const handleSelect = (title, artist) => {
-    const formattedValue = `${title} - ${artist}`;
-    setQuery(formattedValue);
+    setQuery(`${title} - ${artist}`);
     setSuggestions([]);
-    if (onSelectSong) onSelectSong(title, artist);
+    onSelectSong?.(title, artist);
+  };
+
+  const handleManualSubmit = (e) => {
+    if (e.key === "Enter") {
+      e.preventDefault();
+      onSelectSong?.(query, ""); // pozwalamy wpisać ręcznie
+      setSuggestions([]);
+    }
   };
 
   return (
-    <div
-      style={{
-        position: "relative",
-        width: "100%",
-        maxWidth: 300,
-        margin: "0 auto",
-      }}
-    >
+    <div className="relative w-full max-w-md mx-auto">
       <input
         type="text"
         value={query}
         onChange={(e) => setQuery(e.target.value)}
+        onKeyDown={handleManualSubmit}
         placeholder="Wpisz tytuł lub artystę..."
-        style={{
-          width: "100%",
-          padding: "8px 10px",
-          borderRadius: 10,
-          border: "1px solid #ccc",
-          outline: "none",
-        }}
+        className="w-full p-2 rounded-xl border border-gray-300 focus:outline-none focus:ring-2 focus:ring-blue-400"
       />
-
-      {loading && (
-        <p style={{ color: "#bbb", fontSize: 13, marginTop: 4 }}>Ładowanie...</p>
-      )}
+      {loading && <p className="text-sm text-gray-400 mt-1">Ładowanie...</p>}
 
       {suggestions.length > 0 && (
-        <ul
-          style={{
-            position: "absolute",
-            zIndex: 10,
-            background: "white",
-            color: "black",
-            borderRadius: 10,
-            boxShadow: "0 2px 10px rgba(0,0,0,0.2)",
-            width: "100%",
-            marginTop: 4,
-            listStyle: "none",
-            padding: 0,
-            maxHeight: 200,
-            overflowY: "auto",
-          }}
-        >
+        <ul className="absolute z-10 bg-white shadow-md rounded-lg w-full mt-1 max-h-60 overflow-y-auto">
           {suggestions.map((s, index) => (
             <li
               key={index}
               onClick={() => handleSelect(s.title, s.artist)}
-              style={{
-                padding: "8px 12px",
-                cursor: "pointer",
-              }}
-              onMouseEnter={(e) =>
-                (e.currentTarget.style.backgroundColor = "#f0f0f0")
-              }
-              onMouseLeave={(e) =>
-                (e.currentTarget.style.backgroundColor = "transparent")
-              }
+              className="px-3 py-2 cursor-pointer hover:bg-gray-100"
             >
               {s.title} – {s.artist}
             </li>

@@ -195,193 +195,153 @@ export default function App() {
   })();
 
   return (
+  <div
+    style={{
+      background: "#222",
+      color: "white",
+      fontFamily: "sans-serif",
+      minHeight: "100vh",
+      display: "flex",
+      justifyContent: "center",
+      alignItems: "center",
+    }}
+  >
     <div
       style={{
         textAlign: "center",
+        width: "100%",
+        maxWidth: 500,
         padding: 20,
-        fontFamily: "sans-serif",
-        color: "white",
-        background: "#222",
-        minHeight: "100vh",
       }}
     >
-      <h1 style={{ fontSize: "2.5rem", marginBottom: 20 }}>🎵 SongGuess 🎵</h1>
+      <h1 style={{ fontSize: "1.8em", marginBottom: 10 }}>🎵 SongGuess 🎵</h1>
+      <p style={{ fontSize: "1em", opacity: 0.8 }}>🎧 Kategoria: All</p>
+      <p>
+        Fragment length: <strong>{fragmentLength.toFixed(1)}s</strong>
+      </p>
+      <p>
+        ⏱ {playTime.toFixed(1)}s / {fragmentLength.toFixed(1)}s
+      </p>
 
-      {!category ? (
-        <div style={{ marginTop: 40 }}>
-          <h2>Wybierz kategorię:</h2>
-          <div style={{ marginTop: 20 }}>
-            <button onClick={() => selectCategory("all")} style={{ margin: 8 }}>
-              🎧 All
-            </button>
-            <button onClick={() => selectCategory("pop")} style={{ margin: 8 }}>
-              🎤 Pop
-            </button>
-            <button onClick={() => selectCategory("rock")} style={{ margin: 8 }}>
-              🎸 Rock
-            </button>
-          </div>
-        </div>
-      ) : (
-        <>
+      {/* Sekcja po trafieniu */}
+      {isCorrect && (
+        <div style={{ marginTop: 20 }}>
+          <h2 style={{ color: "#4caf50" }}>✅ Correct!</h2>
+          <p>
+            <strong>Tytuł:</strong> {currentSong.title}
+            <br />
+            <strong>Artysta:</strong> {currentSong.artist}
+          </p>
+
+          {currentSong.cover && (
+            <img
+              src={currentSong.cover}
+              alt="cover"
+              width={220}
+              style={{
+                borderRadius: 12,
+                marginTop: 14,
+                boxShadow: "0 0 10px rgba(0,0,0,0.5)",
+              }}
+            />
+          )}
+
           <button
-            onClick={() => {
-              setCategory(null);
-              setCurrentSong(null);
-              clearTimers();
-            }}
+            onClick={() => startNewSong(filteredSongs)}
             style={{
-              position: "absolute",
-              top: 20,
-              left: 20,
-              background: "#555",
-              borderRadius: 8,
-              padding: "6px 10px",
+              marginTop: 24,
+              background: "#1976d2",
               color: "white",
+              padding: "8px 14px",
+              borderRadius: 8,
             }}
           >
-            ⬅ Wróć
+            Next Song →
           </button>
+        </div>
+      )}
 
-          {currentSong && (
-            <>
-              <h2 style={{ marginBottom: 10, color: "#ccc" }}>
-                🎵 Kategoria:{" "}
-                <span style={{ fontWeight: "bold", textTransform: "capitalize" }}>
-                  {CATEGORY_NAMES[category] || category}
-                </span>
-              </h2>
+      {/* Sekcja po poddaniu się */}
+      {gameOver && !isCorrect && (
+        <div style={{ marginTop: 20 }}>
+          <h2 style={{ color: "red" }}>❌ Nie udało się odgadnąć</h2>
+          <p>
+            <strong>Tytuł:</strong> {currentSong.title}
+            <br />
+            <strong>Artysta:</strong> {currentSong.artist}
+          </p>
 
-              <h3>
-                Fragment length: <strong>{LEVELS[snippetIndex].label}</strong>
-              </h3>
-              <p>
-                ⏱ {displayedTime.toFixed(1)}s / {LEVELS[snippetIndex].displayTime}s
-              </p>
-
-              <audio ref={audioRef} src={currentSong.snippet} />
-
-              {!isCorrect && !gameOver && (
-                <>
-                  <div>
-                    {!isPlaying ? (
-                      <button onClick={playSnippet}>▶️ Play</button>
-                    ) : (
-                      <button onClick={stopSnippet}>⏹ Stop</button>
-                    )}
-                    <button onClick={skipToNext} style={{ marginLeft: 8 }}>
-                      ⏭ Skip
-                    </button>
-                  </div>
-
-                  {/* 🔎 Wyszukiwarka + przycisk */}
-                  <div style={{ marginTop: 12, position: "relative" }}>
-                    <SearchBar
-                      onSelectSong={(title, artist) => {
-                        setUserGuess(`${title} - ${artist}`);
-                      }}
-                    />
-                    <button
-                      onClick={handleGuess}
-                      style={{
-                        marginLeft: 8,
-                        background: "#4caf50",
-                        color: "white",
-                        padding: "6px 10px",
-                        borderRadius: 6,
-                      }}
-                    >
-                      Submit
-                    </button>
-                  </div>
-
-                  {/* 🟥 Wyświetlanie błędnych odpowiedzi */}
-                  <div style={{ marginTop: 20 }}>
-                    {wrongAnswers.map((ans, i) => (
-                      <div
-                        key={i}
-                        style={{
-                          marginTop: 8,
-                          borderRadius: 8,
-                          padding: "6px 10px",
-                          border: "1px solid #444",
-                          backgroundColor: ans.artistCorrect
-                            ? "#ffd54f"
-                            : "#ef5350",
-                          color: "black",
-                          display: "inline-block",
-                          minWidth: 200,
-                        }}
-                      >
-                        ❌ {ans.title}
-                      </div>
-                    ))}
-                  </div>
-
-                  {snippetIndex === LEVELS.length - 1 && (
-                    <div style={{ marginTop: 12 }}>
-                      <button
-                        onClick={giveUp}
-                        style={{
-                          background: "#ff5555",
-                          color: "white",
-                          padding: "6px 10px",
-                        }}
-                      >
-                        Give Up
-                      </button>
-                    </div>
-                  )}
-                </>
-              )}
-
-              {/* ✅ poprawna odpowiedź */}
-              {isCorrect && (
-                <div style={{ marginTop: 16 }}>
-                  <h2>✅ Correct!</h2>
-                  <p>
-                    <strong>Tytuł:</strong> {currentSong.title}
-                    <br />
-                    <strong>Artysta:</strong> {currentSong.artist}
-                  </p>
-                  {currentSong.cover && (
-                    <img
-                      src={currentSong.cover}
-                      alt="cover"
-                      width={200}
-                      style={{ borderRadius: 12, marginTop: 10 }}
-                    />
-                  )}
-                  <button
-                    onClick={() => startNewSong(filteredSongs)}
-                    style={{ marginTop: 10 }}
-                  >
-                    Next Song →
-                  </button>
-                </div>
-              )}
-
-              {/* ❌ game over */}
-              {gameOver && !isCorrect && (
-                <div style={{ marginTop: 16 }}>
-                  <h2 style={{ color: "red" }}>❌ Nie udało się odgadnąć</h2>
-                  <p>
-                    <strong>Tytuł:</strong> {currentSong.title}
-                    <br />
-                    <strong>Artysta:</strong> {currentSong.artist}
-                  </p>
-                  <button
-                    onClick={() => startNewSong(filteredSongs)}
-                    style={{ marginTop: 10 }}
-                  >
-                    Try again
-                  </button>
-                </div>
-              )}
-            </>
+          {currentSong.cover && (
+            <img
+              src={currentSong.cover}
+              alt="cover"
+              width={220}
+              style={{
+                borderRadius: 12,
+                marginTop: 14,
+                boxShadow: "0 0 10px rgba(0,0,0,0.5)",
+              }}
+            />
           )}
-        </>
+
+          <button
+            onClick={() => startNewSong(filteredSongs)}
+            style={{
+              marginTop: 24,
+              background: "#1976d2",
+              color: "white",
+              padding: "8px 14px",
+              borderRadius: 8,
+            }}
+          >
+            Next Song →
+          </button>
+        </div>
+      )}
+
+      {/* Sekcja główna gry, gdy nie skończona */}
+      {!isCorrect && !gameOver && (
+        <div style={{ marginTop: 20 }}>
+          <SearchBar
+            onSelectSong={(title, artist) => setUserGuess(`${title} - ${artist}`)}
+          />
+          <button
+            onClick={handleGuess}
+            style={{
+              marginTop: 12,
+              background: "#4caf50",
+              color: "white",
+              padding: "6px 10px",
+              borderRadius: 6,
+            }}
+          >
+            Submit
+          </button>
+        </div>
+      )}
+
+      {/* Sekcja błędnych prób */}
+      {wrongAnswers.length > 0 && (
+        <div style={{ marginTop: 20 }}>
+          {wrongAnswers.map((ans, index) => (
+            <div
+              key={index}
+              style={{
+                marginTop: 8,
+                padding: "8px 12px",
+                borderRadius: 10,
+                border: "1px solid #333",
+                background:
+                  ans.artistMatch === true ? "#ffeb3b" : "rgba(255,0,0,0.3)",
+                color: ans.artistMatch === true ? "black" : "white",
+              }}
+            >
+              ❌ {ans.title} – {ans.artist}
+            </div>
+          ))}
+        </div>
       )}
     </div>
-  );
+  </div>
+);
 }
