@@ -1701,13 +1701,6 @@
     "cover": "/songs/covers/am.jpg"
   },
   {
-    "title": "I Wanna Be Yours",
-    "artist": "Arctic Monkeys",
-    "categories": ["Rock", "Rock 10s"],
-    "snippet": "/songs/rock/wanna_yours.mp3",
-    "cover": "/songs/covers/am.jpg"
-  },
-  {
     "title": "R U Mine?",
     "artist": "Arctic Monkeys",
     "categories": ["Rock", "Rock 10s"],
@@ -1783,5 +1776,186 @@
     "categories": ["Pop", "Pop 20s"],
     "snippet": "/songs/pop/hot_on_it.mp3",
     "cover": "/songs/covers/drive.jpg"
+  },
+  {
+    "title": "One Of The Girls",
+    "artist": "The Weeknd, JENNIE & Lily Rose Depp",
+    "categories": ["Pop", "Pop 20s"],
+    "snippet": "/songs/pop/one_girls.mp3",
+    "cover": "/songs/covers/onegirls.jpg"
+  },
+  {
+    "title": "Timeless",
+    "artist": "The Weeknd & Playboi Carti",
+    "categories": ["Pop", "Pop 20s"],
+    "snippet": "/songs/pop/timeless.mp3",
+    "cover": "/songs/covers/hurry.jpg"
+  },
+  {
+    "title": "Blinding Lights",
+    "artist": "The Weeknd",
+    "categories": ["Pop", "Pop 10s"],
+    "snippet": "/songs/pop/blinding_lights.mp3",
+    "cover": "/songs/covers/afterhours.jpg"
+  },
+  {
+    "title": "Save Your Tears",
+    "artist": "The Weeknd",
+    "categories": ["Pop", "Pop 20s"],
+    "snippet": "/songs/pop/save_tears.mp3",
+    "cover": "/songs/covers/afterhours.jpg"
+  },
+  {
+    "title": "Starboy (feat. Daft Punk)",
+    "artist": "The Weeknd",
+    "categories": ["Pop", "Pop 10s"],
+    "snippet": "/songs/pop/starboy.mp3",
+    "cover": "/songs/covers/starboy.jpg"
+  },
+  {
+    "title": "Stargirl Interlude (feat. Lana Del Rey)",
+    "artist": "The Weeknd",
+    "categories": ["Pop", "Pop 10s"],
+    "snippet": "/songs/pop/stargirl.mp3",
+    "cover": "/songs/covers/starboy.jpg"
+  },
+  {
+    "title": "I Feel It Coming (feat. Daft Punk)",
+    "artist": "The Weeknd",
+    "categories": ["Pop", "Pop 10s"],
+    "snippet": "/songs/pop/feel_coming.mp3",
+    "cover": "/songs/covers/starboy.jpg"
+  },
+  {
+    "title": "In Your Eyes",
+    "artist": "The Weeknd",
+    "categories": ["Pop", "Pop 20s"],
+    "snippet": "/songs/pop/in_eyes.mp3",
+    "cover": "/songs/covers/afterhours.jpg"
+  },
+  {
+    "title": "Heartless",
+    "artist": "The Weeknd",
+    "categories": ["Pop", "Pop 20s"],
+    "snippet": "/songs/pop/heartless.mp3",
+    "cover": "/songs/covers/afterhours.jpg"
+  },
+  {
+    "title": "The Hills",
+    "artist": "The Weeknd",
+    "categories": ["Pop", "Pop 20s"],
+    "snippet": "/songs/pop/heartless.mp3",
+    "cover": "/songs/covers/beauty.jpg"
+  },
+  {
+    "title": "Die For You",
+    "artist": "The Weeknd",
+    "categories": ["Pop", "Pop 10s"],
+    "snippet": "/songs/pop/die_you.mp3",
+    "cover": "/songs/covers/starboy.jpg"
+  },
+  {
+    "title": "Call Out My Name",
+    "artist": "The Weeknd",
+    "categories": ["Pop", "Pop 10s"],
+    "snippet": "/songs/pop/call_name.mp3",
+    "cover": "/songs/covers/melancholy.jpg"
+  },
+  {
+    "title": "I Can't Feel My Face",
+    "artist": "The Weeknd",
+    "categories": ["Pop", "Pop 10s"],
+    "snippet": "/songs/pop/cant_face.mp3",
+    "cover": "/songs/covers/beauty.jpg"
+  },
+  {
+    "title": "Earned It",
+    "artist": "The Weeknd",
+    "categories": ["Pop", "Pop 10s"],
+    "snippet": "/songs/pop/cant_face.mp3",
+    "cover": "/songs/covers/beauty.jpg"
+  },
+  {
+    "title": "Wicked Games",
+    "artist": "The Weeknd",
+    "categories": ["Pop", "Pop 10s"],
+    "snippet": "/songs/pop/wicked_games.mp3",
+    "cover": "/songs/covers/trilogy.png"
+  },
+  {
+    "title": "Here Comes The Sun",
+    "artist": "The Beatles",
+    "categories": ["Rock", "Rock 60s"],
+    "snippet": "/songs/rock/here_comes_sun.mp3",
+    "cover": "/songs/covers/abbey.jpg"
+  },
+  {
+    "title": "Come Together",
+    "artist": "The Beatles",
+    "categories": ["Rock", "Rock 60s"],
+    "snippet": "/songs/rock/come_together.mp3",
+    "cover": "/songs/covers/abbey.jpg"
+  },
+  {
+    "title": "Something",
+    "artist": "The Beatles",
+    "categories": ["Rock", "Rock 60s"],
+    "snippet": "/songs/rock/abbey.jpg"
+  },
+  {
+    "title": "Blackbird",
+    "artist": "The Beatles",
+    "categories": ["Rock", "Rock 60s"],
+    "snippet": "/songs/rock/blackbird.mp3",
+    "cover": "/songs/covers/beatels.jpg"
+  },
+  {
+    "title": "Ob-La-Di, Ob-La-Da",
+    "artist": "The Beatles",
+    "categories": ["Rock", "Rock 60s"],
+    "snippet": "/songs/rock/blackbird.mp3",
+    "cover": "/songs/covers/beatels.jpg"
+  },
+  {
+    "title": "Norwegian Wood (This Bird Has Flown)",
+    "artist": "The Beatles",
+    "categories": ["Rock", "Rock 60s"],
+    "snippet": "/songs/rock/norwegian_wood.mp3",
+    "cover": "/songs/covers/wood.png"
+  },
+  {
+    "title": "In My Life",
+    "artist": "The Beatles",
+    "categories": ["Rock", "Rock 60s"],
+    "snippet": "/songs/rock/in_my_life.mp3",
+    "cover": "/songs/covers/wood.png"
+  },
+  {
+    "title": "Let It Be",
+    "artist": "The Beatles",
+    "categories": ["Rock", "Rock 60s"],
+    "snippet": "/songs/rock/let_be.mp3",
+    "cover": "/songs/covers/letbe.png"
+  },
+  {
+    "title": "Yesterday",
+    "artist": "The Beatles",
+    "categories": ["Rock", "Rock 60s"],
+    "snippet": "/songs/rock/yesterday.mp3",
+    "cover": "/songs/covers/help.jpg"
+  },
+  {
+    "title": "Hey Jude",
+    "artist": "The Beatles",
+    "categories": ["Rock", "Rock 60s"],
+    "snippet": "/songs/rock/hey_jude.mp3",
+    "cover": "/songs/covers/heyjude.jpg"
+  },
+  {
+    "title": "Twist And Shout",
+    "artist": "The Beatles",
+    "categories": ["Rock", "Rock 60s"],
+    "snippet": "/songs/rock/twist_shout.mp3",
+    "cover": "/songs/covers/please.jpg"
   }
 ]
