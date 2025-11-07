@@ -1036,7 +1036,7 @@
     "cover": "/songs/covers/borndie.jpg"
   },
   {
-    "title": "Summertime Sadnness",
+    "title": "Summertime Sadness",
     "artist": "Lana Del Rey",
     "categories": ["Pop", "Pop 10s"],
     "snippet": "/songs/pop/zamiataj_sedes.mp3",
@@ -1407,7 +1407,7 @@
     "cover": "/songs/covers/utopia.jpg"
   },
   {
-    "title": "I Know?",
+    "title": "I Know ?",
     "artist": "Travis Scott",
     "categories": ["Rap", "Rap 20s"],
     "snippet": "/songs/rap/iknow.mp3",
@@ -1446,7 +1446,7 @@
     "artist": "Travis Scott",
     "categories": ["Rap", "Rap 10s"],
     "snippet": "/songs/rap/nightcrawler.mp3",
-    "cover": "/songs/covers/rodeo.jpg"
+    "cover": "/songs/covers/rodeo.png"
   },
   {
     "title": "Antidote",
@@ -1711,7 +1711,7 @@
     "title": "Fluorescent Adolescent",
     "artist": "Arctic Monkeys",
     "categories": ["Rock", "Rock 00s"],
-    "snippet": "/songs/rock/fluorescent.mp3",
+    "snippet": "/songs/rock/fluroescent.mp3",
     "cover": "/songs/covers/nightmare.jpg"
   },
   {
@@ -1844,7 +1844,7 @@
     "title": "The Hills",
     "artist": "The Weeknd",
     "categories": ["Pop", "Pop 20s"],
-    "snippet": "/songs/pop/heartless.mp3",
+    "snippet": "/songs/pop/hills.mp3",
     "cover": "/songs/covers/beauty.jpg"
   },
   {
@@ -1913,7 +1913,7 @@
     "title": "Ob-La-Di, Ob-La-Da",
     "artist": "The Beatles",
     "categories": ["Rock", "Rock 60s"],
-    "snippet": "/songs/rock/blackbird.mp3",
+    "snippet": "/songs/rock/obladi.mp3",
     "cover": "/songs/covers/beatels.jpg"
   },
   {
@@ -1953,9 +1953,30 @@
   },
   {
     "title": "Twist And Shout",
-    "artist": "The Beatles",
+    "artist": "The Beatles",  
     "categories": ["Rock", "Rock 60s"],
     "snippet": "/songs/rock/twist_shout.mp3",
     "cover": "/songs/covers/please.jpg"
+  },
+  {
+    "title": "Hero",
+    "artist": "Skillet",  
+    "categories": ["Rock", "Rock 00s"],
+    "snippet": "/songs/rock/hero.mp3",
+    "cover": "/songs/covers/awake.jpg"
+  },
+  {
+    "title": "Monster",
+    "artist": "Skillet",  
+    "categories": ["Rock", "Rock 00s"],
+    "snippet": "/songs/rock/monster.mp3",
+    "cover": "/songs/covers/awake.jpg"
+  },
+  {
+    "title": "Awake and Alive",
+    "artist": "Skillet",  
+    "categories": ["Rock", "Rock 00s"],
+    "snippet": "/songs/rock/awake_alive.mp3",
+    "cover": "/songs/covers/awake.jpg"
   }
 ]
