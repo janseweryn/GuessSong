@@ -1372,7 +1372,7 @@
     "cover": "/songs/covers/square1.jpg"
   },
   {
-    "title": "Sundreess",
+    "title": "Sundrees",
     "artist": "A$ap Rocky",
     "categories": ["Rap", "Rap 10s"],
     "snippet": "/songs/rap/sundress.mp3",
@@ -1389,7 +1389,7 @@
     "title": "Everyday (feat. Rod Stewart x Miguel x Mark Ronson)",
     "artist": "A$ap Rocky",
     "categories": ["Rap", "Rap 10s"],
-    "snippet": "/songs/rap/sundress.mp3",
+    "snippet": "/songs/rap/everyday.mp3",
     "cover": "/songs/covers/atlong.jpg"
   },
   {
@@ -1978,5 +1978,33 @@
     "categories": ["Rock", "Rock 00s"],
     "snippet": "/songs/rock/awake_alive.mp3",
     "cover": "/songs/covers/awake.jpg"
+  },
+  {
+    "title": "The Resistance",
+    "artist": "Skillet",  
+    "categories": ["Rock", "Rock 10s"],
+    "snippet": "/songs/rock/resistance.mp3",
+    "cover": "/songs/covers/unleashed.jpg"
+  },
+  {
+    "title": "Feel Invincible",
+    "artist": "Skillet",  
+    "categories": ["Rock", "Rock 10s"],
+    "snippet": "/songs/rock/invicible.mp3",
+    "cover": "/songs/covers/unleashed.jpg"
+  },
+  {
+    "title": "Comatose",
+    "artist": "Skillet",  
+    "categories": ["Rock", "Rock 00s"],
+    "snippet": "/songs/rock/comatose.mp3",
+    "cover": "/songs/covers/comatose.jpg"
+  },
+  {
+    "title": "Not Gonna Die",
+    "artist": "Skillet",  
+    "categories": ["Rock", "Rock 10s"],
+    "snippet": "/songs/rock/not_die.mp3",
+    "cover": "/songs/covers/rise.jpg"
   }
 ]
