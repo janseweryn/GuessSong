@@ -371,7 +371,7 @@
     "cover": "/songs/covers/pit.jpg"
   },
   {
-    "title": "That's So True",
+    "title": "That’s So True",
     "artist": "Gracie Abrams",
     "categories": ["Pop", "Pop 20s"],
     "snippet": "/songs/pop/thats_true.mp3",
@@ -728,7 +728,7 @@
     "cover": "/songs/covers/goodluck.jpg"
   },
   {
-    "title": "You Broke Me First",
+    "title": "You Broke Me First (Bedroom Sessions)",
     "artist": "Tate McRae",
     "categories": ["Pop", "Pop 20s"],
     "snippet": "/songs/pop/you_broke_first.mp3",
@@ -819,7 +819,7 @@
     "cover": "/songs/covers/lovely.jpg"
   },
   {
-    "title": "What Was I Made For",
+    "title": "What Was I Made For?",
     "artist": "Billie Eilish",
     "categories": ["Pop", "Pop 20s"],
     "snippet": "/songs/pop/what_was_made.mp3",
@@ -1036,7 +1036,7 @@
     "cover": "/songs/covers/borndie.jpg"
   },
   {
-    "title": "Summertime Sandness",
+    "title": "Summertime Sadnness",
     "artist": "Lana Del Rey",
     "categories": ["Pop", "Pop 10s"],
     "snippet": "/songs/pop/zamiataj_sedes.mp3",
@@ -1187,7 +1187,7 @@
     "artist": "Madison Beer",
     "categories": ["Pop", "Pop 20s"],
     "snippet": "/songs/pop/make_mine.mp3",
-    "cover": "/songs/covers/makemine.jpg"
+    "cover": "/songs/covers/makemine.png"
   },
   {
     "title": "Reckless",
@@ -1306,6 +1306,482 @@
     "artist": "Blackpink",
     "categories": ["Pop", "Pop 20s"],
     "snippet": "/songs/pop/jump.mp3",
-    "cover": "/songs/covers/junmp.jpg"
+    "cover": "/songs/covers/jump.jpg"
+  },
+  {
+    "title": "Pink Venom",
+    "artist": "Blackpink",
+    "categories": ["Pop", "Pop 20s"],
+    "snippet": "/songs/pop/pink_venom.mp3",
+    "cover": "/songs/covers/bornpink.jpg"
+  },
+  {
+    "title": "Shut Down",
+    "artist": "Blackpink",
+    "categories": ["Pop", "Pop 20s"],
+    "snippet": "/songs/pop/shut_down.mp3",
+    "cover": "/songs/covers/bornpink.jpg"
+  },
+  {
+    "title": "How You Like That",
+    "artist": "Blackpink",
+    "categories": ["Pop", "Pop 20s"],
+    "snippet": "/songs/pop/how_you_like_that.mp3",
+    "cover": "/songs/covers/album.jpg"
+  },
+  {
+    "title": "Ice Cream",
+    "artist": "Blackpink & Selena Gomez",
+    "categories": ["Pop", "Pop 20s"],
+    "snippet": "/songs/pop/ice_cream.mp3",
+    "cover": "/songs/covers/album.jpg"
+  },
+  {
+    "title": "Lovesick Girls",
+    "artist": "Blackpink",
+    "categories": ["Pop", "Pop 20s"],
+    "snippet": "/songs/pop/lovesick_girls.mp3",
+    "cover": "/songs/covers/album.jpg"
+  },
+  {
+    "title": "Pretty Savage",
+    "artist": "Blackpink",
+    "categories": ["Pop", "Pop 20s"],
+    "snippet": "/songs/pop/pretty_savage.mp3",
+    "cover": "/songs/covers/album.jpg"
+  },
+  {
+    "title": "Kill This Love",
+    "artist": "Blackpink",
+    "categories": ["Pop", "Pop 10s"],
+    "snippet": "/songs/pop/kill_this_love.mp3",
+    "cover": "/songs/covers/ktl.jpg"
+  },
+  {
+    "title": "DDU-DU-DDU-DU",
+    "artist": "Blackpink",
+    "categories": ["Pop", "Pop 10s"],
+    "snippet": "/songs/pop/ddu.mp3",
+    "cover": "/songs/covers/squareup.jpg"
+  },
+  {
+    "title": "Boombayah",
+    "artist": "Blackpink",
+    "categories": ["Pop", "Pop 10s"],
+    "snippet": "/songs/pop/boombayah.mp3",
+    "cover": "/songs/covers/square1.jpg"
+  },
+  {
+    "title": "Sundreess",
+    "artist": "A$ap Rocky",
+    "categories": ["Rap", "Rap 10s"],
+    "snippet": "/songs/rap/sundress.mp3",
+    "cover": "/songs/covers/sundress.jpg"
+  },
+  {
+    "title": "I Smoked Away My Brain (I'm God x Demons Mashup) [feat. Imogen Heap & Clams Casino]",
+    "artist": "A$ap Rocky",
+    "categories": ["Rap", "Rap 10s"],
+    "snippet": "/songs/rap/smoked_brain.mp3",
+    "cover": "/songs/covers/livelong.jpg"
+  },
+  {
+    "title": "Everyday (feat. Rod Stewart x Miguel x Mark Ronson)",
+    "artist": "A$ap Rocky",
+    "categories": ["Rap", "Rap 10s"],
+    "snippet": "/songs/rap/sundress.mp3",
+    "cover": "/songs/covers/atlong.jpg"
+  },
+  {
+    "title": "FE!N (feat. Playboi Carti)",
+    "artist": "Travis Scott",
+    "categories": ["Rap", "Rap 20s"],
+    "snippet": "/songs/rap/fein.mp3",
+    "cover": "/songs/covers/utopia.jpg"
+  },
+  {
+    "title": "My Eyes",
+    "artist": "Travis Scott",
+    "categories": ["Rap", "Rap 20s"],
+    "snippet": "/songs/rap/me_eyes.mp3",
+    "cover": "/songs/covers/utopia.jpg"
+  },
+  {
+    "title": "I Know?",
+    "artist": "Travis Scott",
+    "categories": ["Rap", "Rap 20s"],
+    "snippet": "/songs/rap/iknow.mp3",
+    "cover": "/songs/covers/utopia.jpg"
+  },
+  {
+    "title": "Sicko Mode",
+    "artist": "Travis Scott",
+    "categories": ["Rap", "Rap 10s"],
+    "snippet": "/songs/rap/sicko_mode.mp3",
+    "cover": "/songs/covers/astro.jpg"
+  },
+  {
+    "title": "Butterfly Effect",
+    "artist": "Travis Scott",
+    "categories": ["Rap", "Rap 10s"],
+    "snippet": "/songs/rap/butterfly_effect.mp3",
+    "cover": "/songs/covers/astro.jpg"
+  },
+  {
+    "title": "Stargazing",
+    "artist": "Travis Scott",
+    "categories": ["Rap", "Rap 10s"],
+    "snippet": "/songs/rap/stargazing.mp3",
+    "cover": "/songs/covers/astro.jpg"
+  },
+  {
+    "title": "Highest In The Room",
+    "artist": "Travis Scott",
+    "categories": ["Rap", "Rap 10s"],
+    "snippet": "/songs/rap/highest_room.mp3",
+    "cover": "/songs/covers/highestroom.jpg"
+  },
+  {
+    "title": "Nightcrawler (feat. Swae Lee & Chief Keef)",
+    "artist": "Travis Scott",
+    "categories": ["Rap", "Rap 10s"],
+    "snippet": "/songs/rap/nightcrawler.mp3",
+    "cover": "/songs/covers/rodeo.jpg"
+  },
+  {
+    "title": "Antidote",
+    "artist": "Travis Scott",
+    "categories": ["Rap", "Rap 10s"],
+    "snippet": "/songs/rap/antidote.mp3",
+    "cover": "/songs/covers/rodeo.png"
+  },
+  {
+    "title": "Animal I Have Become",
+    "artist": "Three Days Grace",
+    "categories": ["Rock", "Rock 00s"],
+    "snippet": "/songs/rock/animal_become.mp3",
+    "cover": "/songs/covers/onex.jpg"
+  },
+  {
+    "title": "Never Too Late",
+    "artist": "Three Days Grace",
+    "categories": ["Rock", "Rock 00s"],
+    "snippet": "/songs/rock/never_late.mp3",
+    "cover": "/songs/covers/onex.jpg"
+  },
+  {
+    "title": "Time Of Dying",
+    "artist": "Three Days Grace",
+    "categories": ["Rock", "Rock 00s"],
+    "snippet": "/songs/rock/time_dying.mp3",
+    "cover": "/songs/covers/onex.jpg"
+  },
+  {
+    "title": "Riot",
+    "artist": "Three Days Grace",
+    "categories": ["Rock", "Rock 00s"],
+    "snippet": "/songs/rock/riot.mp3",
+    "cover": "/songs/covers/onex.jpg"
+  },
+  {
+    "title": "Pain",
+    "artist": "Three Days Grace",
+    "categories": ["Rock", "Rock 00s"],
+    "snippet": "/songs/rock/pain.mp3",
+    "cover": "/songs/covers/onex.jpg"
+  },
+  {
+    "title": "I Hate Everything About You",
+    "artist": "Three Days Grace",
+    "categories": ["Rock", "Rock 00s"],
+    "snippet": "/songs/rock/hate_about_you.mp3",
+    "cover": "/songs/covers/3dg.jpg"
+  },
+  {
+    "title": "Dominate",
+    "artist": "Three Days Grace",
+    "categories": ["Rock", "Rock 20s"],
+    "snippet": "/songs/rock/dominate.mp3",
+    "cover": "/songs/covers/alienation.jpg"
+  },
+  {
+    "title": "From The Start",
+    "artist": "Laufey",
+    "categories": ["Pop", "Pop 20s"],
+    "snippet": "/songs/pop/from_the_start.mp3",
+    "cover": "/songs/covers/bewitched."
+  },
+  {
+    "title": "Promise",
+    "artist": "Laufey",
+    "categories": ["Pop", "Pop 20s"],
+    "snippet": "/songs/pop/promise.mp3",
+    "cover": "/songs/covers/bewitched.png"
+  },
+  {
+    "title": "Falling Behind",
+    "artist": "Laufey",
+    "categories": ["Pop", "Pop 20s"],
+    "snippet": "/songs/pop/falling_behind.mp3",
+    "cover": "/songs/covers/everythinglive.jpg"
+  },
+  {
+    "title": "Lover Girl",
+    "artist": "Laufey",
+    "categories": ["Pop", "Pop 20s"],
+    "snippet": "/songs/pop/lover_girl.mp3",
+    "cover": "/songs/covers/mattertime.jpg"
+  },
+  {
+    "title": "Bags",
+    "artist": "Clairo",
+    "categories": ["Pop", "Pop 10s"],
+    "snippet": "/songs/pop/bags.mp3",
+    "cover": "/songs/covers/immunity.jpg"
+  },
+  {
+    "title": "Sofia",
+    "artist": "Clairo",
+    "categories": ["Pop", "Pop 10s"],
+    "snippet": "/songs/pop/sofia.mp3",
+    "cover": "/songs/covers/immunity.jpg"
+  },
+  {
+    "title": "Juna",
+    "artist": "Clairo",
+    "categories": ["Pop", "Pop 20s"],
+    "snippet": "/songs/pop/juna.mp3",
+    "cover": "/songs/covers/charm.jpg"
+  },
+  {
+    "title": "Sexy To Someone",
+    "artist": "Clairo",
+    "categories": ["Pop", "Pop 20s"],
+    "snippet": "/songs/pop/sexy_someone.mp3",
+    "cover": "/songs/covers/charm.jpg"
+  },
+  {
+    "title": "Pretty Girl",
+    "artist": "Clairo",
+    "categories": ["Pop", "Pop 10s"],
+    "snippet": "/songs/pop/pretty_girl.mp3",
+    "cover": "/songs/covers/prettygirl.jpg"
+  },
+  {
+    "title": "All The Stars",
+    "artist": "Kendrick Lamar, SZA",
+    "categories": ["Rap", "Rap 10s"],
+    "snippet": "/songs/rap/all_stars.mp3",
+    "cover": "/songs/covers/panter.jpg"
+  },
+  {
+    "title": "Luther",
+    "artist": "Kendrick Lamar & SZA",
+    "categories": ["Rap", "Rap 20s"],
+    "snippet": "/songs/rap/luther.mp3",
+    "cover": "/songs/covers/gnx.jpg"
+  },
+  {
+    "title": "TV Off (feat. Lefty Gunplay)",
+    "artist": "Kendrick Lamar",
+    "categories": ["Rap", "Rap 20s"],
+    "snippet": "/songs/rap/tv_off.mp3",
+    "cover": "/songs/covers/gnx.jpg"
+  },
+  {
+    "title": "HUMBLE.",
+    "artist": "Kendrick Lamar",
+    "categories": ["Rap", "Rap 10s"],
+    "snippet": "/songs/rap/humble.mp3",
+    "cover": "/songs/covers/pride.jpg"
+  },
+  {
+    "title": "LOVE. (FEAT. ZACARI.)",
+    "artist": "Kendrick Lamar",
+    "categories": ["Rap", "Rap 10s"],
+    "snippet": "/songs/rap/love.mp3",
+    "cover": "/songs/covers/pride.jpg"
+  },
+  {
+    "title": "Swimming Pools (Drank) [Extended Version]",
+    "artist": "Kendrick Lamar",
+    "categories": ["Rap", "Rap 10s"],
+    "snippet": "/songs/rap/swimming_pools.mp3",
+    "cover": "/songs/covers/gkmd.jpg"
+  },
+  {
+    "title": "Bitch, Don't Kill My Vibe",
+    "artist": "Kendrick Lamar",
+    "categories": ["Rap", "Rap 10s"],
+    "snippet": "/songs/rap/kill_vibe.mp3",
+    "cover": "/songs/covers/gkmd.jpg"
+  },
+  {
+    "title": "King Kunta",
+    "artist": "Kendrick Lamar",
+    "categories": ["Rap", "Rap 10s"],
+    "snippet": "/songs/rap/kunta.mp3",
+    "cover": "/songs/covers/butterfly.jpg"
+  },
+  {
+    "title": "Alright",
+    "artist": "Kendrick Lamar",
+    "categories": ["Rap", "Rap 10s"],
+    "snippet": "/songs/rap/alright.mp3",
+    "cover": "/songs/covers/butterfly.jpg"
+  },
+  {
+    "title": "DNA.",
+    "artist": "Kendrick Lamar",
+    "categories": ["Rap", "Rap 10s"],
+    "snippet": "/songs/rap/dna.mp3",
+    "cover": "/songs/covers/pride.jpg"
+  },
+  {
+    "title": "N95",
+    "artist": "Kendrick Lamar",
+    "categories": ["Rap", "Rap 20s"],
+    "snippet": "/songs/rap/n95.mp3",
+    "cover": "/songs/covers/morale.jpg"
+  },
+  {
+    "title": "Like That",
+    "artist": "Future, Metro Boomin & Kendrick Lamar",
+    "categories": ["Rap", "Rap 20s"],
+    "snippet": "/songs/rap/like_that.mp3",
+    "cover": "/songs/covers/wedonttrust.jpg"
+  },
+  {
+    "title": "Type Shit",
+    "artist": "Future, Metro Boomin, Travis Scott & Playboi Carti",
+    "categories": ["Rap", "Rap 20s"],
+    "snippet": "/songs/rap/type_shit.mp3",
+    "cover": "/songs/covers/wedonttrust.jpg"
+  },
+  {
+    "title": "Superhero (Heroes & Villains)",
+    "artist": "Metro Boomin, Future & Chris Brown",
+    "categories": ["Rap", "Rap 20s"],
+    "snippet": "/songs/rap/superhero.mp3",
+    "cover": "/songs/covers/heroes.jpg"
+  },
+  {
+    "title": "Trance",
+    "artist": "Metro Boomin, Travis Scott & Young Thug",
+    "categories": ["Rap", "Rap 20s"],
+    "snippet": "/songs/rap/trance.mp3",
+    "cover": "/songs/covers/heroes.jpg"
+  },
+  {
+    "title": "Creepin'",
+    "artist": "Metro Boomin, The Weeknd & 21 Savage",
+    "categories": ["Rap", "Rap 20s"],
+    "snippet": "/songs/rap/creepin.mp3",
+    "cover": "/songs/covers/heroes.jpg"
+  },
+  {
+    "title": "Space Cadet (feat. Gunna)",
+    "artist": "Metro Boomin",
+    "categories": ["Rap", "Rap 10s"],
+    "snippet": "/songs/rap/space_cadet.mp3",
+    "cover": "/songs/covers/allheroes.jpg"
+  },
+  {
+    "title": "Do I Wanna Know?",
+    "artist": "Arctic Monkeys",
+    "categories": ["Rock", "Rock 10s"],
+    "snippet": "/songs/rock/wanna_know.mp3",
+    "cover": "/songs/covers/am.jpg"
+  },
+  {
+    "title": "Why'd You Only Call Me When You're High?",
+    "artist": "Arctic Monkeys",
+    "categories": ["Rock", "Rock 10s"],
+    "snippet": "/songs/rock/only_call_high.mp3",
+    "cover": "/songs/covers/am.jpg"
+  },
+  {
+    "title": "I Wanna Be Yours",
+    "artist": "Arctic Monkeys",
+    "categories": ["Rock", "Rock 10s"],
+    "snippet": "/songs/rock/wanna_yours.mp3",
+    "cover": "/songs/covers/am.jpg"
+  },
+  {
+    "title": "R U Mine?",
+    "artist": "Arctic Monkeys",
+    "categories": ["Rock", "Rock 10s"],
+    "snippet": "/songs/rock/ru_mine.mp3",
+    "cover": "/songs/covers/am.jpg"
+  },
+  {
+    "title": "Fluorescent Adolescent",
+    "artist": "Arctic Monkeys",
+    "categories": ["Rock", "Rock 00s"],
+    "snippet": "/songs/rock/fluorescent.mp3",
+    "cover": "/songs/covers/nightmare.jpg"
+  },
+  {
+    "title": "505",
+    "artist": "Arctic Monkeys",
+    "categories": ["Rock", "Rock 00s"],
+    "snippet": "/songs/rock/505.mp3",
+    "cover": "/songs/covers/nightmare.jpg"
+  },
+  {
+    "title": "I Bet You Look Good On the Dancefloor",
+    "artist": "Arctic Monkeys",
+    "categories": ["Rock", "Rock 00s"],
+    "snippet": "/songs/rock/good_dancefloor.mp3",
+    "cover": "/songs/covers/peoplesay.jpg"
+  },
+  {
+    "title": "When The Sun Goes Down",
+    "artist": "Arctic Monkeys",
+    "categories": ["Rock", "Rock 00s"],
+    "snippet": "/songs/rock/sun_down.mp3",
+    "cover": "/songs/covers/peoplesay.jpg"
+  },
+  {
+    "title": "10:35",
+    "artist": "Tiësto & Tate McRae",
+    "categories": ["Pop", "Pop 20s"],
+    "snippet": "/songs/pop/1035.mp3",
+    "cover": "/songs/covers/drive.jpg"
+  },
+  {
+    "title": "The Motto",
+    "artist": "Tiësto & Ava Max",
+    "categories": ["Pop", "Pop 20s"],
+    "snippet": "/songs/pop/motto.mp3",
+    "cover": "/songs/covers/drive.jpg"
+  },
+  {
+    "title": "The Business",
+    "artist": "Tiësto",
+    "categories": ["Pop", "Pop 20s"],
+    "snippet": "/songs/pop/business.mp3",
+    "cover": "/songs/covers/drive.jpg"
+  },
+  {
+    "title": "Lay Low",
+    "artist": "Tiësto",
+    "categories": ["Pop", "Pop 20s"],
+    "snippet": "/songs/pop/lay_low.mp3",
+    "cover": "/songs/covers/drive.jpg"
+  },
+  {
+    "title": "Don't Be Shy (Tiësto VIP) [Mixed]",
+    "artist": "Tiësto & Karol G",
+    "categories": ["Pop", "Pop 20s"],
+    "snippet": "/songs/pop/dont_shy.mp3",
+    "cover": "/songs/covers/drive.jpg"
+  },
+  {
+    "title": "Hot In It (feat. Charli xcx)",
+    "artist": "Tiësto",
+    "categories": ["Pop", "Pop 20s"],
+    "snippet": "/songs/pop/hot_on_it.mp3",
+    "cover": "/songs/covers/drive.jpg"
   }
 ]
