@@ -434,6 +434,13 @@
     "cover": "/songs/covers/emotion.jpg"
   },
   {
+    "title": "APT.",
+    "artist": "ROSÉ & Bruno Mars",
+    "categories": ["Pop", "Pop 20s"],
+    "snippet": "/songs/pop/apt.mp3",
+    "cover": "/songs/covers/rosie.jpg"
+  },
+  {
     "title": "Dandelions",
     "artist": "Ruth B.",
     "categories": ["Pop", "Pop 10s"],
@@ -588,7 +595,7 @@
     "cover": "/songs/covers/teenagedream.jpg"
   },
   {
-    "title": "E.T",
+    "title": "E.T.",
     "artist": "Katy Perry",
     "categories": ["Pop", "Pop 10s"],
     "snippet": "/songs/pop/et.mp3",
@@ -1386,13 +1393,6 @@
     "cover": "/songs/covers/livelong.jpg"
   },
   {
-    "title": "Everyday (feat. Rod Stewart x Miguel x Mark Ronson)",
-    "artist": "A$ap Rocky",
-    "categories": ["Rap", "Rap 10s"],
-    "snippet": "/songs/rap/everyday.mp3",
-    "cover": "/songs/covers/atlong.jpg"
-  },
-  {
     "title": "FE!N (feat. Playboi Carti)",
     "artist": "Travis Scott",
     "categories": ["Rap", "Rap 20s"],
@@ -1509,7 +1509,7 @@
     "artist": "Laufey",
     "categories": ["Pop", "Pop 20s"],
     "snippet": "/songs/pop/from_the_start.mp3",
-    "cover": "/songs/covers/bewitched."
+    "cover": "/songs/covers/bewitched"
   },
   {
     "title": "Promise",
@@ -1564,7 +1564,7 @@
     "title": "Pretty Girl",
     "artist": "Clairo",
     "categories": ["Pop", "Pop 10s"],
-    "snippet": "/songs/pop/pretty_girl.mp3",
+    "snippet": "/songs/pop/prety_girl.mp3",
     "cover": "/songs/covers/prettygirl.jpg"
   },
   {
@@ -1774,7 +1774,7 @@
     "title": "Hot In It (feat. Charli xcx)",
     "artist": "Tiësto",
     "categories": ["Pop", "Pop 20s"],
-    "snippet": "/songs/pop/hot_on_it.mp3",
+    "snippet": "/songs/pop/hot_in_it.mp3",
     "cover": "/songs/covers/drive.jpg"
   },
   {
@@ -1900,7 +1900,8 @@
     "title": "Something",
     "artist": "The Beatles",
     "categories": ["Rock", "Rock 60s"],
-    "snippet": "/songs/rock/abbey.jpg"
+    "snippet": "/songs/rock/something.mp3",
+    "cover": "/songs/covers/abbey.jpg"
   },
   {
     "title": "Blackbird",
