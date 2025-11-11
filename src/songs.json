@@ -2007,5 +2007,26 @@
     "categories": ["Rock", "Rock 10s"],
     "snippet": "/songs/rock/not_die.mp3",
     "cover": "/songs/covers/rise.jpg"
+  },
+  {
+    "title": "Stressed Out",
+    "artist": "Twenty One Pilots",  
+    "categories": ["Pop", "Pop 10s"],
+    "snippet": "/songs/pop/stressed.mp3",
+    "cover": "/songs/covers/blurry.jpg"
+  },
+  {
+    "title": "Ride",
+    "artist": "Twenty One Pilots",  
+    "categories": ["Pop", "Pop 10s"],
+    "snippet": "/songs/pop/ride.mp3",
+    "cover": "/songs/covers/blurry.jpg"
+  },
+  {
+    "title": "Doubt",
+    "artist": "Twenty One Pilots",  
+    "categories": ["Pop", "Pop 10s"],
+    "snippet": "/songs/pop/doubt.mp3",
+    "cover": "/songs/covers/blurry.jpg"
   }
 ]

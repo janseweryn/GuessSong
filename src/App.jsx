@@ -32,7 +32,6 @@ const manualDaily = {
   ],
 };
 
-// Fragmenty długości
 const LEVELS = [
   { label: "0.1s", time: 0.2, displayTime: 0.1 },
   { label: "0.5s", time: 0.5, displayTime: 0.5 },
@@ -51,13 +50,12 @@ const CATEGORY_NAMES = {
   rap: "Rap",
 };
 
-// 🟡 Funkcja pobierająca ręcznie ustawione daily
+// 🟡 Pobiera ręczne daily zdefiniowane na dziś
 function getManualDailySongs() {
   const today = new Date();
   const offset = today.getTimezoneOffset();
   const polandTime = new Date(today.getTime() + (offset + 60) * 60000);
   const dateKey = polandTime.toISOString().split("T")[0];
-
   return manualDaily[dateKey] || null;
 }
 
@@ -75,7 +73,6 @@ export default function App() {
   const [canReplayFull, setCanReplayFull] = useState(false);
   const [isFullPlaying, setIsFullPlaying] = useState(false);
   const [wrongAnswers, setWrongAnswers] = useState([]);
-
   const [dailySongs, setDailySongs] = useState([]);
   const [dailyIndex, setDailyIndex] = useState(0);
   const [dailyComplete, setDailyComplete] = useState(false);
@@ -143,14 +140,8 @@ export default function App() {
     audio.play();
     setIsPlaying(true);
     setCurrentTime(0);
-
-    intervalRef.current = setInterval(() => {
-      setCurrentTime((t) => t + 0.1);
-    }, 100);
-
-    timeoutRef.current = setTimeout(() => {
-      stopSnippet();
-    }, level.time * 1000);
+    intervalRef.current = setInterval(() => setCurrentTime((t) => t + 0.1), 100);
+    timeoutRef.current = setTimeout(() => stopSnippet(), level.time * 1000);
   };
 
   const stopSnippet = () => {
@@ -169,6 +160,7 @@ export default function App() {
     if (title === correctTitle && artist === correctArtist) {
       setIsCorrect(true);
       stopSnippet();
+      setCanReplayFull(true);
     } else {
       const artistMatches =
         artist && correctArtist.includes(artist.toLowerCase());
@@ -262,6 +254,7 @@ export default function App() {
             </button>
 
             <div style={{ marginTop: 30 }}>
+              {/* 🟣 DAILY BUTTON */}
               <button
                 onClick={startDaily}
                 style={{
@@ -280,54 +273,70 @@ export default function App() {
         </>
       )}
 
-      {/* Daily Tryb */}
+      {/* 🟢 NORMAL CATEGORY TRYB */}
+      {mode === "category" && currentSong && (
+        <GameView
+          title={`🎵 ${CATEGORY_NAMES[category]} Mode`}
+          onBack={() => {
+            setMode("menu");
+            setCategory(null);
+            clearTimers();
+          }}
+          {...{
+            currentSong,
+            snippetIndex,
+            displayedTime,
+            LEVELS,
+            audioRef,
+            isPlaying,
+            playSnippet,
+            stopSnippet,
+            skipToNext,
+            giveUp,
+            wrongAnswers,
+            isCorrect,
+            gameOver,
+            userGuess,
+            setUserGuess,
+            handleGuess,
+            isFullPlaying,
+            playFullSong,
+            stopFullSong,
+            startNewSong: () => startNewSong(filteredSongs),
+          }}
+        />
+      )}
+
+      {/* 🟣 DAILY TRYB */}
       {mode === "daily" && currentSong && (
         <>
-          <button
-            onClick={() => setMode("menu")}
-            style={{
-              position: "absolute",
-              top: 20,
-              left: 20,
-              background: "#555",
-              padding: "6px 10px",
-              borderRadius: 8,
-            }}
-          >
-            ⬅ Menu
-          </button>
-
           {!dailyComplete ? (
-            <>
-              <h2>
-                🎯 Daily {dailyIndex + 1} / {dailySongs.length} —{" "}
-                {currentSong.dailyCategory}
-              </h2>
-              <GameView
-                {...{
-                  currentSong,
-                  snippetIndex,
-                  displayedTime,
-                  LEVELS,
-                  audioRef,
-                  isPlaying,
-                  playSnippet,
-                  stopSnippet,
-                  skipToNext,
-                  giveUp,
-                  wrongAnswers,
-                  isCorrect,
-                  gameOver,
-                  userGuess,
-                  setUserGuess,
-                  handleGuess,
-                  isFullPlaying,
-                  playFullSong,
-                  stopFullSong,
-                  startNewSong: nextDailySong,
-                }}
-              />
-            </>
+            <GameView
+              title={`🎯 Daily ${dailyIndex + 1} / ${dailySongs.length} — ${currentSong.dailyCategory}`}
+              onBack={() => setMode("menu")}
+              {...{
+                currentSong,
+                snippetIndex,
+                displayedTime,
+                LEVELS,
+                audioRef,
+                isPlaying,
+                playSnippet,
+                stopSnippet,
+                skipToNext,
+                giveUp,
+                wrongAnswers,
+                isCorrect,
+                gameOver,
+                userGuess,
+                setUserGuess,
+                handleGuess,
+                isFullPlaying,
+                playFullSong,
+                stopFullSong,
+                startNewSong: nextDailySong,
+              }}
+            />
           ) : (
             <h2 style={{ marginTop: 100, fontSize: "2rem" }}>
               ✅ Daily ukończone!
@@ -339,8 +348,10 @@ export default function App() {
   );
 }
 
-// 🔹 Komponent wspólny
+// 🔹 Komponent wspólny dla gry
 function GameView({
+  title,
+  onBack,
   currentSong,
   snippetIndex,
   displayedTime,
@@ -364,6 +375,21 @@ function GameView({
 }) {
   return (
     <>
+      <button
+        onClick={onBack}
+        style={{
+          position: "absolute",
+          top: 20,
+          left: 20,
+          background: "#555",
+          padding: "6px 10px",
+          borderRadius: 8,
+        }}
+      >
+        ⬅ Wróć
+      </button>
+
+      <h2 style={{ marginBottom: 10, color: "#ccc" }}>{title}</h2>
       <h3>
         Fragment: <strong>{LEVELS[snippetIndex].label}</strong>
       </h3>
