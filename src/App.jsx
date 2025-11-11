@@ -7,7 +7,7 @@ const manualDaily = {
   "2025-11-11": [
     {
       title: "Problem (feat. Iggy Azalea)",
-      artist: "Harry Ariana Grande",
+      artist: "Ariana Grande",
       cover: "/songs/covers/everything.jpg",
       snippet: "/songs/pop/problem.mp3",
       categories: ["pop"],
