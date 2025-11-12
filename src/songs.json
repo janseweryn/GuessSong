@@ -2350,5 +2350,40 @@
     "categories": ["Rock", "Rock 80s"],
     "snippet": "/songs/rock/about_girl.mp3",
     "cover": "/songs/covers/bleach.jpg"
+  },
+  {
+   "title": "Kill Bill",
+    "artist": "SZA",  
+    "categories": ["Pop", "Pop 20s"],
+    "snippet": "/songs/pop/kill_bill.mp3",
+    "cover": "/songs/covers/sos.jpg"
+  },
+  {
+   "title": "Snooze",
+    "artist": "SZA",  
+    "categories": ["Pop", "Pop 20s"],
+    "snippet": "/songs/pop/snooze.mp3",
+    "cover": "/songs/covers/sos.jpg"
+  },
+  {
+   "title": "Good Days",
+    "artist": "SZA",  
+    "categories": ["Pop", "Pop 20s"],
+    "snippet": "/songs/pop/good_days.mp3",
+    "cover": "/songs/covers/sos.jpg"
+  },
+  {
+   "title": "Shirt",
+    "artist": "SZA",  
+    "categories": ["Pop", "Pop 20s"],
+    "snippet": "/songs/pop/shirt.mp3",
+    "cover": "/songs/covers/sos.jpg"
+  },
+  {
+   "title": "Open Arms (feat. Travis Scott)",
+    "artist": "SZA",  
+    "categories": ["Pop", "Pop 20s"],
+    "snippet": "/songs/pop/open_arms.mp3",
+    "cover": "/songs/covers/sos.jpg"
   }
 ]
