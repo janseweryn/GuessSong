@@ -2028,5 +2028,327 @@
     "categories": ["Pop", "Pop 10s"],
     "snippet": "/songs/pop/doubt.mp3",
     "cover": "/songs/covers/blurry.jpg"
+  },
+  {
+    "title": "Tear In My Heart",
+    "artist": "Twenty One Pilots",  
+    "categories": ["Pop", "Pop 10s"],
+    "snippet": "/songs/pop/tear_heart.mp3",
+    "cover": "/songs/covers/blurry.jpg"
+  },
+  {
+    "title": "Car Radio",
+    "artist": "Twenty One Pilots",  
+    "categories": ["Pop", "Pop 10s"],
+    "snippet": "/songs/pop/car_radio.mp3",
+    "cover": "/songs/covers/vessel.jpg"
+  },
+  {
+    "title": "Heathens",
+    "artist": "Twenty One Pilots",  
+    "categories": ["Pop", "Pop 10s"],
+    "snippet": "/songs/pop/heathens.mp3",
+    "cover": "/songs/covers/heathens.jpg"
+  },
+  {
+    "title": "My Love Mine All Mine",
+    "artist": "Mitski",  
+    "categories": ["Pop", "Pop 20s"],
+    "snippet": "/songs/pop/my_love.mp3",
+    "cover": "/songs/covers/land.jpg"
+  },
+  {
+    "title": "Washing Machine Heart",
+    "artist": "Mitski",  
+    "categories": ["Pop", "Pop 10s"],
+    "snippet": "/songs/pop/washing_machine.mp3",
+    "cover": "/songs/covers/cowboy.jpg"
+  },
+  {
+    "title": "I Bet On Losing Dogs",
+    "artist": "Mitski",  
+    "categories": ["Pop", "Pop 10s"],
+    "snippet": "/songs/pop/losing_dogs.mp3",
+    "cover": "/songs/covers/puberty.jpg"
+  },
+  {
+    "title": "Francis Forever",
+    "artist": "Mitski",  
+    "categories": ["Pop", "Pop 10s"],
+    "snippet": "/songs/pop/francis.mp3",
+    "cover": "/songs/covers/buryme.jpg"
+  },
+  {
+    "title": "Creep (Acoustic)",
+    "artist": "Radiohead",  
+    "categories": ["Rock", "Rock 90s"],
+    "snippet": "/songs/rock/creep.mp3",
+    "cover": "/songs/covers/honey.jpg"
+  },
+{
+    "title": "Let Down",
+    "artist": "Radiohead",  
+    "categories": ["Rock", "Rock 90s"],
+    "snippet": "/songs/rock/let_down.mp3",
+    "cover": "/songs/covers/computer.jpg"
+  },
+  {
+    "title": "No Surprises",
+    "artist": "Radiohead",  
+    "categories": ["Rock", "Rock 90s"],
+    "snippet": "/songs/rock/surprises.mp3",
+    "cover": "/songs/covers/computer.jpg"
+  },
+  {
+    "title": "Karma Police",
+    "artist": "Radiohead",  
+    "categories": ["Rock", "Rock 90s"],
+    "snippet": "/songs/rock/karma_police.mp3",
+    "cover": "/songs/covers/computer.jpg"
+  },
+  {
+    "title": "All I Need",
+    "artist": "Radiohead",  
+    "categories": ["Rock", "Rock 00s"],
+    "snippet": "/songs/rock/all_need.mp3",
+    "cover": "/songs/covers/rainbows.jpg"
+  },
+  {
+    "title": "Fake Plastic Trees",
+    "artist": "Radiohead",  
+    "categories": ["Rock", "Rock 90s"],
+    "snippet": "/songs/rock/fake_plastic.mp3",
+    "cover": "/songs/covers/bends.jpg"
+  },
+  {
+    "title": "High And Dry",
+    "artist": "Radiohead",  
+    "categories": ["Rock", "Rock 90s"],
+    "snippet": "/songs/rock/high_dry.mp3",
+    "cover": "/songs/covers/bends.jpg"
+  },
+  {
+    "title": "Jigsaw Falling Into Place",
+    "artist": "Radiohead",  
+    "categories": ["Rock", "Rock 00s"],
+    "snippet": "/songs/rock/jigsaw.mp3",
+    "cover": "/songs/covers/rainbows.jpg"
+  },
+  {
+    "title": "Weird Fishes / Arpeggi",
+    "artist": "Radiohead",  
+    "categories": ["Rock", "Rock 00s"],
+    "snippet": "/songs/rock/weird_fishes.mp3",
+    "cover": "/songs/covers/rainbows.jpg"
+  },
+  {
+    "title": "Everywhere I Go",
+    "artist": "Hollywood Undead",  
+    "categories": ["Rock", "Rock 00s"],
+    "snippet": "/songs/rock/everywhere_go.mp3",
+    "cover": "/songs/covers/swan.jpg"
+  },
+  {
+    "title": "Undead",
+    "artist": "Hollywood Undead",  
+    "categories": ["Rock", "Rock 00s"],
+    "snippet": "/songs/rock/undead.mp3",
+    "cover": "/songs/covers/swan.jpg"
+  },
+  {
+    "title": "Bullet",
+    "artist": "Hollywood Undead",  
+    "categories": ["Rock", "Rock 10s"],
+    "snippet": "/songs/rock/bullet.mp3",
+    "cover": "/songs/covers/tragedy.jpg"
+  },
+  {
+    "title": "Comin' In Hot",
+    "artist": "Hollywood Undead",  
+    "categories": ["Rock", "Rock 10s"],
+    "snippet": "/songs/rock/comin_hot.mp3",
+    "cover": "/songs/covers/tragedy.jpg"
+  },
+  {
+    "title": "Day Of The Dead",
+    "artist": "Hollywood Undead",  
+    "categories": ["Rock", "Rock 10s"],
+    "snippet": "/songs/rock/day_dead.mp3",
+    "cover": "/songs/covers/daydead.jpg"
+  },
+  {
+    "title": "Kiss Me More (feat. SZA)",
+    "artist": "Doja Cat",  
+    "categories": ["Pop", "Pop 20s"],
+    "snippet": "/songs/pop/kiss_more.mp3",
+    "cover": "/songs/covers/her.jpg"
+  },
+  {
+    "title": "Woman",
+    "artist": "Doja Cat",  
+    "categories": ["Pop", "Pop 20s"],
+    "snippet": "/songs/pop/woman.mp3",
+    "cover": "/songs/covers/her.jpg"
+  },
+  {
+    "title": "Need To Know",
+    "artist": "Doja Cat",  
+    "categories": ["Pop", "Pop 20s"],
+    "snippet": "/songs/pop/need_know.mp3",
+    "cover": "/songs/covers/her.jpg"
+  },
+  {
+    "title": "You Right",
+    "artist": "Doja Cat & The Weeknd",  
+    "categories": ["Pop", "Pop 20s"],
+    "snippet": "/songs/pop/you_right.mp3",
+    "cover": "/songs/covers/her.jpg"
+  },
+  {
+    "title": "Say So",
+    "artist": "Doja Cat",  
+    "categories": ["Pop", "Pop 10s"],
+    "snippet": "/songs/pop/sayso.mp3",
+    "cover": "/songs/covers/pink.jpg"
+  },
+  {
+    "title": "Streets",
+    "artist": "Doja Cat",  
+    "categories": ["Pop", "Pop 10s"],
+    "snippet": "/songs/pop/streets.mp3",
+    "cover": "/songs/covers/pink.jpg"
+  },
+  {
+    "title": "Paint The Town Red",
+    "artist": "Doja Cat",  
+    "categories": ["Pop", "Pop 20s"],
+    "snippet": "/songs/pop/town_red.mp3",
+    "cover": "/songs/covers/scarlet.jpg"
+  },
+  {
+    "title": "Agora Hills",
+    "artist": "Doja Cat",  
+    "categories": ["Pop", "Pop 20s"],
+    "snippet": "/songs/pop/agora.mp3",
+    "cover": "/songs/covers/scarlet.jpg"
+  },
+  {
+   "title": "Scar Tissue",
+    "artist": "Red Hot Chili Peppers",  
+    "categories": ["Rock", "Rock 90s"],
+    "snippet": "/songs/rock/scar_tissue.mp3",
+    "cover": "/songs/covers/califo.jpg"
+  },
+  {
+   "title": "Otherside",
+    "artist": "Red Hot Chili Peppers",  
+    "categories": ["Rock", "Rock 90s"],
+    "snippet": "/songs/rock/otherside.mp3",
+    "cover": "/songs/covers/califo.jpg"
+  },
+  {
+   "title": "Californication",
+    "artist": "Red Hot Chili Peppers",  
+    "categories": ["Rock", "Rock 90s"],
+    "snippet": "/songs/rock/californication.mp3",
+    "cover": "/songs/covers/califo.jpg"
+  },
+  {
+   "title": "Can't Stop",
+    "artist": "Red Hot Chili Peppers",  
+    "categories": ["Rock", "Rock 00s"],
+    "snippet": "/songs/rock/cant_stop.mp3",
+    "cover": "/songs/covers/byway.jpg"
+  },
+  {
+   "title": "By The Way",
+    "artist": "Red Hot Chili Peppers",  
+    "categories": ["Rock", "Rock 00s"],
+    "snippet": "/songs/rock/by_way.mp3",
+    "cover": "/songs/covers/byway.jpg"
+  },
+  {
+   "title": "Dani California",
+    "artist": "Red Hot Chili Peppers",  
+    "categories": ["Rock", "Rock 00s"],
+    "snippet": "/songs/rock/dani.mp3",
+    "cover": "/songs/covers/stadium.jpg"
+  },
+  {
+   "title": "Snow (Hey Oh)",
+    "artist": "Red Hot Chili Peppers",  
+    "categories": ["Rock", "Rock 00s"],
+    "snippet": "/songs/rock/snow.mp3",
+    "cover": "/songs/covers/stadium.jpg"
+  },
+  {
+   "title": "Under The Bridge",
+    "artist": "Red Hot Chili Peppers",  
+    "categories": ["Rock", "Rock 00s"],
+    "snippet": "/songs/rock/under_bridge.mp3",
+    "cover": "/songs/covers/bloodsugar.jpg"
+  },
+  {
+   "title": "Dark Necessities",
+    "artist": "Red Hot Chili Peppers",  
+    "categories": ["Rock", "Rock 10s"],
+    "snippet": "/songs/rock/dark_nes.mp3",
+    "cover": "/songs/covers/getaway.jpg"
+  },
+  {
+   "title": "Smells Like Teen Spirit",
+    "artist": "Nirvana",  
+    "categories": ["Rock", "Rock 90s"],
+    "snippet": "/songs/rock/teen_spirit.mp3",
+    "cover": "/songs/covers/nevermind.jpg"
+  },
+  {
+   "title": "Come As You Are",
+    "artist": "Nirvana",  
+    "categories": ["Rock", "Rock 90s"],
+    "snippet": "/songs/rock/come_are.mp3",
+    "cover": "/songs/covers/nevermind.jpg"
+  },
+  {
+   "title": "Something In The Way",
+    "artist": "Nirvana",  
+    "categories": ["Rock", "Rock 90s"],
+    "snippet": "/songs/rock/something_way.mp3",
+    "cover": "/songs/covers/nevermind.jpg"
+  },
+  {
+   "title": "Lithium",
+    "artist": "Nirvana",  
+    "categories": ["Rock", "Rock 90s"],
+    "snippet": "/songs/rock/lithium.mp3",
+    "cover": "/songs/covers/nevermind.jpg"
+  },
+  {
+   "title": "In Bloom",
+    "artist": "Nirvana",  
+    "categories": ["Rock", "Rock 90s"],
+    "snippet": "/songs/rock/bloom.mp3",
+    "cover": "/songs/covers/nevermind.jpg"
+  },
+  {
+   "title": "Heart-Shaped Box",
+    "artist": "Nirvana",  
+    "categories": ["Rock", "Rock 90s"],
+    "snippet": "/songs/rock/heart_box.mp3",
+    "cover": "/songs/covers/utero.jpg"
+  },
+  {
+   "title": "Dumb",
+    "artist": "Nirvana",  
+    "categories": ["Rock", "Rock 90s"],
+    "snippet": "/songs/rock/dumb.mp3",
+    "cover": "/songs/covers/utero.jpg"
+  },
+  {
+   "title": "About A Girl",
+    "artist": "Nirvana",  
+    "categories": ["Rock", "Rock 80s"],
+    "snippet": "/songs/rock/about_girl.mp3",
+    "cover": "/songs/covers/bleach.jpg"
   }
 ]

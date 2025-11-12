@@ -4,7 +4,33 @@ import SearchBar from "./components/SearchBar";
 
 // 🟢 RĘCZNIE DEFINIOWANE DAILY
 const manualDaily = {
-  "2025-11-11": [
+  "2025-11-12": [
+    {
+      title: "Problem (feat. Iggy Azalea)",
+      artist: "Ariana Grande",
+      cover: "/songs/covers/everything.jpg",
+      snippet: "/songs/pop/problem.mp3",
+      categories: ["pop"],
+      dailyCategory: "Pop",
+    },
+    {
+      title: "Boys Don't Cry (Single Version)",
+      artist: "The Cure",
+      cover: "/songs/covers/threeimaginary.jpg",
+      snippet: "/songs/rock/boys_dont_cry.mp3",
+      categories: ["rock"],
+      dailyCategory: "Rock",
+    },
+    {
+      title: "All The Stars",
+      artist: "Kendrick Lamar, SZA",
+      cover: "/songs/covers/panter.jpg",
+      snippet: "/songs/rap/all_stars.mp3",
+      categories: ["rap"],
+      dailyCategory: "Rap",
+    },
+  ],
+  "2025-11-13": [
     {
       title: "Problem (feat. Iggy Azalea)",
       artist: "Ariana Grande",
@@ -49,15 +75,27 @@ const CATEGORY_NAMES = {
   rock: "Rock",
   rap: "Rap",
 };
-
+console.log("Polska data:", warsawTime.toISOString().split("T")[0], "Godzina:", warsawTime.toTimeString());
 // 🟡 Pobiera ręczne daily zdefiniowane na dziś
 function getManualDailySongs() {
-  const today = new Date();
-  const offset = today.getTimezoneOffset();
-  const polandTime = new Date(today.getTime() + (offset + 60) * 60000);
-  const dateKey = polandTime.toISOString().split("T")[0];
+  // 🔹 Tworzymy obiekt czasu lokalnego w strefie "Europe/Warsaw"
+  const now = new Date();
+  const warsawTime = new Date(
+    now.toLocaleString("en-US", { timeZone: "Europe/Warsaw" })
+  );
+
+  // 🔹 Jeśli jest przed 6:00 rano, pokazujemy wczorajsze daily
+  if (warsawTime.getHours() < 6) {
+    warsawTime.setDate(warsawTime.getDate() - 1);
+  }
+
+  // 🔹 Tworzymy klucz w formacie "YYYY-MM-DD"
+  const dateKey = warsawTime.toISOString().split("T")[0];
+
+  // 🔹 Zwracamy daily zdefiniowane ręcznie
   return manualDaily[dateKey] || null;
 }
+
 
 export default function App() {
   const [mode, setMode] = useState("menu"); // "menu" | "category" | "daily"
