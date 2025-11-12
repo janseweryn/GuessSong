@@ -1267,7 +1267,7 @@
     "cover": "/songs/covers/1999.jpg"
   },
   {
-    "title": "Boys Don't Cry (Single Version)",
+    "title": "Boys Don't Cry",
     "artist": "The Cure",
     "categories": ["Rock", "Rock 70s"],
     "snippet": "/songs/rock/boys_dont_cry.mp3",
@@ -1365,7 +1365,7 @@
     "cover": "/songs/covers/ktl.jpg"
   },
   {
-    "title": "DDU-DU-DDU-DU",
+    "title": "DDU-DU DDU-DU",
     "artist": "Blackpink",
     "categories": ["Pop", "Pop 10s"],
     "snippet": "/songs/pop/ddu.mp3",

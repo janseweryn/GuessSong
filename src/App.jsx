@@ -30,6 +30,32 @@ const manualDaily = {
       dailyCategory: "Rap",
     },
   ],
+  "2025-11-13": [
+    {
+      title: "Problem (feat. Iggy Azalea)",
+      artist: "Ariana Grande",
+      cover: "/songs/covers/everything.jpg",
+      snippet: "/songs/pop/problem.mp3",
+      categories: ["pop"],
+      dailyCategory: "Pop",
+    },
+    {
+      title: "Boys Don't Cry (Single Version)",
+      artist: "The Cure",
+      cover: "/songs/covers/threeimaginary.jpg",
+      snippet: "/songs/rock/boys_dont_cry.mp3",
+      categories: ["rock"],
+      dailyCategory: "Rock",
+    },
+    {
+      title: "All The Stars",
+      artist: "Kendrick Lamar, SZA",
+      cover: "/songs/covers/panter.jpg",
+      snippet: "/songs/rap/all_stars.mp3",
+      categories: ["rap"],
+      dailyCategory: "Rap",
+    },
+  ],
 };
 
 const LEVELS = [
@@ -310,43 +336,57 @@ export default function App() {
         />
       )}
 
-      {/* 🟣 DAILY TRYB */}
       {mode === "daily" && currentSong && (
-        <>
-          {!dailyComplete ? (
-            <GameView
-              title={`🎯 Daily ${dailyIndex + 1} / ${dailySongs.length} — ${currentSong.dailyCategory}`}
-              onBack={() => setMode("menu")}
-              {...{
-                currentSong,
-                snippetIndex,
-                displayedTime,
-                LEVELS,
-                audioRef,
-                isPlaying,
-                playSnippet,
-                stopSnippet,
-                skipToNext,
-                giveUp,
-                wrongAnswers,
-                isCorrect,
-                gameOver,
-                userGuess,
-                setUserGuess,
-                handleGuess,
-                isFullPlaying,
-                playFullSong,
-                stopFullSong,
-                startNewSong: nextDailySong,
-              }}
-            />
-          ) : (
-            <h2 style={{ marginTop: 100, fontSize: "2rem" }}>
-              ✅ Daily ukończone!
-            </h2>
-          )}
-        </>
-      )}
+  <>
+    {!dailyComplete ? (
+      <GameView
+        title={`🎯 Daily ${dailyIndex + 1} / ${dailySongs.length} — ${currentSong.dailyCategory}`}
+        onBack={() => setMode("menu")}
+        {...{
+          currentSong,
+          snippetIndex,
+          displayedTime,
+          LEVELS,
+          audioRef,
+          isPlaying,
+          playSnippet,
+          stopSnippet,
+          skipToNext,
+          giveUp,
+          wrongAnswers,
+          isCorrect,
+          gameOver,
+          userGuess,
+          setUserGuess,
+          handleGuess,
+          isFullPlaying,
+          playFullSong,
+          stopFullSong,
+          startNewSong: nextDailySong,
+        }}
+      />
+    ) : (
+      <div style={{ marginTop: 100, textAlign: "center" }}>
+        <h2 style={{ fontSize: "2rem", marginBottom: 20 }}>
+          ✅ Daily ukończone!
+        </h2>
+        <button
+          onClick={() => setMode("menu")}
+          style={{
+            background: "#555",
+            color: "white",
+            padding: "10px 16px",
+            borderRadius: 10,
+            fontWeight: "bold",
+          }}
+        >
+          ⬅ Wróć na stronę główną
+        </button>
+      </div>
+    )}
+  </>
+)}
+
     </div>
   );
 }
