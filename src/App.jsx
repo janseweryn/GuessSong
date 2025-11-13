@@ -4,7 +4,7 @@ import SearchBar from "./components/SearchBar";
 
 // 🟢 RĘCZNIE DEFINIOWANE DAILY
 const manualDaily = {
-  "2025-11-12": [
+  "2025-11-13": [
     {
       title: "Problem (feat. Iggy Azalea)",
       artist: "Ariana Grande",
@@ -14,7 +14,7 @@ const manualDaily = {
       dailyCategory: "Pop",
     },
     {
-      title: "Boys Don't Cry (Single Version)",
+      title: "Boys Don't Cry",
       artist: "The Cure",
       cover: "/songs/covers/threeimaginary.jpg",
       snippet: "/songs/rock/boys_dont_cry.mp3",
@@ -30,28 +30,80 @@ const manualDaily = {
       dailyCategory: "Rap",
     },
   ],
-  "2025-11-13": [
+  "2025-11-14": [
     {
-      title: "Problem (feat. Iggy Azalea)",
-      artist: "Ariana Grande",
-      cover: "/songs/covers/everything.jpg",
-      snippet: "/songs/pop/problem.mp3",
+      title: "Summer",
+      artist: "Calvin Harris",
+      cover: "/songs/covers/motion.jpg",
+      snippet: "/songs/pop/summer.mp3",
       categories: ["pop"],
       dailyCategory: "Pop",
     },
     {
-      title: "Boys Don't Cry (Single Version)",
-      artist: "The Cure",
-      cover: "/songs/covers/threeimaginary.jpg",
-      snippet: "/songs/rock/boys_dont_cry.mp3",
+      title: "Animal I Have Become",
+      artist: "Three Days Grace",
+      cover: "/songs/covers/onex.jpg",
+      snippet: "/songs/rock/animal_become.mp3",
       categories: ["rock"],
       dailyCategory: "Rock",
     },
     {
-      title: "All The Stars",
-      artist: "Kendrick Lamar, SZA",
-      cover: "/songs/covers/panter.jpg",
-      snippet: "/songs/rap/all_stars.mp3",
+      title: "Rockstar",
+      artist: "Lisa",
+      cover: "/songs/covers/alterego.jpg",
+      snippet: "/songs/pop/rockstar_l.mp3",
+      categories: ["rap"],
+      dailyCategory: "Rap",
+    },
+  ],
+  "2025-11-15": [
+    {
+      title: "Royals",
+      artist: "Lorde",
+      cover: "/songs/covers/pure.jpg",
+      snippet: "/songs/pop/royals.mp3",
+      categories: ["pop"],
+      dailyCategory: "Pop",
+    },
+    {
+      title: "505",
+      artist: "Arctic Monkeys",
+      cover: "/songs/covers/nightmare.jpg",
+      snippet: "/songs/rock/505.mp3",
+      categories: ["rock"],
+      dailyCategory: "Rock",
+    },
+    {
+      title: "Creepin'",
+      artist: "Metro Boomin, The Weeknd & 21 Savage",
+      cover: "/songs/covers/heroes.jpg",
+      snippet: "/songs/rap/creepin.mp3",
+      categories: ["rap"],
+      dailyCategory: "Rap",
+    },
+  ],
+  "2025-11-16": [
+    {
+      title: "360",
+      artist: "Charli xcx",
+      cover: "/songs/covers/brat.jpg",
+      snippet: "/songs/pop/360.mp3",
+      categories: ["pop"],
+      dailyCategory: "Pop",
+    },
+    {
+      title: "Dani California",
+      artist: "Red Hot Chili Peppers",
+      cover: "/songs/covers/stadium.jpg",
+      snippet: "/songs/rock/dani.mp3",
+      categories: ["rock"],
+      dailyCategory: "Rock",
+    },
+    {
+      title: "Highest In The Room'",
+      artist: "Travis Scott",
+      cover: "/songs/covers/highestroom.jpg",
+      snippet: "/songs/rap/highest_room.mp3",
       categories: ["rap"],
       dailyCategory: "Rap",
     },

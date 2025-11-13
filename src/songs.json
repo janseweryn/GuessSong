@@ -2385,5 +2385,545 @@
     "categories": ["Pop", "Pop 20s"],
     "snippet": "/songs/pop/open_arms.mp3",
     "cover": "/songs/covers/sos.jpg"
+  },
+  {
+   "title": "Saturn",
+    "artist": "SZA",  
+    "categories": ["Pop", "Pop 20s"],
+    "snippet": "/songs/pop/saturn.mp3",
+    "cover": "/songs/covers/soslana.jpg"
+  },
+  {
+   "title": "Nobody Gets Me",
+    "artist": "SZA",  
+    "categories": ["Pop", "Pop 20s"],
+    "snippet": "/songs/pop/gets_me.mp3",
+    "cover": "/songs/covers/sos.jpg"
+  },
+  {
+   "title": "Love Galore (feat. Travis Scott)",
+    "artist": "SZA",  
+    "categories": ["Pop", "Pop 10s"],
+    "snippet": "/songs/pop/galore.mp3",
+    "cover": "/songs/covers/ctlr.png"
+  },
+  {
+   "title": "Broken Clocks",
+    "artist": "SZA",  
+    "categories": ["Pop", "Pop 10s"],
+    "snippet": "/songs/pop/broken_clocks.mp3",
+    "cover": "/songs/covers/ctlr.jpg"
+  },
+  {
+   "title": "Piano Man",
+    "artist": "Billy Joel",  
+    "categories": ["Rock", "Rock 70s"],
+    "snippet": "/songs/rock/piano_man.mp3",
+    "cover": "/songs/covers/piano.jpg"
+  },
+  {
+   "title": "Vienna",
+    "artist": "Billy Joel",  
+    "categories": ["Rock", "Rock 70s"],
+    "snippet": "/songs/rock/vienna.mp3",
+    "cover": "/songs/covers/stranger.jpg"
+  },
+  {
+   "title": "Uptown Girl",
+    "artist": "Billy Joel",  
+    "categories": ["Rock", "Rock 80s"],
+    "snippet": "/songs/rock/uptown_girl.mp3",
+    "cover": "/songs/covers/innocent.jpg"
+  },
+  {
+   "title": "She's Always A Woman",
+    "artist": "Billy Joel",  
+    "categories": ["Rock", "Rock 70s"],
+    "snippet": "/songs/rock/always_woman.mp3",
+    "cover": "/songs/covers/stranger.jpg"
+  },
+  {
+   "title": "We Didn't Start The Fire",
+    "artist": "Billy Joel",  
+    "categories": ["Rock", "Rock 80s"],
+    "snippet": "/songs/rock/start_fire.mp3",
+    "cover": "/songs/covers/storm.jpg"
+  },
+  {
+   "title": "Just The Way You Are",
+    "artist": "Billy Joel",  
+    "categories": ["Rock", "Rock 70s"],
+    "snippet": "/songs/rock/way_are.mp3",
+    "cover": "/songs/covers/stranger.jpg"
+  },
+  {
+   "title": "It's Still Rock And Roll To Me",
+    "artist": "Billy Joel",  
+    "categories": ["Rock", "Rock 80s"],
+    "snippet": "/songs/rock/still_rock.mp3",
+    "cover": "/songs/covers/glass.jpg"
+  },
+  {
+   "title": "Escapism.",
+    "artist": "RAYE & 070 Shake",  
+    "categories": ["Pop", "Pop 20s"],
+    "snippet": "/songs/pop/escapism.mp3",
+    "cover": "/songs/covers/21century.jpg"
+  },
+  {
+   "title": "Prada (feat. D-Block Europe)",
+    "artist": "cassö & RAYE",  
+    "categories": ["Pop", "Pop 20s"],
+    "snippet": "/songs/pop/prada.mp3",
+    "cover": "/songs/covers/21century.jpg"
+  },
+  {
+   "title": "TAKEDOWN (JEONGYEON, JIHYO, CHAEYOUNG)",
+    "artist": "Twice",  
+    "categories": ["Pop", "Pop 20s"],
+    "snippet": "/songs/pop/takedown.mp3",
+    "cover": "/songs/covers/thisfor2.jpg"
+  },
+  {
+   "title": "Strategy",
+    "artist": "Twice",  
+    "categories": ["Pop", "Pop 20s"],
+    "snippet": "/songs/pop/strategy.mp3",
+    "cover": "/songs/covers/strategy.jpg"
+  },
+  {
+   "title": "This Is For",
+    "artist": "Twice",  
+    "categories": ["Pop", "Pop 20s"],
+    "snippet": "/songs/pop/this_for.mp3",
+    "cover": "/songs/covers/thisfor.jpg"
+  },
+  {
+   "title": "What Is Love?",
+    "artist": "Twice",  
+    "categories": ["Pop", "Pop 10s"],
+    "snippet": "/songs/pop/what_love.mp3",
+    "cover": "/songs/covers/summernights.jpg"
+  },
+  {
+   "title": "The Feels",
+    "artist": "Twice",  
+    "categories": ["Pop", "Pop 20s"],
+    "snippet": "/songs/pop/the_feels.mp3",
+    "cover": "/songs/covers/formula.jpg"
+  },
+  {
+   "title": "Fancy",
+    "artist": "Twice",  
+    "categories": ["Pop", "Pop 10s"],
+    "snippet": "/songs/pop/fancy.mp3",
+    "cover": "/songs/covers/fancytwice.jpg"
+  },
+  {
+   "title": "I Can't Stop Me",
+    "artist": "Twice",  
+    "categories": ["Pop", "Pop 20s"],
+    "snippet": "/songs/pop/cant_stop.mp3",
+    "cover": "/songs/covers/eyeswide.jpg"
+  },
+  {
+   "title": "Feel Special",
+    "artist": "Twice",  
+    "categories": ["Pop", "Pop 10s"],
+    "snippet": "/songs/pop/feel_special.mp3",
+    "cover": "/songs/covers/feelspecial.jpg"
+  },
+  {
+   "title": "Likey",
+    "artist": "Twice",  
+    "categories": ["Pop", "Pop 10s"],
+    "snippet": "/songs/pop/likey.mp3",
+    "cover": "/songs/covers/twicetagram.jpg"
+  },
+  {
+   "title": "TT",
+    "artist": "Twice",  
+    "categories": ["Pop", "Pop 10s"],
+    "snippet": "/songs/pop/tt.mp3",
+    "cover": "/songs/covers/twicecoaster.jpg"
+  },
+  {
+   "title": "Yes Or Yes",
+    "artist": "Twice",  
+    "categories": ["Pop", "Pop 10s"],
+    "snippet": "/songs/pop/yes.mp3",
+    "cover": "/songs/covers/yes.jpg"
+  },
+  {
+   "title": "Whiplash",
+    "artist": "Aespa",  
+    "categories": ["Pop", "Pop 20s"],
+    "snippet": "/songs/pop/whiplash.mp3",
+    "cover": "/songs/covers/whiplash.jpg"
+  },
+  {
+   "title": "Supernova",
+    "artist": "Aespa",  
+    "categories": ["Pop", "Pop 20s"],
+    "snippet": "/songs/pop/supernova.mp3",
+    "cover": "/songs/covers/arma.jpg"
+  },
+  {
+   "title": "Dirty Work",
+    "artist": "Aespa",  
+    "categories": ["Pop", "Pop 20s"],
+    "snippet": "/songs/pop/dirty_work.mp3",
+    "cover": "/songs/covers/dirtywork.jpg"
+  },
+  {
+   "title": "Drama",
+    "artist": "Aespa",  
+    "categories": ["Pop", "Pop 20s"],
+    "snippet": "/songs/pop/drama.mp3",
+    "cover": "/songs/covers/drama.jpg"
+  },
+  {
+   "title": "Armageddon",
+    "artist": "Aespa",  
+    "categories": ["Pop", "Pop 20s"],
+    "snippet": "/songs/pop/armageddon.mp3",
+    "cover": "/songs/covers/arma.jpg"
+  },
+  {
+   "title": "Lush Life",
+    "artist": "Zara Larsson",  
+    "categories": ["Pop", "Pop 10s"],
+    "snippet": "/songs/pop/lush_life.mp3",
+    "cover": "/songs/covers/sogood.jpg"
+  },
+  {
+   "title": "Symphony (feat. Zara Larsson)",
+    "artist": "Clean Bandit",  
+    "categories": ["Pop", "Pop 10s"],
+    "snippet": "/songs/pop/symphony.mp3",
+    "cover": "/songs/covers/symphony.jpg"
+  },
+  {
+   "title": "Where Is my Husband!",
+    "artist": "Raye",  
+    "categories": ["Pop", "Pop 20s"],
+    "snippet": "/songs/pop/husband.mp3",
+    "cover": "/songs/covers/husband.jpg"
+  },
+  {
+   "title": "This One's for You (feat. Zara Larsson) [Official Song UEFA EURO 2016™]",
+    "artist": "David Guetta",  
+    "categories": ["Pop", "Pop 10s"],
+    "snippet": "/songs/pop/this_one_you.mp3",
+    "cover": "/songs/covers/thisone.jpg"
+  },
+  {
+   "title": "The Fate Of Ophelia",
+    "artist": "Taylor Swift",  
+    "categories": ["Pop", "Pop 20s"],
+    "snippet": "/songs/pop/ophelia.mp3",
+    "cover": "/songs/covers/showgirl.jpg"
+  },
+  {
+   "title": "Fortnight (feat. Post Malone)",
+    "artist": "Taylor Swift",  
+    "categories": ["Pop", "Pop 20s"],
+    "snippet": "/songs/pop/fortnight.mp3",
+    "cover": "/songs/covers/tortury.jpg"
+  },
+  {
+   "title": "Lavender Haze",
+    "artist": "Taylor Swift",  
+    "categories": ["Pop", "Pop 20s"],
+    "snippet": "/songs/pop/lavender.mp3",
+    "cover": "/songs/covers/midnights.jpg"
+  },
+  {
+   "title": "Anti-Hero",
+    "artist": "Taylor Swift",  
+    "categories": ["Pop", "Pop 20s"],
+    "snippet": "/songs/pop/antihero.mp3",
+    "cover": "/songs/covers/midnights.jpg"
+  },
+  {
+   "title": "You're On Your Own, Kid",
+    "artist": "Taylor Swift",  
+    "categories": ["Pop", "Pop 20s"],
+    "snippet": "/songs/pop/own_kid.mp3",
+    "cover": "/songs/covers/midnights.jpg"
+  },
+  {
+   "title": "Willow",
+    "artist": "Taylor Swift",  
+    "categories": ["Pop", "Pop 20s"],
+    "snippet": "/songs/pop/willow.mp3",
+    "cover": "/songs/covers/evermore.jpg"
+  },
+  {
+   "title": "Cardigan",
+    "artist": "Taylor Swift",  
+    "categories": ["Pop", "Pop 20s"],
+    "snippet": "/songs/pop/cardigan.mp3",
+    "cover": "/songs/covers/folklore.jpg"
+  },
+  {
+   "title": "exile (feat. Bon Iver)",
+    "artist": "Taylor Swift",  
+    "categories": ["Pop", "Pop 20s"],
+    "snippet": "/songs/pop/exile.mp3",
+    "cover": "/songs/covers/folklore.jpg"
+  },
+  {
+   "title": "August",
+    "artist": "Taylor Swift",  
+    "categories": ["Pop", "Pop 20s"],
+    "snippet": "/songs/pop/august.mp3",
+    "cover": "/songs/covers/folklore.jpg"
+  },
+  {
+   "title": "Cruel Summer",
+    "artist": "Taylor Swift",  
+    "categories": ["Pop", "Pop 10s"],
+    "snippet": "/songs/pop/cruel_summer.mp3",
+    "cover": "/songs/covers/lover.jpg"
+  },
+  {
+   "title": "Lover",
+    "artist": "Taylor Swift",  
+    "categories": ["Pop", "Pop 10s"],
+    "snippet": "/songs/pop/lover.mp3",
+    "cover": "/songs/covers/lover.jpg"
+  },
+  {
+   "title": "You Need To Calm Down",
+    "artist": "Taylor Swift",  
+    "categories": ["Pop", "Pop 10s"],
+    "snippet": "/songs/pop/calm_down.mp3",
+    "cover": "/songs/covers/lover.jpg"
+  },
+  {
+   "title": "...Ready For It?",
+    "artist": "Taylor Swift",  
+    "categories": ["Pop", "Pop 10s"],
+    "snippet": "/songs/pop/ready_it.mp3",
+    "cover": "/songs/covers/reputation.jpg"
+  },
+  {
+   "title": "Don't Blame Me",
+    "artist": "Taylor Swift",  
+    "categories": ["Pop", "Pop 10s"],
+    "snippet": "/songs/pop/blame_me.mp3",
+    "cover": "/songs/covers/reputation.jpg"
+  },
+  {
+   "title": "Look What You Made Me Do",
+    "artist": "Taylor Swift",  
+    "categories": ["Pop", "Pop 10s"],
+    "snippet": "/songs/pop/look_what.mp3",
+    "cover": "/songs/covers/reputation.jpg"
+  },
+  {
+   "title": "Blank Space",
+    "artist": "Taylor Swift",  
+    "categories": ["Pop", "Pop 10s"],
+    "snippet": "/songs/pop/blank_space.mp3",
+    "cover": "/songs/covers/1989.jpg"
+  },
+  {
+   "title": "Shake If Off",
+    "artist": "Taylor Swift",  
+    "categories": ["Pop", "Pop 10s"],
+    "snippet": "/songs/pop/shake_off.mp3",
+    "cover": "/songs/covers/1989.jpg"
+  },
+  {
+   "title": "Bad Blood",
+    "artist": "Taylor Swift",  
+    "categories": ["Pop", "Pop 10s"],
+    "snippet": "/songs/pop/bad_blood.mp3",
+    "cover": "/songs/covers/1989.jpg"
+  },
+  {
+   "title": "I Knew You Were Trouble",
+    "artist": "Taylor Swift",  
+    "categories": ["Pop", "Pop 10s"],
+    "snippet": "/songs/pop/knew_trouble.mp3",
+    "cover": "/songs/covers/red.jpg"
+  },
+  {
+   "title": "We Are Never Ever Getting Back Together",
+    "artist": "Taylor Swift",  
+    "categories": ["Pop", "Pop 10s"],
+    "snippet": "/songs/pop/we_never_back.mp3",
+    "cover": "/songs/covers/red.jpg"
+  },
+  {
+   "title": "22",
+    "artist": "Taylor Swift",  
+    "categories": ["Pop", "Pop 10s"],
+    "snippet": "/songs/pop/22.mp3",
+    "cover": "/songs/covers/red.jpg"
+  },
+  {
+   "title": "Love Story",
+    "artist": "Taylor Swift",  
+    "categories": ["Pop", "Pop 00s"],
+    "snippet": "/songs/pop/love_story.mp3",
+    "cover": "/songs/covers/fearless.jpg"
+  },
+  {
+   "title": "You Belong With Me",
+    "artist": "Taylor Swift",  
+    "categories": ["Pop", "Pop 00s"],
+    "snippet": "/songs/pop/belong_me.mp3",
+    "cover": "/songs/covers/fearless.jpg"
+  },
+  {
+   "title": "Dracula",
+    "artist": "Tame Imapala",  
+    "categories": ["Pop", "Pop 20s", "Rock", "Rock 20s"],
+    "snippet": "/songs/pop/dracula.mp3",
+    "cover": "/songs/covers/deadbeat.jpg"
+  },
+  {
+   "title": "Loser",
+    "artist": "Tame Imapala",  
+    "categories": ["Pop", "Pop 20s", "Rock", "Rock 20s"],
+    "snippet": "/songs/pop/dracula.mp3",
+    "cover": "/songs/covers/deadbeat.jpg"
+  },
+  {
+   "title": "Borderline",
+    "artist": "Tame Imapala",  
+    "categories": ["Pop", "Pop 10s", "Rock", "Rock 10s"],
+    "snippet": "/songs/pop/bordeline.mp3",
+    "cover": "/songs/covers/slowrush.jpg"
+  },
+  {
+   "title": "Let It Happen",
+    "artist": "Tame Imapala",  
+    "categories": ["Pop", "Pop 10s", "Rock", "Rock 10s"],
+    "snippet": "/songs/pop/let_happen.mp3",
+    "cover": "/songs/covers/currents.jpg"
+  },
+  {
+   "title": "The Less I Know The Better",
+    "artist": "Tame Imapala",  
+    "categories": ["Pop", "Pop 10s", "Rock", "Rock 10s"],
+    "snippet": "/songs/pop/less_know.mp3",
+    "cover": "/songs/covers/currents.jpg"
+  },
+  {
+   "title": "New Person, Same Old Mistakes",
+    "artist": "Tame Imapala",  
+    "categories": ["Pop", "Pop 10s", "Rock", "Rock 10s"],
+    "snippet": "/songs/pop/new_person.mp3",
+    "cover": "/songs/covers/currents.jpg"
+  },
+  {
+   "title": "Feels Like We Only Go Backwards",
+    "artist": "Tame Imapala",  
+    "categories": ["Pop", "Pop 10s", "Rock", "Rock 10s"],
+    "snippet": "/songs/pop/feels_like.mp3",
+    "cover": "/songs/covers/lonerism.jpg"
+  },
+  {
+   "title": "Popular (feat. Playboi Carti) [Music from the HBO Original Series The Idol]",
+    "artist": "The Weeknd & Madonna",  
+    "categories": ["Pop", "Pop 20s"],
+    "snippet": "/songs/pop/popular.mp3",
+    "cover": "/songs/covers/popular.jpg"
+  },
+  {
+   "title": "La Isla Bonita",
+    "artist": "Madonna",  
+    "categories": ["Pop", "Pop 80s"],
+    "snippet": "/songs/pop/isla_bonita.mp3",
+    "cover": "/songs/covers/trueblue.jpg"
+  },
+  {
+   "title": "Hung Up",
+    "artist": "Madonna",  
+    "categories": ["Pop", "Pop 00s"],
+    "snippet": "/songs/pop/hung_up.mp3",
+    "cover": "/songs/covers/dancefloor.jpg"
+  },
+  {
+   "title": "Material Girl",
+    "artist": "Madonna",  
+    "categories": ["Pop", "Pop 80s"],
+    "snippet": "/songs/pop/material_girl.mp3",
+    "cover": "/songs/covers/likevirgin.jpg"
+  },
+  {
+   "title": "Vogue",
+    "artist": "Madonna",  
+    "categories": ["Pop", "Pop 90s"],
+    "snippet": "/songs/pop/vogue.mp3",
+    "cover": "/songs/covers/imma.jpg"
+  },
+  {
+   "title": "Like A Virgin",
+    "artist": "Madonna",  
+    "categories": ["Pop", "Pop 90s"],
+    "snippet": "/songs/pop/like_virgin.mp3",
+    "cover": "/songs/covers/likevirgin.jpg"
+  },
+  {
+   "title": "Papa Don't Preach",
+    "artist": "Madonna",  
+    "categories": ["Pop", "Pop 80s"],
+    "snippet": "/songs/pop/dont_preach.mp3",
+    "cover": "/songs/covers/trueblue.jpg"
+  },
+  {
+   "title": "Dreams",
+    "artist": "Fleetwood Mac",  
+    "categories": ["Rock", "Rock 70s"],
+    "snippet": "/songs/rock/dreams.mp3",
+    "cover": "/songs/covers/rumours.jpg"
+  },
+{
+   "title": "The Chain",
+    "artist": "Fleetwood Mac",  
+    "categories": ["Rock", "Rock 70s"],
+    "snippet": "/songs/rock/chain.mp3",
+    "cover": "/songs/covers/rumours.jpg"
+  },
+  {
+   "title": "Go Your Own Way",
+    "artist": "Fleetwood Mac",  
+    "categories": ["Rock", "Rock 70s"],
+    "snippet": "/songs/rock/own_way.mp3",
+    "cover": "/songs/covers/rumours.jpg"
+  },
+  {
+   "title": "Landslide",
+    "artist": "Fleetwood Mac",  
+    "categories": ["Rock", "Rock 70s"],
+    "snippet": "/songs/rock/landslide.mp3",
+    "cover": "/songs/covers/fleetwood.jpg"
+  },
+  {
+   "title": "Rhiannon",
+    "artist": "Fleetwood Mac",  
+    "categories": ["Rock", "Rock 70s"],
+    "snippet": "/songs/rock/rhiannon.mp3",
+    "cover": "/songs/covers/fleetwood.jpg"
+  },
+  {
+   "title": "Gypsy",
+    "artist": "Fleetwood Mac",  
+    "categories": ["Rock", "Rock 70s"],
+    "snippet": "/songs/rock/gypsy.mp3",
+    "cover": "/songs/covers/hits.jpg"
+  },
+  {
+   "title": "Man I Need",
+    "artist": "Olivia Dean",  
+    "categories": ["Pop", "Pop 20s"],
+    "snippet": "/songs/pop/man_need.mp3",
+    "cover": "/songs/covers/artloving.jpg"
   }
 ]
+
