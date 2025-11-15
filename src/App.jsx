@@ -4,58 +4,6 @@ import SearchBar from "./components/SearchBar";
 
 // 🟢 RĘCZNIE DEFINIOWANE DAILY
 const manualDaily = {
-  "2025-11-13": [
-    {
-      title: "Problem (feat. Iggy Azalea)",
-      artist: "Ariana Grande",
-      cover: "/songs/covers/everything.jpg",
-      snippet: "/songs/pop/problem.mp3",
-      categories: ["pop"],
-      dailyCategory: "Pop",
-    },
-    {
-      title: "Boys Don't Cry",
-      artist: "The Cure",
-      cover: "/songs/covers/threeimaginary.jpg",
-      snippet: "/songs/rock/boys_dont_cry.mp3",
-      categories: ["rock"],
-      dailyCategory: "Rock",
-    },
-    {
-      title: "All The Stars",
-      artist: "Kendrick Lamar, SZA",
-      cover: "/songs/covers/panter.jpg",
-      snippet: "/songs/rap/all_stars.mp3",
-      categories: ["rap"],
-      dailyCategory: "Rap",
-    },
-  ],
-  "2025-11-14": [
-    {
-      title: "Summer",
-      artist: "Calvin Harris",
-      cover: "/songs/covers/motion.jpg",
-      snippet: "/songs/pop/summer.mp3",
-      categories: ["pop"],
-      dailyCategory: "Pop",
-    },
-    {
-      title: "Animal I Have Become",
-      artist: "Three Days Grace",
-      cover: "/songs/covers/onex.jpg",
-      snippet: "/songs/rock/animal_become.mp3",
-      categories: ["rock"],
-      dailyCategory: "Rock",
-    },
-    {
-      title: "Rockstar",
-      artist: "Lisa",
-      cover: "/songs/covers/alterego.jpg",
-      snippet: "/songs/pop/rockstar_l.mp3",
-      categories: ["rap"],
-      dailyCategory: "Rap",
-    },
-  ],
   "2025-11-15": [
     {
       title: "Royals",
@@ -106,6 +54,84 @@ const manualDaily = {
       snippet: "/songs/rap/highest_room.mp3",
       categories: ["rap"],
       dailyCategory: "Rap",
+    },
+  ],
+  "2025-11-17": [
+    {
+      title: "The Motto",
+      artist: "Tiësto & Ava Max",
+      cover: "/songs/covers/drive.jpg",
+      snippet: "/songs/pop/motto.mp3",
+      categories: ["pop"],
+      dailyCategory: "Pop",
+    },
+    {
+      title: "Karma Police",
+      artist: "Radiohead",
+      cover: "/songs/covers/computer.jpg",
+      snippet: "/songs/rock/karma_police.mp3",
+      categories: ["rock"],
+      dailyCategory: "Rock",
+    },
+    {
+      title: "Fireball (feat. John Ryan)",
+      artist: "Pitbull",
+      cover: "/songs/covers/globalization.jpg",
+      snippet: "/songs/pop/fireball.mp3",
+      categories: ["rap"],
+      dailyCategory: "Rap", 
+    },
+  ],
+  "2025-11-18": [
+    {
+      title: "Lights",
+      artist: "Ellie Goulding",
+      cover: "/songs/covers/lights.jpg",
+      snippet: "/songs/pop/lights.mp3",
+      categories: ["pop"],
+      dailyCategory: "Pop",
+    },
+    {
+      title: "The Less I Know The Better",
+      artist: "Tame Impala",
+      cover: "/songs/covers/currents.jpg",
+      snippet: "/songs/pop/less_know.mp3",
+      categories: ["rock"],
+      dailyCategory: "Rock",
+    },
+    {
+      title: "Homecoming (feat. Chris Martin)",
+      artist: "Kanye West",
+      cover: "/songs/covers/graduation.jpg",
+      snippet: "/songs/rap/homecoming.mp3",
+      categories: ["rap"],
+      dailyCategory: "Rap", 
+    },
+  ],
+  "2025-11-19": [
+    {
+      title: "Symphony (feat. Zara Larsson)",
+      artist: "Clean Bandit",
+      cover: "/songs/covers/symphony.jpg",
+      snippet: "/songs/pop/symphony.mp3",
+      categories: ["pop"],
+      dailyCategory: "Pop",
+    },
+    {
+      title: "Piano Man",
+      artist: "Billy Joel",
+      cover: "/songs/covers/piano.jpg",
+      snippet: "/songs/rock/piano_man.mp3",
+      categories: ["rock"],
+      dailyCategory: "Rock",
+    },
+    {
+      title: "Mockingbird",
+      artist: "Eminem",
+      cover: "/songs/covers/encore.jpg",
+      snippet: "/songs/rap/bird.mp3",
+      categories: ["rap"],
+      dailyCategory: "Rap", 
     },
   ],
 };

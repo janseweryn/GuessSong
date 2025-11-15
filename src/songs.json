@@ -2780,49 +2780,49 @@
   },
   {
    "title": "Dracula",
-    "artist": "Tame Imapala",  
+    "artist": "Tame Impala",  
     "categories": ["Pop", "Pop 20s", "Rock", "Rock 20s"],
     "snippet": "/songs/pop/dracula.mp3",
     "cover": "/songs/covers/deadbeat.jpg"
   },
   {
    "title": "Loser",
-    "artist": "Tame Imapala",  
+    "artist": "Tame Impala",  
     "categories": ["Pop", "Pop 20s", "Rock", "Rock 20s"],
-    "snippet": "/songs/pop/dracula.mp3",
+    "snippet": "/songs/pop/loser.mp3",
     "cover": "/songs/covers/deadbeat.jpg"
   },
   {
    "title": "Borderline",
-    "artist": "Tame Imapala",  
+    "artist": "Tame Impala",  
     "categories": ["Pop", "Pop 10s", "Rock", "Rock 10s"],
-    "snippet": "/songs/pop/bordeline.mp3",
+    "snippet": "/songs/pop/borderline.mp3",
     "cover": "/songs/covers/slowrush.jpg"
   },
   {
    "title": "Let It Happen",
-    "artist": "Tame Imapala",  
+    "artist": "Tame Impala",  
     "categories": ["Pop", "Pop 10s", "Rock", "Rock 10s"],
     "snippet": "/songs/pop/let_happen.mp3",
     "cover": "/songs/covers/currents.jpg"
   },
   {
    "title": "The Less I Know The Better",
-    "artist": "Tame Imapala",  
+    "artist": "Tame Impala",  
     "categories": ["Pop", "Pop 10s", "Rock", "Rock 10s"],
     "snippet": "/songs/pop/less_know.mp3",
     "cover": "/songs/covers/currents.jpg"
   },
   {
    "title": "New Person, Same Old Mistakes",
-    "artist": "Tame Imapala",  
+    "artist": "Tame Impala",  
     "categories": ["Pop", "Pop 10s", "Rock", "Rock 10s"],
     "snippet": "/songs/pop/new_person.mp3",
     "cover": "/songs/covers/currents.jpg"
   },
   {
    "title": "Feels Like We Only Go Backwards",
-    "artist": "Tame Imapala",  
+    "artist": "Tame Impala",  
     "categories": ["Pop", "Pop 10s", "Rock", "Rock 10s"],
     "snippet": "/songs/pop/feels_like.mp3",
     "cover": "/songs/covers/lonerism.jpg"
@@ -2924,6 +2924,619 @@
     "categories": ["Pop", "Pop 20s"],
     "snippet": "/songs/pop/man_need.mp3",
     "cover": "/songs/covers/artloving.jpg"
+  },
+  {
+   "title": "Enter Sandman",
+    "artist": "Metallica",  
+    "categories": ["Rock", "Rock 90s"],
+    "snippet": "/songs/rock/sandman.mp3",
+    "cover": "/songs/covers/black.jpg"
+  },
+  {
+   "title": "Nothing Else Matters",
+    "artist": "Metallica",  
+    "categories": ["Rock", "Rock 90s"],
+    "snippet": "/songs/rock/else_matters.mp3",
+    "cover": "/songs/covers/black.jpg"
+  },
+  {
+   "title": "Sad But True",
+    "artist": "Metallica",  
+    "categories": ["Rock", "Rock 90s"],
+    "snippet": "/songs/rock/sad_true.mp3",
+    "cover": "/songs/covers/black.jpg"
+  },
+  {
+   "title": "Master Of Puppets",
+    "artist": "Metallica",  
+    "categories": ["Rock", "Rock 80s"],
+    "snippet": "/songs/rock/puppets.mp3",
+    "cover": "/songs/covers/puppets.jpg"
+  },
+  {
+   "title": "One",
+    "artist": "Metallica",  
+    "categories": ["Rock", "Rock 80s"],
+    "snippet": "/songs/rock/one.mp3",
+    "cover": "/songs/covers/justice.jpg"
+  },
+  {
+   "title": "For Whom The Bell Tolls",
+    "artist": "Metallica",  
+    "categories": ["Rock", "Rock 80s"],
+    "snippet": "/songs/rock/bell.mp3",
+    "cover": "/songs/covers/lighting.jpg"
+  },
+  {
+   "title": "Fuel",
+    "artist": "Metallica",  
+    "categories": ["Rock", "Rock 90s"],
+    "snippet": "/songs/rock/fuel.mp3",
+    "cover": "/songs/covers/reload.jpg"
+  },
+  {
+   "title": "Fade To Black",
+    "artist": "Metallica",  
+    "categories": ["Rock", "Rock 80s"],
+    "snippet": "/songs/rock/fade_black.mp3",
+    "cover": "/songs/covers/lighting.jpg"
+  },
+  {
+   "title": "Whiskey In The Jar",
+    "artist": "Metallica",  
+    "categories": ["Rock", "Rock 90s"],
+    "snippet": "/songs/rock/whiskey.mp3",
+    "cover": "/songs/covers/garage.jpg"
+  },
+  {
+   "title": "Seek & Destroy",
+    "artist": "Metallica",  
+    "categories": ["Rock", "Rock 80s"],
+    "snippet": "/songs/rock/sick_destroy.mp3",
+    "cover": "/songs/covers/killall.jpg"
+  },
+  {
+   "title": "Feel Good Inc",
+    "artist": "Gorillaz",  
+    "categories": ["Rock", "Rock 00s", "Pop", "Pop 00s"],
+    "snippet": "/songs/rock/feel_good.mp3",
+    "cover": "/songs/covers/demon.jpg"
+  },
+  {
+   "title": "On Melancholy Hill",
+    "artist": "Gorillaz",  
+    "categories": ["Rock", "Rock 10s", "Pop", "Pop 10s"],
+    "snippet": "/songs/rock/melancholy_hill.mp3",
+    "cover": "/songs/covers/plastic.jpg"
+  },
+  {
+   "title": "Clint Eastwood",
+    "artist": "Gorillaz",  
+    "categories": ["Rock", "Rock 00s", "Pop", "Pop 00s"],
+    "snippet": "/songs/rock/clint.mp3",
+    "cover": "/songs/covers/gorillaz.jpg"
+  },
+  {
+   "title": "Dare",
+    "artist": "Gorillaz",  
+    "categories": ["Rock", "Rock 00s", "Pop", "Pop 00s"],
+    "snippet": "/songs/rock/dare.mp3",
+    "cover": "/songs/covers/demon.jpg"
+  },
+  {
+   "title": "Rhinestone Eyes",
+    "artist": "Gorillaz",  
+    "categories": ["Rock", "Rock 10s", "Pop", "Pop 10s"],
+    "snippet": "/songs/rock/rhinestone.mp3",
+    "cover": "/songs/covers/plastic.jpg"
+  },
+  {
+   "title": "She's My Collar",
+    "artist": "Gorillaz",  
+    "categories": ["Rock", "Rock 10s", "Pop", "Pop 10s"],
+    "snippet": "/songs/rock/collar.mp3",
+    "cover": "/songs/covers/humanz.jpg"
+  },
+  {
+   "title": "New Gold (feat. Tame Impala and Bootie Brown) [Dom Dolla Remix] [Mixed] ",
+    "artist": "Gorillaz",  
+    "categories": ["Rock", "Rock 20s", "Pop", "Pop 20s"],
+    "snippet": "/songs/rock/new_gold.mp3",
+    "cover": "/songs/covers/cracker.jpg"
+  },
+  {
+   "title": "Dirty Harry",
+    "artist": "Gorillaz",  
+    "categories": ["Rock", "Rock 00s", "Pop", "Pop 00s"],
+    "snippet": "/songs/rock/dirty_harry.mp3",
+    "cover": "/songs/covers/demon.jpg"
+  },
+  {
+   "title": "Chop Suey!",
+    "artist": "System Of A Down",  
+    "categories": ["Rock", "Rock 00s"],
+    "snippet": "/songs/rock/chop_suey.mp3",
+    "cover": "/songs/covers/toxicity.jpg"
+  },
+  {
+   "title": "Toxicity",
+    "artist": "System Of A Down",  
+    "categories": ["Rock", "Rock 00s"],
+    "snippet": "/songs/rock/toxicity.mp3",
+    "cover": "/songs/covers/toxicity.jpg"
+  },
+  {
+   "title": "Aerials",
+    "artist": "System Of A Down",  
+    "categories": ["Rock", "Rock 00s"],
+    "snippet": "/songs/rock/aerials.mp3",
+    "cover": "/songs/covers/toxicity.jpg"
+  },
+  {
+   "title": "Lonely Day",
+    "artist": "System Of A Down",  
+    "categories": ["Rock", "Rock 00s"],
+    "snippet": "/songs/rock/lonely_day.mp3",
+    "cover": "/songs/covers/hypnotize.jpg"
+  },
+  {
+   "title": "Sugar (Clean Version)",
+    "artist": "System Of A Down",  
+    "categories": ["Rock", "Rock 90s"],
+    "snippet": "/songs/rock/sugar.mp3",
+    "cover": "/songs/covers/soad.jpg"
+  },
+  {
+   "title": "I-E-A-I-A-I-O (Clean Version)",
+    "artist": "System Of A Down",  
+    "categories": ["Rock", "Rock 00s"],
+    "snippet": "/songs/rock/ieio.mp3",
+    "cover": "/songs/covers/steal.jpg"
+  },
+  {
+   "title": "Hypnotize",
+    "artist": "System Of A Down",  
+    "categories": ["Rock", "Rock 00s"],
+    "snippet": "/songs/rock/hypnotize.mp3",
+    "cover": "/songs/covers/hypnotize.jpg"
+  },
+  {
+   "title": "ATWA",
+    "artist": "System Of A Down",  
+    "categories": ["Rock", "Rock 00s"],
+    "snippet": "/songs/rock/atwa.mp3",
+    "cover": "/songs/covers/toxicity.jpg"
+  },
+  {
+   "title": "Spiders",
+    "artist": "System Of A Down",  
+    "categories": ["Rock", "Rock 90s"],
+    "snippet": "/songs/rock/spiders.mp3",
+    "cover": "/songs/covers/soad.jpg"
+  },
+  {
+   "title": "Without Me",
+    "artist": "Eminem",  
+    "categories": ["Rap", "Rap 00s"],
+    "snippet": "/songs/rap/without_me.mp3",
+    "cover": "/songs/covers/eminem.jpg"
+  },
+  {
+   "title": "Mockingbird",
+    "artist": "Eminem",  
+    "categories": ["Rap", "Rap 00s"],
+    "snippet": "/songs/rap/bird.mp3",
+    "cover": "/songs/covers/encore.jpg"
+  },
+  {
+   "title": "Love the Way You Lie (feat. Rihanna)",
+    "artist": "Eminem",  
+    "categories": ["Rap", "Rap 10s"],
+    "snippet": "/songs/rap/love_way.mp3",
+    "cover": "/songs/covers/recovery.jpg"
+  },
+  {
+   "title": "Lose Yourself",
+    "artist": "Eminem",  
+    "categories": ["Rap", "Rap 00s"],
+    "snippet": "/songs/rap/lose_yourself.mp3",
+    "cover": "/songs/covers/loseit.jpg"
+  },
+  {
+   "title": "The Real Slim Shady",
+    "artist": "Eminem",  
+    "categories": ["Rap", "Rap 00s"],
+    "snippet": "/songs/rap/real_slim.mp3",
+    "cover": "/songs/covers/marshall.jpg"
+  },
+  {
+   "title": "Till i Collapse",
+    "artist": "Eminem",  
+    "categories": ["Rap", "Rap 00s"],
+    "snippet": "/songs/rap/till.mp3",
+    "cover": "/songs/covers/encore.jpg"
+  },
+  {
+   "title": "The Monster (feat. Rihanna)",
+    "artist": "Eminem",  
+    "categories": ["Rap", "Rap 10s"],
+    "snippet": "/songs/rap/monster.mp3",
+    "cover": "/songs/covers/recovery.jpg"
+  },
+  {
+   "title": "Superman",
+    "artist": "Eminem",  
+    "categories": ["Rap", "Rap 00s"],
+    "snippet": "/songs/rap/superman.mp3",
+    "cover": "/songs/covers/eminem.jpg"
+  },
+  {
+   "title": "Godzilla (feat. Juice WRLD)",
+    "artist": "Eminem",  
+    "categories": ["Rap", "Rap 20s"],
+    "snippet": "/songs/rap/godzilla.mp3",
+    "cover": "/songs/covers/musicmurder.jpg"
+  },
+  {
+   "title": "Houdini",
+    "artist": "Eminem",  
+    "categories": ["Rap", "Rap 20s"],
+    "snippet": "/songs/rap/houdini_e.mp3",
+    "cover": "/songs/covers/dead_slim.jpg"
+  },
+  {
+   "title": "My Name Is",
+    "artist": "Eminem",  
+    "categories": ["Rap", "Rap 90s"],
+    "snippet": "/songs/rap/my_name.mp3",
+    "cover": "/songs/covers/slim_shady.jpg"
+  },
+  {
+   "title": "Not Afraid",
+    "artist": "Eminem",  
+    "categories": ["Rap", "Rap 10s"],
+    "snippet": "/songs/rap/not_afraid.mp3",
+    "cover": "/songs/covers/recovery.jpg"
+  },
+  {
+   "title": "Rap God",
+    "artist": "Eminem",  
+    "categories": ["Rap", "Rap 10s"],
+    "snippet": "/songs/rap/rap_god.mp3",
+    "cover": "/songs/covers/marshall2.jpg"
+  },
+  {
+   "title": "River (feat. Ed Sheeran)",
+    "artist": "Eminem",  
+    "categories": ["Rap", "Rap 10s"],
+    "snippet": "/songs/rap/river.mp3",
+    "cover": "/songs/covers/revival.jpg"
+  },
+  {
+   "title": "Venom (Music From The Motion Picture)",
+    "artist": "Eminem",  
+    "categories": ["Rap", "Rap 10s"],
+    "snippet": "/songs/rap/venom.mp3",
+    "cover": "/songs/covers/venom.jpg"
+  },
+  {
+   "title": "Flashing Lights",
+    "artist": "Kanye West",  
+    "categories": ["Rap", "Rap 00s"],
+    "snippet": "/songs/rap/flashing_lights.mp3",
+    "cover": "/songs/covers/graduation.jpg"
+  },
+   {
+   "title": "Heartless",
+    "artist": "Kanye West",  
+    "categories": ["Rap", "Rap 00s"],
+    "snippet": "/songs/rap/heartless.mp3",
+    "cover": "/songs/covers/heartbreak.jpg"
+  },
+  {
+   "title": "All Falls Down",
+    "artist": "Kanye West",  
+    "categories": ["Rap", "Rap 00s"],
+    "snippet": "/songs/rap/falls_down.mp3",
+    "cover": "/songs/covers/college.jpg"
+  },
+   {
+   "title": "Runaway",
+    "artist": "Kanye West",  
+    "categories": ["Rap", "Rap 10s"],
+    "snippet": "/songs/rap/runaway.mp3",
+    "cover": "/songs/covers/darktwisted.jpg"
+  },
+   {
+   "title": "I Wonder",
+    "artist": "Kanye West",  
+    "categories": ["Rap", "Rap 00s"],
+    "snippet": "/songs/rap/iwonder.mp3",
+    "cover": "/songs/covers/graduation.jpg"
+  },
+   {
+   "title": "Stronger",
+    "artist": "Kanye West",  
+    "categories": ["Rap", "Rap 00s"],
+    "snippet": "/songs/rap/stronger.mp3",
+    "cover": "/songs/covers/graduation.jpg"
+  },
+   {
+   "title": "Can't Tell Me Nothing",
+    "artist": "Kanye West",  
+    "categories": ["Rap", "Rap 00s"],
+    "snippet": "/songs/rap/tell_nothing.mp3",
+    "cover": "/songs/covers/graduation.jpg"
+  },
+   {
+   "title": "Homecoming (feat. Chris Martin) ",
+    "artist": "Kanye West",  
+    "categories": ["Rap", "Rap 00s"],
+    "snippet": "/songs/rap/homecoming.mp3",
+    "cover": "/songs/covers/graduation.jpg"
+  },
+   {
+   "title": "Bound 2",
+    "artist": "Kanye West",  
+    "categories": ["Rap", "Rap 10s"],
+    "snippet": "/songs/rap/bound2.mp3",
+    "cover": "/songs/covers/yeezus.jpg"
+  },
+  {
+   "title": "Ni**as in Paris",
+    "artist": "Kanye West & JAY-Z",  
+    "categories": ["Rap", "Rap 10s"],
+    "snippet": "/songs/rap/niggas.mp3",
+    "cover": "/songs/covers/watchthrone.jpg"
+  },
+  {
+   "title": "Gold Digger",
+    "artist": "Kanye West",  
+    "categories": ["Rap", "Rap 00s"],
+    "snippet": "/songs/rap/gold_digger.mp3",
+    "cover": "/songs/covers/registration.jpg"
+  },
+   {
+   "title": "Power",
+    "artist": "Kanye West",  
+    "categories": ["Rap", "Rap 10s"],
+    "snippet": "/songs/rap/power.mp3",
+    "cover": "/songs/covers/darktwisted.jpg"
+  },
+  {
+   "title": "Father Stretch My Hands, Pt. 1",
+    "artist": "Kanye West",  
+    "categories": ["Rap", "Rap 10s"],
+    "snippet": "/songs/rap/father_strech.mp3",
+    "cover": "/songs/covers/pablo.jpg"
+  },
+  {
+   "title": "Ghost Town",
+    "artist": "Kanye West",  
+    "categories": ["Rap", "Rap 10s"],
+    "snippet": "/songs/rap/ghost_town.mp3",
+    "cover": "/songs/covers/ye.jpg"
+  },
+  {
+   "title": "Praise God",
+    "artist": "Kanye West",  
+    "categories": ["Rap", "Rap 20s"],
+    "snippet": "/songs/rap/praise_god.mp3",
+    "cover": "/songs/covers/donda.jpg"
+  },
+  {
+   "title": "Wish You Were Here",
+    "artist": "Pink Floyd",  
+    "categories": ["Rock", "Rock 70s"],
+    "snippet": "/songs/rock/wish_here.mp3",
+    "cover": "/songs/covers/wishhere.jpg"
+  },
+  {
+   "title": "Comforably Numb",
+    "artist": "Pink Floyd",  
+    "categories": ["Rock", "Rock 70s"],
+    "snippet": "/songs/rock/comfortably_numb.mp3",
+    "cover": "/songs/covers/wall.jpg"
+  },
+  {
+   "title": "Breathe (In the Air)",
+    "artist": "Pink Floyd",  
+    "categories": ["Rock", "Rock 70s"],
+    "snippet": "/songs/rock/breathe.mp3",
+    "cover": "/songs/covers/darkside.jpg"
+  },
+  {
+   "title": "Time",
+    "artist": "Pink Floyd",  
+    "categories": ["Rock", "Rock 70s"],
+    "snippet": "/songs/rock/time.mp3",
+    "cover": "/songs/covers/darkside.jpg"
+  },
+  {
+   "title": "Money",
+    "artist": "Pink Floyd",  
+    "categories": ["Rock", "Rock 70s"],
+    "snippet": "/songs/rock/money.mp3",
+    "cover": "/songs/covers/darkside.jpg"
+  },
+  {
+   "title": "Hey You",
+    "artist": "Pink Floyd",  
+    "categories": ["Rock", "Rock 70s"],
+    "snippet": "/songs/rock/hey_you.mp3",
+    "cover": "/songs/covers/wall.jpg"
+  },
+  {
+   "title": "Have A Cigar",
+    "artist": "Pink Floyd",  
+    "categories": ["Rock", "Rock 70s"],
+    "snippet": "/songs/rock/cigar.mp3",
+    "cover": "/songs/covers/wishhere.jpg"
+  },
+  {
+   "title": "Judas",
+    "artist": "Lady Gaga",  
+    "categories": ["Pop", "Pop 10s"],
+    "snippet": "/songs/pop/judas.mp3",
+    "cover": "/songs/covers/born.jpg"
+  },
+  {
+   "title": "Applause",
+    "artist": "Lady Gaga",  
+    "categories": ["Pop", "Pop 10s"],
+    "snippet": "/songs/pop/applause.mp3",
+    "cover": "/songs/covers/pinkpop.jpg"
+  },
+  {
+   "title": "Shallow",
+    "artist": "Lady Gaga & Bradley Cooper",  
+    "categories": ["Pop", "Pop 10s"],
+    "snippet": "/songs/pop/shallow.mp3",
+    "cover": "/songs/covers/soundtrack.jpg"
+  },
+  {
+   "title": "Always Remember Us This Way",
+    "artist": "Lady Gaga",  
+    "categories": ["Pop", "Pop 10s"],
+    "snippet": "/songs/pop/remember_way.mp3",
+    "cover": "/songs/covers/soundtrack.jpg"
+  },
+  {
+   "title": "Rain On Me",
+    "artist": "Lady Gaga & Ariana Grande",  
+    "categories": ["Pop", "Pop 20"],
+    "snippet": "/songs/pop/rain_me.mp3",
+    "cover": "/songs/covers/chromatica.jpg"
+  },
+  {
+   "title": "Sour Candy",
+    "artist": "Lady Gaga & BLACKPINK",  
+    "categories": ["Pop", "Pop 20"],
+    "snippet": "/songs/pop/sour_candy.mp3",
+    "cover": "/songs/covers/chromatica.jpg"
+  },
+  {
+   "title": "Die With A Smile",
+    "artist": "Lady Gaga & Bruno Mars",  
+    "categories": ["Pop", "Pop 20"],
+    "snippet": "/songs/pop/die_smile.mp3",
+    "cover": "/songs/covers/mayheim.jpg"
+  },
+  {
+   "title": "One More Time",
+    "artist": "Daft Punk",  
+    "categories": ["Pop", "Pop 00"],
+    "snippet": "/songs/pop/one_time.mp3",
+    "cover": "/songs/covers/discovery.jpg"
+  },
+  {
+   "title": "Get Lucky",
+    "artist": "Daft Punk, Pharrell Williams & Nile Rodgers",  
+    "categories": ["Pop", "Pop 10"],
+    "snippet": "/songs/pop/get_lucky.mp3",
+    "cover": "/songs/covers/random_memories.jpg"
+  },
+  {
+   "title": "Instant Crush",
+    "artist": "Daft Punk & Julian Casablancas",  
+    "categories": ["Pop", "Pop 10"],
+    "snippet": "/songs/pop/instant_crush.mp3",
+    "cover": "/songs/covers/random_memories.jpg"
+  },
+  {
+   "title": "Around The World",
+    "artist": "Daft Punk",  
+    "categories": ["Pop", "Pop 90"],
+    "snippet": "/songs/pop/around_world.mp3",
+    "cover": "/songs/covers/homework.jpg"
+  },
+  {
+   "title": "Harder Better Faster Stronger",
+    "artist": "Daft Punk",  
+    "categories": ["Pop", "Pop 00"],
+    "snippet": "/songs/pop/harder_better.mp3",
+    "cover": "/songs/covers/discovery.jpg"
+  },
+  {
+   "title": "Veridis Quo",
+    "artist": "Daft Punk",  
+    "categories": ["Pop", "Pop 00"],
+    "snippet": "/songs/pop/veridis.mp3",
+    "cover": "/songs/covers/discovery.jpg"
+  },
+   {
+   "title": "Digital Love",
+    "artist": "Daft Punk",  
+    "categories": ["Pop", "Pop 00"],
+    "snippet": "/songs/pop/digital_love.mp3",
+    "cover": "/songs/covers/discovery.jpg"
+  },
+  {
+   "title": "Sweet Child O'Mine",
+    "artist": "Guns N' Roses",  
+    "categories": ["Rock", "Pop 80"],
+    "snippet": "/songs/rock/sweet_child.mp3",
+    "cover": "/songs/covers/appetite.jpg"
+  },
+  {
+   "title": "Welcome To The Jungle",
+    "artist": "Guns N' Roses",  
+    "categories": ["Rock", "Pop 80"],
+    "snippet": "/songs/rock/welcome_jungle.mp3",
+    "cover": "/songs/covers/appetite.jpg"
+  },
+  {
+   "title": "November Rain",
+    "artist": "Guns N' Roses",  
+    "categories": ["Rock", "Pop 90"],
+    "snippet": "/songs/rock/november_rain.mp3",
+    "cover": "/songs/covers/illusion1.jpg"
+  },
+  {
+   "title": "Paradise City",
+    "artist": "Guns N' Roses",  
+    "categories": ["Rock", "Pop 80"],
+    "snippet": "/songs/rock/paradise_city.mp3",
+    "cover": "/songs/covers/appetite.jpg"
+  },
+  {
+   "title": "Knockin' On Heaven's Door",
+    "artist": "Guns N' Roses",  
+    "categories": ["Rock", "Pop 80"],
+    "snippet": "/songs/rock/knockin_door.mp3",
+    "cover": "/songs/covers/illusion2.jpg"
+  },
+  {
+   "title": "Don't Cry",
+    "artist": "Guns N' Roses",  
+    "categories": ["Rock", "Pop 80"],
+    "snippet": "/songs/rock/dont_cry.mp3",
+    "cover": "/songs/covers/illusion1.jpg"
+  },
+  {
+   "title": "Patience",
+    "artist": "Guns N' Roses",  
+    "categories": ["Rock", "Pop 80"],
+    "snippet": "/songs/rock/patience.mp3",
+    "cover": "/songs/covers/appetite.jpg"
+  },
+  {
+   "title": "You Could Be Mine",
+    "artist": "Guns N' Roses",  
+    "categories": ["Rock", "Pop 90"],
+    "snippet": "/songs/rock/could_mine.mp3",
+    "cover": "/songs/covers/illusion1.jpg"
+  },
+  {
+   "title": "Live And Let Die",
+    "artist": "Guns N' Roses",  
+    "categories": ["Rock", "Pop 80"],
+    "snippet": "/songs/rock/live_die.mp3",
+    "cover": "/songs/covers/illusion1.jpg"
   }
 ]
+
+
+
+
 
