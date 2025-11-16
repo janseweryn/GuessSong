@@ -48,7 +48,7 @@ const manualDaily = {
       dailyCategory: "Rock",
     },
     {
-      title: "Highest In The Room'",
+      title: "Highest In The Room",
       artist: "Travis Scott",
       cover: "/songs/covers/highestroom.jpg",
       snippet: "/songs/rap/highest_room.mp3",
@@ -58,18 +58,18 @@ const manualDaily = {
   ],
   "2025-11-17": [
     {
-      title: "The Motto",
-      artist: "Tiësto & Ava Max",
-      cover: "/songs/covers/drive.jpg",
-      snippet: "/songs/pop/motto.mp3",
+      title: "Hung Up",
+      artist: "Madonna",
+      cover: "/songs/covers/dancefloor.jpg",
+      snippet: "/songs/pop/hung_up.mp3",
       categories: ["pop"],
       dailyCategory: "Pop",
     },
     {
-      title: "Karma Police",
+      title: "Let Down",
       artist: "Radiohead",
       cover: "/songs/covers/computer.jpg",
-      snippet: "/songs/rock/karma_police.mp3",
+      snippet: "/songs/rock/let_down.mp3",
       categories: ["rock"],
       dailyCategory: "Rock",
     },
