@@ -3322,7 +3322,7 @@
     "artist": "Kanye West",  
     "categories": ["Rap", "Rap 20s"],
     "snippet": "/songs/rap/praise_god.mp3",
-    "cover": "/songs/covers/donda.jpg"
+    "cover": "/songs/covers/donda.png"
   },
   {
    "title": "Wish You Were Here",
@@ -3332,7 +3332,7 @@
     "cover": "/songs/covers/wishhere.jpg"
   },
   {
-   "title": "Comforably Numb",
+   "title": "Comfortably Numb",
     "artist": "Pink Floyd",  
     "categories": ["Rock", "Rock 70s"],
     "snippet": "/songs/rock/comfortably_numb.mp3",
@@ -3404,77 +3404,77 @@
   {
    "title": "Rain On Me",
     "artist": "Lady Gaga & Ariana Grande",  
-    "categories": ["Pop", "Pop 20"],
+    "categories": ["Pop", "Pop 20s"],
     "snippet": "/songs/pop/rain_me.mp3",
     "cover": "/songs/covers/chromatica.jpg"
   },
   {
    "title": "Sour Candy",
     "artist": "Lady Gaga & BLACKPINK",  
-    "categories": ["Pop", "Pop 20"],
+    "categories": ["Pop", "Pop 20s"],
     "snippet": "/songs/pop/sour_candy.mp3",
     "cover": "/songs/covers/chromatica.jpg"
   },
   {
    "title": "Die With A Smile",
     "artist": "Lady Gaga & Bruno Mars",  
-    "categories": ["Pop", "Pop 20"],
+    "categories": ["Pop", "Pop 20s"],
     "snippet": "/songs/pop/die_smile.mp3",
     "cover": "/songs/covers/mayheim.jpg"
   },
   {
    "title": "One More Time",
     "artist": "Daft Punk",  
-    "categories": ["Pop", "Pop 00"],
+    "categories": ["Pop", "Pop 00s"],
     "snippet": "/songs/pop/one_time.mp3",
     "cover": "/songs/covers/discovery.jpg"
   },
   {
    "title": "Get Lucky",
     "artist": "Daft Punk, Pharrell Williams & Nile Rodgers",  
-    "categories": ["Pop", "Pop 10"],
+    "categories": ["Pop", "Pop 10s"],
     "snippet": "/songs/pop/get_lucky.mp3",
     "cover": "/songs/covers/random_memories.jpg"
   },
   {
    "title": "Instant Crush",
     "artist": "Daft Punk & Julian Casablancas",  
-    "categories": ["Pop", "Pop 10"],
+    "categories": ["Pop", "Pop 10s"],
     "snippet": "/songs/pop/instant_crush.mp3",
     "cover": "/songs/covers/random_memories.jpg"
   },
   {
    "title": "Around The World",
     "artist": "Daft Punk",  
-    "categories": ["Pop", "Pop 90"],
+    "categories": ["Pop", "Pop 90s"],
     "snippet": "/songs/pop/around_world.mp3",
     "cover": "/songs/covers/homework.jpg"
   },
   {
    "title": "Harder Better Faster Stronger",
     "artist": "Daft Punk",  
-    "categories": ["Pop", "Pop 00"],
+    "categories": ["Pop", "Pop 00s"],
     "snippet": "/songs/pop/harder_better.mp3",
     "cover": "/songs/covers/discovery.jpg"
   },
   {
    "title": "Veridis Quo",
     "artist": "Daft Punk",  
-    "categories": ["Pop", "Pop 00"],
+    "categories": ["Pop", "Pop 00s"],
     "snippet": "/songs/pop/veridis.mp3",
     "cover": "/songs/covers/discovery.jpg"
   },
    {
    "title": "Digital Love",
     "artist": "Daft Punk",  
-    "categories": ["Pop", "Pop 00"],
+    "categories": ["Pop", "Pop 00s"],
     "snippet": "/songs/pop/digital_love.mp3",
     "cover": "/songs/covers/discovery.jpg"
   },
   {
    "title": "Sweet Child O'Mine",
     "artist": "Guns N' Roses",  
-    "categories": ["Rock", "Pop 80"],
+    "categories": ["Rock", "Pop 80s"],
     "snippet": "/songs/rock/sweet_child.mp3",
     "cover": "/songs/covers/appetite.jpg"
   },
@@ -3488,53 +3488,463 @@
   {
    "title": "November Rain",
     "artist": "Guns N' Roses",  
-    "categories": ["Rock", "Pop 90"],
+    "categories": ["Rock", "Pop 90s"],
     "snippet": "/songs/rock/november_rain.mp3",
     "cover": "/songs/covers/illusion1.jpg"
   },
   {
    "title": "Paradise City",
     "artist": "Guns N' Roses",  
-    "categories": ["Rock", "Pop 80"],
+    "categories": ["Rock", "Pop 80s"],
     "snippet": "/songs/rock/paradise_city.mp3",
     "cover": "/songs/covers/appetite.jpg"
   },
   {
    "title": "Knockin' On Heaven's Door",
     "artist": "Guns N' Roses",  
-    "categories": ["Rock", "Pop 80"],
+    "categories": ["Rock", "Pop 80s"],
     "snippet": "/songs/rock/knockin_door.mp3",
     "cover": "/songs/covers/illusion2.jpg"
   },
   {
    "title": "Don't Cry",
     "artist": "Guns N' Roses",  
-    "categories": ["Rock", "Pop 80"],
+    "categories": ["Rock", "Pop 80s"],
     "snippet": "/songs/rock/dont_cry.mp3",
     "cover": "/songs/covers/illusion1.jpg"
   },
   {
    "title": "Patience",
     "artist": "Guns N' Roses",  
-    "categories": ["Rock", "Pop 80"],
+    "categories": ["Rock", "Pop 80s"],
     "snippet": "/songs/rock/patience.mp3",
     "cover": "/songs/covers/appetite.jpg"
   },
   {
    "title": "You Could Be Mine",
     "artist": "Guns N' Roses",  
-    "categories": ["Rock", "Pop 90"],
+    "categories": ["Rock", "Pop 90s"],
     "snippet": "/songs/rock/could_mine.mp3",
     "cover": "/songs/covers/illusion1.jpg"
   },
   {
    "title": "Live And Let Die",
     "artist": "Guns N' Roses",  
-    "categories": ["Rock", "Pop 80"],
+    "categories": ["Rock", "Pop 80s"],
     "snippet": "/songs/rock/live_die.mp3",
     "cover": "/songs/covers/illusion1.jpg"
+  },
+  {
+   "title": "Low (feat. T-Pain)",
+    "artist": "Flo Rida",  
+    "categories": ["Rap", "Rap 00s"],
+    "snippet": "/songs/rap/low.mp3",
+    "cover": "/songs/covers/mail.jpg"
+  },
+  {
+   "title": "Sky",
+    "artist": "Playboi Carti",  
+    "categories": ["Rap", "Rap 20s"],
+    "snippet": "/songs/rap/sky.mp3",
+    "cover": "/songs/covers/wholered.jpg"
+  },
+  {
+   "title": "Breakin' Dishes",
+    "artist": "Rihanna",  
+    "categories": ["Pop", "Pop 00s"],
+    "snippet": "/songs/pop/breakin_dishes.mp3",
+    "cover": "/songs/covers/goodgirl.jpg"
+  },
+  {
+   "title": "We Found Love (feat. Calvin Harris)",
+    "artist": "Rihanna",  
+    "categories": ["Pop", "Pop 10s"],
+    "snippet": "/songs/pop/found_love.mp3",
+    "cover": "/songs/covers/talk.jpg"
+  },
+  {
+   "title": "Only Girl (In the World)",
+    "artist": "Rihanna",  
+    "categories": ["Pop", "Pop 10s"],
+    "snippet": "/songs/pop/only_girl.mp3",
+    "cover": "/songs/covers/loud.jpg"
+  },
+  {
+   "title": "S&M (Remix) [feat. Britney Spears]",
+    "artist": "Rihanna",  
+    "categories": ["Pop", "Pop 10s"],
+    "snippet": "/songs/pop/sm.mp3",
+    "cover": "/songs/covers/loud.jpg"
+  },
+  {
+   "title": "Don't Stop The Music",
+    "artist": "Rihanna",  
+    "categories": ["Pop", "Pop 00s"],
+    "snippet": "/songs/pop/stop_music.mp3",
+    "cover": "/songs/covers/goodgirl.jpg"
+  },
+  {
+   "title": "Umbrella (feat. JAY-Z)",
+    "artist": "Rihanna",  
+    "categories": ["Pop", "Pop 00s"],
+    "snippet": "/songs/pop/umbrella.mp3",
+    "cover": "/songs/covers/goodgirl.jpg"
+  },
+   {
+   "title": "Love On The Brain",
+    "artist": "Rihanna",  
+    "categories": ["Pop", "Pop 10s"],
+    "snippet": "/songs/pop/love_brain.mp3",
+    "cover": "/songs/covers/anti.jpg"
+  },
+  {
+   "title": "Stay (feat. Mikky Ekko)",
+    "artist": "Rihanna",  
+    "categories": ["Pop", "Pop 10s"],
+    "snippet": "/songs/pop/stay.mp3",
+    "cover": "/songs/covers/unapo.jpg"
+  },
+  {
+   "title": "Diamonds",
+    "artist": "Rihanna",  
+    "categories": ["Pop", "Pop 10s"],
+    "snippet": "/songs/pop/diamonds.mp3",
+    "cover": "/songs/covers/unapo.jpg"
+  },
+  {
+   "title": "Work (feat. Drake)",
+    "artist": "Rihanna",  
+    "categories": ["Pop", "Pop 10s"],
+    "snippet": "/songs/pop/work.mp3",
+    "cover": "/songs/covers/anti.jpg"
+  },
+  {
+   "title": "Rude Boy",
+    "artist": "Rihanna",  
+    "categories": ["Pop", "Pop 00s"],
+    "snippet": "/songs/pop/rude_boy.mp3",
+    "cover": "/songs/covers/rated.jpg"
+  },
+  {
+   "title": "Disturbia",
+    "artist": "Rihanna",  
+    "categories": ["Pop", "Pop 00s"],
+    "snippet": "/songs/pop/disturbia.mp3",
+    "cover": "/songs/covers/goodgirl.jpg"
+  },
+  {
+   "title": "Take A Bow",
+    "artist": "Rihanna",  
+    "categories": ["Pop", "Pop 00s"],
+    "snippet": "/songs/pop/bow.mp3",
+    "cover": "/songs/covers/goodgirl.jpg"
+  },
+  {
+   "title": "Sos",
+    "artist": "Rihanna",  
+    "categories": ["Pop", "Pop 00s"],
+    "snippet": "/songs/pop/sos.mp3",
+    "cover": "/songs/covers/girlike.jpg"
+  },
+  {
+   "title": "Pon de Replay",
+    "artist": "Rihanna",  
+    "categories": ["Pop", "Pop 00s"],
+    "snippet": "/songs/pop/pod_replay.mp3",
+    "cover": "/songs/covers/musicsun.jpg"
+  },
+  {
+   "title": "Stinkfist",
+    "artist": "Tool",  
+    "categories": ["Rock", "Rock 90s"],
+    "snippet": "/songs/rock/stinkfist.mp3",
+    "cover": "/songs/covers/enima.jpg"
+  },
+  {
+   "title": "Schism",
+    "artist": "Tool",  
+    "categories": ["Rock", "Rock 00s"],
+    "snippet": "/songs/rock/schism.mp3",
+    "cover": "/songs/covers/lateralus.jpg"
+  },
+  {
+   "title": "Pneuma",
+    "artist": "Tool",  
+    "categories": ["Rock", "Rock 10s"],
+    "snippet": "/songs/rock/pneuma.mp3",
+    "cover": "/songs/covers/inocolum.jpg"
+  },
+  {
+   "title": "Billie Jean",
+    "artist": "Michael Jackson",  
+    "categories": ["Pop", "Pop 80s"],
+    "snippet": "/songs/pop/billie_jean.mp3",
+    "cover": "/songs/covers/thriller.jpg"
+  },
+  {
+   "title": "Beat It",
+    "artist": "Michael Jackson",  
+    "categories": ["Pop", "Pop 80s"],
+    "snippet": "/songs/pop/beat_it.mp3",
+    "cover": "/songs/covers/thriller.jpg"
+  },
+   {
+   "title": "Chicago",
+    "artist": "Michael Jackson",  
+    "categories": ["Pop", "Pop 90s"],
+    "snippet": "/songs/pop/chicago.mp3",
+    "cover": "/songs/covers/escape.jpg"
+  },
+   {
+   "title": "Smooth Criminal",
+    "artist": "Michael Jackson",  
+    "categories": ["Pop", "Pop 80s"],
+    "snippet": "/songs/pop/smooth_criminal.mp3",
+    "cover": "/songs/covers/bad.jpg"
+  },
+  {
+   "title": "Rock WIth You",
+    "artist": "Michael Jackson",  
+    "categories": ["Pop", "Pop 70s"],
+    "snippet": "/songs/pop/rock_you.mp3",
+    "cover": "/songs/covers/ofwall.jpg"
+  },
+  {
+   "title": "The Way You Make Me Feel",
+    "artist": "Michael Jackson",  
+    "categories": ["Pop", "Pop 80s"],
+    "snippet": "/songs/pop/make_me_feel.mp3",
+    "cover": "/songs/covers/bad.jpg"
+  },
+   {
+   "title": "They Don't Care About Us",
+    "artist": "Michael Jackson",  
+    "categories": ["Pop", "Pop 90s"],
+    "snippet": "/songs/pop/care_us.mp3",
+    "cover": "/songs/covers/history.jpg"
+  },
+  {
+   "title": "Don't Stop 'Til You Get Enough",
+    "artist": "Michael Jackson",  
+    "categories": ["Pop", "Pop 70s"],
+    "snippet": "/songs/pop/get_enough.mp3",
+    "cover": "/songs/covers/ofwall.jpg"
+  },
+  {
+   "title": "Remember The Time",
+    "artist": "Michael Jackson",  
+    "categories": ["Pop", "Pop 70s"],
+    "snippet": "/songs/pop/remember_time.mp3",
+    "cover": "/songs/covers/dangerous.jpg"
+  },
+  {
+   "title": "Bad",
+    "artist": "Michael Jackson",  
+    "categories": ["Pop", "Pop 80s"],
+    "snippet": "/songs/pop/bad.mp3",
+    "cover": "/songs/covers/bad.jpg"
+  },
+  {
+   "title": "Dancing Queen",
+    "artist": "Abba",  
+    "categories": ["Pop", "Pop 70s"],
+    "snippet": "/songs/pop/dancing_queen.mp3",
+    "cover": "/songs/covers/arrival.jpg"
+  },
+  {
+   "title": "The Winner Takes It All",
+    "artist": "Abba",  
+    "categories": ["Pop", "Pop 80s"],
+    "snippet": "/songs/pop/winner.mp3",
+    "cover": "/songs/covers/trouper.jpg"
+  },
+  {
+   "title": "Gimme! Gimme! Gimme! (A Man After Midnight)",
+    "artist": "Abba",  
+    "categories": ["Pop", "Pop 70s"],
+    "snippet": "/songs/pop/gimme.mp3",
+    "cover": "/songs/covers/voulez.jpg"
+  },
+  {
+   "title": "Lay All Your Love On Me",
+    "artist": "Abba",  
+    "categories": ["Pop", "Pop 80s"],
+    "snippet": "/songs/pop/all_love.mp3",
+    "cover": "/songs/covers/trouper.jpg"
+  },
+  {
+   "title": "Take a Chance On Me",
+    "artist": "Abba",  
+    "categories": ["Pop", "Pop 70s"],
+    "snippet": "/songs/pop/take_chance.mp3",
+    "cover": "/songs/covers/albumabba.jpg"
+  },
+  {
+   "title": "Super Trouper",
+    "artist": "Abba",  
+    "categories": ["Pop", "Pop 80s"],
+    "snippet": "/songs/pop/trouper.mp3",
+    "cover": "/songs/covers/trouper.jpg"
+  },
+  {
+   "title": "Chiquitita",
+    "artist": "Abba",  
+    "categories": ["Pop", "Pop 70s"],
+    "snippet": "/songs/pop/chiqu.mp3",
+    "cover": "/songs/covers/voulez.jpg"
+  },
+  {
+   "title": "Waterloo",
+    "artist": "Abba",  
+    "categories": ["Pop", "Pop 70s"],
+    "snippet": "/songs/pop/waterloo.mp3",
+    "cover": "/songs/covers/waterloo.jpg"
+  },
+  {
+   "title": "Voulez-Vous",
+    "artist": "Abba",  
+    "categories": ["Pop", "Pop 70s"],
+    "snippet": "/songs/pop/voulez.mp3",
+    "cover": "/songs/covers/voulez.jpg"
+  },
+  {
+   "title": "Mamma Mia",
+    "artist": "Abba",  
+    "categories": ["Pop", "Pop 70s"],
+    "snippet": "/songs/pop/mamma_mia.mp3",
+    "cover": "/songs/covers/abba.jpg"
+  },
+  {
+   "title": "Bohemian Rhapsody",
+    "artist": "Queen",  
+    "categories": ["Rock", "Rock 70s"],
+    "snippet": "/songs/rock/bohemian.mp3",
+    "cover": "/songs/covers/opera.jpg"
+  },
+  {
+   "title": "Don't Stop Me Now",
+    "artist": "Queen",  
+    "categories": ["Rock", "Rock 70s"],
+    "snippet": "/songs/rock/dont_stop.mp3",
+    "cover": "/songs/covers/jazz.jpg"
+  },
+  {
+   "title": "Under Pressure",
+    "artist": "Queen & David Bowie",  
+    "categories": ["Rock", "Rock 80s"],
+    "snippet": "/songs/rock/under_pres.mp3",
+    "cover": "/songs/covers/hotspace.jpg"
+  },
+  {
+   "title": "We Will Rock You",
+    "artist": "Queen",  
+    "categories": ["Rock", "Rock 70s"],
+    "snippet": "/songs/rock/will_rock.mp3",
+    "cover": "/songs/covers/now.jpg"
+  },
+  {
+   "title": "Crazy Little Thing Called Love",
+    "artist": "Queen",  
+    "categories": ["Rock", "Rock 70s"],
+    "snippet": "/songs/rock/little_thing.mp3",
+    "cover": "/songs/covers/game.jpg"
+  },
+  {
+   "title": "Somebody To Love",
+    "artist": "Queen",  
+    "categories": ["Rock", "Rock 70s"],
+    "snippet": "/songs/rock/somebody_love.mp3",
+    "cover": "/songs/covers/races.jpg"
+  },
+  {
+   "title": "Killer Queen",
+    "artist": "Queen",  
+    "categories": ["Rock", "Rock 70s"],
+    "snippet": "/songs/rock/killer_queen.mp3",
+    "cover": "/songs/covers/heartatack.jpg"
+  },
+  {
+   "title": "We Are the Champions",
+    "artist": "Queen",  
+    "categories": ["Rock", "Rock 70s"],
+    "snippet": "/songs/rock/champions.mp3",
+    "cover": "/songs/covers/news.jpg"
+  },
+  {
+   "title": "Another One Bites the Dust",
+    "artist": "Queen",  
+    "categories": ["Rock", "Rock 80s"],
+    "snippet": "/songs/rock/one_bites.mp3",
+    "cover": "/songs/covers/game.jpg"
+  },
+  {
+   "title": "The Show Must Go On",
+    "artist": "Queen",  
+    "categories": ["Rock", "Rock 90s"],
+    "snippet": "/songs/rock/show_must_go.mp3",
+    "cover": "/songs/covers/innuendo.jpg"
+  },
+  {
+   "title": "Radio Ga Ga",
+    "artist": "Queen",  
+    "categories": ["Rock", "Rock 80s"],
+    "snippet": "/songs/rock/gaga.mp3",
+    "cover": "/songs/covers/works.jpg"
+  },
+  {
+   "title": "Gimme Chocolate!!",
+    "artist": "Babymetal",  
+    "categories": ["Rock", "Rock 10s"],
+    "snippet": "/songs/rock/chocolate.mp3",
+    "cover": "/songs/covers/babymetal.jpg"
+  },
+  {
+   "title": "PA PA YA!! (feat. F.HERO)",
+    "artist": "Babymetal",  
+    "categories": ["Rock", "Rock 20s"],
+    "snippet": "/songs/rock/papaya.mp3",
+    "cover": "/songs/covers/10babymetal.jpg"
+  },
+  {
+   "title": "Enjoy The Silence",
+    "artist": "Depeche Mode",  
+    "categories": ["Rock", "Rock 90s"],
+    "snippet": "/songs/rock/silence.mp3",
+    "cover": "/songs/covers/violator.jpg"
+  },
+  {
+   "title": "Just Can't Get Enough",
+    "artist": "Depeche Mode",  
+    "categories": ["Rock", "Rock 80s"],
+    "snippet": "/songs/rock/just_get_enough.mp3",
+    "cover": "/songs/covers/speak.jpg"
+  },
+  {
+   "title": "Precious",
+    "artist": "Depeche Mode",  
+    "categories": ["Rock", "Rock 00s"],
+    "snippet": "/songs/rock/precious.mp3",
+    "cover": "/songs/covers/playingangel.jpg"
+  },
+  {
+   "title": "Policy of Truth",
+    "artist": "Depeche Mode",  
+    "categories": ["Rock", "Rock 90s"],
+    "snippet": "/songs/rock/policy.mp3",
+    "cover": "/songs/covers/violator.jpg"
+  },
+  {
+   "title": "Strangelove",
+    "artist": "Depeche Mode",  
+    "categories": ["Rock", "Rock 80s"],
+    "snippet": "/songs/rock/strangelove.mp3",
+    "cover": "/songs/covers/musicmasses.jpg"
   }
 ]
+
+
+
+
 
 
 
