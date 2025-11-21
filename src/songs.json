@@ -3474,63 +3474,63 @@
   {
    "title": "Sweet Child O'Mine",
     "artist": "Guns N' Roses",  
-    "categories": ["Rock", "Pop 80s"],
+    "categories": ["Rock", "Rock 80s"],
     "snippet": "/songs/rock/sweet_child.mp3",
     "cover": "/songs/covers/appetite.jpg"
   },
   {
    "title": "Welcome To The Jungle",
     "artist": "Guns N' Roses",  
-    "categories": ["Rock", "Pop 80"],
+    "categories": ["Rock", "Rock 80"],
     "snippet": "/songs/rock/welcome_jungle.mp3",
     "cover": "/songs/covers/appetite.jpg"
   },
   {
    "title": "November Rain",
     "artist": "Guns N' Roses",  
-    "categories": ["Rock", "Pop 90s"],
+    "categories": ["Rock", "Rock 90s"],
     "snippet": "/songs/rock/november_rain.mp3",
     "cover": "/songs/covers/illusion1.jpg"
   },
   {
    "title": "Paradise City",
     "artist": "Guns N' Roses",  
-    "categories": ["Rock", "Pop 80s"],
+    "categories": ["Rock", "Rock 80s"],
     "snippet": "/songs/rock/paradise_city.mp3",
     "cover": "/songs/covers/appetite.jpg"
   },
   {
    "title": "Knockin' On Heaven's Door",
     "artist": "Guns N' Roses",  
-    "categories": ["Rock", "Pop 80s"],
+    "categories": ["Rock", "Rock 80s"],
     "snippet": "/songs/rock/knockin_door.mp3",
     "cover": "/songs/covers/illusion2.jpg"
   },
   {
    "title": "Don't Cry",
     "artist": "Guns N' Roses",  
-    "categories": ["Rock", "Pop 80s"],
+    "categories": ["Rock", "Rock 80s"],
     "snippet": "/songs/rock/dont_cry.mp3",
     "cover": "/songs/covers/illusion1.jpg"
   },
   {
    "title": "Patience",
     "artist": "Guns N' Roses",  
-    "categories": ["Rock", "Pop 80s"],
+    "categories": ["Rock", "Rock 80s"],
     "snippet": "/songs/rock/patience.mp3",
     "cover": "/songs/covers/appetite.jpg"
   },
   {
    "title": "You Could Be Mine",
     "artist": "Guns N' Roses",  
-    "categories": ["Rock", "Pop 90s"],
+    "categories": ["Rock", "Rok 90s"],
     "snippet": "/songs/rock/could_mine.mp3",
     "cover": "/songs/covers/illusion1.jpg"
   },
   {
    "title": "Live And Let Die",
     "artist": "Guns N' Roses",  
-    "categories": ["Rock", "Pop 80s"],
+    "categories": ["Rock", "Rock 80s"],
     "snippet": "/songs/rock/live_die.mp3",
     "cover": "/songs/covers/illusion1.jpg"
   },
@@ -3540,13 +3540,6 @@
     "categories": ["Rap", "Rap 00s"],
     "snippet": "/songs/rap/low.mp3",
     "cover": "/songs/covers/mail.jpg"
-  },
-  {
-   "title": "Sky",
-    "artist": "Playboi Carti",  
-    "categories": ["Rap", "Rap 20s"],
-    "snippet": "/songs/rap/sky.mp3",
-    "cover": "/songs/covers/wholered.jpg"
   },
   {
    "title": "Breakin' Dishes",
@@ -3650,7 +3643,7 @@
    "title": "Pon de Replay",
     "artist": "Rihanna",  
     "categories": ["Pop", "Pop 00s"],
-    "snippet": "/songs/pop/pod_replay.mp3",
+    "snippet": "/songs/pop/pon_replay.mp3",
     "cover": "/songs/covers/musicsun.jpg"
   },
   {
@@ -3777,7 +3770,7 @@
     "artist": "Abba",  
     "categories": ["Pop", "Pop 70s"],
     "snippet": "/songs/pop/take_chance.mp3",
-    "cover": "/songs/covers/albumabba.jpg"
+    "cover": "/songs/covers/abba.jpg"
   },
   {
    "title": "Super Trouper",
@@ -3825,7 +3818,7 @@
    "title": "Don't Stop Me Now",
     "artist": "Queen",  
     "categories": ["Rock", "Rock 70s"],
-    "snippet": "/songs/rock/dont_stop.mp3",
+    "snippet": "/songs/rock/dont_stop_now.mp3",
     "cover": "/songs/covers/jazz.jpg"
   },
   {
@@ -3840,7 +3833,7 @@
     "artist": "Queen",  
     "categories": ["Rock", "Rock 70s"],
     "snippet": "/songs/rock/will_rock.mp3",
-    "cover": "/songs/covers/now.jpg"
+    "cover": "/songs/covers/news.jpg"
   },
   {
    "title": "Crazy Little Thing Called Love",
@@ -3939,8 +3932,453 @@
     "categories": ["Rock", "Rock 80s"],
     "snippet": "/songs/rock/strangelove.mp3",
     "cover": "/songs/covers/musicmasses.jpg"
+  },
+  {
+   "title": "Sonne",
+    "artist": "Rammstein",  
+    "categories": ["Rock", "Rock 00s"],
+    "snippet": "/songs/rock/sonne.mp3",
+    "cover": "/songs/covers/mutter.jpg"
+  },
+  {
+   "title": "Du Hast",
+    "artist": "Rammstein",  
+    "categories": ["Rock", "Rock 00s"],
+    "snippet": "/songs/rock/du_hast.mp3",
+    "cover": "/songs/covers/sehn.jpg"
+  },
+  {
+   "title": "Deutschland",
+    "artist": "Rammstein",  
+    "categories": ["Rock", "Rock 00s"],
+    "snippet": "/songs/rock/deutschland.mp3",
+    "cover": "/songs/covers/rammstein.jpg"
+  },
+  {
+   "title": "Ich Will",
+    "artist": "Rammstein",  
+    "categories": ["Rock", "Rock 00s"],
+    "snippet": "/songs/rock/ich_will.mp3",
+    "cover": "/songs/covers/mutter.jpg"
+  },
+  {
+   "title": "Amerika",
+    "artist": "Rammstein",  
+    "categories": ["Rock", "Rock 00s"],
+    "snippet": "/songs/rock/amerika.mp3",
+    "cover": "/songs/covers/reise.jpg"
+  },
+  {
+   "title": "Toxic",
+    "artist": "Britney Spears",  
+    "categories": ["Pop", "Pop 00s"],
+    "snippet": "/songs/pop/toxic.mp3",
+    "cover": "/songs/covers/inzone.jpg"
+  },
+  {
+   "title": "Gimme More (Remastered)",
+    "artist": "Britney Spears",  
+    "categories": ["Pop", "Pop 00s"],
+    "snippet": "/songs/pop/toxic.mp3",
+    "cover": "/songs/covers/inzone.jpg"
+  },
+  {
+   "title": "...Baby One More Time",
+    "artist": "Britney Spears",  
+    "categories": ["Pop", "Pop 90s"],
+    "snippet": "/songs/pop/baby_more_time.mp3",
+    "cover": "/songs/covers/moretime.jpg"
+  },
+  {
+   "title": "Oops!...I Did It Again",
+    "artist": "Britney Spears",  
+    "categories": ["Pop", "Pop 00s"],
+    "snippet": "/songs/pop/oops_again.mp3",
+    "cover": "/songs/covers/oops.jpg"
+  },
+  {
+   "title": "Womanizer",
+    "artist": "Britney Spears",  
+    "categories": ["Pop", "Pop 00s"],
+    "snippet": "/songs/pop/womanizer.mp3",
+    "cover": "/songs/covers/circus.jpg"
+  },
+  {
+   "title": "Circus",
+    "artist": "Britney Spears",  
+    "categories": ["Pop", "Pop 00s"],
+    "snippet": "/songs/pop/circus.mp3",
+    "cover": "/songs/covers/circus.jpg"
+  },
+  {
+   "title": "Criminal",
+    "artist": "Britney Spears",  
+    "categories": ["Pop", "Pop 10s"],
+    "snippet": "/songs/pop/criminal.mp3",
+    "cover": "/songs/covers/femme.jpg"
+  },
+  {
+   "title": "Lucky",
+    "artist": "Britney Spears",  
+    "categories": ["Pop", "Pop 00s"],
+    "snippet": "/songs/pop/womanizer.mp3",
+    "cover": "/songs/covers/circus.jpg"
+  },
+  {
+   "title": "I Gotta Feeling",
+    "artist": "Black Eyed Peas",  
+    "categories": ["Pop", "Pop 00s", "Rap", "Rap 00s"],
+    "snippet": "/songs/pop/gotta_feeling.mp3",
+    "cover": "/songs/covers/end.jpg"
+  },
+  {
+   "title": "Rock That Body",
+    "artist": "Black Eyed Peas",  
+    "categories": ["Pop", "Pop 00s", "Rap", "Rap 00s"],
+    "snippet": "/songs/pop/rock_body.mp3",
+    "cover": "/songs/covers/end.jpg"
+  },
+  {
+   "title": "Meet Me Halfway",
+    "artist": "Black Eyed Peas",  
+    "categories": ["Pop", "Pop 00s", "Rap", "Rap 00s"],
+    "snippet": "/songs/pop/meet_halfway.mp3",
+    "cover": "/songs/covers/end.jpg"
+  },
+  {
+   "title": "Just Can't Get Enough",
+    "artist": "Black Eyed Peas",  
+    "categories": ["Pop", "Pop 10s", "Rap", "Rap 10s"],
+    "snippet": "/songs/pop/cant_enough.mp3",
+    "cover": "/songs/covers/beginning.jpg"
+  },
+  {
+   "title": "Pump It",
+    "artist": "Black Eyed Peas",  
+    "categories": ["Pop", "Pop 00s", "Rap", "Rap 00s"],
+    "snippet": "/songs/pop/pump.mp3",
+    "cover": "/songs/covers/monkey.jpg"
+  },
+  {
+   "title": "Where Is The Love",
+    "artist": "Black Eyed Peas",  
+    "categories": ["Pop", "Pop 00s", "Rap", "Rap 00s"],
+    "snippet": "/songs/pop/where_love.mp3",
+    "cover": "/songs/covers/elephunk.jpg"
+  },
+  {
+   "title": "Girl Like Me",
+    "artist": "Black Eyed Peas & Shakira",  
+    "categories": ["Pop", "Pop 20s", "Rap", "Rap 20s"],
+    "snippet": "/songs/pop/girl_like_me.mp3",
+    "cover": "/songs/covers/translation.jpg"
+  },
+  {
+   "title": "My Humps",
+    "artist": "Black Eyed Peas",  
+    "categories": ["Pop", "Pop 00s", "Rap", "Rap 00s"],
+    "snippet": "/songs/pop/humps.mp3",
+    "cover": "/songs/covers/monkey.jpg"
+  },
+  {
+   "title": "Let's Get It Started",
+    "artist": "Black Eyed Peas",  
+    "categories": ["Pop", "Pop 00s", "Rap", "Rap 00s"],
+    "snippet": "/songs/pop/get_started.mp3",
+    "cover": "/songs/covers/elephunk.jpg"
+  },
+  {
+   "title": "Booom Boom Pow",
+    "artist": "Black Eyed Peas",  
+    "categories": ["Pop", "Pop 00s", "Rap", "Rap 00s"],
+    "snippet": "/songs/pop/boom_pow.mp3",
+    "cover": "/songs/covers/end.jpg"
+  },
+  {
+   "title": "Imma Be",
+    "artist": "Black Eyed Peas",  
+    "categories": ["Pop", "Pop 00s", "Rap", "Rap 00s"],
+    "snippet": "/songs/pop/imma_be.mp3",
+    "cover": "/songs/covers/end.jpg"
+  },
+  {
+   "title": "With Or Without You",
+    "artist": "U2",  
+    "categories": ["Rock", "Rock 80s"],
+    "snippet": "/songs/rock/with_or.mp3",
+    "cover": "/songs/covers/joshua.jpg"
+  },
+  {
+   "title": "I Still Haven't Found What I'm Looking For",
+    "artist": "U2",  
+    "categories": ["Rock", "Rock 80s"],
+    "snippet": "/songs/rock/havent_found.mp3",
+    "cover": "/songs/covers/joshua.jpg"
+  },
+  {
+   "title": "One",
+    "artist": "U2",  
+    "categories": ["Rock", "Rock 90s"],
+    "snippet": "/songs/rock/oneU2.mp3",
+    "cover": "/songs/covers/achtung.jpg"
+  },
+   {
+   "title": "Beautiful Day",
+    "artist": "U2",  
+    "categories": ["Rock", "Rock 00s"],
+    "snippet": "/songs/rock/beautiful_day.mp3",
+    "cover": "/songs/covers/cantleave.jpg"
+  },
+   {
+   "title": "Sunday Bloody Sunday",
+    "artist": "U2",  
+    "categories": ["Rock", "Rock 80s"],
+    "snippet": "/songs/rock/bloody_sunday.mp3",
+    "cover": "/songs/covers/war.jpg"
+  },
+  {
+   "title": "Pride (In the Name of Love)",
+    "artist": "U2",  
+    "categories": ["Rock", "Rock 80s"],
+    "snippet": "/songs/rock/pride.mp3",
+    "cover": "/songs/covers/thefire.jpg"
+  },
+  {
+   "title": "New Year's Day",
+    "artist": "U2",  
+    "categories": ["Rock", "Rock 90s"],
+    "snippet": "/songs/rock/new_years.mp3",
+    "cover": "/songs/covers/bestof.jpg"
+  },
+  {
+   "title": "Sugar On My Tongue",
+    "artist": "Tyler, The Creator",  
+    "categories": ["Rap", "Rap 20s"],
+    "snippet": "/songs/rap/sugar_tongue.mp3",
+    "cover": "/songs/covers/tapglass.jpg"
+  },
+  {
+   "title": "Like Him (feat. Lola Young)",
+    "artist": "Tyler, The Creator",  
+    "categories": ["Rap", "Rap 20s"],
+    "snippet": "/songs/rap/like_him.mp3",
+    "cover": "/songs/covers/chromakopia.jpg"
+  },
+  {
+   "title": "Sticky (feat. GloRilla, Sexyy Red & Lil Wayne)",
+    "artist": "Tyler, The Creator",  
+    "categories": ["Rap", "Rap 20s"],
+    "snippet": "/songs/rap/sticky.mp3",
+    "cover": "/songs/covers/chromakopia.jpg"
+  },
+  {
+   "title": "Answer (Instrumental)",
+    "artist": "Tyler, The Creator",  
+    "categories": ["Rap", "Rap 10s"],
+    "snippet": "/songs/rap/answer.mp3",
+    "cover": "/songs/covers/wolf.jpg"
+  },
+  {
+   "title": "EVIL J0RDAN (Hills Remix) [Mixed]",
+    "artist": "Playboi Carti",  
+    "categories": ["Rap", "Rap 20s"],
+    "snippet": "/songs/rap/jordan.mp3",
+    "cover": "/songs/covers/music.jpg"
+  },
+  {
+   "title": "Location (Remix) [Mixed]",
+    "artist": "Playboi Carti",  
+    "categories": ["Rap", "Rap 10s"],
+    "snippet": "/songs/rap/location.mp3",
+    "cover": "/songs/covers/carti.jpg"
+  },
+  {
+   "title": "Dragula",
+    "artist": "Rob Zombie",  
+    "categories": ["Rock", "Rock 90s"],
+    "snippet": "/songs/rock/dragula.mp3",
+    "cover": "/songs/covers/hellbilly.jpg"
+  },
+  {
+   "title": "Living Dead Girl",
+    "artist": "Rob Zombie",  
+    "categories": ["Rock", "Rock 90s"],
+    "snippet": "/songs/rock/living_dead.mp3",
+    "cover": "/songs/covers/hellbilly.jpg"
+  },
+  {
+   "title": "Kokain (Instrumental)",
+    "artist": "Bonez MC & RAF Camora",  
+    "categories": ["Rap", "Rap 10s"],
+    "snippet": "/songs/rap/kokain.mp3",
+    "cover": "/songs/covers/palmen.jpg"
+  },
+  {
+   "title": "Stairway to Heaven",
+    "artist": "Led Zeppelin",  
+    "categories": ["Rock", "Rock 70s"],
+    "snippet": "/songs/rock/stairway_heaven.mp3",
+    "cover": "/songs/covers/zeppelin4.jpg"
+  },
+  {
+   "title": "Immigrant Song",
+    "artist": "Led Zeppelin",  
+    "categories": ["Rock", "Rock 70s"],
+    "snippet": "/songs/rock/immigrant.mp3",
+    "cover": "/songs/covers/zeppelin3.jpg"
+  },
+  {
+   "title": "Whole Lotta Love",
+    "artist": "Led Zeppelin",  
+    "categories": ["Rock", "Rock 60s"],
+    "snippet": "/songs/rock/whole_lotta.mp3",
+    "cover": "/songs/covers/zeppelin2.jpg"
+  },
+   {
+   "title": "Black Dog",
+    "artist": "Led Zeppelin",  
+    "categories": ["Rock", "Rock 70s"],
+    "snippet": "/songs/rock/black_dog.mp3",
+    "cover": "/songs/covers/zeppelin4.jpg"
+  },
+  {
+   "title": "Ramble On",
+    "artist": "Led Zeppelin",  
+    "categories": ["Rock", "Rock 60s"],
+    "snippet": "/songs/rock/ramble_on.mp3",
+    "cover": "/songs/covers/zeppelin2.jpg"
+  },
+  {
+   "title": "Rock And Roll",
+    "artist": "Led Zeppelin",  
+    "categories": ["Rock", "Rock 70s"],
+    "snippet": "/songs/rock/rock_roll.mp3",
+    "cover": "/songs/covers/zeppelin4.jpg"
+  },
+  {
+   "title": "Kashmir",
+    "artist": "Led Zeppelin",  
+    "categories": ["Rock", "Rock 70s"],
+    "snippet": "/songs/rock/kashmir.mp3",
+    "cover": "/songs/covers/physical.jpg"
+  },
+  {
+   "title": "Going To California",
+    "artist": "Led Zeppelin",  
+    "categories": ["Rock", "Rock 70s"],
+    "snippet": "/songs/rock/going_california.mp3",
+    "cover": "/songs/covers/zeppelin4.jpg"
+  },
+  {
+   "title": "Down with the Sickness (Clean Version)",
+    "artist": "Disturbed",  
+    "categories": ["Rock", "Rock 00s"],
+    "snippet": "/songs/rock/down_sickness.mp3",
+    "cover": "/songs/covers/sickness.jpg"
+  },
+  {
+   "title": "Stricken",
+    "artist": "Disturbed",  
+    "categories": ["Rock", "Rock 00s"],
+    "snippet": "/songs/rock/stricken.mp3",
+    "cover": "/songs/covers/tenfists.jpg"
+  },
+  {
+   "title": "Indestructible",
+    "artist": "Disturbed",  
+    "categories": ["Rock", "Rock 00s"],
+    "snippet": "/songs/rock/indestructible.mp3",
+    "cover": "/songs/covers/indes.jpg"
+  },
+   {
+   "title": "Decadence",
+    "artist": "Disturbed",  
+    "categories": ["Rock", "Rock 00s"],
+    "snippet": "/songs/rock/decadence.mp3",
+    "cover": "/songs/covers/tenfists.jpg"
+  },
+   {
+   "title": "Inside The Fire",
+    "artist": "Disturbed",  
+    "categories": ["Rock", "Rock 00s"],
+    "snippet": "/songs/rock/inside_fire.mp3",
+    "cover": "/songs/covers/indes.jpg"
+  },
+   {
+   "title": "The Trooper",
+    "artist": "Iron Maiden",  
+    "categories": ["Rock", "Rock 80s"],
+    "snippet": "/songs/rock/trooper.mp3",
+    "cover": "/songs/covers/piecemind.jpg"
+  },
+   {
+   "title": "Fear Of The Dark",
+    "artist": "Iron Maiden",  
+    "categories": ["Rock", "Rock 90s"],
+    "snippet": "/songs/rock/fear_dark.mp3",
+    "cover": "/songs/covers/feardark.jpg"
+  },
+   {
+   "title": "Run To The Hills (2015 Remaster)",
+    "artist": "Iron Maiden",  
+    "categories": ["Rock", "Rock 80s"],
+    "snippet": "/songs/rock/run_hills.mp3",
+    "cover": "/songs/covers/numberbeast.jpg"
+  },
+   {
+   "title": "The Number Of Beast (2015 Remaster)",
+    "artist": "Iron Maiden",  
+    "categories": ["Rock", "Rock 80s"],
+    "snippet": "/songs/rock/number_beast.mp3",
+    "cover": "/songs/covers/numberbeast.jpg"
+  },
+   {
+   "title": "Wasted Years (2015 Remastered Version)",
+    "artist": "Iron Maiden",  
+    "categories": ["Rock", "Rock 80s"],
+    "snippet": "/songs/rock/wasted_years.mp3",
+    "cover": "/songs/covers/somewhere.jpg"
+  },
+  {
+   "title": "Hallowed By The Name (2015 Remastered Version)",
+    "artist": "Iron Maiden",  
+    "categories": ["Rock", "Rock 80s"],
+    "snippet": "/songs/rock/hallowed.mp3",
+    "cover": "/songs/covers/numberbeast.jpg"
+  },
+  {
+   "title": "Running Up That Hill (A Deal With God) [2018 Remaster]",
+    "artist": "Kate Bush",  
+    "categories": ["Pop", "Pop 80s"],
+    "snippet": "/songs/pop/running_hill.mp3",
+    "cover": "/songs/covers/hounds.jpg"
+  },
+  {
+   "title": "Should I Stay or Should I Go (Remastered)",
+    "artist": "The Clash",  
+    "categories": ["Rock", "Rock 80s"],
+    "snippet": "/songs/pop/should_stay.mp3",
+    "cover": "/songs/covers/combat.jpg"
+  },
+  {
+   "title": "Santa Tell Me",
+    "artist": "Ariana Grande",  
+    "categories": ["Pop", "Pop 10s"],
+    "snippet": "/songs/pop/santa_tell.mp3",
+    "cover": "/songs/covers/santatell.jpg"
+  },
+  {
+   "title": "Wake Me Up",
+    "artist": "Avicii",  
+    "categories": ["Pop", "Pop 10s"],
+    "snippet": "/songs/pop/wake_up.mp3",
+    "cover": "/songs/covers/true.jpg"
   }
+
 ]
+
+
+
 
 
 
