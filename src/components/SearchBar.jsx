@@ -15,7 +15,7 @@ const SearchBar = ({ onSelectSong }) => {
       setLoading(true);
       try {
         const response = await fetch(
-          `https://itunes.apple.com/search?term=${encodeURIComponent(query)}&entity=song&limit=25`
+          `https://itunes.apple.com/search?term=${encodeURIComponent(query)}&entity=song&limit=18`
         );
         const data = await response.json();
 

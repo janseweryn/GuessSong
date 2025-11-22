@@ -111,7 +111,7 @@ const manualDaily = {
   "2025-11-25": [
     {
       title: "Illegal",
-      artist: "Pinkpantheress",
+      artist: "PinkPantheress",
       cover: "/songs/covers/fancy.jpg",
       snippet: "/songs/pop/illegal.mp3",
       categories: ["pop"],
