@@ -3912,6 +3912,13 @@
     "snippet": "/songs/rock/just_get_enough.mp3",
     "cover": "/songs/covers/speak.jpg"
   },
+   {
+   "title": "Personal Jessu",
+    "artist": "Depeche Mode",  
+    "categories": ["Rock", "Rock 80s"],
+    "snippet": "/songs/rock/personal_jesus.mp3",
+    "cover": "/songs/covers/violator.jpg"
+  },
   {
    "title": "Precious",
     "artist": "Depeche Mode",  
@@ -3979,8 +3986,8 @@
    "title": "Gimme More (Remastered)",
     "artist": "Britney Spears",  
     "categories": ["Pop", "Pop 00s"],
-    "snippet": "/songs/pop/toxic.mp3",
-    "cover": "/songs/covers/inzone.jpg"
+    "snippet": "/songs/pop/gimme_more.mp3",
+    "cover": "/songs/covers/blackout.jpg"
   },
   {
    "title": "...Baby One More Time",
@@ -4373,8 +4380,217 @@
     "categories": ["Pop", "Pop 10s"],
     "snippet": "/songs/pop/wake_up.mp3",
     "cover": "/songs/covers/true.jpg"
+  },
+  {
+   "title": "The Nights",
+    "artist": "Avicii",  
+    "categories": ["Pop", "Pop 10s"],
+    "snippet": "/songs/pop/nights.mp3",
+    "cover": "/songs/covers/stories.jpg"
+  },
+  {
+   "title": "Waiting For Love",
+    "artist": "Avicii",  
+    "categories": ["Pop", "Pop 10s"],
+    "snippet": "/songs/pop/waiting_love.mp3",
+    "cover": "/songs/covers/stories.jpg"
+  },
+  {
+   "title": "Levels",
+    "artist": "Avicii",  
+    "categories": ["Pop", "Pop 10s"],
+    "snippet": "/songs/pop/levels.mp3",
+    "cover": "/songs/covers/levels.jpg"
+  },
+  {
+   "title": "Without You",
+    "artist": "Avicii & Sandro Cavazza",  
+    "categories": ["Pop", "Pop 10s"],
+    "snippet": "/songs/pop/without_you.mp3",
+    "cover": "/songs/covers/avicii.jpg"
+  },
+  {
+   "title": "Addicted To You",
+    "artist": "Avicii",  
+    "categories": ["Pop", "Pop 10s"],
+    "snippet": "/songs/pop/addicted.mp3",
+    "cover": "/songs/covers/true.jpg"
+  },
+  {
+   "title": "Lonely Together (feat. Rita Ora)",
+    "artist": "Avicii",  
+    "categories": ["Pop", "Pop 10s"],
+    "snippet": "/songs/pop/lonely_together.mp3",
+    "cover": "/songs/covers/avicii.jpg"
+  },
+  {
+   "title": "SOS (feat. Aloe Blacc)",
+    "artist": "Avicii",  
+    "categories": ["Pop", "Pop 10s"],
+    "snippet": "/songs/pop/sosav.mp3",
+    "cover": "/songs/covers/tim.jpg"
+  },
+  {
+   "title": "Thunderstruck",
+    "artist": "AC/DC",  
+    "categories": ["Rock", "Rock 90s"],
+    "snippet": "/songs/rock/thunder.mp3",
+    "cover": "/songs/covers/razors.jpg"
+  },
+  {
+   "title": "Highway To Hell",
+    "artist": "AC/DC",  
+    "categories": ["Rock", "Rock 70s"],
+    "snippet": "/songs/rock/hel.mp3",
+    "cover": "/songs/covers/highway.jpg"
+  },
+  {
+   "title": "Back In Black",
+    "artist": "AC/DC",  
+    "categories": ["Rock", "Rock 80s"],
+    "snippet": "/songs/rock/back_black.mp3",
+    "cover": "/songs/covers/backblack.jpg"
+  },
+  {
+   "title": "You Shook Me All Night Long",
+    "artist": "AC/DC",  
+    "categories": ["Rock", "Rock 80s"],
+    "snippet": "/songs/rock/shock_night.mp3",
+    "cover": "/songs/covers/backblack.jpg"
+  },
+  {
+   "title": "T.N.T.",
+    "artist": "AC/DC",  
+    "categories": ["Rock", "Rock 70s"],
+    "snippet": "/songs/rock/tnt.mp3",
+    "cover": "/songs/covers/voltage.jpg"
+  },
+  {
+   "title": "Hells Bells",
+    "artist": "AC/DC",  
+    "categories": ["Rock", "Rock 80s"],
+    "snippet": "/songs/rock/hells.mp3",
+    "cover": "/songs/covers/backblack.jpg"
+  },
+  {
+   "title": "Shoot to Thrill",
+    "artist": "AC/DC",  
+    "categories": ["Rock", "Rock 80s"],
+    "snippet": "/songs/rock/shoot_thrill.mp3",
+    "cover": "/songs/covers/backblack.jpg"
+  },
+  {
+   "title": "It's a Long Way to the Top (If You Wanna Rock 'N' Roll)",
+    "artist": "AC/DC",  
+    "categories": ["Rock", "Rock 80s"],
+    "snippet": "/songs/rock/way_top.mp3",
+    "cover": "/songs/covers/voltage.jpg"
+  },
+  {
+   "title": "Boulevard of Broken Dreams (Live at Makuhari Messe, Tokyo, Japan, 3/19/05)",
+    "artist": "Green Day",  
+    "categories": ["Rock", "Rock 00s"],
+    "snippet": "/songs/rock/boulevard.mp3",
+    "cover": "/songs/covers/idiot.jpg"
+  },
+  {
+   "title": "Basket Case",
+    "artist": "Green Day",  
+    "categories": ["Rock", "Rock 90s"],
+    "snippet": "/songs/rock/basket_case.mp3",
+    "cover": "/songs/covers/dookie.jpg"
+  },
+  {
+   "title": "American Idiot (Live at Irving Plaza, New York, NY, 9/21/04)",
+    "artist": "Green Day",  
+    "categories": ["Rock", "Rock 00s"],
+    "snippet": "/songs/rock/american_idiot.mp3",
+    "cover": "/songs/covers/idiot.jpg"
+  },
+  {
+   "title": "Brain Stew (Live in Prague)",
+    "artist": "Green Day",  
+    "categories": ["Rock", "Rock 00s"],
+    "snippet": "/songs/rock/brain.mp3",
+    "cover": "/songs/covers/insomniac.jpg"
+  },
+  {
+   "title": "Holiday",
+    "artist": "Green Day",  
+    "categories": ["Rock", "Rock 00s"],
+    "snippet": "/songs/rock/holiday.mp3",
+    "cover": "/songs/covers/idiot.jpg"
+  },
+   {
+   "title": "When I Came Around",
+    "artist": "Green Day",  
+    "categories": ["Rock", "Rock 90s"],
+    "snippet": "/songs/rock/came_around.mp3",
+    "cover": "/songs/covers/dookie.jpg"
+  },
+  {
+   "title": "21 guns",
+    "artist": "Green Day",  
+    "categories": ["Rock", "Rock 00s"],
+    "snippet": "/songs/rock/21guns.mp3",
+    "cover": "/songs/covers/21centurygreen.jpg"
+  },
+  {
+   "title": "Wake Me Up When September Ends",
+    "artist": "Green Day",  
+    "categories": ["Rock", "Rock 00s"],
+    "snippet": "/songs/rock/septemebr_end.mp3",
+    "cover": "/songs/covers/idiot.jpg"
+  },
+  {
+   "title": "The Kids Aren't Alright",
+    "artist": "The Offspring",  
+    "categories": ["Rock", "Rock 90s"],
+    "snippet": "/songs/rock/kids_alright.mp3",
+    "cover": "/songs/covers/americana.jpg"
+  },
+  {
+   "title": "You're Gonna Go Far, Kid",
+    "artist": "The Offspring",  
+    "categories": ["Rock", "Rock 00s"],
+    "snippet": "/songs/rock/far_kid.mp3",
+    "cover": "/songs/covers/risefall.jpg"
+  },
+  {
+   "title": "Self Esteem",
+    "artist": "The Offspring",  
+    "categories": ["Rock", "Rock 90s"],
+    "snippet": "/songs/rock/esteem.mp3",
+    "cover": "/songs/covers/smash.jpg"
+  },
+  {
+   "title": "Pretty Fly (For a White Guy)",
+    "artist": "The Offspring",  
+    "categories": ["Rock", "Rock 90s"],
+    "snippet": "/songs/rock/pretty_fly.mp3",
+    "cover": "/songs/covers/americana.jpg"
+  },
+  {
+   "title": "Come Out and Play (Keep 'Em Separated)",
+    "artist": "The Offspring",  
+    "categories": ["Rock", "Rock 90s"],
+    "snippet": "/songs/rock/come_play.mp3",
+    "cover": "/songs/covers/smash.jpg"
+  },
+  {
+   "title": "Want You Bad",
+    "artist": "The Offspring",  
+    "categories": ["Rock", "Rock 90s"],
+    "snippet": "/songs/rock/want_bad.mp3",
+    "cover": "/songs/covers/conspiracy.jpg"
+  },
+  {
+   "title": "Gone Away",
+    "artist": "The Offspring",  
+    "categories": ["Rock", "Rock 90s"],
+    "snippet": "/songs/rock/gone_away.mp3",
+    "cover": "/songs/covers/ixany.jpg"
   }
-
 ]
 
 

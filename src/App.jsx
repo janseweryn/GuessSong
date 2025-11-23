@@ -50,18 +50,18 @@ const manualDaily = {
     {
       title: "Hey Ya!",
       artist: "Outkast",
-      cover: "/songs/covers/lovebelow.jpg",
+      cover: "/songs/covers/lowbelow.jpg",
       snippet: "/songs/rap/hey_ya.mp3",
       categories: ["rap"],
       dailyCategory: "Rap", 
     },
   ],
    "2025-11-24": [
-    {
-      title: "Hey Brother",
-      artist: "Avicii",
-      cover: "/songs/covers/true.jpg",
-      snippet: "/songs/pop/hey_brother.mp3",
+     {
+      title: "Illegal",
+      artist: "PinkPantheress",
+      cover: "/songs/covers/fancy.jpg",
+      snippet: "/songs/pop/illegal.mp3",
       categories: ["pop"],
       dailyCategory: "Pop",
     },
@@ -83,11 +83,11 @@ const manualDaily = {
     },
   ],
   "2025-11-25": [
-    {
-      title: "Illegal",
-      artist: "PinkPantheress",
-      cover: "/songs/covers/fancy.jpg",
-      snippet: "/songs/pop/illegal.mp3",
+   {
+      title: "Anti-Hero",
+      artist: "Taylor Swift",
+      cover: "/songs/covers/midnights.jpg",
+      snippet: "/songs/pop/antihero.mp3",
       categories: ["pop"],
       dailyCategory: "Pop",
     },
