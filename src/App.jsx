@@ -4,32 +4,6 @@ import SearchBar from "./components/SearchBar";
 
 // 🟢 RĘCZNIE DEFINIOWANE DAILY
 const manualDaily = {
-  "2025-11-21": [
-    {
-      title: "Greedy",
-      artist: "Tate McRae",
-      cover: "/songs/covers/think_later.jpg",
-      snippet: "/songs/pop/greedy.mp3",
-      categories: ["pop"],
-      dailyCategory: "Pop",
-    },
-    {
-      title: "Sleepwalking",
-      artist: "Bring Me The Horizon",
-      cover: "/songs/covers/sempti.jpg",
-      snippet: "/songs/rock/sleepwalking.mp3",
-      categories: ["rock"],
-      dailyCategory: "Rock",
-    },
-    {
-      title: "Low (feat. T-Pain)",
-      artist: "Flo Rida",
-      cover: "/songs/covers/mail.jpg",
-      snippet: "/songs/rap/low.mp3",
-      categories: ["rap"],
-      dailyCategory: "Rap", 
-    },
-  ],
   "2025-11-22": [
     {
       title: "Only Girl (In the World)",
@@ -48,7 +22,7 @@ const manualDaily = {
       dailyCategory: "Rock",
     },
     {
-      title: "Booom Boom Pow",
+      title: "Boom Boom Pow",
       artist: "Black Eyed Peas",
       cover: "/songs/covers/end.jpg",
       snippet: "/songs/pop/boom_pow.mp3",
@@ -60,8 +34,8 @@ const manualDaily = {
     {
       title: "Gimme More (Remastered)",
       artist: "Britney Spears",
-      cover: "/songs/covers/inzone.jpg",
-      snippet: "/songs/pop/blackout.mp3",
+      cover: "/songs/covers/blackout.jpg",
+      snippet: "/songs/pop/gimme_more.mp3",
       categories: ["pop"],
       dailyCategory: "Pop",
     },
