@@ -4590,7 +4590,281 @@
     "categories": ["Rock", "Rock 90s"],
     "snippet": "/songs/rock/gone_away.mp3",
     "cover": "/songs/covers/ixany.jpg"
+  },
+  {
+   "title": "Titanium (feat. Sia)",
+    "artist": "David Guetta",  
+    "categories": ["Pop", "Pop 10s"],
+    "snippet": "/songs/pop/titanium.mp3",
+    "cover": "/songs/covers/nothingbeat.jpg"
+  },
+  {
+   "title": "I'm Good (Blue)",
+    "artist": "David Guetta & Bebe Rexha",  
+    "categories": ["Pop", "Pop 20s"],
+    "snippet": "/songs/pop/im_good.mp3",
+    "cover": "/songs/covers/imgood.jpg"
+  },
+  {
+   "title": "Memories (feat. Kid Cudi)",
+    "artist": "David Guetta",  
+    "categories": ["Pop", "Pop 10s"],
+    "snippet": "/songs/pop/memories.mp3",
+    "cover": "/songs/covers/onelove.jpg"
+  },
+  {
+   "title": "Sexy Bitch (feat. Akon) [Continuous Mix]",
+    "artist": "David Guetta",  
+    "categories": ["Pop", "Pop 10s"],
+    "snippet": "/songs/pop/sexy_bitch.mp3",
+    "cover": "/songs/covers/onelove.jpg"
+  },
+  {
+   "title": "Where Them Girls At (feat. Nicki Minaj & Flo Rida)",
+    "artist": "David Guetta",  
+    "categories": ["Pop", "Pop 10s"],
+    "snippet": "/songs/pop/where_them.mp3",
+    "cover": "/songs/covers/nothingbeat.jpg"
+  },
+  {
+   "title": "Hey Mama (feat. Nicki Minaj, Bebe Rexha & Afrojack)",
+    "artist": "David Guetta",  
+    "categories": ["Pop", "Pop 10s"],
+    "snippet": "/songs/pop/hey_mama.mp3",
+    "cover": "/songs/covers/listen.jpg"
+  },
+  {
+   "title": "Break Stuff",
+    "artist": "Limp Bizkit",  
+    "categories": ["Rock", "Rock 90s"],
+    "snippet": "/songs/rock/break_stuff.mp3",
+    "cover": "/songs/covers/significant.jpg"
+  },
+  {
+   "title": "Rollin' (Air Raid Vehicle)",
+    "artist": "Limp Bizkit",  
+    "categories": ["Rock", "Rock 00s"],
+    "snippet": "/songs/rock/rollin.mp3",
+    "cover": "/songs/covers/chocolate.jpg"
+  },
+  {
+   "title": "Take A Look Around",
+    "artist": "Limp Bizkit",  
+    "categories": ["Rock", "Rock 00s"],
+    "snippet": "/songs/rock/take_look.mp3",
+    "cover": "/songs/covers/chocolate.jpg"
+  },
+  {
+   "title": "My Way",
+    "artist": "Limp Bizkit",  
+    "categories": ["Rock", "Rock 00s"],
+    "snippet": "/songs/rock/my_way.mp3",
+    "cover": "/songs/covers/chocolate.jpg"
+  },
+  {
+   "title": "Behind Blue Eyes",
+    "artist": "Limp Bizkit",  
+    "categories": ["Rock", "Rock 00s"],
+    "snippet": "/songs/rock/behind_eeys.mp3",
+    "cover": "/songs/covers/results.jpg"
+  },
+  {
+   "title": "Nookie",
+    "artist": "Limp Bizkit",  
+    "categories": ["Rock", "Rock 90s"],
+    "snippet": "/songs/rock/nookie.mp3",
+    "cover": "/songs/covers/significant.jpg"
+  },
+  {
+   "title": "Hot Dog",
+    "artist": "Limp Bizkit",  
+    "categories": ["Rock", "Rock 00s"],
+    "snippet": "/songs/rock/hot_dogh.mp3",
+    "cover": "/songs/covers/chocolate.jpg"
+  },
+  {
+   "title": "Starman (2012 Remaster)",
+    "artist": "David Bowie",  
+    "categories": ["Rock", "Rock 70s"],
+    "snippet": "/songs/rock/starman.mp3",
+    "cover": "/songs/covers/ziggy.jpg"
+  },
+  {
+   "title": "Heroes",
+    "artist": "David Bowie",  
+    "categories": ["Rock", "Rock 70s"],
+    "snippet": "/songs/rock/heroes.mp3",
+    "cover": "/songs/covers/heroesbowie.jpg"
+  },
+   {
+   "title": "Let's Dance",
+    "artist": "David Bowie",  
+    "categories": ["Rock", "Rock 80s"],
+    "snippet": "/songs/rock/lets_dance.mp3",
+    "cover": "/songs/covers/letsdance.jpg"
+  },
+  {
+   "title": "Modern Love",
+    "artist": "David Bowie",  
+    "categories": ["Rock", "Rock 70s"],
+    "snippet": "/songs/rock/modern_love.mp3",
+    "cover": "/songs/covers/letsdance.jpg"
+  },
+   {
+   "title": "Rebel Rebel",
+    "artist": "David Bowie",  
+    "categories": ["Rock", "Rock 70s"],
+    "snippet": "/songs/rock/rebel.mp3",
+    "cover": "/songs/covers/diamond.jpg"
+  },
+  {
+   "title": "Life On Mars?",
+    "artist": "David Bowie",  
+    "categories": ["Rock", "Rock 70s"],
+    "snippet": "/songs/rock/mars.mp3",
+    "cover": "/songs/covers/hunky.jpg"
+  },
+  {
+   "title": "Changes",
+    "artist": "David Bowie",  
+    "categories": ["Rock", "Rock 70s"],
+    "snippet": "/songs/rock/changes.mp3",
+    "cover": "/songs/covers/hunky.jpg"
+  },
+  {
+   "title": "Ziggy Stardust",
+    "artist": "David Bowie",  
+    "categories": ["Rock", "Rock 70s"],
+    "snippet": "/songs/rock/ziggy.mp3",
+    "cover": "/songs/covers/ziggy.jpg"
+  },
+  {
+   "title": "Paint It Black",
+    "artist": "The Rolling Stones",  
+    "categories": ["Rock", "Rock 60s"],
+    "snippet": "/songs/rock/paint_black.mp3",
+    "cover": "/songs/covers/aftermath.jpg"
+  },
+  {
+   "title": "(I Can't Get No) Satisfaction",
+    "artist": "The Rolling Stones",  
+    "categories": ["Rock", "Rock 60s"],
+    "snippet": "/songs/rock/satisfaction.mp3",
+    "cover": "/songs/covers/outheads.jpg"
+  },
+  {
+   "title": "Gimme Shelter (Remastered 2019)",
+    "artist": "The Rolling Stones",  
+    "categories": ["Rock", "Rock 60s"],
+    "snippet": "/songs/rock/satisfaction.mp3",
+    "cover": "/songs/covers/bleed.jpg"
+  },
+  {
+   "title": "Start Me Up",
+    "artist": "The Rolling Stones",  
+    "categories": ["Rock", "Rock 80s"],
+    "snippet": "/songs/rock/start_up.mp3",
+    "cover": "/songs/covers/tattoo.jpg"
+  },
+  {
+   "title": "Beast Of Burden",
+    "artist": "The Rolling Stones",  
+    "categories": ["Rock", "Rock 70s"],
+    "snippet": "/songs/rock/burden.mp3",
+    "cover": "/songs/covers/somegirls.jpg"
+  },
+  {
+   "title": "Sympathy For The Devil",
+    "artist": "The Rolling Stones",  
+    "categories": ["Rock", "Rock 60s"],
+    "snippet": "/songs/rock/sympathy_devil.mp3",
+    "cover": "/songs/covers/beggars.jpg"
+  },
+  {
+   "title": "Miss You",
+    "artist": "The Rolling Stones",  
+    "categories": ["Rock", "Rock 70s"],
+    "snippet": "/songs/rock/miss_you.mp3",
+    "cover": "/songs/covers/somegirls.jpg"
+  },
+  {
+   "title": "Yellow",
+    "artist": "Coldplay",  
+    "categories": ["Rock", "Rock 00s", "Pop", "Pop 00s"],
+    "snippet": "/songs/pop/yellow.mp3",
+    "cover": "/songs/covers/parachutes.jpg"
+  },
+  {
+   "title": "Sparks",
+    "artist": "Coldplay",  
+    "categories": ["Rock", "Rock 00s", "Pop", "Pop 00s"],
+    "snippet": "/songs/pop/sparks.mp3",
+    "cover": "/songs/covers/parachutes.jpg"
+  },
+  {
+   "title": "Viva La Vida",
+    "artist": "Coldplay",  
+    "categories": ["Pop", "Pop 00s"],
+    "snippet": "/songs/pop/viva.mp3",
+    "cover": "/songs/covers/viva.jpg"
+  },
+  { 
+   "title": "The Scientist",
+    "artist": "Coldplay",  
+    "categories": ["Rock", "Rock 00s", "Pop", "Pop 00s"],
+    "snippet": "/songs/pop/scientist.mp3",
+    "cover": "/songs/covers/rushblood.jpg"
+  },
+  {
+   "title": "Something Just Like This",
+    "artist": "The Chainsmokers & Coldplay",  
+    "categories": ["Pop", "Pop 10s"],
+    "snippet": "/songs/pop/something_like.mp3",
+    "cover": "/songs/covers/notopen.jpg"
+  },
+  {
+   "title": "A Sky Full Of Stars",
+    "artist": "Coldplay",  
+    "categories": ["Pop", "Pop 10s"],
+    "snippet": "/songs/pop/full_stars.mp3",
+    "cover": "/songs/covers/ghost.jpg"
+  },
+  {
+   "title": "Fix You",
+    "artist": "Coldplay",  
+    "categories": ["Pop", "Pop 00s"],
+    "snippet": "/songs/pop/fix_you.mp3",
+    "cover": "/songs/covers/xy.jpg"
+  },
+  {
+   "title": "Paradise",
+    "artist": "Coldplay",  
+    "categories": ["Pop", "Pop 10s"],
+    "snippet": "/songs/pop/paradise.mp3",
+    "cover": "/songs/covers/mylo.jpg"
+  },
+  { 
+   "title": "Adevnture Of A Lifetime",
+    "artist": "Coldplay",  
+    "categories": ["Pop", "Pop 10s"],
+    "snippet": "/songs/pop/adventure_lifetime.mp3",
+    "cover": "/songs/covers/headfull.jpg"
+  },
+  { 
+   "title": "Hymn For The Weekend",
+    "artist": "Coldplay",  
+    "categories": ["Pop", "Pop 10s"],
+    "snippet": "/songs/pop/hymn_weekend.mp3",
+    "cover": "/songs/covers/headfull.jpg"
+  },
+  { 
+   "title": "My Universe",
+    "artist": "Coldplay X BTS",  
+    "categories": ["Pop", "Pop 20s"],
+    "snippet": "/songs/pop/universe.mp3",
+    "cover": "/songs/covers/universe.jpg"
   }
+  
 ]
 
 

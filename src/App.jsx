@@ -4,32 +4,6 @@ import SearchBar from "./components/SearchBar";
 
 // 🟢 RĘCZNIE DEFINIOWANE DAILY
 const manualDaily = {
-  "2025-11-22": [
-    {
-      title: "Only Girl (In the World)",
-      artist: "Rihanna",
-      cover: "/songs/covers/loud.jpg",
-      snippet: "/songs/pop/only_girl.mp3",
-      categories: ["pop"],
-      dailyCategory: "Pop",
-    },
-    {
-      title: "Clint Eastwood",
-      artist: "Gorillaz",
-      cover: "/songs/covers/gorillaz.jpg",
-      snippet: "/songs/rock/clint.mp3",
-      categories: ["rock"],
-      dailyCategory: "Rock",
-    },
-    {
-      title: "Boom Boom Pow",
-      artist: "Black Eyed Peas",
-      cover: "/songs/covers/end.jpg",
-      snippet: "/songs/pop/boom_pow.mp3",
-      categories: ["rap"],
-      dailyCategory: "Rap", 
-    },
-  ],
   "2025-11-23": [
     {
       title: "Gimme More (Remastered)",
@@ -152,10 +126,10 @@ const manualDaily = {
       dailyCategory: "Rock",
     },
     {
-      title: "The Real Slim Shady",
+      title: "The Monster (feat. Rihanna)",
       artist: "Eminem",
-      cover: "/songs/covers/marshall.jpg",
-      snippet: "/songs/rap/real_slim.mp3",
+      cover: "/songs/covers/recovery.jpg",
+      snippet: "/songs/rap/monster.mp3",
       categories: ["rap"],
       dailyCategory: "Rap", 
     },
