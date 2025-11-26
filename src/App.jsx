@@ -118,7 +118,7 @@ const manualDaily = {
       dailyCategory: "Pop",
     },
     {
-      title: "Should I Stay or Should I Go (Remastered)",
+      title: "Should I Stay or Should I Go",
       artist: "The Clash",
       cover: "/songs/covers/combat.jpg",
       snippet: "/songs/rock/should_stay.mp3",
