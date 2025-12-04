@@ -213,6 +213,32 @@ const manualDaily = {
     },
   ],
 
+  "2025-12-05": [
+    {
+      title: "Ocean Eyes",
+      artist: "Billie Eilish",
+      cover: "/songs/covers/dontsmile.jpg",
+      snippet: "/songs/pop/ocean_eyes.mp3",
+      categories: ["pop"],
+      dailyCategory: "Pop",
+    },
+    {
+      title: "Wonderwall",
+      artist: "Oasis",
+      cover: "/songs/covers/morning.jpg",
+      snippet: "/songs/rock/wonderwall.mp3",
+      categories: ["rock"],
+      dailyCategory: "Rock",
+    },
+    {
+      title: "Dilemma (feat. Kelly Rowland)",
+      artist: "Nelly",
+      cover: "/songs/covers/nelly.jpg",
+      snippet: "/songs/rap/dilemma.mp3",
+      categories: ["rap"],
+      dailyCategory: "Rap", 
+    },
+  ],
 
 
   "2025-12-06": [
