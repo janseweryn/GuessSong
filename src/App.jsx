@@ -254,7 +254,7 @@ const manualDaily = {
       title: "Snow (Hey Oh)",
       artist: "Red Hot Chili Peppers",
       cover: "/songs/covers/stadium.jpg",
-      snippet: "/songs/pop/snow.mp3",
+      snippet: "/songs/rock/snow.mp3",
       categories: ["rock"],
       dailyCategory: "Rock",
     },
