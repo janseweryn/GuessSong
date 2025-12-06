@@ -166,19 +166,28 @@ export default function App() {
     if (!currentSong) return;
     const level = LEVELS[snippetIndex];
     const audio = audioRef.current;
-    audio.currentTime = 0;
     audio.play();
     setIsPlaying(true);
-    setCurrentTime(0);
-    intervalRef.current = setInterval(() => setCurrentTime((t) => t + 0.1), 100);
-    timeoutRef.current = setTimeout(() => stopSnippet(), level.time * 1000);
+    clearInterval(intervalRef.current);
+  intervalRef.current = setInterval(() => {
+    setCurrentTime(audio.currentTime);
+  }, 100);
+
+  clearTimeout(timeoutRef.current);
+  timeoutRef.current = setTimeout(() => {
+    stopSnippet();
+  }, level.time * 1000);
   };
 
   const stopSnippet = () => {
-    if (audioRef.current) audioRef.current.pause();
-    setIsPlaying(false);
-    clearTimers();
-  };
+  const audio = audioRef.current;
+  if (!audio) return;
+
+  audio.pause();      
+  setIsPlaying(false);
+  clearTimers();
+};
+
 
   const handleGuess = () => {
     const [title, artist = ""] = userGuess
