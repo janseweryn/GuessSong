@@ -107,7 +107,9 @@ export default function App() {
   const [dailyIndex, setDailyIndex] = useState(0);
   const [dailyComplete, setDailyComplete] = useState(false);
   const [noDaily, setNoDaily] = useState(false);
-
+  const [prevSnippetIndex, setPrevSnippetIndex] = useState(0);
+  const [snippetStartTime, setSnippetStartTime] = useState(0);
+  
   const audioRef = useRef(null);
   const intervalRef = useRef(null);
   const timeoutRef = useRef(null);
@@ -163,12 +165,19 @@ export default function App() {
   };
 
   const playSnippet = () => {
-    if (!currentSong) return;
-    const level = LEVELS[snippetIndex];
-    const audio = audioRef.current;
-    audio.play();
-    setIsPlaying(true);
-    clearInterval(intervalRef.current);
+  if (!currentSong) return;
+
+  const audio = audioRef.current;
+  const level = LEVELS[snippetIndex];
+
+
+  audio.currentTime = snippetIndex === prevSnippetIndex ? 0 : snippetStartTime;
+
+  audio.play();
+  setIsPlaying(true);
+
+
+  clearInterval(intervalRef.current);
   intervalRef.current = setInterval(() => {
     setCurrentTime(audio.currentTime);
   }, 100);
@@ -177,15 +186,6 @@ export default function App() {
   timeoutRef.current = setTimeout(() => {
     stopSnippet();
   }, level.time * 1000);
-  };
-
-  const stopSnippet = () => {
-  const audio = audioRef.current;
-  if (!audio) return;
-
-  audio.pause();      
-  setIsPlaying(false);
-  clearTimers();
 };
 
 
@@ -213,13 +213,14 @@ export default function App() {
   };
 
   const skipToNext = () => {
-    stopSnippet();
-    if (snippetIndex < LEVELS.length - 1) setSnippetIndex((i) => i + 1);
-    else {
-      setGameOver(true);
-      setCanReplayFull(true);
-    }
-  };
+  const level = LEVELS[snippetIndex];
+  const newStart = snippetStartTime + level.time;
+
+  setSnippetStartTime(newStart);
+  setPrevSnippetIndex(snippetIndex + 1);
+
+  setSnippetIndex((i) => i + 1);
+};
 
   const giveUp = () => {
     stopSnippet();
