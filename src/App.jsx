@@ -107,7 +107,6 @@ export default function App() {
   const [dailyIndex, setDailyIndex] = useState(0);
   const [dailyComplete, setDailyComplete] = useState(false);
   const [noDaily, setNoDaily] = useState(false);
-  const [prevSnippetIndex, setPrevSnippetIndex] = useState(0);
   const [snippetStartTime, setSnippetStartTime] = useState(0);
 
   const audioRef = useRef(null);
@@ -119,12 +118,23 @@ export default function App() {
     clearTimeout(timeoutRef.current);
   };
 
+  // 🔹 DODANA FUNKCJA stopSnippet
+  const stopSnippet = () => {
+    if (audioRef.current) {
+      audioRef.current.pause();
+    }
+    setIsPlaying(false);
+    clearTimers();
+    setCurrentTime(0);
+  };
+
   const startNewSong = (songsList) => {
     if (!songsList.length) return;
     const idx = Math.floor(Math.random() * songsList.length);
     const song = songsList[idx];
     setCurrentSong(song);
     setSnippetIndex(0);
+    setSnippetStartTime(0); // reset startu fragmentu
     setIsCorrect(false);
     setGameOver(false);
     setCanReplayFull(false);
@@ -162,35 +172,32 @@ export default function App() {
     setMode("daily");
     setDailyComplete(false);
     setNoDaily(false);
+    setSnippetStartTime(0);
   };
 
   const playSnippet = () => {
-  if (!currentSong) return;
+    if (!currentSong) return;
 
-  const audio = audioRef.current;
-  const level = LEVELS[snippetIndex];
+    const audio = audioRef.current;
+    const level = LEVELS[snippetIndex];
 
-  // jeśli jesteśmy na tym samym poziomie — odtwarzamy od snippetStartTime
-  // jeśli pierwszy raz na tym levelu — od początku
-  audio.currentTime =
-    snippetIndex === prevSnippetIndex ? snippetStartTime : 0;
+    // odtwarzamy fragment od snippetStartTime
+    audio.currentTime = snippetStartTime;
+    audio.play();
+    setIsPlaying(true);
 
-  audio.play();
-  setIsPlaying(true);
+    // aktualizacja currentTime
+    clearInterval(intervalRef.current);
+    intervalRef.current = setInterval(() => {
+      setCurrentTime(audio.currentTime);
+    }, 100);
 
-  // aktualizacja currentTime
-  clearInterval(intervalRef.current);
-  intervalRef.current = setInterval(() => {
-    setCurrentTime(audio.currentTime);
-  }, 100);
-
-  // zatrzymanie po czasie levelu
-  clearTimeout(timeoutRef.current);
-  timeoutRef.current = setTimeout(() => {
-    stopSnippet();
-  }, level.time * 1000);
-};
-
+    // zatrzymanie po czasie levelu
+    clearTimeout(timeoutRef.current);
+    timeoutRef.current = setTimeout(() => {
+      stopSnippet();
+    }, level.time * 1000);
+  };
 
   const handleGuess = () => {
     const [title, artist = ""] = userGuess
@@ -216,23 +223,19 @@ export default function App() {
   };
 
   const skipToNext = () => {
-  stopSnippet();
+    stopSnippet();
 
-  // zapamiętaj poprzedni level
-  setPrevSnippetIndex(snippetIndex);
+    // dodaj aktualny czas fragmentu do sumy startowej dla następnego poziomu
+    setSnippetStartTime(prev => prev + LEVELS[snippetIndex].time);
 
-  // dodaj aktualny czas fragmentu do sumy
-  setSnippetStartTime(snippetStartTime + LEVELS[snippetIndex].time);
-
-  // jeśli jest kolejny level — przejdź
-  if (snippetIndex < LEVELS.length - 1) {
-    setSnippetIndex(snippetIndex + 1);
-  } else {
-    // brak kolejnego → koniec gry
-    setGameOver(true);
-    setCanReplayFull(true);
-  }
-};
+    if (snippetIndex < LEVELS.length - 1) {
+      setSnippetIndex(prev => prev + 1);
+    } else {
+      // brak kolejnego → koniec gry
+      setGameOver(true);
+      setCanReplayFull(true);
+    }
+  };
 
   const giveUp = () => {
     stopSnippet();
@@ -258,6 +261,7 @@ export default function App() {
       setDailyIndex(next);
       setCurrentSong(dailySongs[next]);
       setSnippetIndex(0);
+      setSnippetStartTime(0); // reset startu przy nowej piosence
       setIsCorrect(false);
       setGameOver(false);
       setCanReplayFull(false);
