@@ -57,6 +57,32 @@ const manualDaily = {
       dailyCategory: "Rap", 
     },
   ],
+   "2025-12-08": [
+    {
+      title: "Believer",
+      artist: "Imagine Dragons",
+      cover: "/songs/covers/evolve.jpg",
+      snippet: "/songs/pop/believer.mp3",
+      categories: ["pop"],
+      dailyCategory: "Pop",
+    },
+    {
+      title: "Heroes",
+      artist: "David Bowie",
+      cover: "/songs/covers/heroesbowie.jpg",
+      snippet: "/songs/rock/heroes.mp3",
+      categories: ["rock"],
+      dailyCategory: "Rock",
+    },
+    {
+      title: "Better Now",
+      artist: "Post Malone",
+      cover: "/songs/covers/beerbongs.jpg",
+      snippet: "/songs/rap/betternow.mp3",
+      categories: ["rap"],
+      dailyCategory: "Rap", 
+    },
+  ],
 };
 
 const LEVELS = [
