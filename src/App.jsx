@@ -79,7 +79,9 @@ const CATEGORY_NAMES = {
 // 🟡 Pobiera ręczne daily zdefiniowane na dziś (czas Polski)
 function getManualDailySongs() {
   const today = new Date();
-  const polandTime = new Date(today.toLocaleString("en-US", { timeZone: "Europe/Warsaw" }));
+  const polandTime = new Date(
+    today.toLocaleString("en-US", { timeZone: "Europe/Warsaw" })
+  );
   const dateKey = polandTime.toISOString().split("T")[0];
   return manualDaily[dateKey] || null;
 }
@@ -103,9 +105,8 @@ export default function App() {
   const [dailyComplete, setDailyComplete] = useState(false);
   const [noDaily, setNoDaily] = useState(false);
 
-  // nowe stany do snippetów
-  const [levelStartTime, setLevelStartTime] = useState(0);
-  const [snippetPlayed, setSnippetPlayed] = useState(false);
+  const [snippetStartTime, setSnippetStartTime] = useState(0);
+  const [snippetPlayedFromStart, setSnippetPlayedFromStart] = useState(false);
 
   const audioRef = useRef(null);
   const intervalRef = useRef(null);
@@ -127,8 +128,8 @@ export default function App() {
     setCanReplayFull(false);
     setIsPlaying(false);
     setWrongAnswers([]);
-    setLevelStartTime(0);
-    setSnippetPlayed(false);
+    setSnippetStartTime(0);
+    setSnippetPlayedFromStart(false);
     clearTimers();
     if (audioRef.current) {
       audioRef.current.pause();
@@ -161,44 +162,40 @@ export default function App() {
     setMode("daily");
     setDailyComplete(false);
     setNoDaily(false);
-    setLevelStartTime(0);
-    setSnippetPlayed(false);
-  };
-
-  // 🔹 playSnippet poprawione
-  const playSnippet = () => {
-    if (!currentSong) return;
-    const audio = audioRef.current;
-    const level = LEVELS[snippetIndex];
-
-    // start od początku fragmentu poziomu lub od początku całego poziomu jeśli już odtwarzano
-    const startTime = snippetPlayed ? 0 : levelStartTime;
-    audio.currentTime = startTime;
-    audio.play();
-    setIsPlaying(true);
-
-    // licznik czasu dla fragmentu poziomu
-    clearInterval(intervalRef.current);
-    const fragmentStart = snippetPlayed ? 0 : levelStartTime;
-    intervalRef.current = setInterval(() => {
-      const t = audio.currentTime - fragmentStart;
-      setCurrentTime(t > level.time ? level.time : t);
-    }, 50);
-
-    // zatrzymanie po czasie poziomu
-    clearTimeout(timeoutRef.current);
-    timeoutRef.current = setTimeout(() => {
-      stopSnippet();
-    }, level.time * 1000);
-
-    setSnippetPlayed(true);
+    setSnippetStartTime(0);
+    setSnippetPlayedFromStart(false);
   };
 
   const stopSnippet = () => {
     if (audioRef.current) audioRef.current.pause();
     setIsPlaying(false);
+    clearTimers();
+  };
+
+  const playSnippet = () => {
+    if (!currentSong) return;
+    const audio = audioRef.current;
+    const level = LEVELS[snippetIndex];
+
+    // jeśli fragment był odtwarzany od początku poziomu
+    const startTime = snippetPlayedFromStart
+      ? 0
+      : snippetStartTime;
+
+    audio.currentTime = startTime;
+    audio.play();
+    setIsPlaying(true);
+
+    // aktualizacja zegara
     clearInterval(intervalRef.current);
+    intervalRef.current = setInterval(() => {
+      setCurrentTime(audio.currentTime);
+    }, 50);
+
     clearTimeout(timeoutRef.current);
+    timeoutRef.current = setTimeout(() => {
+      stopSnippet();
+    }, (level.time - startTime) * 1000);
   };
 
   const handleGuess = () => {
@@ -228,18 +225,21 @@ export default function App() {
     stopSnippet();
     const level = LEVELS[snippetIndex];
 
-    // ustaw punkt startowy następnego poziomu
-    setLevelStartTime(prev => prev + level.time);
-
-    // resetujemy flage snippetPlayed
-    setSnippetPlayed(false);
+    // przy skipie fragment między końcem poprzedniego poziomu a końcem obecnego
+    setSnippetStartTime(level.time);
+    setSnippetPlayedFromStart(false);
 
     if (snippetIndex < LEVELS.length - 1) {
-      setSnippetIndex(prev => prev + 1);
+      setSnippetIndex(snippetIndex + 1);
     } else {
       setGameOver(true);
       setCanReplayFull(true);
     }
+  };
+
+  const replaySnippetFromStart = () => {
+    setSnippetPlayedFromStart(true);
+    playSnippet();
   };
 
   const giveUp = () => {
@@ -270,21 +270,16 @@ export default function App() {
       setGameOver(false);
       setCanReplayFull(false);
       setWrongAnswers([]);
-      setLevelStartTime(0);
-      setSnippetPlayed(false);
+      setSnippetStartTime(0);
+      setSnippetPlayedFromStart(false);
     } else setDailyComplete(true);
   };
-
-  // reset snippetPlayed i currentTime przy zmianie poziomu lub piosenki
-  useEffect(() => {
-    setSnippetPlayed(false);
-    setCurrentTime(0);
-  }, [snippetIndex, currentSong]);
 
   const displayedTime = (() => {
     const level = LEVELS[snippetIndex];
     const scale = level.displayTime / level.time;
-    const scaled = currentTime * scale;
+    const start = snippetPlayedFromStart ? 0 : snippetStartTime;
+    const scaled = (currentTime - start) * scale;
     return scaled > level.displayTime ? level.displayTime : scaled;
   })();
 
@@ -340,9 +335,13 @@ export default function App() {
         </>
       )}
 
-      {mode === "category" && currentSong && (
+      {(mode === "category" || mode === "daily") && currentSong && (
         <GameView
-          title={`🎵 ${CATEGORY_NAMES[category]} Mode`}
+          title={
+            mode === "category"
+              ? `🎵 ${CATEGORY_NAMES[category]} Mode`
+              : `🎯 Daily ${dailyIndex + 1} / ${dailySongs.length} — ${currentSong.dailyCategory}`
+          }
           onBack={() => {
             setMode("menu");
             setCategory(null);
@@ -358,6 +357,7 @@ export default function App() {
             playSnippet,
             stopSnippet,
             skipToNext,
+            replaySnippetFromStart,
             giveUp,
             wrongAnswers,
             isCorrect,
@@ -368,63 +368,33 @@ export default function App() {
             isFullPlaying,
             playFullSong,
             stopFullSong,
-            startNewSong: () => startNewSong(filteredSongs),
+            startNewSong: mode === "category" ? () => startNewSong(filteredSongs) : nextDailySong,
           }}
         />
       )}
 
-      {mode === "daily" && currentSong && (
-        <>
-          {!dailyComplete ? (
-            <GameView
-              title={`🎯 Daily ${dailyIndex + 1} / ${dailySongs.length} — ${currentSong.dailyCategory}`}
-              onBack={() => setMode("menu")}
-              {...{
-                currentSong,
-                snippetIndex,
-                displayedTime,
-                LEVELS,
-                audioRef,
-                isPlaying,
-                playSnippet,
-                stopSnippet,
-                skipToNext,
-                giveUp,
-                wrongAnswers,
-                isCorrect,
-                gameOver,
-                userGuess,
-                setUserGuess,
-                handleGuess,
-                isFullPlaying,
-                playFullSong,
-                stopFullSong,
-                startNewSong: nextDailySong,
-              }}
-            />
-          ) : (
-            <div style={{ marginTop: 100, textAlign: "center" }}>
-              <h2 style={{ fontSize: "2rem", marginBottom: 20 }}>✅ Daily ukończone!</h2>
-              <button
-                onClick={() => setMode("menu")}
-                style={{
-                  background: "#555",
-                  color: "white",
-                  padding: "10px 16px",
-                  borderRadius: 10,
-                  fontWeight: "bold",
-                }}
-              >
-                ⬅ Wróć na stronę główną
-              </button>
-            </div>
-          )}
-        </>
+      {mode === "daily" && dailyComplete && (
+        <div style={{ marginTop: 100, textAlign: "center" }}>
+          <h2 style={{ fontSize: "2rem", marginBottom: 20 }}>✅ Daily ukończone!</h2>
+          <button
+            onClick={() => setMode("menu")}
+            style={{
+              background: "#555",
+              color: "white",
+              padding: "10px 16px",
+              borderRadius: 10,
+              fontWeight: "bold",
+            }}
+          >
+            ⬅ Wróć na stronę główną
+          </button>
+        </div>
       )}
     </div>
   );
 }
 
+// 🔹 Komponent wspólny dla gry
 function GameView({
   title,
   onBack,
@@ -437,6 +407,7 @@ function GameView({
   playSnippet,
   stopSnippet,
   skipToNext,
+  replaySnippetFromStart,
   giveUp,
   wrongAnswers,
   isCorrect,
@@ -484,6 +455,9 @@ function GameView({
             )}
             <button onClick={skipToNext} style={{ marginLeft: 8 }}>
               ⏭ Skip
+            </button>
+            <button onClick={replaySnippetFromStart} style={{ marginLeft: 8 }}>
+              🔄 Replay From Start
             </button>
           </div>
 
@@ -546,11 +520,7 @@ function GameView({
 
       {(isCorrect || gameOver) && (
         <div style={{ marginTop: 16 }}>
-          {isCorrect ? (
-            <h2>✅ Correct!</h2>
-          ) : (
-            <h2 style={{ color: "red" }}>❌ Nie udało się</h2>
-          )}
+          {isCorrect ? <h2>✅ Correct!</h2> : <h2 style={{ color: "red" }}>❌ Nie udało się</h2>}
           <p>
             <strong>Tytuł:</strong> {currentSong.title}
             <br />
