@@ -41,10 +41,10 @@ const manualDaily = {
       dailyCategory: "Pop",
     },
     {
-      title: "Cherry Waves",
+      title: "Mascara",
       artist: "Deftones",
       cover: "/songs/covers/a.jpg",
-      snippet: "/songs/rock/snow.mp3",
+      snippet: "/songs/rock/masacra.mp3",
       categories: ["rock"],
       dailyCategory: "Rock",
     },
