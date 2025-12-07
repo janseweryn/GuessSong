@@ -109,7 +109,7 @@ export default function App() {
   const [noDaily, setNoDaily] = useState(false);
   const [prevSnippetIndex, setPrevSnippetIndex] = useState(0);
   const [snippetStartTime, setSnippetStartTime] = useState(0);
-  
+
   const audioRef = useRef(null);
   const intervalRef = useRef(null);
   const timeoutRef = useRef(null);
@@ -170,18 +170,21 @@ export default function App() {
   const audio = audioRef.current;
   const level = LEVELS[snippetIndex];
 
-
-  audio.currentTime = snippetIndex === prevSnippetIndex ? 0 : snippetStartTime;
+  // jeśli jesteśmy na tym samym poziomie — odtwarzamy od snippetStartTime
+  // jeśli pierwszy raz na tym levelu — od początku
+  audio.currentTime =
+    snippetIndex === prevSnippetIndex ? snippetStartTime : 0;
 
   audio.play();
   setIsPlaying(true);
 
-
+  // aktualizacja currentTime
   clearInterval(intervalRef.current);
   intervalRef.current = setInterval(() => {
     setCurrentTime(audio.currentTime);
   }, 100);
 
+  // zatrzymanie po czasie levelu
   clearTimeout(timeoutRef.current);
   timeoutRef.current = setTimeout(() => {
     stopSnippet();
@@ -213,13 +216,22 @@ export default function App() {
   };
 
   const skipToNext = () => {
-  const level = LEVELS[snippetIndex];
-  const newStart = snippetStartTime + level.time;
+  stopSnippet();
 
-  setSnippetStartTime(newStart);
-  setPrevSnippetIndex(snippetIndex + 1);
+  // zapamiętaj poprzedni level
+  setPrevSnippetIndex(snippetIndex);
 
-  setSnippetIndex((i) => i + 1);
+  // dodaj aktualny czas fragmentu do sumy
+  setSnippetStartTime(snippetStartTime + LEVELS[snippetIndex].time);
+
+  // jeśli jest kolejny level — przejdź
+  if (snippetIndex < LEVELS.length - 1) {
+    setSnippetIndex(snippetIndex + 1);
+  } else {
+    // brak kolejnego → koniec gry
+    setGameOver(true);
+    setCanReplayFull(true);
+  }
 };
 
   const giveUp = () => {
