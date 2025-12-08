@@ -83,6 +83,32 @@ const manualDaily = {
       dailyCategory: "Rap", 
     },
   ],
+  "2025-12-09": [
+    {
+      title: "Hips Don't Lie (feat. Wyclef Jean)",
+      artist: "Shakira",
+      cover: "/songs/covers/oral.jpg",
+      snippet: "/songs/pop/hips_lie.mp3",
+      categories: ["pop"],
+      dailyCategory: "Pop",
+    },
+    {
+      title: "Light My Fire",
+      artist: "The Doors",
+      cover: "/songs/covers/doors.jpg",
+      snippet: "/songs/rock/light_fire.mp3",
+      categories: ["rock"],
+      dailyCategory: "Rock",
+    },
+    {
+      title: "Small Worlds",
+      artist: "Mac Miller",
+      cover: "/songs/covers/swimming.jpg",
+      snippet: "/songs/rap/small_wordls.mp3",
+      categories: ["rap"],
+      dailyCategory: "Rap", 
+    },
+  ],
 };
 
 const LEVELS = [
