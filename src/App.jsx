@@ -111,6 +111,32 @@ const manualDaily = {
   ],
   "2025-12-10": [
     {
+      title: "Smooth Criminal",
+      artist: "Michael Jackson",
+      cover: "/songs/covers/bad.jpg",
+      snippet: "/songs/pop/smooth_criminal.mp3",
+      categories: ["pop"],
+      dailyCategory: "Pop",
+    },
+    {
+      title: "Smooth Criminal",
+      artist: "Alien Ant Farm",
+      cover: "/songs/covers/ant.jpg",
+      snippet: "/songs/rock/smooth_criminal.mp3",
+      categories: ["rock"],
+      dailyCategory: "Rock",
+    },
+    {
+      title: "Poland",
+      artist: "Lil Yachty",
+      cover: "/songs/covers/poland.jpg",
+      snippet: "/songs/rap/poland.mp3",
+      categories: ["rap"],
+      dailyCategory: "Rap", 
+    },
+  ],
+  "2025-12-11": [
+    {
       title: "Sweater Weather",
       artist: "The Neighbourhood",
       cover: "/songs/covers/loveyou.jpg",
@@ -127,10 +153,10 @@ const manualDaily = {
       dailyCategory: "Rock",
     },
     {
-      title: "Poland",
-      artist: "Lil Yachty",
-      cover: "/songs/covers/poland.jpg",
-      snippet: "/songs/rap/poland.mp3",
+      title: "All Eyez On Me (feat. Big Syke)",
+      artist: "2pac",
+      cover: "/songs/covers/eyez.jpg",
+      snippet: "/songs/rap/eyez.mp3",
       categories: ["rap"],
       dailyCategory: "Rap", 
     },
