@@ -109,6 +109,32 @@ const manualDaily = {
       dailyCategory: "Rap", 
     },
   ],
+  "2025-12-10": [
+    {
+      title: "Sweater Weather",
+      artist: "The Neighbourhood",
+      cover: "/songs/covers/loveyou.jpg",
+      snippet: "/songs/pop/weather.mp3",
+      categories: ["pop"],
+      dailyCategory: "Pop",
+    },
+    {
+      title: "It's the End of the World As We Know It (And I Feel Fine)",
+      artist: "R.E.M.",
+      cover: "/songs/covers/document5.jpg",
+      snippet: "/songs/rock/end_world.mp3",
+      categories: ["rock"],
+      dailyCategory: "Rock",
+    },
+    {
+      title: "Poland",
+      artist: "Lil Yachty",
+      cover: "/songs/covers/poland.jpg",
+      snippet: "/songs/rap/poland.mp3",
+      categories: ["rap"],
+      dailyCategory: "Rap", 
+    },
+  ],
 };
 
 const LEVELS = [
