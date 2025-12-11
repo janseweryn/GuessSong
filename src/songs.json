@@ -2992,7 +2992,7 @@
    "title": "Seek & Destroy",
     "artist": "Metallica",  
     "categories": ["Rock", "Rock 80s"],
-    "snippet": "/songs/rock/sick_destroy.mp3",
+    "snippet": "/songs/rock/seek_destroy.mp3",
     "cover": "/songs/covers/killall.jpg"
   },
   {
@@ -3269,7 +3269,7 @@
     "cover": "/songs/covers/graduation.jpg"
   },
    {
-   "title": "Homecoming (feat. Chris Martin) ",
+   "title": "Homecoming (feat. Chris Martin)",
     "artist": "Kanye West",  
     "categories": ["Rap", "Rap 00s"],
     "snippet": "/songs/rap/homecoming.mp3",

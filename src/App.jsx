@@ -161,6 +161,32 @@ const manualDaily = {
       dailyCategory: "Rap", 
     },
   ],
+  "2025-12-12": [
+    {
+      title: "Daddy Cool",
+      artist: "Bobey M.",
+      cover: "/songs/covers/getheart.jpg",
+      snippet: "/songs/pop/daddy_cool.mp3",
+      categories: ["pop"],
+      dailyCategory: "Pop",
+    },
+    {
+      title: "Walk Of Life",
+      artist: "Dire Straits",
+      cover: "/songs/covers/brothersarms.jpg",
+      snippet: "/songs/rock/walk_life.mp3",
+      categories: ["rock"],
+      dailyCategory: "Rock",
+    },
+    {
+      title: "Old Town Road",
+      artist: "Lil Nas X",
+      cover: "/songs/covers/7.jpg",
+      snippet: "/songs/rap/old_town.mp3",
+      categories: ["rap"],
+      dailyCategory: "Rap", 
+    },
+  ],
 };
 
 const LEVELS = [
