@@ -187,6 +187,32 @@ const manualDaily = {
       dailyCategory: "Rap", 
     },
   ],
+  "2025-12-13": [
+    {
+      title: "Lush Life",
+      artist: "Zara Larsson",
+      cover: "/songs/covers/sogood.jpg",
+      snippet: "/songs/pop/lush_life.mp3",
+      categories: ["pop"],
+      dailyCategory: "Pop",
+    },
+    {
+      title: "In Too Deep",
+      artist: "Sum 41",
+      cover: "/songs/covers/allkiller.jpg",
+      snippet: "/songs/rock/too_deep.mp3",
+      categories: ["rock"],
+      dailyCategory: "Rock",
+    },
+    {
+      title: "Drama",
+      artist: "Aespa",
+      cover: "/songs/covers/drama.jpg",
+      snippet: "/songs/pop/drama.mp3",
+      categories: ["rap"],
+      dailyCategory: "Rap", 
+    },
+  ],
 };
 
 const LEVELS = [

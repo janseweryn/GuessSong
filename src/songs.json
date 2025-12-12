@@ -4679,7 +4679,7 @@
    "title": "Hot Dog",
     "artist": "Limp Bizkit",  
     "categories": ["Rock", "Rock 00s"],
-    "snippet": "/songs/rock/hot_dogh.mp3",
+    "snippet": "/songs/rock/hot_dog.mp3",
     "cover": "/songs/covers/chocolate.jpg"
   },
   {
@@ -4863,8 +4863,91 @@
     "categories": ["Pop", "Pop 20s"],
     "snippet": "/songs/pop/universe.mp3",
     "cover": "/songs/covers/universe.jpg"
+  },
+  { 
+   "title": "Still Into You",
+    "artist": "Paramore",  
+    "categories": ["Pop", "Pop 10s", "Rock", "Rock 10s"],
+    "snippet": "/songs/pop/still_into.mp3",
+    "cover": "/songs/covers/paramore.jpg"
+  },
+  { 
+   "title": "Hard Times",
+    "artist": "Paramore",  
+    "categories": ["Pop", "Pop 10s", "Rock", "Rock 10s"],
+    "snippet": "/songs/pop/hard_times.mp3",
+    "cover": "/songs/covers/laughter.jpg"
+  },
+  { 
+   "title": "Ain't It Fun",
+    "artist": "Paramore",  
+    "categories": ["Pop", "Pop 10s", "Rock", "Rock 10s"],
+    "snippet": "/songs/pop/aint_fun.mp3",
+    "cover": "/songs/covers/paramore.jpg"
+  },
+  { 
+   "title": "My Own Summer (Shove It)",
+    "artist": "Deftones",  
+    "categories": ["Rock", "Rock 90s"],
+    "snippet": "/songs/rock/own_summer.mp3",
+    "cover": "/songs/covers/aroundfur.jpg"
+  },
+  { 
+   "title": "Change (In the House of Flies)",
+    "artist": "Deftones",  
+    "categories": ["Rock", "Rock 00s"],
+    "snippet": "/songs/rock/change.mp3",
+    "cover": "/songs/covers/pony.jpg"
+  },
+  { 
+   "title": "Breathe",
+    "artist": "The Prodigy",  
+    "categories": ["Rock", "Rock 90s"],
+    "snippet": "/songs/rock/breathepro.mp3",
+    "cover": "/songs/covers/fatland.jpg"
+  },
+  { 
+   "title": "Invaders Must Die",
+    "artist": "The Prodigy",  
+    "categories": ["Rock", "Rock 00s"],
+    "snippet": "/songs/rock/invaders.mp3",
+    "cover": "/songs/covers/invaders.jpg"
+  },
+  { 
+   "title": "Light My Fire",
+    "artist": "The Doors",  
+    "categories": ["Rock", "Rock 60s"],
+    "snippet": "/songs/rock/light_fire.mp3",
+    "cover": "/songs/covers/doors.jpg"
+  },
+  { 
+   "title": "People Are Strange",
+    "artist": "The Doors",  
+    "categories": ["Rock", "Rock 60s"],
+    "snippet": "/songs/rock/strange_people.mp3",
+    "cover": "/songs/covers/strange.jpg"
+  },
+  { 
+   "title": "Like A Rolling Stone",
+    "artist": "Bob Dylan",  
+    "categories": ["Rock", "Rock 60s"],
+    "snippet": "/songs/rock/rolling_stone.mp3",
+    "cover": "/songs/covers/a.jpg"
+  },
+   { 
+   "title": "Don't Think Twice, It's All Right",
+    "artist": "Bob Dylan",  
+    "categories": ["Rock", "Rock 60s"],
+    "snippet": "/songs/rock/think_twice.mp3",
+    "cover": "/songs/covers/a.jpg"
+  },
+  { 
+   "title": "Ms. Jackson (Radio Mix)",
+    "artist": "Outkast",  
+    "categories": ["Rap", "Rap 00s"],
+    "snippet": "/songs/rap/ms.mp3",
+    "cover": "/songs/covers/a.jpg"
   }
-  
 ]
 
 
