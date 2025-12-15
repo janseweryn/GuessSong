@@ -82,6 +82,32 @@ const manualDaily = {
       dailyCategory: "Rap", 
     },
   ],
+  "2025-12-16": [
+    {
+      title: "Say It Right",
+      artist: "Nelly Furtado",
+      cover: "/songs/covers/loose.jpg",
+      snippet: "/songs/pop/say_right.mp3",
+      categories: ["pop"],
+      dailyCategory: "Pop",
+    },
+    {
+      title: "Always",
+      artist: "Bon Jovi",
+      cover: "/songs/covers/crossroad.jpg",
+      snippet: "/songs/rock/always.mp3",
+      categories: ["rock"],
+      dailyCategory: "Rock",
+    },
+    {
+      title: "N.Y. State of Mind",
+      artist: "Nas",
+      cover: "/songs/covers/illmatic.jpg",
+      snippet: "/songs/rap/nystate.mp3",
+      categories: ["rap"],
+      dailyCategory: "Rap", 
+    },
+  ],
 };
 
 const LEVELS = [
