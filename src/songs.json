@@ -4788,6 +4788,13 @@
     "cover": "/songs/covers/somegirls.jpg"
   },
   {
+   "title": "Angie",
+    "artist": "The Rolling Stones",  
+    "categories": ["Rock", "Rock 70s"],
+    "snippet": "/songs/rock/angie.mp3",
+    "cover": "/songs/covers/goats.jpg"
+  },
+  {
    "title": "Yellow",
     "artist": "Coldplay",  
     "categories": ["Rock", "Rock 00s", "Pop", "Pop 00s"],
@@ -4954,6 +4961,20 @@
     "categories": ["Pop","Pop 20s","Rap", "Rap 00s"],
     "snippet": "/songs/pop/move_that.mp3",
     "cover": "/songs/covers/a.jpg"
+  },
+   { 
+   "title": "MOVE LIKE THAT (MOMO)",
+    "artist": "Twice",  
+    "categories": ["Pop","Pop 20s","Rap", "Rap 00s"],
+    "snippet": "/songs/pop/move_that.mp3",
+    "cover": "/songs/covers/a.jpg"
+  },
+   { 
+   "title": "Paranoid",
+    "artist": "Black Sabbath",  
+    "categories": ["Rock", "Rock 70s"],
+    "snippet": "/songs/rock/paranoid.mp3",
+    "cover": "/songs/covers/paranoid.jpg"
   }
 ]
 

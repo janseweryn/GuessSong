@@ -108,6 +108,32 @@ const manualDaily = {
       dailyCategory: "Rap", 
     },
   ],
+  "2025-12-17": [
+    {
+      title: "Deja Vu",
+      artist: "Olivia Rodrigo",
+      cover: "/songs/covers/sour.jpg",
+      snippet: "/songs/pop/deja_vu.mp3",
+      categories: ["pop"],
+      dailyCategory: "Pop",
+    },
+    {
+      title: "Song 2",
+      artist: "Blur",
+      cover: "/songs/covers/blur.jpg",
+      snippet: "/songs/rock/song2.mp3",
+      categories: ["rock"],
+      dailyCategory: "Rock",
+    },
+    {
+      title: "HUMBLE.",
+      artist: "Kendrick Lamar",
+      cover: "/songs/covers/pride.jpg",
+      snippet: "/songs/rap/humble.mp3",
+      categories: ["rap"],
+      dailyCategory: "Rap", 
+    },
+  ],
 };
 
 const LEVELS = [
