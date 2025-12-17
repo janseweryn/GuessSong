@@ -134,6 +134,32 @@ const manualDaily = {
       dailyCategory: "Rap", 
     },
   ],
+  "2025-12-18": [
+    {
+      title: "Tears",
+      artist: "Sabrina Carpenter",
+      cover: "/songs/covers/mansbest.jpg",
+      snippet: "/songs/pop/tears2.mp3",
+      categories: ["pop"],
+      dailyCategory: "Pop",
+    },
+    {
+      title: "Tubthumping",
+      artist: "Chumbawamba",
+      cover: "/songs/covers/Chumbawamba.jpg",
+      snippet: "/songs/rock/Tubthumping.mp3",
+      categories: ["rock"],
+      dailyCategory: "Rock",
+    },
+    {
+      title: "Black and Yellow",
+      artist: "Wiz Khalifa",
+      cover: "/songs/covers/rolling.jpg",
+      snippet: "/songs/rap/black_yellow.mp3",
+      categories: ["rap"],
+      dailyCategory: "Rap", 
+    },
+  ],
 };
 
 const LEVELS = [
