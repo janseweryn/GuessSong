@@ -160,6 +160,32 @@ const manualDaily = {
       dailyCategory: "Rap", 
     },
   ],
+  "2025-12-19": [
+    {
+      title: "Midnight City",
+      artist: "M83",
+      cover: "/songs/covers/hurryup.jpg",
+      snippet: "/songs/pop/midnight_city.mp3",
+      categories: ["pop"],
+      dailyCategory: "Pop",
+    },
+    {
+      title: "Roxanne",
+      artist: "The Police",
+      cover: "/songs/covers/outlandors.jpg",
+      snippet: "/songs/rock/Roxanne.mp3",
+      categories: ["rock"],
+      dailyCategory: "Rock",
+    },
+    {
+      title: "First Class",
+      artist: "Jack Harlow",
+      cover: "/songs/covers/comehome.jpg",
+      snippet: "/songs/rap/first_class.mp3",
+      categories: ["rap"],
+      dailyCategory: "Rap", 
+    },
+  ],
 };
 
 const LEVELS = [
