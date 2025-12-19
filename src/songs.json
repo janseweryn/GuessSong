@@ -2968,7 +2968,7 @@
     "cover": "/songs/covers/lighting.jpg"
   },
   {
-   "title": "Fuel",
+   "title": "Fuel (Live)",
     "artist": "Metallica",  
     "categories": ["Rock", "Rock 90s"],
     "snippet": "/songs/rock/fuel.mp3",
@@ -2985,7 +2985,7 @@
    "title": "Whiskey In The Jar",
     "artist": "Metallica",  
     "categories": ["Rock", "Rock 90s"],
-    "snippet": "/songs/rock/whiskey.mp3",
+    "snippet": "/songs/rock/whiskey2.mp3",
     "cover": "/songs/covers/garage.jpg"
   },
   {
@@ -4522,10 +4522,10 @@
     "cover": "/songs/covers/idiot.jpg"
   },
    {
-   "title": "When I Came Around",
+   "title": "When I Come Around",
     "artist": "Green Day",  
     "categories": ["Rock", "Rock 90s"],
-    "snippet": "/songs/rock/came_around.mp3",
+    "snippet": "/songs/rock/come_around.mp3",
     "cover": "/songs/covers/dookie.jpg"
   },
   {
@@ -4665,7 +4665,7 @@
    "title": "Behind Blue Eyes",
     "artist": "Limp Bizkit",  
     "categories": ["Rock", "Rock 00s"],
-    "snippet": "/songs/rock/behind_eeys.mp3",
+    "snippet": "/songs/rock/behind_eyes.mp3",
     "cover": "/songs/covers/results.jpg"
   },
   {

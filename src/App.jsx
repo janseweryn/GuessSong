@@ -186,6 +186,32 @@ const manualDaily = {
       dailyCategory: "Rap", 
     },
   ],
+  "2025-12-20": [
+    {
+      title: "Endless Summer (Single Mix)",
+      artist: "Oceana",
+      cover: "/songs/covers/endlesssummer.jpg",
+      snippet: "/songs/pop/endless_summer.mp3",
+      categories: ["pop"],
+      dailyCategory: "Pop",
+    },
+    {
+      title: "Wonderful Tonight",
+      artist: "Eric Clapton",
+      cover: "/songs/covers/slowhand.jpg",
+      snippet: "/songs/rock/wonderful_tonight.mp3",
+      categories: ["rock"],
+      dailyCategory: "Rock",
+    },
+    {
+      title: "Life Is Good (feat. Drake)",
+      artist: "Future",
+      cover: "/songs/covers/highlife.jpg",
+      snippet: "/songs/rap/life_good.mp3",
+      categories: ["rap"],
+      dailyCategory: "Rap", 
+    },
+  ],
 };
 
 const LEVELS = [
