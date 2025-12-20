@@ -212,6 +212,32 @@ const manualDaily = {
       dailyCategory: "Rap", 
     },
   ],
+  "2025-12-21": [
+    {
+      title: "7 Years",
+      artist: "Lukas Graham",
+      cover: "/songs/covers/lukas.jpg",
+      snippet: "/songs/pop/7years.mp3",
+      categories: ["pop"],
+      dailyCategory: "Pop",
+    },
+    {
+      title: "Do I Wanna Know?",
+      artist: "Arctic Monkeys",
+      cover: "/songs/covers/am.jpg",
+      snippet: "/songs/rock/wanna_know.mp3",
+      categories: ["rock"],
+      dailyCategory: "Rock",
+    },
+    {
+      title: "Just A Dream",
+      artist: "Nelly",
+      cover: "/songs/covers/50.jpg",
+      snippet: "/songs/rap/just_dream.mp3",
+      categories: ["rap"],
+      dailyCategory: "Rap", 
+    },
+  ],
 };
 
 const LEVELS = [
