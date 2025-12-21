@@ -258,7 +258,7 @@ const manualDaily = {
     {
       title: "Man's Not Hot",
       artist: "Big Shaq",
-      cover: "/songs/covers/manshot.jpg",
+      cover: "/songs/covers/manshot.png",
       snippet: "/songs/rap/mans_hot.mp3",
       categories: ["rap"],
       dailyCategory: "Rap", 
