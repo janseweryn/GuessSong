@@ -238,6 +238,32 @@ const manualDaily = {
       dailyCategory: "Rap", 
     },
   ],
+  "2025-12-22": [
+    {
+      title: "Worth It (feat. Kid Ink)",
+      artist: "Fifth Harmony",
+      cover: "/songs/covers/reflection.jpg",
+      snippet: "/songs/pop/worth_it.mp3",
+      categories: ["pop"],
+      dailyCategory: "Pop",
+    },
+    {
+      title: "Still Into You",
+      artist: "Paramore",
+      cover: "/songs/covers/paramore.jpg",
+      snippet: "/songs/pop/still_into.mp3",
+      categories: ["rock"],
+      dailyCategory: "Rock",
+    },
+    {
+      title: "Man's Not Hot",
+      artist: "Big Shaq",
+      cover: "/songs/covers/manshot.jpg",
+      snippet: "/songs/rap/mans_hot.mp3",
+      categories: ["rap"],
+      dailyCategory: "Rap", 
+    },
+  ],
 };
 
 const LEVELS = [
