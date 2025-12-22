@@ -264,6 +264,32 @@ const manualDaily = {
       dailyCategory: "Rap", 
     },
   ],
+  "2025-12-23": [
+    {
+      title: "Tokyo Drift",
+      artist: "Teriyaki Boyz",
+      cover: "/songs/covers/tokyo.jpg",
+      snippet: "/songs/pop/tokyo.mp3",
+      categories: ["pop"],
+      dailyCategory: "Pop",
+    },
+    {
+      title: "Rollin' (Air Raid Vehicle)",
+      artist: "Limp Bizkit",
+      cover: "/songs/covers/chocolate.jpg",
+      snippet: "/songs/rock/rollin.mp3",
+      categories: ["rock"],
+      dailyCategory: "Rock",
+    },
+    {
+      title: "Astronaut In The Ocean",
+      artist: "Masked Wolf",
+      cover: "/songs/covers/astronaut.png",
+      snippet: "/songs/rap/astronaut_ocean.mp3",
+      categories: ["rap"],
+      dailyCategory: "Rap", 
+    },
+  ],
 };
 
 const LEVELS = [
