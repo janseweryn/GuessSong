@@ -56,6 +56,32 @@ const manualDaily = {
       dailyCategory: "Rap", 
     },
   ],
+  "2025-12-30": [
+    {
+      title: "Mambo No. 5 (a Little Bit of...)",
+      artist: "Lou Bega",
+      cover: "/songs/covers/mambo.jpg",
+      snippet: "/songs/pop/mambo5.mp3",
+      categories: ["pop"],
+      dailyCategory: "Pop",
+    },
+    {
+      title: "Uptown Girl",
+      artist: "Billy Joel",
+      cover: "/songs/covers/innocent.jpg",
+      snippet: "/songs/rock/uptown_girl2.mp3",
+      categories: ["rock"],
+      dailyCategory: "Rock",
+    },
+    {
+      title: "Watch Me (Whip / Nae Nae)",
+      artist: "Silentó",
+      cover: "/songs/covers/watchme.jpg",
+      snippet: "/songs/rap/watch_me.mp3",
+      categories: ["rap"],
+      dailyCategory: "Rap", 
+    },
+  ],
 };
 
 const LEVELS = [
