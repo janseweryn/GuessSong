@@ -94,8 +94,8 @@ const manualDaily = {
     {
       title: "Africa",
       artist: "Toto",
-      cover: "/songs/covers/innocent.jpg",
-      snippet: "/songs/rock/uptown_girl2.mp3",
+      cover: "/songs/covers/toto.jpg",
+      snippet: "/songs/rock/africa.mp3",
       categories: ["rock"],
       dailyCategory: "Rock",
     },
