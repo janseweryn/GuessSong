@@ -82,6 +82,58 @@ const manualDaily = {
       dailyCategory: "Rap", 
     },
   ],
+  "2025-12-31": [
+    {
+      title: "Firework",
+      artist: "Katy Perry",
+      cover: "/songs/covers/teenagedream.jpg",
+      snippet: "/songs/pop/firework.mp3",
+      categories: ["pop"],
+      dailyCategory: "Pop",
+    },
+    {
+      title: "Africa",
+      artist: "Toto",
+      cover: "/songs/covers/innocent.jpg",
+      snippet: "/songs/rock/uptown_girl2.mp3",
+      categories: ["rock"],
+      dailyCategory: "Rock",
+    },
+    {
+      title: "I Like It",
+      artist: "Cardi B, Bad Bunny & J Balvin",
+      cover: "/songs/covers/privacy.jpg",
+      snippet: "/songs/rap/like_it.mp3",
+      categories: ["rap"],
+      dailyCategory: "Rap", 
+    },
+  ],
+  "2026-01-01": [
+    {
+      title: "Likey",
+      artist: "Twice",
+      cover: "/songs/covers/twicetagram.jpg",
+      snippet: "/songs/pop/likey.mp3",
+      categories: ["pop"],
+      dailyCategory: "Pop",
+    },
+    {
+      title: "New Year's Day",
+      artist: "U2",
+      cover: "/songs/covers/bestof.jpg",
+      snippet: "/songs/rock/new_years.mp3",
+      categories: ["rock"],
+      dailyCategory: "Rock",
+    },
+    {
+      title: "Like Jennie",
+      artist: "Jennie",
+      cover: "/songs/covers/ruby.jpg",
+      snippet: "/songs/pop/jennie.mp3",
+      categories: ["rap"],
+      dailyCategory: "Rap", 
+    },
+  ],
 };
 
 const LEVELS = [
