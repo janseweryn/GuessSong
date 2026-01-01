@@ -134,6 +134,32 @@ const manualDaily = {
       dailyCategory: "Rap", 
     },
   ],
+  "2026-01-02": [
+    {
+      title: "Hall of Fame (feat. will.i.am)",
+      artist: "The Script",
+      cover: "/songs/covers/3deluxe.jpg",
+      snippet: "/songs/pop/hall_fame.mp3",
+      categories: ["pop"],
+      dailyCategory: "Pop",
+    },
+    {
+      title: "End of Beginning",
+      artist: "Djo",
+      cover: "/songs/covers/decide.jpg",
+      snippet: "/songs/rock/End_Beginning.mp3",
+      categories: ["rock"],
+      dailyCategory: "Rock",
+    },
+    {
+      title: "Ni**as in Paris",
+      artist: "Kanye West & JAY-Z",
+      cover: "/songs/covers/watchthrone.jpg",
+      snippet: "/songs/rap/niggas.mp3",
+      categories: ["rap"],
+      dailyCategory: "Rap", 
+    },
+  ],
 };
 
 const LEVELS = [
