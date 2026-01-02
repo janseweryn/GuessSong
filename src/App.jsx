@@ -160,6 +160,32 @@ const manualDaily = {
       dailyCategory: "Rap", 
     },
   ],
+  "2026-01-03": [
+    {
+      title: "Risk",
+      artist: "Gracie Abrams",
+      cover: "/songs/covers/secretus.jpg",
+      snippet: "/songs/pop/risk.mp3",
+      categories: ["pop"],
+      dailyCategory: "Pop",
+    },
+    {
+      title: "This Charming Man",
+      artist: "The Smiths",
+      cover: "/songs/covers/smiths.jpg",
+      snippet: "/songs/rock/charming_man.mp3",
+      categories: ["rock"],
+      dailyCategory: "Rock",
+    },
+    {
+      title: "Sum 2 Prove",
+      artist: "Lil Baby",
+      cover: "/songs/covers/sum2.jpg",
+      snippet: "/songs/rap/sum_prove.mp3",
+      categories: ["rap"],
+      dailyCategory: "Rap", 
+    },
+  ],
 };
 
 const LEVELS = [

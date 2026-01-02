@@ -308,7 +308,7 @@
     "cover": "/songs/covers/virgin.jpg"
   },
   {
-    "title": "Can't Hold Us (feat. Ryan Dalton)",
+    "title": "Can't Hold Us (feat. Ray Dalton)",
     "artist": "Macklemore & Ryan Lewis",
     "categories": ["Pop", "Pop 10s"],
     "snippet": "/songs/pop/cant_hold.mp3",
@@ -2957,7 +2957,7 @@
    "title": "One",
     "artist": "Metallica",  
     "categories": ["Rock", "Rock 80s"],
-    "snippet": "/songs/rock/one.mp3",
+    "snippet": "/songs/rock/one2.mp3",
     "cover": "/songs/covers/justice.jpg"
   },
   {
@@ -4975,6 +4975,20 @@
     "categories": ["Rock", "Rock 70s"],
     "snippet": "/songs/rock/paranoid.mp3",
     "cover": "/songs/covers/paranoid.jpg"
+  },
+  {
+      "title": "Hall of Fame (feat. will.i.am)",
+      "artist": "The Script",
+      "categories": ["Pop","Pop 10s"],
+      "snippet": "/songs/pop/hall_fame.mp3",
+      "cover": "/songs/covers/3deluxe.jpg"
+  },
+  { 
+   "title": "End of Beginning",
+    "artist": "Djo",  
+    "categories": ["Rock", "Rock 20s"],
+    "snippet": "/songs/rock/End_Beginning.mp3",
+    "cover": "/songs/covers/decide.jpg"
   }
 ]
 
