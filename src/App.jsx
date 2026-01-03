@@ -186,6 +186,32 @@ const manualDaily = {
       dailyCategory: "Rap", 
     },
   ],
+  "2026-01-04": [
+    {
+      title: "Running In the 90's",
+      artist: "Max Coveri",
+      cover: "/songs/covers/initialdelta.jpg",
+      snippet: "/songs/pop/running_90s.mp3",
+      categories: ["pop"],
+      dailyCategory: "Pop",
+    },
+    {
+      title: "Linger",
+      artist: "The Cranberries",
+      cover: "/songs/covers/everybodyelse.jpg",
+      snippet: "/songs/rock/linger.mp3",
+      categories: ["rock"],
+      dailyCategory: "Rock",
+    },
+    {
+      title: "Ridin' (feat. Krayzie Bone)",
+      artist: "Chamillionaire",
+      cover: "/songs/covers/soundrevenge.jpg",
+      snippet: "/songs/rap/ridin.mp3",
+      categories: ["rap"],
+      dailyCategory: "Rap", 
+    },
+  ],
 };
 
 const LEVELS = [

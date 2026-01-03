@@ -4989,6 +4989,20 @@
     "categories": ["Rock", "Rock 20s"],
     "snippet": "/songs/rock/End_Beginning.mp3",
     "cover": "/songs/covers/decide.jpg"
+  },
+  { 
+   "title": "This Charming Man",
+    "artist": "The Smiths",  
+    "categories": ["Rock", "Rock 80s"],
+    "snippet": "/songs/rock/charming_man.mp3",
+    "cover": "/songs/covers/smiths.jpg"
+  },
+  { 
+   "title": "Sum 2 Prove",
+    "artist": "Lil Baby",  
+    "categories": ["Rap", "Rap 10s"],
+    "snippet": "/songs/rap/sum_prove.mp3",
+    "cover": "/songs/covers/sum2.jpg"
   }
 ]
 
