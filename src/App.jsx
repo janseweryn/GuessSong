@@ -212,6 +212,32 @@ const manualDaily = {
       dailyCategory: "Rap", 
     },
   ],
+  "2026-01-05": [
+    {
+      title: "So What",
+      artist: "P!nk",
+      cover: "/songs/covers/funhouse.jpg",
+      snippet: "/songs/pop/so_what.mp3",
+      categories: ["pop"],
+      dailyCategory: "Pop",
+    },
+    {
+      title: "Enjoy the Silence",
+      artist: "Depeche Mode",
+      cover: "/songs/covers/violator.jpg",
+      snippet: "/songs/rock/silence2.mp3",
+      categories: ["rock"],
+      dailyCategory: "Rock",
+    },
+    {
+      title: "Fight The Power",
+      artist: "Public Enemy",
+      cover: "/songs/covers/blackplanet.jpg",
+      snippet: "/songs/rap/fight_power.mp3",
+      categories: ["rap"],
+      dailyCategory: "Rap", 
+    },
+  ],
 };
 
 const LEVELS = [
