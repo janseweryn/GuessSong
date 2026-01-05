@@ -238,6 +238,32 @@ const manualDaily = {
       dailyCategory: "Rap", 
     },
   ],
+  "2026-01-06": [
+    {
+      title: "I Wanna Be Yours",
+      artist: "Arctic Monkeys",
+      cover: "/songs/covers/am.jpg",
+      snippet: "/songs/rock/wanna_yours.mp3",
+      categories: ["pop"],
+      dailyCategory: "Pop",
+    },
+    {
+      title: "I Bet You Look Good on the Dancefloor",
+      artist: "Arctic Monkeys",
+      cover: "/songs/covers/peoplesay.jpg",
+      snippet: "/songs/rock/good_dancefloor.mp3",
+      categories: ["rock"],
+      dailyCategory: "Rock",
+    },
+    {
+      title: "Surround Sound (feat. 21 Savage & Baby Tate)",
+      artist: "JID",
+      cover: "/songs/covers/foreverstory.jpg",
+      snippet: "/songs/rap/surround_sound.mp3",
+      categories: ["rap"],
+      dailyCategory: "Rap", 
+    },
+  ],
 };
 
 const LEVELS = [
