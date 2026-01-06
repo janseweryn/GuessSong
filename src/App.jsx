@@ -264,6 +264,32 @@ const manualDaily = {
       dailyCategory: "Rap", 
     },
   ],
+  "2026-01-07": [
+    {
+      title: "Gimme! Gimme! Gimme! (A Man After Midnight)",
+      artist: "Abba",
+      cover: "/songs/covers/voulez.jpg",
+      snippet: "/songs/pop/gimme.mp3",
+      categories: ["pop"],
+      dailyCategory: "Pop",
+    },
+    {
+      title: "Everybody Wants to Rule the World",
+      artist: "Tears for Fears",
+      cover: "/songs/covers/bigchair.jpg",
+      snippet: "/songs/rock/rule_world.mp3",
+      categories: ["rock"],
+      dailyCategory: "Rock",
+    },
+    {
+      title: "Mi Gente",
+      artist: "J Balvin & Willy William",
+      cover: "/songs/covers/vibras.jpg",
+      snippet: "/songs/rap/mi_gente.mp3",
+      categories: ["rap"],
+      dailyCategory: "Rap", 
+    },
+  ],
 };
 
 const LEVELS = [
