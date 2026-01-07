@@ -290,6 +290,32 @@ const manualDaily = {
       dailyCategory: "Rap", 
     },
   ],
+  "2026-01-08": [
+    {
+      title: "Wicked Games",
+      artist: "The Weeknd",
+      cover: "/songs/covers/trilogy.jpg",
+      snippet: "/songs/pop/wicked_games.mp3",
+      categories: ["pop"],
+      dailyCategory: "Pop",
+    },
+    {
+      title: "Paint It Black",
+      artist: "The Rolling Stones",
+      cover: "/songs/covers/aftermath.jpg",
+      snippet: "/songs/rock/paint_black.mp3",
+      categories: ["rock"],
+      dailyCategory: "Rock",
+    },
+    {
+      title: "Dance in the Water",
+      artist: "Danny Brown",
+      cover: "/songs/covers/atrocity.jpg",
+      snippet: "/songs/rap/dance_water.mp3",
+      categories: ["rap"],
+      dailyCategory: "Rap", 
+    },
+  ],
 };
 
 const LEVELS = [
