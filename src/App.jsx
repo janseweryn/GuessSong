@@ -377,44 +377,57 @@ export default function App() {
   };
 
   const startNewSong = (songsList) => {
-    if (!songsList.length) return;
-    const idx = Math.floor(Math.random() * songsList.length);
-    const song = songsList[idx];
-    setCurrentSong(song);
-    setSnippetIndex(0);
-    setIsCorrect(false);
-    setGameOver(false);
-    setCanReplayFull(false);
-    setIsPlaying(false);
-    setWrongAnswers([]);
-    clearTimers();
-    if (audioRef.current) {
-      audioRef.current.pause();
-      audioRef.current.currentTime = 0;
-    }
-  };
+  // Jeśli funkcja została wywołana bez argumentu (np. przyciskiem "Next"),
+  // użyj aktualnie przefiltrowanych piosenek ze stanu.
+  const list = songsList || filteredSongs;
+
+  if (!list || list.length === 0) {
+    console.error("Brak piosenek do losowania!");
+    return;
+  }
+  
+  const idx = Math.floor(Math.random() * list.length);
+  const song = list[idx];
+  
+  setCurrentSong(song);
+  setSnippetIndex(0);
+  setIsCorrect(false);
+  setGameOver(false);
+  setCanReplayFull(false);
+  setIsPlaying(false);
+  setWrongAnswers([]);
+  
+  clearTimers();
+  if (audioRef.current) {
+    audioRef.current.pause();
+    audioRef.current.currentTime = 0;
+  }
+};
 
   const selectCategory = (cat) => {
-  // 1. Tworzymy listę na podstawie świeżych danych z JSON
-  const filtered =
-    cat === "all"
-      ? songsData
-      : songsData.filter((s) =>
-          s.categories.some((c) => c.toLowerCase().includes(cat.toLowerCase()))
-        );
+  if (!songsData) return;
 
-  // 2. Sprawdzamy, czy w ogóle coś znaleźliśmy (częsty błąd w JSON)
+  // Obsługa tablicy bezpośredniej (tak jak masz w aaaa.txt)
+  const allSongs = Array.isArray(songsData) ? songsData : songsData.songs;
+
+  const filtered = cat === "all"
+    ? allSongs
+    : allSongs.filter((s) => {
+        // ZABEZPIECZENIE: Sprawdzamy czy s istnieje, czy ma categories i czy to tablica
+        return s && s.categories && Array.isArray(s.categories) && 
+               s.categories.some((c) => c && c.toLowerCase().includes(cat.toLowerCase()));
+      });
+
   if (!filtered || filtered.length === 0) {
-    console.error("Kategoria pusta lub błąd w danych:", cat);
+    console.error("Nie znaleziono piosenek dla kategorii:", cat);
     return;
   }
 
-  // 3. Aktualizujemy stany
   setCategory(cat);
   setFilteredSongs(filtered);
   setMode("category");
 
-  // 4. KLUCZOWE: Losujemy z 'filtered', a nie z 'filteredSongs'
+  // WAŻNE: Przekazujemy 'filtered', bo stan 'filteredSongs' nie odświeża się natychmiast
   startNewSong(filtered); 
 };
   const startDaily = () => {
