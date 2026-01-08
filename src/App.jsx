@@ -316,6 +316,32 @@ const manualDaily = {
       dailyCategory: "Rap", 
     },
   ],
+  "2026-01-09": [
+    {
+      title: "Tom's Diner (7\" A)",
+      artist: "Suzanne Vega & DNA",
+      cover: "https://is1-ssl.mzstatic.com/image/thumb/Music114/v4/df/a9/8c/dfa98c94-bbe5-99fb-e4e6-782c300823e8/00075021536326.rgb.jpg/600x600bb.jpg",
+      snippet: "/songs/rock/suzanne_vega_dna_tom_s_diner_7_a.mp3",
+      categories: ["pop"],
+      dailyCategory: "Pop",
+    },
+    {
+      title: "Centuries",
+      artist: "Fall Out Boy",
+      cover: "https://is1-ssl.mzstatic.com/image/thumb/Music124/v4/ea/5f/87/ea5f87ea-4bc3-0e01-456c-37401a4268f2/14UMGIM60337.rgb.jpg/600x600bb.jpg",
+      snippet: "/songs/rock/fall_out_boy_centuries.mp3",
+      categories: ["rock"],
+      dailyCategory: "Rock",
+    },
+    {
+      title: "Young, Wild & Free (feat. Bruno Mars)",
+      artist: "Snoop Dogg & Wiz Khalifa",
+      cover: "https://is1-ssl.mzstatic.com/image/thumb/Music124/v4/b1/cc/48/b1cc4833-4fcc-7c21-2c31-25c7bd18daa1/mzi.rviprhvj.jpg/600x600bb.jpg",
+      snippet: "/songs/pop/snoop_dogg_wiz_khalifa_young_wild_free_feat_bruno_mars.mp3",
+      categories: ["rap"],
+      dailyCategory: "Rap", 
+    },
+  ],
 };
 
 const LEVELS = [
