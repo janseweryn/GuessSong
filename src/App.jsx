@@ -395,18 +395,28 @@ export default function App() {
   };
 
   const selectCategory = (cat) => {
-    const filtered =
-      cat === "all"
-        ? songsData
-        : songsData.filter((s) =>
-            s.categories.some((c) => c.toLowerCase().includes(cat))
-          );
-    setCategory(cat);
-    setFilteredSongs(filtered);
-    setMode("category");
-    startNewSong(filtered);
-  };
+  // 1. Tworzymy listę na podstawie świeżych danych z JSON
+  const filtered =
+    cat === "all"
+      ? songsData
+      : songsData.filter((s) =>
+          s.categories.some((c) => c.toLowerCase().includes(cat.toLowerCase()))
+        );
 
+  // 2. Sprawdzamy, czy w ogóle coś znaleźliśmy (częsty błąd w JSON)
+  if (!filtered || filtered.length === 0) {
+    console.error("Kategoria pusta lub błąd w danych:", cat);
+    return;
+  }
+
+  // 3. Aktualizujemy stany
+  setCategory(cat);
+  setFilteredSongs(filtered);
+  setMode("category");
+
+  // 4. KLUCZOWE: Losujemy z 'filtered', a nie z 'filteredSongs'
+  startNewSong(filtered); 
+};
   const startDaily = () => {
     const todayDaily = getManualDailySongs();
     if (!todayDaily) {
