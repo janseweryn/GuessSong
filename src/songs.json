@@ -5601,6 +5601,895 @@
     "categories": ["Pop","Pop 10s"],
     "snippet": "/songs/rock/the_neighbourhood_you_get_me_so_high.mp3",
     "cover": "https://is1-ssl.mzstatic.com/image/thumb/Music125/v4/fc/d0/89/fcd0899c-2236-a726-9ce2-ebb110e2204d/886447414545.jpg/600x600bb.jpg"
+  },
+  {
+    "title": "Someone Like You",
+    "artist": "Adele",
+    "categories": ["Pop", "Pop 10s"],
+    "snippet": "/songs/pop/adele_someone_like_you.mp3",
+    "cover": "https://is1-ssl.mzstatic.com/image/thumb/Music116/v4/d8/e3/f9/d8e3f9ea-d6fe-9a1b-9f13-109983d3062e/191404113868.png/600x600bb.jpg"
+  },
+  {
+    "title": "Easy On Me",
+    "artist": "Adele",
+    "categories": ["Pop", "Pop 20s"],
+    "snippet": "/songs/pop/adele_easy_on_me.mp3",
+    "cover": "https://is1-ssl.mzstatic.com/image/thumb/Music115/v4/73/6d/7c/736d7cfb-c79d-c9a9-4170-5e71d008dea1/886449666430.jpg/600x600bb.jpg"
+  },
+  {
+    "title": "Hello",
+    "artist": "Adele",
+    "categories": ["Pop", "Pop 10s"],
+    "snippet": "/songs/pop/adele_hello.mp3",
+    "cover": "https://is1-ssl.mzstatic.com/image/thumb/Music116/v4/08/8c/24/088c2405-2e33-801b-5c38-e967f2c01e69/191404113974.png/600x600bb.jpg"
+  },
+  {
+    "title": "Make You Feel My Love",
+    "artist": "Adele",
+    "categories": ["Pop", "Pop 00s"],
+    "snippet": "/songs/pop/adele_make_you_feel_my_love.mp3",
+    "cover": "https://is1-ssl.mzstatic.com/image/thumb/Music116/v4/93/3b/dd/933bddde-bd73-0fd2-70f5-f4cf683c34f7/191404093863.png/600x600bb.jpg"
+  },
+  {
+    "title": "Send My Love (To Your New Lover)",
+    "artist": "Adele",
+    "categories": ["Pop", "Pop 10s"],
+    "snippet": "/songs/pop/adele_send_my_love_to_your_new_lover.mp3",
+    "cover": "https://is1-ssl.mzstatic.com/image/thumb/Music116/v4/08/8c/24/088c2405-2e33-801b-5c38-e967f2c01e69/191404113974.png/600x600bb.jpg"
+  },
+  {
+    "title": "Skyfall",
+    "artist": "Adele",
+    "categories": ["Pop", "Pop 10s"],
+    "snippet": "/songs/pop/adele_skyfall.mp3",
+    "cover": "https://is1-ssl.mzstatic.com/image/thumb/Music125/v4/b3/fe/cf/b3fecf76-0359-8e14-0651-4b101fc68a3f/886443673632.jpg/600x600bb.jpg"
+  },
+  {
+    "title": "When We Were Young",
+    "artist": "Adele",
+    "categories": ["Pop", "Pop 10s"],
+    "snippet": "/songs/pop/adele_when_we_were_young.mp3",
+    "cover": "https://is1-ssl.mzstatic.com/image/thumb/Music116/v4/08/8c/24/088c2405-2e33-801b-5c38-e967f2c01e69/191404113974.png/600x600bb.jpg"
+  },
+  {
+    "title": "Crazy",
+    "artist": "Aerosmith",
+    "categories": ["Rock", "Rock 90s"],
+    "snippet": "/songs/pop/aerosmith_crazy.mp3",
+    "cover": "https://is1-ssl.mzstatic.com/image/thumb/Music126/v4/8b/04/87/8b048775-ed10-439d-18a6-5ecb21effcf8/06UMGIM14760.rgb.jpg/600x600bb.jpg"
+  },
+  {
+    "title": "Cryin'",
+    "artist": "Aerosmith",
+    "categories": ["Rock", "Rock 90s"],
+    "snippet": "/songs/rock/aerosmith_cryin.mp3",
+    "cover": "https://is1-ssl.mzstatic.com/image/thumb/Music115/v4/2d/08/bf/2d08bf29-d87e-8ce9-3a48-2985787f8a7c/00720642471623.rgb.jpg/600x600bb.jpg"
+  },
+  {
+    "title": "Dream On",
+    "artist": "Aerosmith",
+    "categories": ["Rock", "Rock 70s"],
+    "snippet": "/songs/rock/aerosmith_dream_on.mp3",
+    "cover": "https://is1-ssl.mzstatic.com/image/thumb/Music112/v4/e2/87/d9/e287d987-7b92-7749-737f-b5b8a6913f88/22UM1IM38560.rgb.jpg/600x600bb.jpg"
+  },
+  {
+    "title": "I Don't Want to Miss a Thing",
+    "artist": "Aerosmith",
+    "categories": ["Rock", "Rock 90s"],
+    "snippet": "/songs/pop/aerosmith_i_don_t_want_to_miss_a_thing.mp3",
+    "cover": "https://is1-ssl.mzstatic.com/image/thumb/Music115/v4/0a/f1/af/0af1af45-7deb-3252-15e2-c1394b574d64/mzi.lfxshysm.jpg/600x600bb.jpg"
+  },
+  {
+    "title": "Walk This Way",
+    "artist": "Aerosmith",
+    "categories": ["Rock", "Rock 70s"],
+    "snippet": "/songs/rock/aerosmith_walk_this_way.mp3",
+    "cover": "https://is1-ssl.mzstatic.com/image/thumb/Music112/v4/18/6e/ff/186eff4f-effc-0422-51c0-aa813e92e67d/22UM1IM35694.rgb.jpg/600x600bb.jpg"
+  },
+  {
+    "title": "BILLIE EILISH.",
+    "artist": "Armani White",
+    "categories": ["Rap", "Rap 20s"],
+    "snippet": "/songs/rap/armani_white_billie_eilish.mp3",
+    "cover": "https://is1-ssl.mzstatic.com/image/thumb/Music122/v4/89/db/38/89db38db-1dfc-3fd7-cb0d-fcb95b8bdb37/22UMGIM62666.rgb.jpg/600x600bb.jpg"
+  },
+  {
+    "title": "Army Dreamers",
+    "artist": "Kate Bush",
+    "categories": ["Pop", "Pop 80s"],
+    "snippet": "/songs/pop/kate_bush_army_dreamers.mp3",
+    "cover": "https://is1-ssl.mzstatic.com/image/thumb/Music116/v4/b9/c0/4f/b9c04f2d-8e7d-1ee3-f611-48a314ccda52/cover.jpg/600x600bb.jpg"
+  },
+  {
+    "title": "Fallen Leaves",
+    "artist": "Billy Talent",
+    "categories": ["Rock", "Rock 00s"],
+    "snippet": "/songs/rock/billy_talent_fallen_leaves.mp3",
+    "cover": "https://is1-ssl.mzstatic.com/image/thumb/Music/31/89/a2/mzi.ntaoftmc.jpg/600x600bb.jpg"
+  },
+  {
+    "title": "Red Flag",
+    "artist": "Billy Talent",
+    "categories": ["Rock", "Rock 00s"],
+    "snippet": "/songs/rock/billy_talent_red_flag.mp3",
+    "cover": "https://is1-ssl.mzstatic.com/image/thumb/Music/31/89/a2/mzi.ntaoftmc.jpg/600x600bb.jpg"
+  },
+  {
+    "title": "Rusted from the Rain (iTunes Session)",
+    "artist": "Billy Talent",
+    "categories": ["Rock", "Rock 10s"],
+    "snippet": "/songs/rock/billy_talent_rusted_from_the_rain_itunes_session.mp3",
+    "cover": "https://is1-ssl.mzstatic.com/image/thumb/Music123/v4/83/fb/0b/83fb0bd7-cfa7-0c51-c39e-23859f29468f/825646829569.jpg/600x600bb.jpg"
+  },
+  {
+    "title": "33 Max Verstappen",
+    "artist": "Carte Blanq & Maxx Power",
+    "categories": ["Pop", "Pop 20s"],
+    "snippet": "/songs/pop/carte_blanq_maxx_power_33_max_verstappen.mp3",
+    "cover": "https://is1-ssl.mzstatic.com/image/thumb/Music221/v4/f9/54/34/f95434f8-831b-773b-4da8-2b12948da718/859753742459.jpg/600x600bb.jpg"
+  },
+  {
+    "title": "Hypa Hypa",
+    "artist": "Electric Callboy",
+    "categories": ["Rock", "Rock 20s"],
+    "snippet": "/songs/rock/electric_callboy_hypa_hypa.mp3",
+    "cover": "https://is1-ssl.mzstatic.com/image/thumb/Music122/v4/8a/a7/dd/8aa7ddee-bb47-4731-126a-417044ff385b/886448556541.jpg/600x600bb.jpg"
+  },
+  {
+    "title": "On the Floor (feat. Pitbull)",
+    "artist": "Jennifer Lopez",
+    "categories": ["Pop", "Pop 10s"],
+    "snippet": "/songs/pop/jennifer_lopez_on_the_floor_feat_pitbull.mp3",
+    "cover": "https://is1-ssl.mzstatic.com/image/thumb/Music126/v4/83/5c/53/835c5395-2138-8f92-70d9-f12819d5885c/11UMGIM10446.rgb.jpg/600x600bb.jpg"
+  },
+  {
+    "title": "Babooshka (2018 Remaster)",
+    "artist": "Kate Bush",
+    "categories": ["Pop", "Pop 80s"],
+    "snippet": "/songs/pop/kate_bush_babooshka_2018_remaster.mp3",
+    "cover": "https://is1-ssl.mzstatic.com/image/thumb/Music126/v4/45/5b/0e/455b0e59-f112-76ee-57c9-9e53b2702142/cover.jpg/600x600bb.jpg"
+  },
+  {
+    "title": "Blind",
+    "artist": "Korn",
+    "categories": ["Rock", "Rock 90s"],
+    "snippet": "/songs/rock/korn_blind.mp3",
+    "cover": "https://is1-ssl.mzstatic.com/image/thumb/Music114/v4/09/2b/e7/092be7d0-7697-220d-c000-97f366e723e4/mzi.anacpwuj.jpg/600x600bb.jpg"
+  },
+  {
+    "title": "Coming Undone",
+    "artist": "Korn",
+    "categories": ["Rock", "Rock 00s"],
+    "snippet": "/songs/rock/korn_coming_undone.mp3",
+    "cover": "https://is1-ssl.mzstatic.com/image/thumb/Music126/v4/05/87/ad/0587ad45-51e5-f00c-48a4-941452a65d85/5054526859951.jpg/600x600bb.jpg"
+  },
+  {
+    "title": "Falling Away from Me",
+    "artist": "Korn",
+    "categories": ["Rock", "Rock 90s"],
+    "snippet": "/songs/rock/korn_falling_away_from_me.mp3",
+    "cover": "https://is1-ssl.mzstatic.com/image/thumb/Music211/v4/c7/03/a2/c703a2c4-97d1-106d-4e25-10322d7063ea/196873486703.jpg/600x600bb.jpg"
+  },
+  {
+    "title": "Freak On a Leash (Dante Ross Mix)",
+    "artist": "Korn",
+    "categories": ["Rock", "Rock 90s"],
+    "snippet": "/songs/rock/korn_freak_on_a_leash_dante_ross_mix.mp3",
+    "cover": "https://is1-ssl.mzstatic.com/image/thumb/Music211/v4/c7/03/a2/c703a2c4-97d1-106d-4e25-10322d7063ea/196873486703.jpg/600x600bb.jpg"
+  },
+  {
+    "title": "Got The Life (Live At MTV Studio, NYC, 2006)",
+    "artist": "Korn",
+    "categories": ["Rock", "Rock 00s"],
+    "snippet": "/songs/rock/korn_got_the_life_live_at_mtv_studio_nyc_2006.mp3",
+    "cover": "https://is1-ssl.mzstatic.com/image/thumb/Music116/v4/aa/e5/bf/aae5bfc6-2fe4-7888-4794-7df1419d536e/5054526425774.jpg/600x600bb.jpg"
+  },
+  {
+    "title": "Love in the Dark",
+    "artist": "Adele",
+    "categories": ["Pop", "Pop 10s"],
+    "snippet": "/songs/pop/adele_love_in_the_dark.mp3",
+    "cover": "https://is1-ssl.mzstatic.com/image/thumb/Music116/v4/08/8c/24/088c2405-2e33-801b-5c38-e967f2c01e69/191404113974.png/600x600bb.jpg"
+  },
+  {
+    "title": "Animals",
+    "artist": "Maroon 5",
+    "categories": ["Pop", "Pop 10s"],
+    "snippet": "/songs/pop/maroon_5_animals.mp3",
+    "cover": "https://is1-ssl.mzstatic.com/image/thumb/Music122/v4/b7/25/76/b72576f1-072e-3da2-60d5-2724a9bccf4a/14UMGIM31673.rgb.jpg/600x600bb.jpg"
+  },
+  {
+    "title": "Girls Like You (feat. Cardi B)",
+    "artist": "Maroon 5",
+    "categories": ["Pop", "Pop 10s"],
+    "snippet": "/songs/pop/maroon_5_girls_like_you_feat_cardi_b.mp3",
+    "cover": "https://is1-ssl.mzstatic.com/image/thumb/Music125/v4/1a/7e/42/1a7e428a-4449-b613-46c3-5fa75d83047a/00602567702023.rgb.jpg/600x600bb.jpg"
+  },
+  {
+    "title": "Maps",
+    "artist": "Maroon 5",
+    "categories": ["Pop", "Pop 10s"],
+    "snippet": "/songs/pop/maroon_5_maps.mp3",
+    "cover": "https://is1-ssl.mzstatic.com/image/thumb/Music112/v4/0d/f0/8b/0df08b64-3743-4ae0-f3cc-1314716d841d/14UMGIM31675.rgb.jpg/600x600bb.jpg"
+  },
+  {
+    "title": "Memories",
+    "artist": "Maroon 5",
+    "categories": ["Pop", "Pop 10s"],
+    "snippet": "/songs/pop/maroon_5_memories.mp3",
+    "cover": "https://is1-ssl.mzstatic.com/image/thumb/Music125/v4/22/58/58/225858c4-ef47-2b91-723a-47af3e99699a/19UMGIM64502.rgb.jpg/600x600bb.jpg"
+  },
+  {
+    "title": "One More Night",
+    "artist": "Maroon 5",
+    "categories": ["Pop", "Pop 10s"],
+    "snippet": "/songs/pop/maroon_5_one_more_night.mp3",
+    "cover": "https://is1-ssl.mzstatic.com/image/thumb/Music125/v4/1b/5b/95/1b5b95d1-b7f2-f2e9-acb2-22f558017056/12UMGIM26178.rgb.jpg/600x600bb.jpg"
+  },
+  {
+    "title": "Sugar",
+    "artist": "Maroon 5",
+    "categories": ["Pop", "Pop 10s"],
+    "snippet": "/songs/pop/maroon_5_sugar.mp3",
+    "cover": "https://is1-ssl.mzstatic.com/image/thumb/Music122/v4/b7/25/76/b72576f1-072e-3da2-60d5-2724a9bccf4a/14UMGIM31673.rgb.jpg/600x600bb.jpg"
+  },
+  {
+    "title": "Payphone (feat. Wiz Khalifa)",
+    "artist": "Maroon 5",
+    "categories": ["Pop", "Pop 10s"],
+    "snippet": "/songs/pop/maroon_5_payphone_feat_wiz_khalifa.mp3",
+    "cover": "https://is1-ssl.mzstatic.com/image/thumb/Music112/v4/4c/9a/f4/4c9af4b6-31d4-c856-a834-26f73f48d4a5/12UMGIM26179.rgb.jpg/600x600bb.jpg"
+  },
+  {
+    "title": "Kids",
+    "artist": "MGMT",
+    "categories": ["Rock", "Rock 00s"],
+    "snippet": "/songs/rock/mgmt_kids.mp3",
+    "cover": "https://is1-ssl.mzstatic.com/image/thumb/Features115/v4/3b/26/70/3b2670c7-ae41-3a41-d2a1-c7eedb76c06f/dj.bmwiuprh.jpg/600x600bb.jpg"
+  },
+  {
+    "title": "F**kin' Perfect",
+    "artist": "P!nk",
+    "categories": ["Pop", "Pop 10s"],
+    "snippet": "/songs/pop/p_nk_f_kin_perfect.mp3",
+    "cover": "https://is1-ssl.mzstatic.com/image/thumb/Features114/v4/22/8c/a7/228ca7c5-08f0-db02-bf83-22b7aa967a33/dj.hiojdrbi.jpg/600x600bb.jpg"
+  },
+  {
+    "title": "Just Give Me a Reason (feat. Nate Ruess)",
+    "artist": "P!nk",
+    "categories": ["Pop", "Pop 10s"],
+    "snippet": "/songs/pop/p_nk_just_give_me_a_reason_feat_nate_ruess.mp3",
+    "cover": "https://is1-ssl.mzstatic.com/image/thumb/Music115/v4/2c/b0/de/2cb0de7b-4559-d885-36f8-271c950cba34/886443562097.jpg/600x600bb.jpg"
+  },
+  {
+    "title": "Raise Your Glass",
+    "artist": "P!nk",
+    "categories": ["Pop", "Pop 10s"],
+    "snippet": "/songs/pop/p_nk_raise_your_glass.mp3",
+    "cover": "https://is1-ssl.mzstatic.com/image/thumb/Music125/v4/b9/cf/fc/b9cffc10-02a5-8ed6-0541-2827122b5ecd/mzi.krmmqvdx.jpg/600x600bb.jpg"
+  },
+  {
+    "title": "Try",
+    "artist": "P!nk",
+    "categories": ["Pop", "Pop 10s"],
+    "snippet": "/songs/pop/p_nk_try.mp3",
+    "cover": "https://is1-ssl.mzstatic.com/image/thumb/Music115/v4/2c/b0/de/2cb0de7b-4559-d885-36f8-271c950cba34/886443562097.jpg/600x600bb.jpg"
+  },
+  {
+    "title": "What About Us",
+    "artist": "P!nk",
+    "categories": ["Pop", "Pop 10s"],
+    "snippet": "/songs/pop/p_nk_what_about_us.mp3",
+    "cover": "https://is1-ssl.mzstatic.com/image/thumb/Music115/v4/74/2e/ed/742eed1b-4dbf-f913-1458-2fffbd7d5ded/886446684499.jpg/600x600bb.jpg"
+  },
+  {
+    "title": "Propane Nightmares",
+    "artist": "Pendulum",
+    "categories": ["Pop", "Pop 00s"],
+    "snippet": "/songs/pop/pendulum_propane_nightmares.mp3",
+    "cover": "https://is1-ssl.mzstatic.com/image/thumb/Music124/v4/00/00/f0/0000f0ca-025c-a337-fcac-494fe8828988/mzi.rebebyaj.jpg/600x600bb.jpg"
+  },
+  {
+    "title": "Rolling in the Deep",
+    "artist": "Adele",
+    "categories": ["Pop", "Pop 10s"],
+    "snippet": "/songs/pop/adele_rolling_in_the_deep.mp3",
+    "cover": "https://is1-ssl.mzstatic.com/image/thumb/Music116/v4/d8/e3/f9/d8e3f9ea-d6fe-9a1b-9f13-109983d3062e/191404113868.png/600x600bb.jpg"
+  },
+  {
+    "title": "Set Fire to the Rain",
+    "artist": "Adele",
+    "categories": ["Pop", "Pop 10s"],
+    "snippet": "/songs/pop/adele_set_fire_to_the_rain.mp3",
+    "cover": "https://is1-ssl.mzstatic.com/image/thumb/Music116/v4/d8/e3/f9/d8e3f9ea-d6fe-9a1b-9f13-109983d3062e/191404113868.png/600x600bb.jpg"
+  },
+  {
+    "title": "She Will Be Loved",
+    "artist": "Maroon 5",
+    "categories": ["Pop", "Pop 00s"],
+    "snippet": "/songs/pop/maroon_5_she_will_be_loved.mp3",
+    "cover": "https://is1-ssl.mzstatic.com/image/thumb/Music115/v4/d0/3e/25/d03e255d-e205-0e66-20f6-01e251896c25/14UMGIM27076.rgb.jpg/600x600bb.jpg"
+  },
+  {
+    "title": "Dreams",
+    "artist": "The Cranberries",
+    "categories": ["Rock", "Rock 90s"],
+    "snippet": "/songs/rock/the_cranberries_dreams.mp3",
+    "cover": "https://is1-ssl.mzstatic.com/image/thumb/Music211/v4/35/63/11/35631120-7b14-4a66-d600-03a99a1fc4c7/06UMGIM00853.rgb.jpg/600x600bb.jpg"
+  },
+  {
+    "title": "Zombie",
+    "artist": "The Cranberries",
+    "categories": ["Rock", "Rock 90s"],
+    "snippet": "/songs/rock/the_cranberries_zombie_2025_remastered.mp3",
+    "cover": "https://is1-ssl.mzstatic.com/image/thumb/Music221/v4/a3/77/a3/a377a309-8e52-f787-2250-2b34d320bf7b/25UMGIM64146.rgb.jpg/600x600bb.jpg"
+  },
+  {
+    "title": "Back to the Old House",
+    "artist": "The Smiths",
+    "categories": ["Rock", "Rock 80s"],
+    "snippet": "/songs/rock/the_smiths_back_to_the_old_house.mp3",
+    "cover": "https://is1-ssl.mzstatic.com/image/thumb/Music115/v4/fb/73/d5/fb73d503-8e0a-c17f-7f34-ac5a566a192d/825646642847.jpg/600x600bb.jpg"
+  },
+  {
+    "title": "Bigmouth Strikes Again",
+    "artist": "The Smiths",
+    "categories": ["Rock", "Rock 80s"],
+    "snippet": "/songs/rock/the_smiths_bigmouth_strikes_again.mp3",
+    "cover": "https://is1-ssl.mzstatic.com/image/thumb/Music125/v4/1a/e8/70/1ae870c3-b402-096b-c4c4-8022af5a2ed9/745099189662.jpg/600x600bb.jpg"
+  },
+  {
+    "title": "Heaven Knows I'm Miserable Now",
+    "artist": "The Smiths",
+    "categories": ["Rock", "Rock 80s"],
+    "snippet": "/songs/rock/the_smiths_heaven_knows_i_m_miserable_now.mp3",
+    "cover": "https://is1-ssl.mzstatic.com/image/thumb/Music115/v4/da/46/db/da46dbff-71cb-e4b3-2b0b-8c8d4b51e16d/825646937097.jpg/600x600bb.jpg"
+  },
+  {
+    "title": "I Know It's Over",
+    "artist": "The Smiths",
+    "categories": ["Rock", "Rock 80s"],
+    "snippet": "/songs/rock/the_smiths_i_know_it_s_over.mp3",
+    "cover": "https://is1-ssl.mzstatic.com/image/thumb/Music125/v4/1a/e8/70/1ae870c3-b402-096b-c4c4-8022af5a2ed9/745099189662.jpg/600x600bb.jpg"
+  },
+  {
+    "title": "Please Please Please Let Me Get What I Want",
+    "artist": "The Smiths",
+    "categories": ["Rock", "Rock 80s"],
+    "snippet": "/songs/rock/the_smiths_please_please_please_let_me_get_what_i_want.mp3",
+    "cover": "https://is1-ssl.mzstatic.com/image/thumb/Music115/v4/fb/73/d5/fb73d503-8e0a-c17f-7f34-ac5a566a192d/825646642847.jpg/600x600bb.jpg"
+  },
+  {
+    "title": "There Is a Light That Never Goes Out",
+    "artist": "The Smiths",
+    "categories": ["Rock", "Rock 80s"],
+    "snippet": "/songs/rock/the_smiths_there_is_a_light_that_never_goes_out.mp3",
+    "cover": "https://is1-ssl.mzstatic.com/image/thumb/Music125/v4/1a/e8/70/1ae870c3-b402-096b-c4c4-8022af5a2ed9/745099189662.jpg/600x600bb.jpg"
+  },
+  {
+    "title": "This Love",
+    "artist": "Maroon 5",
+    "categories": ["Pop", "Pop 00s"],
+    "snippet": "/songs/pop/maroon_5_this_love.mp3",
+    "cover": "https://is1-ssl.mzstatic.com/image/thumb/Music115/v4/d0/3e/25/d03e255d-e205-0e66-20f6-01e251896c25/14UMGIM27076.rgb.jpg/600x600bb.jpg"
+  },
+  {
+    "title": "Witchcraft",
+    "artist": "Pendulum",
+    "categories": ["Pop", "Pop 10s"],
+    "snippet": "/songs/rock/pendulum_witchcraft.mp3",
+    "cover": "https://is1-ssl.mzstatic.com/image/thumb/Music/d4/48/7e/mzi.mcaysnnz.jpg/600x600bb.jpg"
+  },
+  {
+    "title": "Wuthering Heights (2018 Remaster)",
+    "artist": "Kate Bush",
+    "categories": ["Pop", "Pop 80s"],
+    "snippet": "/songs/pop/kate_bush_wuthering_heights_2018_remaster.mp3",
+    "cover": "https://is1-ssl.mzstatic.com/image/thumb/Music126/v4/c4/64/67/c46467fc-099e-a2f0-d165-f684c12d7cf8/cover.jpg/600x600bb.jpg"
+  },
+  {
+    "title": "Before I Forget",
+    "artist": "Slipknot",
+    "categories": ["Rock", "Rock 00s"],
+    "snippet": "/songs/rock/slipknot_before_i_forget.mp3",
+    "cover": "https://is1-ssl.mzstatic.com/image/thumb/Music124/v4/7c/5d/17/7c5d174e-f7c5-2fba-04c4-c3d89b605300/016861752347.jpg/600x600bb.jpg"
+  },
+  {
+    "title": "Crazy in Love (feat. Jay-Z)",
+    "artist": "Beyoncé",
+    "categories": ["Pop", "Pop 10s"],
+    "snippet": "/songs/pop/beyonc_crazy_in_love_remix.mp3",
+    "cover": "https://is1-ssl.mzstatic.com/image/thumb/Music115/v4/31/0e/48/310e48ff-4a73-3777-a7ff-a98c7b9cd4fe/886445480566.jpg/600x600bb.jpg"
+  },
+  {
+    "title": "CUFF IT",
+    "artist": "Beyoncé",
+    "categories": ["Pop", "Pop 20s"],
+    "snippet": "/songs/pop/beyonc_cuff_it.mp3",
+    "cover": "https://is1-ssl.mzstatic.com/image/thumb/Music112/v4/fe/ba/43/feba43be-99e8-ad8c-9fad-1bfdea7a4e98/196589344267.jpg/600x600bb.jpg"
+  },
+  {
+    "title": "Irreplaceable",
+    "artist": "Beyoncé",
+    "categories": ["Pop", "Pop 00s"],
+    "snippet": "/songs/pop/beyonc_irreplaceable.mp3",
+    "cover": "https://is1-ssl.mzstatic.com/image/thumb/Music125/v4/47/b2/b2/47b2b26b-5abd-0953-6688-7dfff80508ec/mzi.sozuruch.jpg/600x600bb.jpg"
+  },
+  {
+    "title": "TEXAS HOLD 'EM",
+    "artist": "Beyoncé",
+    "categories": ["Pop", "Pop 20s"],
+    "snippet": "/songs/pop/beyonc_texas_hold_em.mp3",
+    "cover": "https://is1-ssl.mzstatic.com/image/thumb/Music116/v4/ab/17/80/ab178005-ebf8-f22e-06ac-ffa1fc7f819a/196871850438.jpg/600x600bb.jpg"
+  },
+  {
+    "title": "24K Magic",
+    "artist": "Bruno Mars",
+    "categories": ["Pop", "Pop 10s"],
+    "snippet": "/songs/pop/bruno_mars_24k_magic.mp3",
+    "cover": "https://is1-ssl.mzstatic.com/image/thumb/Music125/v4/e3/47/a0/e347a0cc-87ce-5d05-d560-176c7d48f66e/075679904119.jpg/600x600bb.jpg"
+  },
+  {
+    "title": "Grenade",
+    "artist": "Bruno Mars",
+    "categories": ["Pop", "Pop 10s"],
+    "snippet": "/songs/pop/bruno_mars_grenade.mp3",
+    "cover": "https://is1-ssl.mzstatic.com/image/thumb/Music114/v4/52/b1/45/52b1452b-229e-78db-231b-7b43fa0077cc/075679956491.jpg/600x600bb.jpg"
+  },
+  {
+    "title": "Marry You",
+    "artist": "Bruno Mars",
+    "categories": ["Pop", "Pop 10s"],
+    "snippet": "/songs/pop/bruno_mars_marry_you.mp3",
+    "cover": "https://is1-ssl.mzstatic.com/image/thumb/Music114/v4/52/b1/45/52b1452b-229e-78db-231b-7b43fa0077cc/075679956491.jpg/600x600bb.jpg"
+  },
+  {
+    "title": "Talking to the Moon",
+    "artist": "Bruno Mars",
+    "categories": ["Pop", "Pop 10s"],
+    "snippet": "/songs/pop/bruno_mars_talking_to_the_moon.mp3",
+    "cover": "https://is1-ssl.mzstatic.com/image/thumb/Music114/v4/52/b1/45/52b1452b-229e-78db-231b-7b43fa0077cc/075679956491.jpg/600x600bb.jpg"
+  },
+  {
+    "title": "The Lazy Song",
+    "artist": "Bruno Mars",
+    "categories": ["Pop", "Pop 10s"],
+    "snippet": "/songs/pop/bruno_mars_the_lazy_song.mp3",
+    "cover": "https://is1-ssl.mzstatic.com/image/thumb/Music114/v4/52/b1/45/52b1452b-229e-78db-231b-7b43fa0077cc/075679956491.jpg/600x600bb.jpg"
+  },
+  {
+    "title": "The Lazy Song",
+    "artist": "Bruno Mars",
+    "categories": ["Pop", "Pop 10s"],
+    "snippet": "/songs/pop/bruno_mars_the_lazy_song.mp3",
+    "cover": "https://is1-ssl.mzstatic.com/image/thumb/Music114/v4/52/b1/45/52b1452b-229e-78db-231b-7b43fa0077cc/075679956491.jpg/600x600bb.jpg"
+  },
+  {
+    "title": "Treasure",
+    "artist": "Bruno Mars",
+    "categories": ["Pop", "Pop 10s"],
+    "snippet": "/songs/pop/bruno_mars_treasure.mp3",
+    "cover": "https://is1-ssl.mzstatic.com/image/thumb/Music125/v4/15/63/53/156353b8-d45b-a17d-f553-2d125aeb3cb3/075679957474.jpg/600x600bb.jpg"
+  },
+  {
+    "title": "(Everything I Do) I Do It for You",
+    "artist": "Bryan Adams",
+    "categories": ["Rock", "Rock 90s"],
+    "snippet": "/songs/rock/bryan_adams_everything_i_do_i_do_it_for_you.mp3",
+    "cover": "https://is1-ssl.mzstatic.com/image/thumb/Music112/v4/b0/f7/5d/b0f75dab-7e01-d4c6-61c3-e6253a2cae22/06UMGIM18645.rgb.jpg/600x600bb.jpg"
+  },
+  {
+    "title": "Have You Ever Really Loved a Woman?",
+    "artist": "Bryan Adams",
+    "categories": ["Rock", "Rock 90s"],
+    "snippet": "/songs/pop/bryan_adams_have_you_ever_really_loved_a_woman.mp3",
+    "cover": "https://is1-ssl.mzstatic.com/image/thumb/Music115/v4/9e/ab/2b/9eab2b78-53d1-8d54-e33b-7595b4c2d98a/00731454035729.rgb.jpg/600x600bb.jpg"
+  },
+  {
+    "title": "Heaven",
+    "artist": "Bryan Adams",
+    "categories": ["Rock", "Rock 80s"],
+    "snippet": "/songs/rock/bryan_adams_heaven.mp3",
+    "cover": "https://is1-ssl.mzstatic.com/image/thumb/Music125/v4/e4/9b/c2/e49bc283-607b-9f0b-d7d4-adaba6cd3ff3/14UMGIM34434.rgb.jpg/600x600bb.jpg"
+  },
+  {
+    "title": "Run To You",
+    "artist": "Bryan Adams",
+    "categories": ["Rock", "Rock 80s"],
+    "snippet": "/songs/rock/bryan_adams_run_to_you.mp3",
+    "cover": "https://is1-ssl.mzstatic.com/image/thumb/Music125/v4/e4/9b/c2/e49bc283-607b-9f0b-d7d4-adaba6cd3ff3/14UMGIM34434.rgb.jpg/600x600bb.jpg"
+  },
+  {
+    "title": "Summer of '69",
+    "artist": "Bryan Adams",
+    "categories": ["Rock", "Rock 80s"],
+    "snippet": "/songs/rock/bryan_adams_summer_of_69.mp3",
+    "cover": "https://is1-ssl.mzstatic.com/image/thumb/Music125/v4/e4/9b/c2/e49bc283-607b-9f0b-d7d4-adaba6cd3ff3/14UMGIM34434.rgb.jpg/600x600bb.jpg"
+  },
+  {
+    "title": "When You're Gone (feat. Melanie C)",
+    "artist": "Bryan Adams",
+    "categories": ["Rock", "Rock 90s"],
+    "snippet": "/songs/rock/bryan_adams_when_you_re_gone_feat_melanie_c.mp3",
+    "cover": "https://is1-ssl.mzstatic.com/image/thumb/Music128/v4/8d/4b/0b/8d4b0b96-14a6-d3b1-39de-e02f19c1a002/00731454101424.rgb.jpg/600x600bb.jpg"
+  },
+  {
+    "title": "Baby's On Fire",
+    "artist": "Sammy Hagar",
+    "categories": ["Rock", "Rock 80s"],
+    "snippet": "/songs/rock/sammy_hagar_baby_s_on_fire.mp3",
+    "cover": "https://is1-ssl.mzstatic.com/image/thumb/Music124/v4/22/48/76/224876db-3b94-4e80-8473-6012bb2a2fa3/00720642200629.rgb.jpg/600x600bb.jpg"
+  },
+  {
+    "title": "Don't Look Back in Anger (Remastered)",
+    "artist": "Oasis",
+    "categories": ["Rock", "Rock 90s"],
+    "snippet": "/songs/rock/oasis_don_t_look_back_in_anger_remastered.mp3",
+    "cover": "https://is1-ssl.mzstatic.com/image/thumb/Music125/v4/34/2e/cb/342ecb17-ef19-816a-4ce5-e60b9ceec161/5051961073164.jpg/600x600bb.jpg"
+  },
+  {
+    "title": "Fairytale of New York (feat. Kirsty MacColl)",
+    "artist": "The Pogues",
+    "categories": ["Rock", "Rock 80s"],
+    "snippet": "/songs/rock/the_pogues_fairytale_of_new_york_feat_kirsty_maccoll.mp3",
+    "cover": "https://is1-ssl.mzstatic.com/image/thumb/Music/fc/b6/e0/mzi.ojrofgsy.jpg/600x600bb.jpg"
+  },
+  {
+    "title": "I Can't Dance",
+    "artist": "Genesis",
+    "categories": ["Rock", "Rock 90s"],
+    "snippet": "/songs/rock/genesis_i_can_t_dance.mp3",
+    "cover": "https://is1-ssl.mzstatic.com/image/thumb/Music/2f/5e/61/mzi.fornxdla.jpg/600x600bb.jpg"
+  },
+  {
+    "title": "In Too Deep (2007 Remaster)",
+    "artist": "Genesis",
+    "categories": ["Rock", "Rock 80s"],
+    "snippet": "/songs/rock/genesis_in_too_deep_2007_remaster.mp3",
+    "cover": "https://is1-ssl.mzstatic.com/image/thumb/Music115/v4/6c/44/66/6c446642-e67c-b19f-e8cb-e084eb549056/mzi.tbamlbgz.jpg/600x600bb.jpg"
+  },
+  {
+    "title": "Invisible Touch (2007 Remaster)",
+    "artist": "Genesis",
+    "categories": ["Rock", "Rock 80s"],
+    "snippet": "/songs/rock/genesis_invisible_touch_2007_remaster.mp3",
+    "cover": "https://is1-ssl.mzstatic.com/image/thumb/Music115/v4/6c/44/66/6c446642-e67c-b19f-e8cb-e084eb549056/mzi.tbamlbgz.jpg/600x600bb.jpg"
+  },
+  {
+    "title": "Land of Confusion (2007 Remaster)",
+    "artist": "Genesis",
+    "categories": ["Rock", "Rock 80s"],
+    "snippet": "/songs/rock/genesis_land_of_confusion_2007_remaster.mp3",
+    "cover": "https://is1-ssl.mzstatic.com/image/thumb/Music115/v4/6c/44/66/6c446642-e67c-b19f-e8cb-e084eb549056/mzi.tbamlbgz.jpg/600x600bb.jpg"
+  },
+  {
+    "title": "That's All",
+    "artist": "Genesis",
+    "categories": ["Rock", "Rock 80s"],
+    "snippet": "/songs/rock/genesis_that_s_all.mp3",
+    "cover": "https://is1-ssl.mzstatic.com/image/thumb/Music115/v4/8b/7b/ce/8b7bcee5-4c31-aab1-7a65-82e757057e83/mzi.ykiyfzna.jpg/600x600bb.jpg"
+  },
+  {
+    "title": "Wake Up in the Sky",
+    "artist": "Gucci Mane, Bruno Mars & Kodak Black",
+    "categories": ["Rap", "Rap 10s"],
+    "snippet": "/songs/rap/gucci_mane_bruno_mars_kodak_black_wake_up_in_the_sky.mp3",
+    "cover": "https://is1-ssl.mzstatic.com/image/thumb/Music118/v4/79/25/9a/79259a8e-b09e-cf09-e2d2-1159956cf303/075679856241.jpg/600x600bb.jpg"
+  },
+  {
+    "title": "Halo",
+    "artist": "Beyoncé",
+    "categories": ["Pop", "Pop 00s"],
+    "snippet": "/songs/pop/beyonc_halo.mp3",
+    "cover": "https://is1-ssl.mzstatic.com/image/thumb/Music125/v4/35/0f/55/350f55da-2104-162a-5872-cb35fef30410/mzi.morbeoaw.jpg/600x600bb.jpg"
+  },
+  {
+    "title": "Last Nite",
+    "artist": "The Strokes",
+    "categories": ["Rock", "Rock 00s"],
+    "snippet": "/songs/rock/the_strokes_last_nite.mp3",
+    "cover": "https://is1-ssl.mzstatic.com/image/thumb/Features115/v4/ea/04/d4/ea04d45d-6f5d-ede6-fb64-71f3e6a6e62f/dj.ojkzzidd.jpg/600x600bb.jpg"
+  },
+  {
+    "title": "Leave the Door Open",
+    "artist": "Bruno Mars, Anderson .Paak & Silk Sonic",
+    "categories": ["Pop", "Pop 20s"],
+    "snippet": "/songs/pop/bruno_mars_anderson_paak_silk_sonic_leave_the_door_open.mp3",
+    "cover": "https://is1-ssl.mzstatic.com/image/thumb/Music116/v4/4e/b2/25/4eb22575-99e3-8c06-7446-51a99add8b0f/075679754585.jpg/600x600bb.jpg"
+  },
+  {
+    "title": "Live Forever (Remastered)",
+    "artist": "Oasis",
+    "categories": ["Rock", "Rock 90s"],
+    "snippet": "/songs/rock/oasis_live_forever_remastered.mp3",
+    "cover": "https://is1-ssl.mzstatic.com/image/thumb/Music124/v4/00/af/e3/00afe365-35f8-04cb-379a-e12abead71cd/5051961070132.jpg/600x600bb.jpg"
+  },
+  {
+    "title": "Stop Crying Your Heart Out",
+    "artist": "Oasis",
+    "categories": ["Rock", "Rock 00s"],
+    "snippet": "/songs/rock/oasis_stop_crying_your_heart_out.mp3",
+    "cover": "https://is1-ssl.mzstatic.com/image/thumb/Music221/v4/cd/78/a2/cd78a2a4-7e3d-ccec-b204-dda064f065a3/5051083000406.jpg/600x600bb.jpg"
+  },
+  {
+    "title": "Crazy Train",
+    "artist": "Ozzy Osbourne",
+    "categories": ["Rock", "Rock 80s"],
+    "snippet": "/songs/rock/ozzy_osbourne_crazy_train.mp3",
+    "cover": "https://is1-ssl.mzstatic.com/image/thumb/Music114/v4/92/06/bd/9206bdb3-453a-db69-44f4-c4b5bfe33510/886448748045.jpg/600x600bb.jpg"
+  },
+  {
+    "title": "Mama, I'm Coming Home",
+    "artist": "Ozzy Osbourne",
+    "categories": ["Rock", "Rock 90s"],
+    "snippet": "/songs/rock/ozzy_osbourne_mama_i_m_coming_home.mp3",
+    "cover": "https://is1-ssl.mzstatic.com/image/thumb/Music115/v4/8e/ef/44/8eef4402-508e-860e-a3c0-9be46cf2379e/696998524828.jpg/600x600bb.jpg"
+  },
+  {
+    "title": "No More Tears",
+    "artist": "Ozzy Osbourne",
+    "categories": ["Rock", "Rock 90s"],
+    "snippet": "/songs/rock/ozzy_osbourne_no_more_tears.mp3",
+    "cover": "https://is1-ssl.mzstatic.com/image/thumb/Music115/v4/8e/ef/44/8eef4402-508e-860e-a3c0-9be46cf2379e/696998524828.jpg/600x600bb.jpg"
+  },
+  {
+    "title": "Psychosocial",
+    "artist": "Slipknot",
+    "categories": ["Rock", "Rock 00s"],
+    "snippet": "/songs/rock/slipknot_psychosocial.mp3",
+    "cover": "https://is1-ssl.mzstatic.com/image/thumb/Music115/v4/1c/bf/46/1cbf46b8-c549-f3f2-010c-06d6e7627115/016861752200.jpg/600x600bb.jpg"
+  },
+  {
+    "title": "Reptilia",
+    "artist": "The Strokes",
+    "categories": ["Rock", "Rock 00s"],
+    "snippet": "/songs/rock/the_strokes_reptilia.mp3",
+    "cover": "https://is1-ssl.mzstatic.com/image/thumb/Music124/v4/f7/e9/2a/f7e92a48-0e20-8286-bbbf-80bd85fbb1af/mzi.gcledsjj.jpg/600x600bb.jpg"
+  },
+  {
+    "title": "Single Ladies (Put a Ring on It)",
+    "artist": "Beyoncé",
+    "categories": ["Pop", "Pop 00s"],
+    "snippet": "/songs/pop/beyonc_single_ladies_put_a_ring_on_it.mp3",
+    "cover": "https://is1-ssl.mzstatic.com/image/thumb/Music125/v4/35/0f/55/350f55da-2104-162a-5872-cb35fef30410/mzi.morbeoaw.jpg/600x600bb.jpg"
+  },
+  {
+    "title": "Duality",
+    "artist": "Slipknot",
+    "categories": ["Rock", "Rock 00s"],
+    "snippet": "/songs/rock/slipknot_duality.mp3",
+    "cover": "https://is1-ssl.mzstatic.com/image/thumb/Music125/v4/43/3b/a9/433ba92d-79ed-6ddc-3436-0ba06a8c9fab/016861752309.jpg/600x600bb.jpg"
+  },
+  {
+    "title": "The Devil In I",
+    "artist": "Slipknot",
+    "categories": ["Rock", "Rock 10s"],
+    "snippet": "/songs/rock/slipknot_the_devil_in_i.mp3",
+    "cover": "https://is1-ssl.mzstatic.com/image/thumb/Music115/v4/75/11/7c/75117c19-7669-13fc-4d6c-054daf7a8b07/016861754563.jpg/600x600bb.jpg"
+  },
+  {
+    "title": "Wait and Bleed",
+    "artist": "Slipknot",
+    "categories": ["Rock", "Rock 90s"],
+    "snippet": "/songs/rock/slipknot_wait_and_bleed.mp3",
+    "cover": "https://is1-ssl.mzstatic.com/image/thumb/Music115/v4/c2/e3/a3/c2e3a370-175c-d67e-7a57-fdb3e1cfc959/016861752507.jpg/600x600bb.jpg"
+  },
+  {
+    "title": "Dirty Old Town",
+    "artist": "The Pogues",
+    "categories": ["Rock", "Rock 80s"],
+    "snippet": "/songs/rock/the_pogues_dirty_old_town.mp3",
+    "cover": "https://is1-ssl.mzstatic.com/image/thumb/Music/01/f0/52/mzi.gtcocruw.jpg/600x600bb.jpg"
+  },
+  {
+    "title": "Selfless",
+    "artist": "The Strokes",
+    "categories": ["Rock", "Rock 20s"],
+    "snippet": "/songs/rock/the_strokes_selfless.mp3",
+    "cover": "https://is1-ssl.mzstatic.com/image/thumb/Music115/v4/62/a6/ff/62a6ff2a-95c9-5302-31f4-2dcca9e40323/886448281085.jpg/600x600bb.jpg"
+  },
+  {
+    "title": "Someday",
+    "artist": "The Strokes",
+    "categories": ["Rock", "Rock 00s"],
+    "snippet": "/songs/rock/the_strokes_someday.mp3",
+    "cover": "https://is1-ssl.mzstatic.com/image/thumb/Features115/v4/ea/04/d4/ea04d45d-6f5d-ede6-fb64-71f3e6a6e62f/dj.ojkzzidd.jpg/600x600bb.jpg"
+  },
+  {
+    "title": "The Adults Are Talking",
+    "artist": "The Strokes",
+    "categories": ["Rock", "Rock 20s"],
+    "snippet": "/songs/rock/the_strokes_the_adults_are_talking.mp3",
+    "cover": "https://is1-ssl.mzstatic.com/image/thumb/Music115/v4/62/a6/ff/62a6ff2a-95c9-5302-31f4-2dcca9e40323/886448281085.jpg/600x600bb.jpg"
+  },
+  {
+    "title": "You Only Live Once",
+    "artist": "The Strokes",
+    "categories": ["Rock", "Rock 00s"],
+    "snippet": "/songs/rock/the_strokes_you_only_live_once.mp3",
+    "cover": "https://is1-ssl.mzstatic.com/image/thumb/Music115/v4/f4/c4/25/f4c42532-a348-27f5-1521-4783fdc52a55/888880789709.jpg/600x600bb.jpg"
+  },
+    {
+    "title": "Asleep Among Endives",
+    "artist": "Ichiko Aoba",
+    "categories": ["Pop", "Pop 20s"],
+    "snippet": "/songs/rock/ichiko_aoba_asleep_among_endives.mp3",
+    "cover": "https://is1-ssl.mzstatic.com/image/thumb/Music116/v4/c1/2d/31/c12d316a-07a8-2b2e-8ae5-6559c8621ddc/143998.jpg/600x600bb.jpg"
+  },
+  {
+    "title": "Blowin' In the Wind",
+    "artist": "Bob Dylan",
+    "categories": ["Rock", "Rock 60s"],
+    "snippet": "/songs/pop/bob_dylan_blowin_in_the_wind.mp3",
+    "cover": "https://is1-ssl.mzstatic.com/image/thumb/Music124/v4/63/3c/98/633c98ab-b4f3-3f40-798b-bdb49d923468/074640878626.jpg/600x600bb.jpg"
+  },
+  {
+    "title": "Hurricane",
+    "artist": "Bob Dylan",
+    "categories": ["Rock", "Rock 70s"],
+    "snippet": "/songs/rock/bob_dylan_hurricane.mp3",
+    "cover": "https://is1-ssl.mzstatic.com/image/thumb/Music114/v4/60/27/eb/6027eba8-bb22-7c2c-576c-21ffb345ebad/mzi.beramgst.jpg/600x600bb.jpg"
+  },
+  {
+    "title": "The Times They Are A-Changin'",
+    "artist": "Bob Dylan",
+    "categories": ["Rock", "Rock 60s"],
+    "snippet": "/songs/pop/bob_dylan_the_times_they_are_a_changin.mp3",
+    "cover": "https://is1-ssl.mzstatic.com/image/thumb/Music124/v4/e0/2b/3e/e02b3e8a-5852-bc33-33e3-3d9e419e1711/mzi.vdaqwtvn.jpg/600x600bb.jpg"
+  },
+  {
+    "title": "It Will Rain",
+    "artist": "Bruno Mars",
+    "categories": ["Pop", "Pop 10s"],
+    "snippet": "/songs/pop/bruno_mars_it_will_rain.mp3",
+    "cover": "https://is1-ssl.mzstatic.com/image/thumb/Music124/v4/c9/6e/21/c96e2143-8f84-2ea5-0528-37205f7d5c6d/mzi.jdvbfvnj.jpg/600x600bb.jpg"
+  },
+  {
+    "title": "Just the Way You Are",
+    "artist": "Bruno Mars",
+    "categories": ["Pop", "Pop 10s"],
+    "snippet": "/songs/pop/bruno_mars_just_the_way_you_are.mp3",
+    "cover": "https://is1-ssl.mzstatic.com/image/thumb/Music114/v4/52/b1/45/52b1452b-229e-78db-231b-7b43fa0077cc/075679956491.jpg/600x600bb.jpg"
+  },
+  {
+    "title": "Locked Out of Heaven",
+    "artist": "Bruno Mars",
+    "categories": ["Pop", "Pop 10s"],
+    "snippet": "/songs/pop/bruno_mars_locked_out_of_heaven.mp3",
+    "cover": "https://is1-ssl.mzstatic.com/image/thumb/Music115/v4/e0/a4/7c/e0a47c6f-005a-9f9f-ce29-8e858e2bcfcb/075679957283.jpg/600x600bb.jpg"
+  },
+  {
+    "title": "When I Was Your Man",
+    "artist": "Bruno Mars",
+    "categories": ["Pop", "Pop 10s"],
+    "snippet": "/songs/pop/bruno_mars_when_i_was_your_man.mp3",
+    "cover": "https://is1-ssl.mzstatic.com/image/thumb/Music115/v4/e0/a4/7c/e0a47c6f-005a-9f9f-ce29-8e858e2bcfcb/075679957283.jpg/600x600bb.jpg"
+  },
+  {
+    "title": "Sweden",
+    "artist": "C418",
+    "categories": ["Pop", "Pop 10s"],
+    "snippet": "/songs/pop/c418_sweden.mp3",
+    "cover": "https://is1-ssl.mzstatic.com/image/thumb/Music115/v4/08/11/31/08113125-d66e-1f90-65d9-08e28000495c/859705593825_cover.jpg/600x600bb.jpg"
+  },
+  {
+    "title": "Cocaine",
+    "artist": "Eric Clapton",
+    "categories": ["Rock", "Rock 70s"],
+    "snippet": "/songs/rock/eric_clapton_cocaine.mp3",
+    "cover": "https://is1-ssl.mzstatic.com/image/thumb/Music115/v4/e6/8b/8e/e68b8eb1-ddce-3332-4e66-5a15ccc04d6f/00600753407301.rgb.jpg/600x600bb.jpg"
+  },
+  {
+    "title": "Brothers In Arms",
+    "artist": "Dire Straits",
+    "categories": ["Rock", "Rock 80s"],
+    "snippet": "/songs/rock/dire_straits_brothers_in_arms.mp3",
+    "cover": "https://is1-ssl.mzstatic.com/image/thumb/Music115/v4/e8/bd/54/e8bd54fd-6595-4ebf-aa4c-58139ed316e6/dj.bngafruf.jpg/600x600bb.jpg"
+  },
+  {
+    "title": "Lady Writer",
+    "artist": "Dire Straits",
+    "categories": ["Rock", "Rock 70s"],
+    "snippet": "/songs/pop/dire_straits_lady_writer.mp3",
+    "cover": "https://is1-ssl.mzstatic.com/image/thumb/Music124/v4/cc/bb/a0/ccbba061-8408-8735-8ef3-c2e62b474af5/dj.ohdjbqez.jpg/600x600bb.jpg"
+  },
+  {
+    "title": "Money for Nothing",
+    "artist": "Dire Straits",
+    "categories": ["Rock", "Rock 80s"],
+    "snippet": "/songs/rock/dire_straits_money_for_nothing.mp3",
+    "cover": "https://is1-ssl.mzstatic.com/image/thumb/Music114/v4/c3/91/ff/c391ff50-caba-db8a-2387-6c906d2ca65c/mzi.gyijrdqr.jpg/600x600bb.jpg"
+  },
+  {
+    "title": "Sultans of Swing",
+    "artist": "Dire Straits",
+    "categories": ["Rock", "Rock 70s"],
+    "snippet": "/songs/rock/dire_straits_sultans_of_swing.mp3",
+    "cover": "https://is1-ssl.mzstatic.com/image/thumb/Music/47/c3/21/mzi.ciyzkqao.jpg/600x600bb.jpg"
+  },
+  {
+    "title": "Romeo & Juliet",
+    "artist": "Dire Strats",
+    "categories": ["Rock", "Rock 10s"],
+    "snippet": "/songs/pop/dire_strats_romeo_juliet.mp3",
+    "cover": "https://is1-ssl.mzstatic.com/image/thumb/Music/v4/e0/b0/71/e0b0711b-8c78-c849-19d3-45027ebec6ea/261199_cover.jpg/600x600bb.jpg"
+  },
+  {
+    "title": "Tears In Heaven",
+    "artist": "Eric Clapton",
+    "categories": ["Rock", "Rock 90s"],
+    "snippet": "/songs/rock/eric_clapton_tears_in_heaven_acoustic_live.mp3",
+    "cover": "https://is1-ssl.mzstatic.com/image/thumb/Music122/v4/52/8b/d8/528bd887-f2c7-3e59-a100-b517e064d908/603497909032.jpg/600x600bb.jpg"
+  },
+  {
+    "title": "Roses",
+    "artist": "Outkast",
+    "categories": ["Rap", "Rap 00s"],
+    "snippet": "/songs/rap/outkast_roses.mp3",
+    "cover": "https://is1-ssl.mzstatic.com/image/thumb/Music221/v4/71/ae/6a/71ae6a46-99a6-e9d8-d7f3-41c0f2df45c4/196872579123.jpg/600x600bb.jpg"
+  },
+  {
+    "title": "How Do You Do!",
+    "artist": "Roxette",
+    "categories": ["Rock", "Rock 90s"],
+    "snippet": "/songs/pop/roxette_how_do_you_do.mp3",
+    "cover": "https://is1-ssl.mzstatic.com/image/thumb/Music114/v4/4b/f8/03/4bf803d5-ade4-6474-f6fe-8e7f3ad6da1f/825646187874.jpg/600x600bb.jpg"
+  },
+  {
+    "title": "It Must Have Been Love",
+    "artist": "Roxette",
+    "categories": ["Rock", "Rock 80s"],
+    "snippet": "/songs/pop/roxette_it_must_have_been_love.mp3",
+    "cover": "https://is1-ssl.mzstatic.com/image/thumb/Music124/v4/87/d5/f3/87d5f346-f2de-2723-698c-5d60547200bc/825646124688.jpg/600x600bb.jpg"
+  },
+  {
+    "title": "Listen To Your Heart",
+    "artist": "Roxette",
+    "categories": ["Rock", "Rock 80s"],
+    "snippet": "/songs/pop/roxette_listen_to_your_heart.mp3",
+    "cover": "https://is1-ssl.mzstatic.com/image/thumb/Music221/v4/c5/0f/58/c50f58cd-b6d8-3e90-d3a6-dbd17977597a/5021732590466.jpg/600x600bb.jpg"
+  },
+  {
+    "title": "Spending My Time",
+    "artist": "Roxette",
+    "categories": ["Rock", "Rock 90s"],
+    "snippet": "/songs/pop/roxette_spending_my_time.mp3",
+    "cover": "https://is1-ssl.mzstatic.com/image/thumb/Music114/v4/5c/ef/d7/5cefd760-1260-4081-621a-85db2355e13a/dj.gmqdvhoe.jpg/600x600bb.jpg"
+  },
+  {
+    "title": "The Look",
+    "artist": "Roxette",
+    "categories": ["Rock", "Rock 80s"],
+    "snippet": "/songs/pop/roxette_the_look.mp3",
+    "cover": "https://is1-ssl.mzstatic.com/image/thumb/Music114/v4/5c/ef/d7/5cefd760-1260-4081-621a-85db2355e13a/dj.gmqdvhoe.jpg/600x600bb.jpg"
+  },
+  {
+    "title": "All Star",
+    "artist": "Smash Mouth",
+    "categories": ["Pop", "Pop 90s"],
+    "snippet": "/songs/rock/smash_mouth_all_star.mp3",
+    "cover": "https://is1-ssl.mzstatic.com/image/thumb/Music126/v4/ab/6f/5f/ab6f5f79-fe60-a6b9-c47c-cecf0e491be0/06UMGIM04334.rgb.jpg/600x600bb.jpg"
+  },
+  {
+    "title": "So Fresh, So Clean (Radio Mix)",
+    "artist": "Outkast",
+    "categories": ["Rap", "Rap 00s"],
+    "snippet": "/songs/rap/outkast_so_fresh_so_clean_radio_mix.mp3",
+    "cover": "https://is1-ssl.mzstatic.com/image/thumb/Music114/v4/d6/21/fb/d621fbde-c099-6794-7102-2692f10c4dbb/886448814283.jpg/600x600bb.jpg"
+  },
+  {
+    "title": "That's What I Like",
+    "artist": "Bruno Mars",
+    "categories": ["Pop", "Pop 10s"],
+    "snippet": "/songs/pop/bruno_mars_that_s_what_i_like.mp3",
+    "cover": "https://is1-ssl.mzstatic.com/image/thumb/Music125/v4/e3/47/a0/e347a0cc-87ce-5d05-d560-176c7d48f66e/075679904119.jpg/600x600bb.jpg"
+  },
+  {
+    "title": "Your Latest Trick",
+    "artist": "Dire Straits",
+    "categories": ["Rock", "Rock 80s"],
+    "snippet": "/songs/rock/dire_straits_your_latest_trick.mp3",
+    "cover": "https://is1-ssl.mzstatic.com/image/thumb/Music115/v4/e8/bd/54/e8bd54fd-6595-4ebf-aa4c-58139ed316e6/dj.bngafruf.jpg/600x600bb.jpg"
   }
 ]
 ]
