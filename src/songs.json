@@ -5003,7 +5003,607 @@
     "categories": ["Rap", "Rap 10s"],
     "snippet": "/songs/rap/sum_prove.mp3",
     "cover": "/songs/covers/sum2.jpg"
+  },
+  {
+    "title": "A Thousand Years",
+    "artist": "Christina Perri",
+    "categories": [
+      "Pop",
+      "Pop 10s"
+    ],
+    "snippet": "/songs/pop/christina_perri_a_thousand_years.mp3",
+    "cover": "https://is1-ssl.mzstatic.com/image/thumb/Music115/v4/f5/2e/83/f52e8357-9cf4-e644-c365-3c21839f85ac/mzi.staekbjw.jpg/600x600bb.jpg"
+  },
+  {
+    "title": "September",
+    "artist": "Earth, Wind & Fire",
+    "categories": [
+      "Rock",
+      "Rock 90s"
+    ],
+    "snippet": "/songs/rock/earth_wind_fire_september_live.mp3",
+    "cover": "https://is1-ssl.mzstatic.com/image/thumb/Music124/v4/ab/31/40/ab314083-718f-b292-2c3e-982c166257e0/mzi.ioethdgk.jpg/600x600bb.jpg"
+  },
+  {
+    "title": "I'm Yours",
+    "artist": "Jason Mraz",
+    "categories": [
+      "Pop",
+      "Pop 00s"
+    ],
+    "snippet": "/songs/pop/jason_mraz_i_m_yours.mp3",
+    "cover": "https://is1-ssl.mzstatic.com/image/thumb/Music115/v4/f8/ac/ec/f8acec21-40e2-fa91-fe61-1be3cbc1467a/mzi.jokpbtnf.jpg/600x600bb.jpg"
+  },
+  {
+    "title": "XO TOUR Llif3",
+    "artist": "Lil Uzi Vert",
+    "categories": [
+      "Rap",
+      "Rap 10s"
+    ],
+    "snippet": "/songs/rap/lil_uzi_vert_xo_tour_llif3.mp3",
+    "cover": "https://is1-ssl.mzstatic.com/image/thumb/Music211/v4/02/ed/6f/02ed6f77-7e89-ca9c-4d5a-83088113cbe8/075679887955.jpg/600x600bb.jpg"
+  },
+  {
+    "title": "I Ain't Worried",
+    "artist": "OneRepublic",
+    "categories": [
+      "Pop",
+      "Pop 20s"
+    ],
+    "snippet": "/songs/pop/onerepublic_i_ain_t_worried.mp3",
+    "cover": "https://is1-ssl.mzstatic.com/image/thumb/Music122/v4/e6/14/14/e6141444-6597-4c3a-7ad1-86304528acf4/22UMGIM45569.rgb.jpg/600x600bb.jpg"
+  },
+  {
+    "title": "Don't Let Me Down (feat. Daya)",
+    "artist": "The Chainsmokers",
+    "categories": [
+      "Pop",
+      "Pop 10s"
+    ],
+    "snippet": "/songs/pop/the_chainsmokers_don_t_let_me_down_feat_daya_illenium_remix.mp3",
+    "cover": "https://is1-ssl.mzstatic.com/image/thumb/Music20/v4/40/1d/0a/401d0a4f-6afe-1548-f4c8-6e8de3ff1e2b/886446009742.jpg/600x600bb.jpg"
+  },
+  {
+    "title": "Shut Up and Dance",
+    "artist": "WALK THE MOON",
+    "categories": [
+      "Pop",
+      "Pop 10s"
+    ],
+    "snippet": "/songs/pop/walk_the_moon_shut_up_and_dance.mp3",
+    "cover": "https://is1-ssl.mzstatic.com/image/thumb/Music124/v4/bf/b6/76/bfb67621-b78d-3924-6d29-4f367697a674/886445045758.jpg/600x600bb.jpg"
+  },
+  {
+    "title": "Dusk Till Dawn (feat. Sia)",
+    "artist": "ZAYN",
+    "categories": [
+      "Pop",
+      "Pop 10s"
+    ],
+    "snippet": "/songs/pop/zayn_dusk_till_dawn_feat_sia.mp3",
+    "cover": "https://is1-ssl.mzstatic.com/image/thumb/Music124/v4/9d/25/4c/9d254c6f-1af8-c3e2-ff1a-f30ca2dbe45b/886446731896.jpg/600x600bb.jpg"
+  },
+  [
+  {
+    "title": "Faded",
+    "artist": "Alan Walker",
+    "categories": [
+      "Pop",
+      "Pop 10s"
+    ],
+    "snippet": "/songs/pop/alan_walker_fade.mp3",
+    "cover": "https://is1-ssl.mzstatic.com/image/thumb/Music211/v4/1f/48/c0/1f48c0ab-7710-1724-e737-b2f6e106a747/7333236909117.png/600x600bb.jpg"
+  },
+  {
+    "title": "Mr. Saxobeat",
+    "artist": "Alexandra Stan",
+    "categories": [
+      "Pop",
+      "Pop 00s"
+    ],
+    "snippet": "/songs/pop/alexandra_stan_mr_saxobeat_radio_edit.mp3",
+    "cover": "https://is1-ssl.mzstatic.com/image/thumb/Music126/v4/90/91/83/909183ff-bc63-8cfc-4f0f-ac742912286c/0617465300950.jpg/600x600bb.jpg"
+  },
+  {
+    "title": "Run",
+    "artist": "AWOLNATION",
+    "categories": [
+      "Rock",
+      "Rock 10s"
+    ],
+    "snippet": "/songs/rock/awolnation_run.mp3",
+    "cover": "https://is1-ssl.mzstatic.com/image/thumb/Music124/v4/dc/59/a3/dc59a366-b283-3212-29d6-600633b0429f/886445051537.jpg/600x600bb.jpg"
+  },
+  {
+    "title": "Rolex",
+    "artist": "Ayo & Teo",
+    "categories": [
+      "Rap",
+      "Rap 10s"
+    ],
+    "snippet": "/songs/rap/ayo_teo_rolex.mp3",
+    "cover": "https://is1-ssl.mzstatic.com/image/thumb/Music115/v4/04/57/2b/04572be8-c471-9f50-4a20-a8f4b10a80dc/886446429465.jpg/600x600bb.jpg"
+  },
+  {
+    "title": "Who Let the Dogs Out",
+    "artist": "Baha Men",
+    "categories": [
+      "Pop",
+      "Pop 00s"
+    ],
+    "snippet": "/songs/pop/baha_men_who_let_the_dogs_out.mp3",
+    "cover": "https://is1-ssl.mzstatic.com/image/thumb/Music122/v4/0b/37/10/0b3710e7-f427-939f-88b2-56ec186a6f03/13UABIM51494.rgb.jpg/600x600bb.jpg"
+  },
+  {
+    "title": "Dubidubidu",
+    "artist": "Christell",
+    "categories": [
+      "Pop",
+      "Pop 00s"
+    ],
+    "snippet": "/songs/pop/christell_dubidubidu.mp3",
+    "cover": "https://is1-ssl.mzstatic.com/image/thumb/Music116/v4/aa/a0/09/aaa009fb-3f82-5467-33b5-25d1cb165151/5054197958816.jpg/600x600bb.jpg"
+  },
+  {
+    "title": "Rockabye (feat. Sean Paul & Anne-Marie) [Autograf Remix]",
+    "artist": "Clean Bandit",
+    "categories": [
+      "Pop",
+      "Pop 10s"
+    ],
+    "snippet": "/songs/pop/clean_bandit_rockabye_feat_sean_paul_anne_marie_autograf_remix.mp3",
+    "cover": "https://is1-ssl.mzstatic.com/image/thumb/Music91/v4/17/ad/8f/17ad8f52-e9e5-2858-464b-a40e1b84070b/190295859138.jpg/600x600bb.jpg"
+  },
+  {
+    "title": "Turn Down for What",
+    "artist": "DJ Snake & Lil Jon",
+    "categories": [
+      "Pop",
+      "Pop 10s"
+    ],
+    "snippet": "/songs/pop/dj_snake_lil_jon_turn_down_for_what.mp3",
+    "cover": "https://is1-ssl.mzstatic.com/image/thumb/Music125/v4/54/4a/6d/544a6dc7-8d93-a8fe-74cc-530f4c078620/886444410779.jpg/600x600bb.jpg"
+  },
+  {
+    "title": "Stereo Love (Original)",
+    "artist": "Edward Maya & Vika Jigulina",
+    "categories": [
+      "Pop",
+      "Pop 00s"
+    ],
+    "snippet": "/songs/pop/edward_maya_vika_jigulina_stereo_love_original.mp3",
+    "cover": "https://is1-ssl.mzstatic.com/image/thumb/Music116/v4/45/33/38/4533387a-c8b5-ac5d-fef7-318af8ac9dee/617465238451.jpg/600x600bb.jpg"
+  },
+  {
+    "title": "Crush",
+    "artist": "Jennifer Paige",
+    "categories": [
+      "Pop",
+      "Pop 90s"
+    ],
+    "snippet": "/songs/pop/jennifer_paige_crush.mp3",
+    "cover": "https://is1-ssl.mzstatic.com/image/thumb/Music128/v4/6a/91/35/6a913582-c229-2321-3f82-0009c4058459/00720616217127.rgb.jpg/600x600bb.jpg"
+  },
+  {
+    "title": "In Da Getto",
+    "artist": "J Balvin & Skrillex",
+    "categories": [
+      "Pop",
+      "Pop 20s"
+    ],
+    "snippet": "/songs/pop/j_balvin_skrillex_in_da_getto.mp3",
+    "cover": "https://is1-ssl.mzstatic.com/image/thumb/Music115/v4/ad/a2/e8/ada2e835-768e-8d70-e9d0-63ba4457c465/21UMGIM69012.rgb.jpg/600x600bb.jpg"
+  },
+  {
+    "title": "Swish Swish (Cheat Codes Remix)",
+    "artist": "Katy Perry",
+    "categories": [
+      "Pop",
+      "Pop 10s"
+    ],
+    "snippet": "/songs/pop/katy_perry_swish_swish_cheat_codes_remix.mp3",
+    "cover": "https://is1-ssl.mzstatic.com/image/thumb/Music118/v4/e5/33/08/e533080e-7c2e-6f32-c022-b8cf5a6850e1/00602557807967.rgb.jpg/600x600bb.jpg"
+  },
+  {
+    "title": "Stronger (What Doesn't Kill You)",
+    "artist": "Kelly Clarkson",
+    "categories": [
+      "Pop",
+      "Pop 10s"
+    ],
+    "snippet": "/songs/pop/kelly_clarkson_stronger_what_doesn_t_kill_you.mp3",
+    "cover": "https://is1-ssl.mzstatic.com/image/thumb/Music/68/81/4f/mzi.wrtaopaz.jpg/600x600bb.jpg"
+  },
+  {
+    "title": "The Ketchup Song (Aserejé) [Spanish Version]",
+    "artist": "Las Ketchup",
+    "categories": [
+      "Pop",
+      "Pop 00s"
+    ],
+    "snippet": "/songs/pop/las_ketchup_the_ketchup_song_aserej_spanish_version.mp3",
+    "cover": "https://is1-ssl.mzstatic.com/image/thumb/Music62/v4/05/56/27/05562700-1d3a-0f27-9fa3-1fd9cdd05f9f/192562272527.jpg/600x600bb.jpg"
+  },
+  {
+    "title": "Macarena (Bayside Boys Remix)",
+    "artist": "Los del Río",
+    "categories": [
+      "Pop",
+      "Pop 90s"
+    ],
+    "snippet": "/songs/pop/los_del_r_o_macarena_bayside_boys_remix.mp3",
+    "cover": "https://is1-ssl.mzstatic.com/image/thumb/Music114/v4/a1/2d/6a/a12d6a7b-6173-ed2e-9682-a30d245ed7fe/mzi.ndplymif.jpg/600x600bb.jpg"
+  },
+  {
+    "title": "Intoxicated",
+    "artist": "Martin Solveig & Good Times Ahead",
+    "categories": [
+      "Pop",
+      "Pop 10s"
+    ],
+    "snippet": "/songs/pop/martin_solveig_good_times_ahead_intoxicated.mp3",
+    "cover": "https://is1-ssl.mzstatic.com/image/thumb/Music124/v4/f8/48/0a/f8480a9e-aff9-73ab-83bf-005a9c293e3c/075679917607.jpg/600x600bb.jpg"
+  },
+  {
+    "title": "U Can't Touch This",
+    "artist": "MC Hammer",
+    "categories": [
+      "Rap",
+      "Rap 90s"
+    ],
+    "snippet": "/songs/rap/mc_hammer_u_can_t_touch_this.mp3",
+    "cover": "https://is1-ssl.mzstatic.com/image/thumb/Music115/v4/12/3b/cc/123bccfe-4d2e-20bb-f703-9d2b27000992/17UM1IM10688.rgb.jpg/600x600bb.jpg"
+  },
+  {
+    "title": "Dragostea Din Tei",
+    "artist": "O-Zone",
+    "categories": [
+      "Pop",
+      "Pop 00s"
+    ],
+    "snippet": "/songs/pop/o_zone_dragostea_din_tei.mp3",
+    "cover": "https://is1-ssl.mzstatic.com/image/thumb/Music113/v4/96/0d/85/960d8540-8160-ccb8-95fa-1cb02cad46aa/6420565323606.jpg/600x600bb.jpg"
+  },
+  {
+    "title": "Happy (From \"Despicable Me 2\")",
+    "artist": "Pharrell Williams",
+    "categories": [
+      "Pop",
+      "Pop 10s"
+    ],
+    "snippet": "/songs/pop/pharrell_williams_happy_from_despicable_me_2.mp3",
+    "cover": "https://is1-ssl.mzstatic.com/image/thumb/Music221/v4/76/ff/5e/76ff5ee0-7ab4-2ac2-2598-486a9ccc06e1/886444516877.jpg/600x600bb.jpg"
+  },
+  {
+    "title": "Move Bitch (Original)",
+    "artist": "Philthy Fingers",
+    "categories": [
+      "Pop",
+      "Pop 10s",
+       "Rap",
+      "Rap 10s"
+    ],
+    "snippet": "/songs/pop/philthy_fingers_move_bitch_original.mp3",
+    "cover": "https://is1-ssl.mzstatic.com/image/thumb/Music/v4/d4/45/ea/d445ea10-201a-e422-fc73-76e83f516e84/cover_10052794.jpg/600x600bb.jpg"
+  },
+  {
+    "title": "Song for Denise",
+    "artist": "Piano Fantasia",
+    "categories": [
+      "Pop",
+      "Pop 10s"
+    ],
+    "snippet": "/songs/pop/piano_fantasia_song_for_denise_maxi_version.mp3",
+    "cover": "https://is1-ssl.mzstatic.com/image/thumb/Music115/v4/48/5a/8d/485a8ddc-80f9-a367-9d5a-452003d5de54/cover.jpg/600x600bb.jpg"
+  },
+  {
+    "title": "High Hopes",
+    "artist": "Pink Floyd",
+    "categories": [
+      "Rock",
+      "Rock 90s"
+    ],
+    "snippet": "/songs/rock/pink_floyd_high_hopes.mp3",
+    "cover": "https://is1-ssl.mzstatic.com/image/thumb/Music221/v4/f7/47/bf/f747bf4c-6a88-c26f-9545-f0ffed0b8992/886445627572.jpg/600x600bb.jpg"
+  },
+  {
+    "title": "Gangnam Style",
+    "artist": "PSY",
+    "categories": [
+      "Pop",
+      "Pop 10s"
+    ],
+    "snippet": "/songs/pop/psy_gangnam_style.mp3",
+    "cover": "https://is1-ssl.mzstatic.com/image/thumb/Music115/v4/7c/52/87/7c5287bc-818f-55ed-e607-08b052963632/12UMGIM50914.rgb.jpg/600x600bb.jpg"
+  },
+  {
+    "title": "Never Gonna Give You Up (2022 Remaster)",
+    "artist": "Rick Astley",
+    "categories": [
+      "Pop",
+      "Pop 80s"
+    ],
+    "snippet": "/songs/pop/rick_astley_never_gonna_give_you_up_2022_remaster.mp3",
+    "cover": "https://is1-ssl.mzstatic.com/image/thumb/Music122/v4/de/eb/63/deeb63c1-7bc0-9153-cfa3-fd9e4929aacf/4050538826562.jpg/600x600bb.jpg"
+  },
+  {
+    "title": "Make It Bun Dem",
+    "artist": "Skrillex & Damian \"Jr. Gong\" Marley",
+    "categories": [
+      "Pop",
+      "Pop 10s"
+    ],
+    "snippet": "/songs/pop/skrillex_damian_jr_gong_marley_make_it_bun_dem.mp3",
+    "cover": "https://is1-ssl.mzstatic.com/image/thumb/Music115/v4/39/47/78/3947783a-be7d-e30e-6932-77bdd5d603fd/075679958839.jpg/600x600bb.jpg"
+  },
+  {
+    "title": "Purple Lamborghini",
+    "artist": "Skrillex & Rick Ross",
+    "categories": [
+      "Pop",
+      "Pop 10s"
+    ],
+    "snippet": "/songs/pop/skrillex_rick_ross_purple_lamborghini.mp3",
+    "cover": "https://is1-ssl.mzstatic.com/image/thumb/Music125/v4/ea/7b/3a/ea7b3a69-b589-603a-037c-b161f328afb1/075679910462.jpg/600x600bb.jpg"
+  },
+  {
+    "title": "Don't Cha",
+    "artist": "The Pussycat Dolls & Busta Rhymes",
+    "categories": [
+      "Pop",
+      "Pop 00s"
+    ],
+    "snippet": "/songs/pop/the_pussycat_dolls_busta_rhymes_don_t_cha.mp3",
+    "cover": "https://is1-ssl.mzstatic.com/image/thumb/Music116/v4/db/b8/bf/dbb8bf3c-c0b8-e5e1-0c4b-0073c8bcec8c/21UMGIM95502.rgb.jpg/600x600bb.jpg"
+  },
+  {
+    "title": "Astronomia",
+    "artist": "Vicetone & Tony Igy",
+    "categories": [
+      "Pop",
+      "Pop 10s"
+    ],
+    "snippet": "/songs/pop/vicetone_tony_igy_astronomia.mp3",
+    "cover": "https://is1-ssl.mzstatic.com/image/thumb/Music124/v4/61/70/24/6170245a-cf39-29a5-a4e4-553f84bb86c4/886446088099.jpg/600x600bb.jpg"
+  },
+  {
+    "title": "The Fox (What Does the Fox Say?)",
+    "artist": "Ylvis",
+    "categories": [
+      "Pop",
+      "Pop 10s"
+    ],
+    "snippet": "/songs/pop/ylvis_the_fox_what_does_the_fox_say.mp3",
+    "cover": "https://is1-ssl.mzstatic.com/image/thumb/Music114/v4/32/f5/b4/32f5b44a-6713-dfd4-e561-e40679bff318/825646409051.jpg/600x600bb.jpg"
+  },
+  [
+  {
+    "title": "Down In a Hole",
+    "artist": "Alice In Chains",
+    "categories": ["Rock", "Rock 90s"],
+    "snippet": "/songs/rock/alice_in_chains_down_in_a_hole.mp3",
+    "cover": "https://is1-ssl.mzstatic.com/image/thumb/Music112/v4/54/26/62/5426627b-4707-7867-acc0-ce616d250381/074645247526.jpg/600x600bb.jpg"
+  },
+  {
+    "title": "Man In the Box (Live)",
+    "artist": "Alice In Chains",
+    "categories": ["Rock", "Rock 00s"],
+    "snippet": "/songs/rock/alice_in_chains_man_in_the_box_live.mp3",
+    "cover": "https://is1-ssl.mzstatic.com/image/thumb/Music/2f/47/fa/mzi.effcotrm.jpg/600x600bb.jpg"
+  },
+  {
+    "title": "Nutshell",
+    "artist": "Alice In Chains",
+    "categories": ["Rock", "Rock 90s"],
+    "snippet": "/songs/rock/alice_in_chains_nutshell.mp3",
+    "cover": "https://is1-ssl.mzstatic.com/image/thumb/Music126/v4/bd/d6/37/bdd6373e-dc26-e86e-1d31-9bb1f7656968/5099747485527.jpg/600x600bb.jpg"
+  },
+  {
+    "title": "Rooster",
+    "artist": "Alice In Chains",
+    "categories": ["Rock", "Rock 90s"],
+    "snippet": "/songs/rock/alice_in_chains_rooster.mp3",
+    "cover": "https://is1-ssl.mzstatic.com/image/thumb/Music112/v4/54/26/62/5426627b-4707-7867-acc0-ce616d250381/074645247526.jpg/600x600bb.jpg"
+  },
+  {
+    "title": "Them Bones",
+    "artist": "Alice In Chains",
+    "categories": ["Rock", "Rock 90s"],
+    "snippet": "/songs/rock/alice_in_chains_them_bones.mp3",
+    "cover": "https://is1-ssl.mzstatic.com/image/thumb/Music112/v4/54/26/62/5426627b-4707-7867-acc0-ce616d250381/074645247526.jpg/600x600bb.jpg"
+  },
+  {
+    "title": "Call Me When You're Sober",
+    "artist": "Evanescence",
+    "categories": ["Rock", "Rock 00s"],
+    "snippet": "/songs/pop/evanescence_call_me_when_you_re_sober.mp3",
+    "cover": "https://is1-ssl.mzstatic.com/image/thumb/Music124/v4/72/62/7e/72627ec6-772c-7229-6cc4-6ded693506fd/00601501412004.rgb.jpg/600x600bb.jpg"
+  },
+  {
+    "title": "Bring Me to Life",
+    "artist": "Evanescence",
+    "categories": ["Rock", "Rock 00s"],
+    "snippet": "/songs/rock/evanescence_bring_me_to_life.mp3",
+    "cover": "https://is1-ssl.mzstatic.com/image/thumb/Music115/v4/10/4c/21/104c21e6-9ef0-4d3a-d1bd-d47167f121e5/00601501406300.rgb.jpg/600x600bb.jpg"
+  },
+  {
+    "title": "Everybody's Fool",
+    "artist": "Evanescence",
+    "categories": ["Rock", "Rock 00s"],
+    "snippet": "/songs/rock/evanescence_everybody_s_fool.mp3",
+    "cover": "https://is1-ssl.mzstatic.com/image/thumb/Music115/v4/10/4c/21/104c21e6-9ef0-4d3a-d1bd-d47167f121e5/00601501406300.rgb.jpg/600x600bb.jpg"
+  },
+  {
+    "title": "Going Under",
+    "artist": "Evanescence",
+    "categories": ["Rock", "Rock 00s"],
+    "snippet": "/songs/rock/evanescence_going_under.mp3",
+    "cover": "https://is1-ssl.mzstatic.com/image/thumb/Music115/v4/10/4c/21/104c21e6-9ef0-4d3a-d1bd-d47167f121e5/00601501406300.rgb.jpg/600x600bb.jpg"
+  },
+  {
+    "title": "Why I Love You (feat. Mr Hudson)",
+    "artist": "Kanye West & JAY-Z",
+    "categories": ["Rap", "Rap 10s"],
+    "snippet": "/songs/rap/kanye_west_jay_z_why_i_love_you_feat_mr_hudson.mp3",
+    "cover": "https://is1-ssl.mzstatic.com/image/thumb/Music124/v4/18/f5/07/18f5070d-b5dc-796c-bce4-42badb41a762/00602527812526.rgb.jpg/600x600bb.jpg"
+  },
+  {
+    "title": "4:44",
+    "artist": "JAY-Z",
+    "categories": ["Rap", "Rap 10s"],
+    "snippet": "/songs/rap/jay_z_4_44.mp3",
+    "cover": "https://is1-ssl.mzstatic.com/image/thumb/Music128/v4/ee/d1/da/eed1da86-9e2f-a19b-498a-f03622b183b2/00854242007569.rgb.jpg/600x600bb.jpg"
+  },
+  {
+    "title": "Run This Town (feat. Rihanna & Kanye West)",
+    "artist": "JAY-Z & Kanye West",
+    "categories": ["Rap", "Rap 00s"],
+    "snippet": "/songs/rap/jay_z_kanye_west_run_this_town_feat_rihanna_kanye_west.mp3",
+    "cover": "https://is1-ssl.mzstatic.com/image/thumb/Music115/v4/17/4a/a7/174aa7ea-0116-6240-1187-1efb51552833/00602527586502.rgb.jpg/600x600bb.jpg"
+  },
+  {
+    "title": "03' Bonnie & Clyde (feat. Beyoncé Knowles)",
+    "artist": "JAY-Z",
+    "categories": ["Rap", "Rap 00s"],
+    "snippet": "/songs/rap/jay_z_03_bonnie_clyde_feat_beyonc_knowles.mp3",
+    "cover": "https://is1-ssl.mzstatic.com/image/thumb/Music115/v4/17/4a/a7/174aa7ea-0116-6240-1187-1efb51552833/00602527586502.rgb.jpg/600x600bb.jpg"
+  },
+  {
+    "title": "Where Are Ü Now (feat. Justin Bieber)",
+    "artist": "Jack Ü, Skrillex & Diplo",
+    "categories": ["Pop", "Pop 10s"],
+    "snippet": "/songs/pop/jack_skrillex_diplo_where_are_now_feat_justin_bieber.mp3",
+    "cover": "https://is1-ssl.mzstatic.com/image/thumb/Music115/v4/b3/ea/21/b3ea217e-d5d0-4db7-5942-15cdff5ad68d/075679927354.jpg/600x600bb.jpg"
+  },
+  {
+    "title": "No Church in the Wild (feat. Frank Ocean)",
+    "artist": "Kanye West & JAY-Z",
+    "categories": ["Rap", "Rap 10s"],
+    "snippet": "/songs/rap/kanye_west_jay_z_no_church_in_the_wild_feat_frank_ocean.mp3",
+    "cover": "https://is1-ssl.mzstatic.com/image/thumb/Music124/v4/18/f5/07/18f5070d-b5dc-796c-bce4-42badb41a762/00602527812526.rgb.jpg/600x600bb.jpg"
+  },
+  {
+    "title": "Hysteria",
+    "artist": "Muse",
+    "categories": ["Rock", "Rock 00s"],
+    "snippet": "/songs/rock/muse_hysteria.mp3",
+    "cover": "https://is1-ssl.mzstatic.com/image/thumb/Music126/v4/4a/73/ab/4a73abdf-1d55-b3fe-484d-e023a507428e/5054197904233.jpg/600x600bb.jpg"
+  },
+  {
+    "title": "Madness",
+    "artist": "Muse",
+    "categories": ["Rock", "Rock 10s"],
+    "snippet": "/songs/rock/muse_madness.mp3",
+    "cover": "https://is1-ssl.mzstatic.com/image/thumb/Music125/v4/b8/50/04/b850045b-bfab-77de-040b-94b13c6f79ef/825646557646.jpg/600x600bb.jpg"
+  },
+  {
+    "title": "Supermassive Black Hole",
+    "artist": "Muse",
+    "categories": ["Rock", "Rock 00s"],
+    "snippet": "/songs/rock/muse_supermassive_black_hole.mp3",
+    "cover": "https://is1-ssl.mzstatic.com/image/thumb/Music124/v4/4a/c1/5d/4ac15dc9-2ae6-1d5b-3add-43bae227f941/825646095452.jpg/600x600bb.jpg"
+  },
+  {
+    "title": "Time is Running Out",
+    "artist": "Muse",
+    "categories": ["Rock", "Rock 00s"],
+    "snippet": "/songs/rock/muse_time_is_running_out.mp3",
+    "cover": "https://is1-ssl.mzstatic.com/image/thumb/Music126/v4/4a/73/ab/4a73abdf-1d55-b3fe-484d-e023a507428e/5054197904233.jpg/600x600bb.jpg"
+  },
+  {
+    "title": "Undisclosed Desires",
+    "artist": "Muse",
+    "categories": ["Rock", "Rock 00s"],
+    "snippet": "/songs/rock/muse_undisclosed_desires.mp3",
+    "cover": "https://is1-ssl.mzstatic.com/image/thumb/Music115/v4/53/13/26/531326a2-b93d-9ab8-30cc-e4a9392e7b86/825646092666.jpg/600x600bb.jpg"
+  },
+  {
+    "title": "Uprising",
+    "artist": "Muse",
+    "categories": ["Rock", "Rock 00s"],
+    "snippet": "/songs/rock/muse_uprising.mp3",
+    "cover": "https://is1-ssl.mzstatic.com/image/thumb/Music115/v4/53/13/26/531326a2-b93d-9ab8-30cc-e4a9392e7b86/825646092666.jpg/600x600bb.jpg"
+  },
+  {
+    "title": "My Immortal",
+    "artist": "Evanescence",
+    "categories": ["Rock", "Rock 00s"],
+    "snippet": "/songs/rock/evanescence_my_immortal.mp3",
+    "cover": "https://is1-ssl.mzstatic.com/image/thumb/Music115/v4/10/4c/21/104c21e6-9ef0-4d3a-d1bd-d47167f121e5/00601501406300.rgb.jpg/600x600bb.jpg"
+  },
+  {
+    "title": "One",
+    "artist": "Swedish House Mafia",
+    "categories": ["Pop", "Pop 10s"],
+    "snippet": "/songs/rock/swedish_one.mp3",
+    "cover": "/songs/covers/one.jpg"
+  },
+  {
+    "title": "We Are One (Ole Ola) [The Official 2014 FIFA World Cup Song] [feat. Jennifer Lopez & Cláudia Leitte]",
+    "artist": "Pitbull",
+    "categories": ["Pop", "Pop 10s","Rap","Rap 10s"],
+    "snippet": "/songs/pop/pitbull_we_are_one_ole_ola_the_official_2014_fifa_world_cup_song_feat_jennifer_lopez_cl_udia_leitte_olodum_mix.mp3",
+    "cover": "https://is1-ssl.mzstatic.com/image/thumb/Music4/v4/9d/30/bd/9d30bdd8-fa07-5193-3163-804fb2ae5305/886444556958.jpg/600x600bb.jpg"
+  },
+  {
+    "title": "Plug In Baby",
+    "artist": "Muse",
+    "categories": ["Rock", "Rock 00s"],
+    "snippet": "/songs/rock/muse_plug_in_baby.mp3",
+    "cover": "https://is1-ssl.mzstatic.com/image/thumb/Music114/v4/0c/c8/0b/0cc80b73-aa09-492d-4fcc-984cab29acfa/825646096909.jpg/600x600bb.jpg"
+  },
+  {
+    "title": "Heaven Takes You Home (Mixed)",
+    "artist": "Swedish House Mafia & Connie Constance",
+    "categories": ["Pop", "Pop 20s"],
+    "snippet": "/songs/pop/swedish_house_mafia_connie_constance_heaven_takes_you_home_mixed.mp3",
+    "cover": "https://is1-ssl.mzstatic.com/image/thumb/Music126/v4/8d/50/6e/8d506e8f-c96b-6ee1-e48c-92423881fe4d/5a7a119f-cc79-4c4f-8813-509af247d091.jpg/600x600bb.jpg"
+  },
+  {
+    "title": "Save the World",
+    "artist": "Swedish House Mafia",
+    "categories": ["Pop", "Pop 10s"],
+    "snippet": "/songs/pop/swedish_house_mafia_save_the_world.mp3",
+    "cover": "https://is1-ssl.mzstatic.com/image/thumb/Music115/v4/83/56/36/8356367b-5938-5ce6-b13b-ee05a60a530c/05099972323359.jpg/600x600bb.jpg"
+  },
+  {
+    "title": "Don't You Worry Child (feat. John Martin)",
+    "artist": "Swedish House Mafia",
+    "categories": ["Pop", "Pop 10s"],
+    "snippet": "/songs/pop/swedish_house_mafia_don_t_you_worry_child_feat_john_martin.mp3",
+    "cover": "https://is1-ssl.mzstatic.com/image/thumb/Music124/v4/6a/30/7d/6a307d9d-2d13-999a-3b9c-03221087f845/15UMGIM27846.rgb.jpg/600x600bb.jpg"
+  },
+  {
+    "title": "Moth To A Flame",
+    "artist": "Swedish House Mafia & The Weeknd",
+    "categories": ["Pop", "Pop 20s"],
+    "snippet": "/songs/pop/swedish_house_mafia_the_weeknd_moth_to_a_flame.mp3",
+    "cover": "https://is1-ssl.mzstatic.com/image/thumb/Music115/v4/2f/56/e7/2f56e79c-fdaa-c0d5-545e-9942e54301c3/21UM1IM29516.rgb.jpg/600x600bb.jpg"
+  },
+  {
+    "title": "Daddy Issues",
+    "artist": "The Neighbourhood",
+    "categories": ["Rock", "Rock 10s","Pop","Pop 10s"],
+    "snippet": "/songs/rock/the_neighbourhood_daddy_issues.mp3",
+    "cover": "https://is1-ssl.mzstatic.com/image/thumb/Music125/v4/0d/c7/b4/0dc7b469-58ab-85d0-6c41-59436b7b5bd2/dj.gtvzneid.jpg/600x600bb.jpg"
+  },
+  {
+    "title": "Softcore",
+    "artist": "The Neighbourhood",
+    "categories": ["Pop","Pop 10s"],
+    "snippet": "/songs/rock/the_neighbourhood_softcore.mp3",
+    "cover": "https://is1-ssl.mzstatic.com/image/thumb/Music125/v4/fc/d0/89/fcd0899c-2236-a726-9ce2-ebb110e2204d/886447414545.jpg/600x600bb.jpg"
+  },
+  {
+    "title": "You Get Me so High",
+    "artist": "The Neighbourhood",
+    "categories": ["Pop","Pop 10s"],
+    "snippet": "/songs/rock/the_neighbourhood_you_get_me_so_high.mp3",
+    "cover": "https://is1-ssl.mzstatic.com/image/thumb/Music125/v4/fc/d0/89/fcd0899c-2236-a726-9ce2-ebb110e2204d/886447414545.jpg/600x600bb.jpg"
   }
+]
+]
 ]
 
 
