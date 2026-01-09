@@ -342,6 +342,32 @@ const manualDaily = {
       dailyCategory: "Rap", 
     },
   ],
+  "2026-01-10": [
+    {
+      title: "Rolling in the Deep",
+      artist: "Adele",
+      cover: "https://is1-ssl.mzstatic.com/image/thumb/Music116/v4/d8/e3/f9/d8e3f9ea-d6fe-9a1b-9f13-109983d3062e/191404113868.png/600x600bb.jpg",
+      snippet: "/songs/pop/adele_rolling_in_the_deep.mp3",
+      categories: ["pop"],
+      dailyCategory: "Pop",
+    },
+    {
+      title: "High Hopes",
+      artist: "Pink Floyd",
+      cover: "https://is1-ssl.mzstatic.com/image/thumb/Music221/v4/f7/47/bf/f747bf4c-6a88-c26f-9545-f0ffed0b8992/886445627572.jpg/600x600bb.jpg",
+      snippet: "/songs/rock/pink_floyd_high_hopes.mp3",
+      categories: ["rock"],
+      dailyCategory: "Rock",
+    },
+    {
+      title: "tv off (feat. Lefty Gunplay)",
+      artist: "Kendrick Lamar",
+      cover: "/songs/covers/gnx.jpg",
+      snippet: "/songs/rap/tv_off.mp3",
+      categories: ["rap"],
+      dailyCategory: "Rap", 
+    },
+  ],
 };
 
 const LEVELS = [
