@@ -4215,7 +4215,7 @@
   },
   {
    "title": "Kokain (Instrumental)",
-    "artist": "Bonez MC & RAF Camora",  
+    "artist": "RAF Camora & Bonez MC",  
     "categories": ["Rap", "Rap 10s"],
     "snippet": "/songs/rap/kokain.mp3",
     "cover": "/songs/covers/palmen.jpg"
@@ -7713,6 +7713,349 @@
     "categories": ["Pop", "Pop 70s"],
     "snippet": "/songs/pop/elton_john_your_song.mp3",
     "cover": "https://is1-ssl.mzstatic.com/image/thumb/Music221/v4/b6/c3/a1/b6c3a14f-f1c0-a82e-4e17-39f9a21aea8e/08UMGIM07352.rgb.jpg/600x600bb.jpg"
+  },
+  {
+    "title": "Award Tour",
+    "artist": "A Tribe Called Quest",
+    "categories": ["Rap", "Rap 90s"],
+    "snippet": "/songs/rap/a_tribe_called_quest_award_tour_lp_version.mp3",
+    "cover": "https://is1-ssl.mzstatic.com/image/thumb/Music115/v4/f8/28/e9/f828e985-7724-112e-1658-80f9dea61952/dj.zpkqadnl.jpg/600x600bb.jpg"
+  },
+  {
+    "title": "Can I Kick It?",
+    "artist": "A Tribe Called Quest",
+    "categories": ["Rap", "Rap 90s"],
+    "snippet": "/songs/rap/a_tribe_called_quest_can_i_kick_it.mp3",
+    "cover": "https://is1-ssl.mzstatic.com/image/thumb/Music115/v4/f8/28/e9/f828e985-7724-112e-1658-80f9dea61952/dj.zpkqadnl.jpg/600x600bb.jpg"
+  },
+  {
+    "title": "Check the Rhime",
+    "artist": "A Tribe Called Quest",
+    "categories": ["Rap", "Rap 90s"],
+    "snippet": "/songs/rap/a_tribe_called_quest_check_the_rhime.mp3",
+    "cover": "https://is1-ssl.mzstatic.com/image/thumb/Music115/v4/e0/14/c8/e014c80a-425b-e01a-1124-cee985bcb5e6/dj.qafpkddz.jpg/600x600bb.jpg"
+  },
+  {
+    "title": "A Little Piece of Heaven",
+    "artist": "Avenged Sevenfold",
+    "categories": ["Rock", "Rock 00s"],
+    "snippet": "/songs/rock/avenged_sevenfold_a_little_piece_of_heaven.mp3",
+    "cover": "https://is1-ssl.mzstatic.com/image/thumb/Music125/v4/c4/21/00/c42100f9-f329-aad4-7535-9055429efc3f/mzi.tbskuyey.jpg/600x600bb.jpg"
+  },
+  {
+    "title": "Afterlife",
+    "artist": "Avenged Sevenfold",
+    "categories": ["Rock", "Rock 00s"],
+    "snippet": "/songs/rock/avenged_sevenfold_afterlife.mp3",
+    "cover": "https://is1-ssl.mzstatic.com/image/thumb/Features124/v4/45/ab/b7/45abb7a5-6a53-8d8f-91b0-03d1ef93111e/dj.zzffiuki.jpg/600x600bb.jpg"
+  },
+  {
+    "title": "Bat Country",
+    "artist": "Avenged Sevenfold",
+    "categories": ["Rock", "Rock 00s"],
+    "snippet": "/songs/rock/avenged_sevenfold_bat_country.mp3",
+    "cover": "https://is1-ssl.mzstatic.com/image/thumb/Music124/v4/f8/70/dc/f870dcfd-a1b4-5e29-1e1e-7764a802d90a/s07.sotroeja.jpg/600x600bb.jpg"
+  },
+  {
+    "title": "Hail to the King",
+    "artist": "Avenged Sevenfold",
+    "categories": ["Rock", "Rock 10s"],
+    "snippet": "/songs/rock/avenged_sevenfold_hail_to_the_king.mp3",
+    "cover": "https://is1-ssl.mzstatic.com/image/thumb/Music115/v4/c3/8f/cb/c38fcb39-bbca-3e38-4b5d-1add583d2e92/093624942214.jpg/600x600bb.jpg"
+  },
+  {
+    "title": "Nightmare",
+    "artist": "Avenged Sevenfold",
+    "categories": ["Rock", "Rock 10s"],
+    "snippet": "/songs/rock/avenged_sevenfold_nightmare.mp3",
+    "cover": "https://is1-ssl.mzstatic.com/image/thumb/Music124/v4/84/1e/1b/841e1ba9-120d-491f-4be6-6c943f19d907/mzi.jjswxbfu.jpg/600x600bb.jpg"
+  },
+  {
+    "title": "DRIP",
+    "artist": "BABYMONSTER",
+    "categories": ["Pop", "Pop 20s"],
+    "snippet": "/songs/pop/babymonster_drip.mp3",
+    "cover": "https://is1-ssl.mzstatic.com/image/thumb/Music221/v4/b9/e1/ef/b9e1ef3a-e3eb-8152-e91b-20aca0fc9ffd/BM_DRIP_Digital-Cover_4000.jpg/600x600bb.jpg"
+  },
+    {
+    "title": "SHEESH",
+    "artist": "BABYMONSTER",
+    "categories": ["Pop", "Pop 20s"],
+    "snippet": "/songs/pop/babymonster_sheesh.mp3",
+    "cover": "https://is1-ssl.mzstatic.com/image/thumb/Music221/v4/fb/68/85/fb68856f-4965-5d30-78ea-fe6bb261f4ff/3000px.jpg/600x600bb.jpg"
+  },
+  {
+    "title": "LIKE THAT",
+    "artist": "BABYMONSTER",
+    "categories": ["Pop", "Pop 20s"],
+    "snippet": "/songs/pop/babymonster_like_that.mp3",
+    "cover": "https://is1-ssl.mzstatic.com/image/thumb/Music221/v4/fb/68/85/fb68856f-4965-5d30-78ea-fe6bb261f4ff/3000px.jpg/600x600bb.jpg"
+  },
+  {
+    "title": "BATTER UP",
+    "artist": "BABYMONSTER",
+    "categories": ["Pop", "Pop 20s"],
+    "snippet": "/songs/pop/babymonster_batter_up.mp3",
+    "cover": "https://is1-ssl.mzstatic.com/image/thumb/Music126/v4/cf/fd/ec/cffdec06-a89b-326f-f897-13a5a7c657f4/BABYMONSTER_BATTER_UP_Cover_4000.jpg/600x600bb.jpg"
+  },
+  {
+    "title": "Bad Moon Rising",
+    "artist": "Creedence Clearwater Revival",
+    "categories": ["Rock", "Rock 60s"],
+    "snippet": "/songs/rock/creedence_clearwater_revival_bad_moon_rising.mp3",
+    "cover": "https://is1-ssl.mzstatic.com/image/thumb/Music115/v4/88/16/20/881620df-9161-61e8-2295-99c6740871b8/00888072355972.rgb.jpg/600x600bb.jpg"
+  },
+  {
+    "title": "Down On the Corner",
+    "artist": "Creedence Clearwater Revival",
+    "categories": ["Rock", "Rock 60s"],
+    "snippet": "/songs/rock/creedence_clearwater_revival_down_on_the_corner.mp3",
+    "cover": "https://is1-ssl.mzstatic.com/image/thumb/Music221/v4/29/1b/da/291bda3c-1743-c65c-41a6-f22a88936136/14CMGIM00939.rgb.jpg/600x600bb.jpg"
+  },
+  {
+    "title": "Green River",
+    "artist": "Creedence Clearwater Revival",
+    "categories": ["Rock", "Rock 60s"],
+    "snippet": "/songs/rock/creedence_clearwater_revival_green_river.mp3",
+    "cover": "https://is1-ssl.mzstatic.com/image/thumb/Music115/v4/88/16/20/881620df-9161-61e8-2295-99c6740871b8/00888072355972.rgb.jpg/600x600bb.jpg"
+  },
+  {
+    "title": "Proud Mary",
+    "artist": "Creedence Clearwater Revival",
+    "categories": ["Rock", "Rock 60s"],
+    "snippet": "/songs/rock/creedence_clearwater_revival_proud_mary.mp3",
+    "cover": "https://is1-ssl.mzstatic.com/image/thumb/Music221/v4/79/39/6d/79396d4f-53bc-4614-d3e8-b5d42ec4be33/14CMGIM00710.rgb.jpg/600x600bb.jpg"
+  },
+  {
+    "title": "Up Around the Bend",
+    "artist": "Creedence Clearwater Revival",
+    "categories": ["Rock", "Rock 70s"],
+    "snippet": "/songs/rock/creedence_clearwater_revival_up_around_the_bend.mp3",
+    "cover": "https://is1-ssl.mzstatic.com/image/thumb/Music115/v4/f3/81/ca/f381ca2b-0779-4102-2c64-8b2563eedb96/00888072355996.rgb.jpg/600x600bb.jpg"
+  },
+  {
+    "title": "Jumpman",
+    "artist": "Drake & Future",
+    "categories": ["Rap", "Rap 10s"],
+    "snippet": "/songs/rap/drake_future_jumpman.mp3",
+    "cover": "https://is1-ssl.mzstatic.com/image/thumb/Music118/v4/d3/74/1d/d3741d09-5c9a-461b-aba3-fa345d306d5a/00602547616678.rgb.jpg/600x600bb.jpg"
+  },
+  {
+    "title": "Over and Under",
+    "artist": "Egypt Central",
+    "categories": ["Rock", "Rock 00s"],
+    "snippet": "/songs/rock/egypt_central_over_and_under.mp3",
+    "cover": "https://is1-ssl.mzstatic.com/image/thumb/Music124/v4/b6/ec/88/b6ec88bc-61b6-cfcc-724b-d08d7774df46/mzi.szsljkyh.jpg/600x600bb.jpg"
+  },
+  {
+    "title": "White Rabbit",
+    "artist": "Egypt Central",
+    "categories": ["Rock", "Rock 10s"],
+    "snippet": "/songs/rock/egypt_central_white_rabbit.mp3",
+    "cover": "https://is1-ssl.mzstatic.com/image/thumb/Music115/v4/3f/42/09/3f4209bb-6d2d-f202-bbf2-adda751a55f4/mzi.gugvjukr.jpg/600x600bb.jpg"
+  },
+  {
+    "title": "Don't Bring Me Down",
+    "artist": "Electric Light Orchestra",
+    "categories": ["Rock", "Rock 70s"],
+    "snippet": "/songs/rock/electric_light_orchestra_don_t_bring_me_down.mp3",
+    "cover": "https://is1-ssl.mzstatic.com/image/thumb/Music221/v4/a3/6e/74/a36e7450-3818-f2c1-a137-d4ef5934c119/827969448922.jpg/600x600bb.jpg"
+  },
+  {
+    "title": "Last Train to London",
+    "artist": "Electric Light Orchestra",
+    "categories": ["Rock", "Rock 70s"],
+    "snippet": "/songs/rock/electric_light_orchestra_last_train_to_london.mp3",
+    "cover": "https://is1-ssl.mzstatic.com/image/thumb/Music221/v4/2b/c6/e3/2bc6e3f8-5d32-793f-e6e0-d56ee512e45f/886445594027.jpg/600x600bb.jpg"
+  },
+  {
+    "title": "Livin' Thing",
+    "artist": "Electric Light Orchestra",
+    "categories": ["Rock", "Rock 70s"],
+    "snippet": "/songs/rock/electric_light_orchestra_livin_thing.mp3",
+    "cover": "https://is1-ssl.mzstatic.com/image/thumb/Music221/v4/a8/96/19/a8961914-9909-0cac-4817-87dd33389ae9/886445593907.jpg/600x600bb.jpg"
+  },
+  {
+    "title": "Mr. Blue Sky",
+    "artist": "Electric Light Orchestra",
+    "categories": ["Rock", "Rock 70s"],
+    "snippet": "/songs/rock/electric_light_orchestra_mr_blue_sky.mp3",
+    "cover": "https://is1-ssl.mzstatic.com/image/thumb/Music221/v4/a3/6e/74/a36e7450-3818-f2c1-a137-d4ef5934c119/827969448922.jpg/600x600bb.jpg"
+  },
+  {
+    "title": "Electric Relaxation",
+    "artist": "A Tribe Called Quest",
+    "categories": ["Rap", "Rap 90s"],
+    "snippet": "/songs/rap/a_tribe_called_quest_electric_relaxation.mp3",
+    "cover": "https://is1-ssl.mzstatic.com/image/thumb/Music126/v4/d1/90/11/d1901153-4595-7f2f-12d2-661be9eef883/012414149022.jpg/600x600bb.jpg"
+  },
+  {
+    "title": "Love Me (feat. Drake & Future)",
+    "artist": "Lil Wayne",
+    "categories": ["Rap", "Rap 10s"],
+    "snippet": "/songs/rap/lil_wayne_love_me_feat_drake_future.mp3",
+    "cover": "https://is1-ssl.mzstatic.com/image/thumb/Music126/v4/ee/a9/57/eea95772-8133-9dfc-0dbb-4c0b0382520d/13UMGIM25909.rgb.jpg/600x600bb.jpg"
+  },
+  {
+    "title": "Low Life (feat. The Weeknd)",
+    "artist": "Future",
+    "categories": ["Rap", "Rap 10s"],
+    "snippet": "/songs/rap/future_low_life_feat_the_weeknd.mp3",
+    "cover": "https://is1-ssl.mzstatic.com/image/thumb/Music124/v4/62/0c/4f/620c4f78-a6c2-ed81-d470-07d92ae24639/886445861853.jpg/600x600bb.jpg"
+  },
+  {
+    "title": "Mask Off",
+    "artist": "Future",
+    "categories": ["Rap", "Rap 10s"],
+    "snippet": "/songs/rap/future_mask_off.mp3",
+    "cover": "https://is1-ssl.mzstatic.com/image/thumb/Music115/v4/ea/43/5e/ea435e5e-78fe-d4a9-aedf-fbc3cf8cfc50/886446597119.jpg/600x600bb.jpg"
+  },
+  {
+    "title": "Solo",
+    "artist": "Future",
+    "categories": ["Rap", "Rap 10s"],
+    "snippet": "/songs/rap/future_solo.mp3",
+    "cover": "https://is1-ssl.mzstatic.com/image/thumb/Music126/v4/17/e0/ba/17e0ba58-4d11-a4df-7502-d4479b179c0a/886446604046.jpg/600x600bb.jpg"
+  },
+  {
+    "title": "WAIT FOR U (feat. Drake & Tems)",
+    "artist": "Future",
+    "categories": ["Rap", "Rap 20s"],
+    "snippet": "/songs/rap/future_wait_for_u_feat_drake_tems.mp3",
+    "cover": "https://is1-ssl.mzstatic.com/image/thumb/Music122/v4/c8/4c/fa/c84cfa03-1916-89f1-5362-03425fbe2ff9/196589073709.jpg/600x600bb.jpg"
+  },
+  {
+    "title": "I Got a Boy",
+    "artist": "Girls' Generation",
+    "categories": ["Pop", "Pop 10s"],
+    "snippet": "/songs/pop/girls_generation_i_got_a_boy.mp3",
+    "cover": "https://is1-ssl.mzstatic.com/image/thumb/Music124/v4/32/c9/15/32c9152b-cf16-3cf0-d550-1fa21abacb71/Girls_Generation_Cover.jpg/600x600bb.jpg"
+  },
+  {
+    "title": "Iris",
+    "artist": "The Goo Goo Dolls",
+    "categories": ["Rock", "Rock 90s"],
+    "snippet": "/songs/rock/the_goo_goo_dolls_iris.mp3",
+    "cover": "https://is1-ssl.mzstatic.com/image/thumb/Music/b4/0c/98/mzi.vhowcacb.jpg/600x600bb.jpg"
+  },
+  {
+    "title": "Name",
+    "artist": "The Goo Goo Dolls",
+    "categories": ["Pop", "Pop 90s"],
+    "snippet": "/songs/pop/the_goo_goo_dolls_name.mp3",
+    "cover": "https://is1-ssl.mzstatic.com/image/thumb/Music125/v4/9d/a3/30/9da3309b-75ff-eaea-c2a9-3534eb8e5e23/093624918820.jpg/600x600bb.jpg"
+  },
+  {
+    "title": "Tattoo",
+    "artist": "Loreen",
+    "categories": ["Pop", "Pop 20s"],
+    "snippet": "/songs/pop/loreen_tattoo.mp3",
+    "cover": "https://is1-ssl.mzstatic.com/image/thumb/Music126/v4/50/32/fd/5032fddc-e486-956d-a503-7ec6d17af848/22UM1IM46463.rgb.jpg/600x600bb.jpg"
+  },
+  {
+    "title": "Accordion (Four Tet Remix - Instrumental)",
+    "artist": "Madvillain",
+    "categories": ["Rap", "Rap 00s"],
+    "snippet": "/songs/rap/madvillain_accordion_four_tet_remix_instrumental.mp3",
+    "cover": "https://is1-ssl.mzstatic.com/image/thumb/Music118/v4/59/6a/00/596a00ae-e34c-face-c806-53d6f54851a6/MADVILLAIN-Four-Tet-Remixes.jpg/600x600bb.jpg"
+  },
+  {
+    "title": "All Caps",
+    "artist": "Madvillain",
+    "categories": ["Rap", "Rap 00s"],
+    "snippet": "/songs/rap/madvillain_all_caps.mp3",
+    "cover": "https://is1-ssl.mzstatic.com/image/thumb/Music124/v4/18/b4/9a/18b49ad5-6407-7169-27f4-d1c8bcb5504b/s05.nqwebndj.jpg/600x600bb.jpg"
+  },
+  {
+    "title": "Fancy Clown",
+    "artist": "Madvillain",
+    "categories": ["Rap", "Rap 00s"],
+    "snippet": "/songs/rap/madvillain_fancy_clown.mp3",
+    "cover": "https://is1-ssl.mzstatic.com/image/thumb/Music124/v4/18/b4/9a/18b49ad5-6407-7169-27f4-d1c8bcb5504b/s05.nqwebndj.jpg/600x600bb.jpg"
+  },
+  {
+    "title": "Meat Grinder",
+    "artist": "Madvillain",
+    "categories": ["Rap", "Rap 00s"],
+    "snippet": "/songs/rap/madvillain_meat_grinder.mp3",
+    "cover": "https://is1-ssl.mzstatic.com/image/thumb/Music124/v4/18/b4/9a/18b49ad5-6407-7169-27f4-d1c8bcb5504b/s05.nqwebndj.jpg/600x600bb.jpg"
+  },
+  {
+    "title": "Doomsday (Remix)",
+    "artist": "MF DOOM",
+    "categories": ["Rap", "Rap 90s"],
+    "snippet": "/songs/rap/mf_doom_doomsday_instrumental.mp3",
+    "cover": "https://is1-ssl.mzstatic.com/image/thumb/Music122/v4/39/99/25/399925ca-1b3d-d4b8-8a77-b9946edb5d20/36768.jpg/600x600bb.jpg"
+  },
+  {
+    "title": "How Much Is The Fish?",
+    "artist": "Scooter",
+    "categories": ["Pop", "Pop 20s"],
+    "snippet": "/songs/pop/scooter_how_much_is_the_fish_live.mp3",
+    "cover": "https://is1-ssl.mzstatic.com/image/thumb/Music116/v4/e5/67/f7/e567f778-d81f-6a4e-204e-c3e951c8b02b/23UMGIM17811.rgb.jpg/600x600bb.jpg"
+  },
+  {
+    "title": "The Logical Song",
+    "artist": "Scooter",
+    "categories": ["Pop", "Pop 00s"],
+    "snippet": "/songs/pop/scooter_the_logical_song.mp3",
+    "cover": "https://is1-ssl.mzstatic.com/image/thumb/Music116/v4/c6/80/e9/c680e924-2afc-8d3d-b9d6-fcbd4208d485/22UM1IM40931.rgb.jpg/600x600bb.jpg"
+  },
+  {
+    "title": "Wind of Change",
+    "artist": "Scorpions",
+    "categories": ["Rock", "Rock 90s"],
+    "snippet": "/songs/rock/scorpions_wind_of_change.mp3",
+    "cover": "https://is1-ssl.mzstatic.com/image/thumb/Music124/v4/65/29/ca/6529cad4-827a-8aa5-ebbc-f9de2ea33af2/00602567825265.rgb.jpg/600x600bb.jpg"
+  },
+  {
+    "title": "Hoppípolla",
+    "artist": "Sigur Rós",
+    "categories": ["Rock", "Rock 00s"],
+    "snippet": "/songs/rock/sigur_ros_hopp_polla.mp3",
+    "cover": "https://is1-ssl.mzstatic.com/image/thumb/Music114/v4/ce/3e/b8/ce3eb805-fb13-0200-5856-081ed0014e13/190296926952.jpg/600x600bb.jpg"
+  },
+  {
+    "title": "Slide",
+    "artist": "The Goo Goo Dolls",
+    "categories": ["Rock", "Rock 90s"],
+    "snippet": "/songs/pop/the_goo_goo_dolls_slide.mp3",
+    "cover": "https://is1-ssl.mzstatic.com/image/thumb/Music115/v4/2c/13/18/2c131801-00af-58b1-3cc2-13abf4ad5416/093624919162.jpg/600x600bb.jpg"
+  },
+  {
+    "title": "Africa",
+    "artist": "Toto",
+    "categories": ["Rock", "Rock 80s"],
+    "snippet": "/songs/rock/toto_africa.mp3",
+    "cover": "https://is1-ssl.mzstatic.com/image/thumb/Music115/v4/69/ce/d2/69ced240-07a7-2a04-bbab-2afbacf30809/074643772822.jpg/600x600bb.jpg"
+  },
+  {
+    "title": "Hold the Line",
+    "artist": "Toto",
+    "categories": ["Rock", "Rock 70s"],
+    "snippet": "/songs/rock/toto_hold_the_line.mp3",
+    "cover": "https://is1-ssl.mzstatic.com/image/thumb/Music125/v4/a1/a9/ea/a1a9eaef-2d81-c2c6-9a03-82c3cbc9e598/074643531726.jpg/600x600bb.jpg"
+  },
+  {
+    "title": "I'll Be Over You",
+    "artist": "Toto",
+    "categories": ["Rock", "Rock 80s"],
+    "snippet": "/songs/rock/toto_i_ll_be_over_you.mp3",
+    "cover": "https://is1-ssl.mzstatic.com/image/thumb/Music114/v4/ed/db/ce/eddbcee0-b314-69ae-39d2-6085ebcfacd5/074644027327.jpg/600x600bb.jpg"
+  },
+  {
+    "title": "Rosanna",
+    "artist": "Toto",
+    "categories": ["Rock", "Rock 80s"],
+    "snippet": "/songs/rock/toto_rosanna.mp3",
+    "cover": "https://is1-ssl.mzstatic.com/image/thumb/Music115/v4/69/ce/d2/69ced240-07a7-2a04-bbab-2afbacf30809/074643772822.jpg/600x600bb.jpg"
+  },
+  {
+    "title": "Ego Death (feat. Kanye West, FKA twigs & Skrillex)",
+    "artist": "Ty Dolla $ign",
+    "categories": ["Pop", "Pop 20s"],
+    "snippet": "/songs/pop/ty_dolla_ign_ego_death_feat_kanye_west_fka_twigs_skrillex_mixed.mp3",
+    "cover": "https://is1-ssl.mzstatic.com/image/thumb/Features114/v4/e4/45/63/e44563b3-6249-0b7e-9ac1-8fed09bbc0f2/mza_3566257710044520189.png/600x600bb.jpg"
   }
 ]
 
