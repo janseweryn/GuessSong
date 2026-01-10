@@ -368,6 +368,32 @@ const manualDaily = {
       dailyCategory: "Rap", 
     },
   ],
+  "2026-01-11": [
+    {
+      title: "Locked Out of Heaven",
+      artist: "Bruno Mars",
+      cover: "https://is1-ssl.mzstatic.com/image/thumb/Music115/v4/e0/a4/7c/e0a47c6f-005a-9f9f-ce29-8e858e2bcfcb/075679957283.jpg/600x600bb.jpg",
+      snippet: "/songs/pop/bruno_mars_locked_out_of_heaven.mp3",
+      categories: ["pop"],
+      dailyCategory: "Pop",
+    },
+    {
+      title: "Child In Time",
+      artist: "Deep Purple",
+      cover: "https://is1-ssl.mzstatic.com/image/thumb/Music/70/0e/2f/mzi.gdbiuzww.jpg/600x600bb.jpg",
+      snippet: "/songs/rock/deep_purple_child_in_time_live.mp3",
+      categories: ["rock"],
+      dailyCategory: "Rock",
+    },
+    {
+      title: "Rolex",
+      artist: "Ayo & Teo",
+      cover: "https://is1-ssl.mzstatic.com/image/thumb/Music115/v4/04/57/2b/04572be8-c471-9f50-4a20-a8f4b10a80dc/886446429465.jpg/600x600bb.jpg",
+      snippet: "/songs/rap/ayo_teo_rolex.mp3",
+      categories: ["rap"],
+      dailyCategory: "Rap",
+    },
+  ],
 };
 
 const LEVELS = [
