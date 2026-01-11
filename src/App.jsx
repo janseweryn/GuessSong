@@ -394,6 +394,32 @@ const manualDaily = {
       dailyCategory: "Rap",
     },
   ],
+   "2026-01-12": [
+    {
+      title: "Like a G6",
+      artist: "Far East Movement, The Cataracs & Dev",
+      cover: "https://is1-ssl.mzstatic.com/image/thumb/Music122/v4/5f/69/26/5f6926ea-5a7f-17d9-25ce-dbcddfbc14d8/10UMGIM25431.rgb.jpg/600x600bb.jpg",
+      snippet: "/songs/pop/far_east_movement_the_cataracs_dev_like_a_g6.mp3",
+      categories: ["pop"],
+      dailyCategory: "Pop",
+    },
+    {
+      title: "In the Shadows",
+      artist: "The Rasmus",
+      cover: "https://is1-ssl.mzstatic.com/image/thumb/Music113/v4/46/f0/9d/46f09d24-2f25-876c-af34-8fa3e22827bf/cover.jpg/600x600bb.jpg",
+      snippet: "/songs/pop/the_rasmus_lost_frequencies_in_the_shadows_lost_frequencies_remake.mp3",
+      categories: ["rock"],
+      dailyCategory: "Rock",
+    },
+    {
+      title: "Feather (feat. Cise Starr & Akin)",
+      artist: "Nujabes",
+      cover: "https://is1-ssl.mzstatic.com/image/thumb/Music125/v4/ad/18/6b/ad186b39-cd19-fa4d-abe0-bf6860cd8d9d/POCS-30003_jkt.jpg/600x600bb.jpg",
+      snippet: "/songs/rap/nujabes_feather_feat_cise_starr_akin.mp3",
+      categories: ["rap"],
+      dailyCategory: "Rap",
+    },
+  ],
 };
 
 const LEVELS = [

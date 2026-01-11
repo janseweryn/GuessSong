@@ -1872,7 +1872,7 @@
     "title": "Earned It",
     "artist": "The Weeknd",
     "categories": ["Pop", "Pop 10s"],
-    "snippet": "/songs/pop/cant_face.mp3",
+    "snippet": "/songs/pop/earned_it.mp3",
     "cover": "/songs/covers/beauty.jpg"
   },
   {
@@ -7890,13 +7890,6 @@
     "cover": "https://is1-ssl.mzstatic.com/image/thumb/Music126/v4/d1/90/11/d1901153-4595-7f2f-12d2-661be9eef883/012414149022.jpg/600x600bb.jpg"
   },
   {
-    "title": "Love Me (feat. Drake & Future)",
-    "artist": "Lil Wayne",
-    "categories": ["Rap", "Rap 10s"],
-    "snippet": "/songs/rap/lil_wayne_love_me_feat_drake_future.mp3",
-    "cover": "https://is1-ssl.mzstatic.com/image/thumb/Music126/v4/ee/a9/57/eea95772-8133-9dfc-0dbb-4c0b0382520d/13UMGIM25909.rgb.jpg/600x600bb.jpg"
-  },
-  {
     "title": "Low Life (feat. The Weeknd)",
     "artist": "Future",
     "categories": ["Rap", "Rap 10s"],
@@ -8056,6 +8049,412 @@
     "categories": ["Pop", "Pop 20s"],
     "snippet": "/songs/pop/ty_dolla_ign_ego_death_feat_kanye_west_fka_twigs_skrillex_mixed.mp3",
     "cover": "https://is1-ssl.mzstatic.com/image/thumb/Features114/v4/e4/45/63/e44563b3-6249-0b7e-9ac1-8fed09bbc0f2/mza_3566257710044520189.png/600x600bb.jpg"
+  },
+  {
+    "title": "Square Hammer",
+    "artist": "Ghost",
+    "categories": ["Rock", "Rock 10s"],
+    "snippet": "/songs/rock/ghost_square_hammer.mp3",
+    "cover": "https://is1-ssl.mzstatic.com/image/thumb/Music126/v4/31/93/20/3193201e-be55-6fc4-2d1a-e937bdf46633/16CRGIM00731.rgb.jpg/600x600bb.jpg"
+  },
+  {
+    "title": "Hand in My Pocket",
+    "artist": "Alanis Morissette",
+    "categories": ["Pop", "Pop 90s","Rock", "Rock 90s"],
+    "snippet": "/songs/pop/alanis_morissette_hand_in_my_pocket_acoustic_version.mp3",
+    "cover": "https://is1-ssl.mzstatic.com/image/thumb/Music22/v4/91/8b/72/918b72f8-b9f3-d7b4-75b9-e8400b7a2bbe/mzm.wpmxeayz.jpg/600x600bb.jpg"
+  },
+  {
+    "title": "Ironic",
+    "artist": "Alanis Morissette",
+    "categories": ["Rock", "Rock 90s","Pop", "Pop 90s"],
+    "snippet": "/songs/rock/alanis_morissette_ironic.mp3",
+    "cover": "https://is1-ssl.mzstatic.com/image/thumb/Features124/v4/5f/3b/ca/5f3bca60-024c-d4aa-d638-6d58e7e81461/mza_1406686761081396977.jpg/600x600bb.jpg"
+  },
+  {
+    "title": "Thank You",
+    "artist": "Alanis Morissette",
+    "categories": ["Rock", "Rock 90s","Pop", "Pop 90s"],
+    "snippet": "/songs/rock/alanis_morissette_thank_you.mp3",
+    "cover": "https://is1-ssl.mzstatic.com/image/thumb/Music6/v4/56/f2/63/56f26326-3101-c38c-343e-19c9ae67ef4e/603497885060.jpg/600x600bb.jpg"
+  },
+  {
+    "title": "Alone",
+    "artist": "Heart",
+    "categories": ["Rock", "Rock 80s"],
+    "snippet": "/songs/rock/heart_alone.mp3",
+    "cover": "https://is1-ssl.mzstatic.com/image/thumb/Music125/v4/2b/d4/d5/2bd4d595-6839-5d35-a601-a74045f1f7b1/00724352680351.rgb.jpg/600x600bb.jpg"
+  },
+  {
+    "title": "My Head & My Heart",
+    "artist": "Ava Max",
+    "categories": ["Pop", "Pop 20s"],
+    "snippet": "/songs/pop/ava_max_my_head_my_heart.mp3",
+    "cover": "https://is1-ssl.mzstatic.com/image/thumb/Music125/v4/94/74/1e/94741ee9-bb3c-4c9f-da27-e04d9878faae/075679797032.jpg/600x600bb.jpg"
+  },
+  {
+    "title": "Sweet but Psycho",
+    "artist": "Ava Max",
+    "categories": ["Pop", "Pop 10s"],
+    "snippet": "/songs/pop/ava_max_sweet_but_psycho.mp3",
+    "cover": "https://is1-ssl.mzstatic.com/image/thumb/Music125/v4/94/74/1e/94741ee9-bb3c-4c9f-da27-e04d9878faae/075679797032.jpg/600x600bb.jpg"
+  },
+  {
+    "title": "Glue Song (feat. Clairo)",
+    "artist": "beabadoobee",
+    "categories": ["Pop", "Pop 20s"],
+    "snippet": "/songs/rock/beabadoobee_glue_song_feat_clairo.mp3",
+    "cover": "https://is1-ssl.mzstatic.com/image/thumb/Music126/v4/84/07/1d/84071d8e-2877-6068-9025-db2ee93c83c7/196922429125_Cover.jpg/600x600bb.jpg"
+  },
+  {
+    "title": "Real Man",
+    "artist": "beabadoobee",
+    "categories": ["Pop", "Pop 20s"],
+    "snippet": "/songs/rock/beabadoobee_real_man.mp3",
+    "cover": "https://is1-ssl.mzstatic.com/image/thumb/Music221/v4/78/fa/f7/78faf7a9-97c0-5aa7-df1e-547da9703178/196922946356_Cover.jpg/600x600bb.jpg"
+  },
+  {
+    "title": "The Perfect Pair",
+    "artist": "beabadoobee",
+    "categories": ["Pop", "Pop 20s"],
+    "snippet": "/songs/rock/beabadoobee_the_perfect_pair.mp3",
+    "cover": "https://is1-ssl.mzstatic.com/image/thumb/Music116/v4/39/cb/28/39cb28c2-f48d-5e69-1469-592a7ac1dd11/192641938047_Cover.jpg/600x600bb.jpg"
+  },
+  {
+    "title": "The Perfect Pair",
+    "artist": "beabadoobee",
+    "categories": ["Pop", "Pop 20s"],
+    "snippet": "/songs/rock/beabadoobee_the_perfect_pair.mp3",
+    "cover": "https://is1-ssl.mzstatic.com/image/thumb/Music116/v4/39/cb/28/39cb28c2-f48d-5e69-1469-592a7ac1dd11/192641938047_Cover.jpg/600x600bb.jpg"
+  },
+  {
+    "title": "Call Me",
+    "artist": "Blondie",
+    "categories": ["Pop", "Pop 80s"],
+    "snippet": "/songs/pop/blondie_call_me.mp3",
+    "cover": "https://is1-ssl.mzstatic.com/image/thumb/Music112/v4/72/73/8f/72738f62-d8a1-f1f9-e84d-244ff697d1db/13UABIM56926.rgb.jpg/600x600bb.jpg"
+  },
+  {
+    "title": "Heart of Glass",
+    "artist": "Blondie",
+    "categories": ["Pop", "Pop 70s"],
+    "snippet": "/songs/pop/blondie_heart_of_glass.mp3",
+    "cover": "https://is1-ssl.mzstatic.com/image/thumb/Music115/v4/2f/0b/25/2f0b252d-838e-4f19-3c08-91e49b269564/15UMGIM18445.rgb.jpg/600x600bb.jpg"
+  },
+  {
+    "title": "Tubthumping",
+    "artist": "Chumbawamba",
+    "categories": ["Rock", "Rock 90s"],
+    "snippet": "/songs/rock/chumbawamba_tubthumping.mp3",
+    "cover": "https://is1-ssl.mzstatic.com/image/thumb/Music125/v4/e0/a1/ef/e0a1ef4a-6aa6-f614-6351-05a348fd4b56/13UABIM57031.rgb.jpg/600x600bb.jpg"
+  },
+  {
+    "title": "Chains & Whips",
+    "artist": "Clipse, Kendrick Lamar, Pusha T & Malice",
+    "categories": ["Rap", "Rap 20s"],
+    "snippet": "/songs/rap/clipse_kendrick_lamar_pusha_t_malice_chains_whips.mp3",
+    "cover": "https://is1-ssl.mzstatic.com/image/thumb/Music211/v4/3b/a4/97/3ba497f7-a590-6e1a-01ae-7f34169018ed/1625.jpg/600x600bb.jpg"
+  },
+  {
+    "title": "So Be It",
+    "artist": "Clipse, Pusha T & Malice",
+    "categories": ["Rap", "Rap 20s"],
+    "snippet": "/songs/rap/clipse_pusha_t_malice_so_be_it.mp3",
+    "cover": "https://is1-ssl.mzstatic.com/image/thumb/Music211/v4/3b/a4/97/3ba497f7-a590-6e1a-01ae-7f34169018ed/1625.jpg/600x600bb.jpg"
+  },
+  {
+    "title": "Mary On A Cross",
+    "artist": "Ghost",
+    "categories": ["Rock", "Rock 10s"],
+    "snippet": "/songs/rock/ghost_mary_on_a_cross.mp3",
+    "cover": "https://is1-ssl.mzstatic.com/image/thumb/Music211/v4/20/72/d3/2072d3b2-238c-1ac2-1f6f-21f683fdc41b/24CRGIM45902.rgb.jpg/600x600bb.jpg"
+  },
+  {
+    "title": "Silvera",
+    "artist": "GOJIRA",
+    "categories": ["Rock", "Rock 10s"],
+    "snippet": "/songs/rock/gojira_silvera.mp3",
+    "cover": "https://is1-ssl.mzstatic.com/image/thumb/Music125/v4/24/cd/f7/24cdf7d0-279d-316e-a39c-51c35e2cce32/016861747947.jpg/600x600bb.jpg"
+  },
+  {
+    "title": "Stranded",
+    "artist": "GOJIRA",
+    "categories": ["Rock", "Rock 10s"],
+    "snippet": "/songs/rock/gojira_stranded.mp3",
+    "cover": "https://is1-ssl.mzstatic.com/image/thumb/Music125/v4/24/cd/f7/24cdf7d0-279d-316e-a39c-51c35e2cce32/016861747947.jpg/600x600bb.jpg"
+  },
+  {
+    "title": "All I Wanna Do Is Make Love to You",
+    "artist": "Heart",
+    "categories": ["Rock", "Rock 00s"],
+    "snippet": "/songs/rock/heart_all_i_wanna_do_is_make_love_to_you.mp3",
+    "cover": "https://is1-ssl.mzstatic.com/image/thumb/Music125/v4/2b/d4/d5/2bd4d595-6839-5d35-a601-a74045f1f7b1/00724352680351.rgb.jpg/600x600bb.jpg"
+  },
+  {
+    "title": "Barracuda",
+    "artist": "Heart",
+    "categories": ["Rock", "Rock 70s"],
+    "snippet": "/songs/rock/heart_barracuda.mp3",
+    "cover": "https://is1-ssl.mzstatic.com/image/thumb/Music115/v4/1b/83/f2/1b83f233-20c6-c876-ab7a-15757ad397b1/074643479929.jpg/600x600bb.jpg"
+  },
+  {
+    "title": "Crazy On You",
+    "artist": "Heart",
+    "categories": ["Rock", "Rock 70s"],
+    "snippet": "/songs/rock/heart_crazy_on_you.mp3",
+    "cover": "https://is1-ssl.mzstatic.com/image/thumb/Music122/v4/6b/eb/a8/6beba879-07ae-a03f-c1bc-091ca7064842/13UMGIM47968.rgb.jpg/600x600bb.jpg"
+  },
+  {
+    "title": "Hella Good",
+    "artist": "No Doubt",
+    "categories": ["Pop", "Pop 00s"],
+    "snippet": "/songs/pop/no_doubt_hella_good.mp3",
+    "cover": "https://is1-ssl.mzstatic.com/image/thumb/Music125/v4/f6/00/f0/f600f082-8baf-5142-c484-f87af34c50a0/00602547870612.rgb.jpg/600x600bb.jpg"
+  },
+  {
+    "title": "The Imperial March (Darth Vader's Theme)",
+    "artist": "John Williams & London Symphony Orchestra",
+    "categories": ["Pop", "Pop 80s"],
+    "snippet": "/songs/pop/john_williams_london_symphony_orchestra_the_imperial_march_darth_vader_s_theme.mp3",
+    "cover": "https://is1-ssl.mzstatic.com/image/thumb/Music116/v4/0a/5d/af/0a5daf0f-34f0-6413-9b8c-fe668663b3dd/18UMGIM22122.rgb.jpg/600x600bb.jpg"
+  },
+  {
+    "title": "Bonfire",
+    "artist": "Knife Party",
+    "categories": ["Pop", "Pop 10s"],
+    "snippet": "/songs/pop/knife_party_bonfire.mp3",
+    "cover": "https://is1-ssl.mzstatic.com/image/thumb/Music124/v4/ea/22/f8/ea22f863-d024-9704-dd04-b4c2b805bb72/825646581917.jpg/600x600bb.jpg"
+  },
+  {
+    "title": "God Knows",
+    "artist": "Knocked Loose",
+    "categories": ["Rock", "Rock 20s"],
+    "snippet": "/songs/rock/knocked_loose_god_knows.mp3",
+    "cover": "https://is1-ssl.mzstatic.com/image/thumb/Music221/v4/f3/53/26/f3532649-7acf-bcdd-f50f-ccedbc56d4c3/196292445855.png/600x600bb.jpg"
+  },
+  {
+    "title": "bloody valentine",
+    "artist": "mgk",
+    "categories": ["Pop", "Pop 20s"],
+    "snippet": "/songs/rock/mgk_bloody_valentine.mp3",
+    "cover": "https://is1-ssl.mzstatic.com/image/thumb/Music125/v4/13/ad/4b/13ad4b19-7549-ed7b-287b-d17972993593/20UMGIM28386.rgb.jpg/600x600bb.jpg"
+  },
+  {
+    "title": "my ex's best friend",
+    "artist": "mgk & blackbear",
+    "categories": ["Pop", "Pop 20s","Rap", "Rap 20s"],
+    "snippet": "/songs/rock/mgk_blackbear_my_ex_s_best_friend.mp3",
+    "cover": "https://is1-ssl.mzstatic.com/image/thumb/Music124/v4/36/05/c3/3605c3be-9d24-613b-3839-bf1b53670acf/20UMGIM66016.rgb.jpg/600x600bb.jpg"
+  },
+  {
+    "title": "Bad Things",
+    "artist": "mgk & Camila Cabello",
+    "categories": ["Rap", "Rap 10s","Pop", "Pop 10s"],
+    "snippet": "/songs/rap/mgk_camila_cabello_bad_things.mp3",
+    "cover": "https://is1-ssl.mzstatic.com/image/thumb/Music116/v4/c1/0c/aa/c10caa4a-262c-ab72-4ab2-10f93545590f/17UMGIM89198.rgb.jpg/600x600bb.jpg"
+  },
+  {
+    "title": "I Think I'm OKAY",
+    "artist": "mgk, YUNGBLUD & Travis Barker",
+    "categories": ["Pop", "Pop 10s","Rap", "Rap 10s"],
+    "snippet": "/songs/rock/mgk_yungblud_travis_barker_i_think_i_m_okay.mp3",
+    "cover": "https://is1-ssl.mzstatic.com/image/thumb/Music112/v4/89/98/0a/89980ac2-c0dd-905c-6a06-0deab590487d/19UMGIM49136.rgb.jpg/600x600bb.jpg"
+  },
+  {
+    "title": "Do not touch",
+    "artist": "MISAMO",
+    "categories": ["Pop", "Pop 20s"],
+    "snippet": "/songs/pop/misamo_do_not_touch.mp3",
+    "cover": "https://is1-ssl.mzstatic.com/image/thumb/Music126/v4/0d/2e/8c/0d2e8c6e-49a6-25e7-f72c-3b2e3d7a96e5/5054197717185.jpg/600x600bb.jpg"
+  },
+  {
+    "title": "Money In My Pocket (MOMO)",
+    "artist": "MISAMO",
+    "categories": ["Pop", "Pop 20s","Rap","Rap 20s"],
+    "snippet": "/songs/pop/dennis_brown_money_in_my_pocket.mp3",
+    "cover": "a"
+  },
+  {
+    "title": "Ace of Spades",
+    "artist": "Motörhead",
+    "categories": ["Rock", "Rock 80s"],
+    "snippet": "/songs/rock/mot_rhead_ace_of_spades.mp3",
+    "cover": "https://is1-ssl.mzstatic.com/image/thumb/Music122/v4/4a/f9/88/4af988c8-5a08-72e1-a97f-7b8d2010cc40/5414939548673.jpg/600x600bb.jpg"
+  },
+  {
+    "title": "Don't Speak",
+    "artist": "No Doubt",
+    "categories": ["Pop", "Pop 90s"],
+    "snippet": "/songs/pop/no_doubt_don_t_speak.mp3",
+    "cover": "https://is1-ssl.mzstatic.com/image/thumb/Music115/v4/fe/0a/68/fe0a687a-537e-e902-0778-90465c118f77/00602547870575.rgb.jpg/600x600bb.jpg"
+  },
+  {
+    "title": "Just a Girl",
+    "artist": "No Doubt",
+    "categories": ["Pop", "Pop 90s"],
+    "snippet": "/songs/pop/no_doubt_just_a_girl.mp3",
+    "cover": "https://is1-ssl.mzstatic.com/image/thumb/Music115/v4/fe/0a/68/fe0a687a-537e-e902-0778-90465c118f77/00602547870575.rgb.jpg/600x600bb.jpg"
+  },
+  {
+    "title": "all-american bitch",
+    "artist": "Olivia Rodrigo",
+    "categories": ["Pop", "Pop 20s","Rock","Rock 20s"],
+    "snippet": "/songs/pop/olivia_rodrigo_all_american_bitch.mp3",
+    "cover": "https://is1-ssl.mzstatic.com/image/thumb/Music116/v4/9e/0d/17/9e0d17e0-c068-fbd9-fd85-610cc87c86aa/23UMGIM71511.rgb.jpg/600x600bb.jpg"
+  },
+  {
+    "title": "ballad of a homeschooled girl",
+    "artist": "Olivia Rodrigo",
+    "categories": ["Pop", "Pop 20s","Rock","Rock 20s"],
+    "snippet": "/songs/pop/olivia_rodrigo_ballad_of_a_homeschooled_girl.mp3",
+    "cover": "https://is1-ssl.mzstatic.com/image/thumb/Music126/v4/9b/d8/9c/9bd89c9e-b44d-ad25-1516-b9b30f64fd2a/23UMGIM71510.rgb.jpg/600x600bb.jpg"
+  },
+  {
+    "title": "so american",
+    "artist": "Olivia Rodrigo",
+    "categories": ["Pop", "Pop 20s","Rock","Rock 20s"],
+    "snippet": "/songs/pop/olivia_rodrigo_so_american.mp3",
+    "cover": "https://is1-ssl.mzstatic.com/image/thumb/Music221/v4/08/9e/07/089e0799-b405-9e69-b648-e6a19df9879c/24UMGIM30485.rgb.jpg/600x600bb.jpg"
+  },
+  {
+    "title": "Glory Box",
+    "artist": "Portishead",
+    "categories": ["ROck", "Rock 90s"],
+    "snippet": "/songs/pop/portishead_glory_box.mp3",
+    "cover": "https://is1-ssl.mzstatic.com/image/thumb/Music115/v4/c1/71/93/c1719342-df7d-e9c5-c87c-53dae5afb289/00042282855329.rgb.jpg/600x600bb.jpg"
+  },
+  {
+    "title": "Roads",
+    "artist": "Portishead",
+    "categories": ["Rock", "Rock 90s"],
+    "snippet": "/songs/pop/portishead_roads.mp3",
+    "cover": "https://is1-ssl.mzstatic.com/image/thumb/Music115/v4/c1/71/93/c1719342-df7d-e9c5-c87c-53dae5afb289/00042282855329.rgb.jpg/600x600bb.jpg"
+  },
+  {
+    "title": "Sour Times",
+    "artist": "Portishead",
+    "categories": ["Rock", "Rock 90s"],
+    "snippet": "/songs/pop/portishead_sour_times.mp3",
+    "cover": "https://is1-ssl.mzstatic.com/image/thumb/Music115/v4/c1/71/93/c1719342-df7d-e9c5-c87c-53dae5afb289/00042282855329.rgb.jpg/600x600bb.jpg"
+  },
+  {
+    "title": "death bed (feat. beabadoobee) [coffee for your head]",
+    "artist": "Powfu",
+    "categories": ["Rap", "Rap 20s","Pop","Pop 20s"],
+    "snippet": "/songs/rap/powfu_death_bed_feat_beabadoobee_coffee_for_your_head.mp3",
+    "cover": "https://is1-ssl.mzstatic.com/image/thumb/Music125/v4/8b/a9/36/8ba936f3-2d8b-1012-89cc-92f75eb76961/886448289180.jpg/600x600bb.jpg"
+  },
+  {
+    "title": "Rock You Like a Hurricane",
+    "artist": "Scorpions",
+    "categories": ["Rock", "Rock 80s"],
+    "snippet": "/songs/rock/scorpions_rock_you_like_a_hurricane.mp3",
+    "cover": "https://is1-ssl.mzstatic.com/image/thumb/Music115/v4/19/6a/ff/196aff71-fbb8-22f3-ac2c-c12eaf9fb3b1/00602567826019.rgb.jpg/600x600bb.jpg"
+  },
+  {
+    "title": "No One Like You",
+    "artist": "Scorpions",
+    "categories": ["Rock", "Rock 80s"],
+    "snippet": "/songs/rock/scorpions_no_one_like_you.mp3",
+    "cover": "https://is1-ssl.mzstatic.com/image/thumb/Music124/v4/8d/a4/f9/8da4f95f-4162-9d31-7131-fe49337a1689/00731453478626.rgb.jpg/600x600bb.jpg"
+  },
+  {
+    "title": "Send Me an Angel",
+    "artist": "Scorpions",
+    "categories": ["Rock", "Rock 90s"],
+    "snippet": "/songs/rock/scorpions_send_me_an_angel.mp3",
+    "cover": "https://is1-ssl.mzstatic.com/image/thumb/Music125/v4/ba/31/55/ba3155b3-4c11-909c-1e32-8acea6f77ac4/00042284690829.rgb.jpg/600x600bb.jpg"
+  },
+  {
+    "title": "Still Loving You",
+    "artist": "Scorpions",
+    "categories": ["Rock", "Rock 80s"],
+    "snippet": "/songs/rock/scorpions_still_loving_you_single_version.mp3",
+    "cover": "https://is1-ssl.mzstatic.com/image/thumb/Music118/v4/eb/f5/33/ebf533d5-6da4-8ff6-fcaa-cbd93967c275/00602567830528.rgb.jpg/600x600bb.jpg"
+  },
+  {
+    "title": "Raining Blood",
+    "artist": "Slayer",
+    "categories": ["Rock", "Rock 80s"],
+    "snippet": "/songs/rock/slayer_raining_blood.mp3",
+    "cover": "https://is1-ssl.mzstatic.com/image/thumb/Music112/v4/6b/83/2c/6b832cb7-7234-0fb7-3930-38d9c385dc9a/23UM1IM55794.rgb.jpg/600x600bb.jpg"
+  },
+  {
+    "title": "Mystery of Love",
+    "artist": "Sufjan Stevens",
+    "categories": ["Rock", "Rock 00s"],
+    "snippet": "/songs/pop/sufjan_stevens_mystery_of_love.mp3",
+    "cover": "https://is1-ssl.mzstatic.com/image/thumb/Music211/v4/db/7b/8e/db7b8e26-c198-903e-671e-e6b56859db5b/43396499461.jpg/600x600bb.jpg"
+  },
+  {
+    "title": "Burning Down the House",
+    "artist": "Talking Heads",
+    "categories": ["Rock", "Rock 80s"],
+    "snippet": "/songs/rock/talking_heads_burning_down_the_house.mp3",
+    "cover": "https://is1-ssl.mzstatic.com/image/thumb/Music/y2004/m08/d17/h21/s06.xwrnkppg.jpg/600x600bb.jpg"
+  },
+  {
+    "title": "Once In a Lifetime",
+    "artist": "Talking Heads",
+    "categories": ["Rock", "Rock 80s"],
+    "snippet": "/songs/rock/talking_heads_once_in_a_lifetime.mp3",
+    "cover": "https://is1-ssl.mzstatic.com/image/thumb/Music125/v4/48/9c/21/489c217b-d228-59a3-296d-6fa1d90776b7/dj.bpkztuma.jpg/600x600bb.jpg"
+  },
+  {
+    "title": "Psycho Killer",
+    "artist": "Talking Heads",
+    "categories": ["Rock", "Rock 70s"],
+    "snippet": "/songs/rock/talking_heads_psycho_killer.mp3",
+    "cover": "https://is1-ssl.mzstatic.com/image/thumb/Music/y2004/m08/d17/h21/s06.xwrnkppg.jpg/600x600bb.jpg"
+  },
+  {
+    "title": "This Must Be the Place (Naive Melody)",
+    "artist": "Talking Heads",
+    "categories": ["Rock", "Rock 80s"],
+    "snippet": "/songs/rock/talking_heads_this_must_be_the_place_naive_melody.mp3",
+    "cover": "https://is1-ssl.mzstatic.com/image/thumb/Music/y2004/m08/d17/h21/s06.xwrnkppg.jpg/600x600bb.jpg"
+  },
+  {
+    "title": "In the Shadows",
+    "artist": "The Rasmus",
+    "categories": ["Rock", "Rock 00s"],
+    "snippet": "/songs/pop/the_rasmus_lost_frequencies_in_the_shadows_lost_frequencies_remake.mp3",
+    "cover": "https://is1-ssl.mzstatic.com/image/thumb/Music113/v4/46/f0/9d/46f09d24-2f25-876c-af34-8fa3e22827bf/cover.jpg/600x600bb.jpg"
+  },
+  {
+    "title": "Ain't Talkin' 'Bout Love",
+    "artist": "Van Halen",
+    "categories": ["Rock", "Rock 70s"],
+    "snippet": "/songs/rock/van_halen_ain_t_talkin_bout_love.mp3",
+    "cover": "https://is1-ssl.mzstatic.com/image/thumb/Music125/v4/7a/ef/88/7aef88ad-25aa-be91-eb78-8917c3f114f7/603497894130.jpg/600x600bb.jpg"
+  },
+  {
+    "title": "Jump",
+    "artist": "Van Halen",
+    "categories": ["Rock", "Rock 80s"],
+    "snippet": "/songs/rock/van_halen_jump.mp3",
+    "cover": "https://is1-ssl.mzstatic.com/image/thumb/Music125/v4/79/98/f7/7998f761-20e0-aa8e-4fb2-190062af1638/603497894161.jpg/600x600bb.jpg"
+  },
+  {
+    "title": "Panama",
+    "artist": "Van Halen",
+    "categories": ["Rock", "Rock 80s"],
+    "snippet": "/songs/rock/van_halen_panama.mp3",
+    "cover": "https://is1-ssl.mzstatic.com/image/thumb/Music125/v4/79/98/f7/7998f761-20e0-aa8e-4fb2-190062af1638/603497894161.jpg/600x600bb.jpg"
+  },
+  {
+    "title": "Runnin' with the Devil",
+    "artist": "Van Halen",
+    "categories": ["Rock", "Rock 70s"],
+    "snippet": "/songs/rock/van_halen_runnin_with_the_devil.mp3",
+    "cover": "https://is1-ssl.mzstatic.com/image/thumb/Music125/v4/7a/ef/88/7aef88ad-25aa-be91-eb78-8917c3f114f7/603497894130.jpg/600x600bb.jpg"
+  },
+  {
+    "title": "You Really Got Me",
+    "artist": "Van Halen",
+    "categories": ["Rock", "Rock 70s"],
+    "snippet": "/songs/rock/van_halen_you_really_got_me.mp3",
+    "cover": "https://is1-ssl.mzstatic.com/image/thumb/Music125/v4/7a/ef/88/7aef88ad-25aa-be91-eb78-8917c3f114f7/603497894130.jpg/600x600bb.jpg"
   }
 ]
 
