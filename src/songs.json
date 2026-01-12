@@ -3913,7 +3913,7 @@
     "cover": "/songs/covers/speak.jpg"
   },
    {
-   "title": "Personal Jessu",
+   "title": "Personal Jesus",
     "artist": "Depeche Mode",  
     "categories": ["Rock", "Rock 80s"],
     "snippet": "/songs/rock/personal_jesus.mp3",
@@ -5534,7 +5534,7 @@
     "title": "One",
     "artist": "Swedish House Mafia",
     "categories": ["Pop", "Pop 10s"],
-    "snippet": "/songs/rock/swedish_one.mp3",
+    "snippet": "/songs/pop/swedish_one.mp3",
     "cover": "/songs/covers/one.jpg"
   },
   {
@@ -7332,7 +7332,7 @@
   {
     "title": "Changes",
     "artist": "2Pac",
-    "categories": ["Rock", "Rock 70s"],
+    "categories": ["Rap", "Rap 70s"],
     "snippet": "/songs/rock/black_sabbath_changes.mp3",
     "cover": "/songs/covers/changes.jpg"
   },

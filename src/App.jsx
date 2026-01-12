@@ -420,6 +420,32 @@ const manualDaily = {
       dailyCategory: "Rap",
     },
   ],
+  "2026-01-13": [
+    {
+      title: "The One That Got Away",
+      artist: "Katy Perry",
+      cover: "/songs/covers/teenagedream.jpg",
+      snippet: "/songs/pop/the_one_that.mp3",
+      categories: ["pop"],
+      dailyCategory: "Pop",
+    },
+    {
+      title: "Call Me",
+      artist: "Blondie",
+      cover: "https://is1-ssl.mzstatic.com/image/thumb/Music112/v4/72/73/8f/72738f62-d8a1-f1f9-e84d-244ff697d1db/13UABIM56926.rgb.jpg/600x600bb.jpg",
+      snippet: "/songs/pop/blondie_call_me.mp3",
+      categories: ["rock"],
+      dailyCategory: "Rock",
+    },
+    {
+      title: "Hit 'Em Up",
+      artist: "2Pac",
+      cover: "https://is1-ssl.mzstatic.com/image/thumb/Music124/v4/72/00/89/720089d8-c063-a323-e0cc-de921e50b968/00602527051789.rgb.jpg/600x600bb.jpg",
+      snippet: "/songs/rap/2pac_hit_em_up.mp3",
+      categories: ["rap"],
+      dailyCategory: "Rap",
+    },
+  ],
 };
 
 const LEVELS = [
