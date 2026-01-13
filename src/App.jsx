@@ -446,6 +446,32 @@ const manualDaily = {
       dailyCategory: "Rap",
     },
   ],
+  "2026-01-14": [
+    {
+      title: "The A Team",
+      artist: "Ed Sheeran",
+      cover: "https://is1-ssl.mzstatic.com/image/thumb/Features115/v4/65/fb/84/65fb8432-f539-d67d-0670-b1358d16e5af/contsched.zkbwdtfj.jpg/600x600bb.jpg",
+      snippet: "/songs/pop/ed_sheeran_the_a_team.mp3",
+      categories: ["pop"],
+      dailyCategory: "Pop",
+    },
+    {
+      title: "Lady Writer",
+      artist: "Dire Straits",
+      cover: "https://is1-ssl.mzstatic.com/image/thumb/Music124/v4/cc/bb/a0/ccbba061-8408-8735-8ef3-c2e62b474af5/dj.ohdjbqez.jpg/600x600bb.jpg",
+      snippet: "/songs/pop/dire_straits_lady_writer.mp3",
+      categories: ["rock"],
+      dailyCategory: "Rock",
+    },
+    {
+      title: "Remember the Name (feat. Styles of Beyond)",
+      artist: "Fort Minor",
+      cover: "https://is1-ssl.mzstatic.com/image/thumb/Music124/v4/ab/03/ab/ab03ab77-c4f1-d740-8561-3cb3042b61c4/093624906988.jpg/600x600bb.jpg",
+      snippet: "/songs/rap/fort_minor_remember_the_name_feat_styles_of_beyond.mp3",
+      categories: ["rap"],
+      dailyCategory: "Rap",
+    },
+  ],
 };
 
 const LEVELS = [

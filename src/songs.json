@@ -6483,13 +6483,6 @@
     "cover": "https://is1-ssl.mzstatic.com/image/thumb/Music115/v4/e8/bd/54/e8bd54fd-6595-4ebf-aa4c-58139ed316e6/dj.bngafruf.jpg/600x600bb.jpg"
   },
   {
-    "title": "Secreto",
-    "artist": "Anuel AA & KAROL G",
-    "categories": ["Pop", "Pop 10s"],
-    "snippet": "/songs/pop/anuel_aa_karol_g_secreto.mp3",
-    "cover": "https://is1-ssl.mzstatic.com/image/thumb/Music122/v4/a9/6e/a1/a96ea159-3668-6fe4-91ce-58b7e8a6ec0c/19UMGIM01999.rgb.jpg/600x600bb.jpg"
-  },
-  {
     "title": "Sail",
     "artist": "AWOLNATION",
     "categories": ["Pop", "Pop 10s"],
@@ -8455,6 +8448,377 @@
     "categories": ["Rock", "Rock 70s"],
     "snippet": "/songs/rock/van_halen_you_really_got_me.mp3",
     "cover": "https://is1-ssl.mzstatic.com/image/thumb/Music125/v4/7a/ef/88/7aef88ad-25aa-be91-eb78-8917c3f114f7/603497894130.jpg/600x600bb.jpg"
+  },
+  {
+    "title": "Remember the Name (feat. Styles of Beyond)",
+    "artist": "Fort Minor",
+    "categories": ["Rap", "Rap 00s"],
+    "snippet": "/songs/rap/fort_minor_remember_the_name_feat_styles_of_beyond.mp3",
+    "cover": "https://is1-ssl.mzstatic.com/image/thumb/Music124/v4/ab/03/ab/ab03ab77-c4f1-d740-8561-3cb3042b61c4/093624906988.jpg/600x600bb.jpg"
+  },
+  {
+    "title": "Dear Mama",
+    "artist": "2Pac",
+    "categories": ["Rap", "Rap 90s"],
+    "snippet": "/songs/rap/2pac_dear_mama.mp3",
+    "cover": "https://is1-ssl.mzstatic.com/image/thumb/Music124/v4/72/00/89/720089d8-c063-a323-e0cc-de921e50b968/00602527051789.rgb.jpg/600x600bb.jpg"
+  },
+  {
+    "title": "Candy Shop (feat. Olivia)",
+    "artist": "50 Cent",
+    "categories": ["Rap", "Rap 00s"],
+    "snippet": "/songs/rap/50_cent_candy_shop_feat_olivia.mp3",
+    "cover": "https://is1-ssl.mzstatic.com/image/thumb/Music112/v4/b6/50/07/b650079b-15db-74fb-5395-ff7ef7c5a45e/17UMGIM93593.rgb.jpg/600x600bb.jpg"
+  },
+  {
+    "title": "In da Club",
+    "artist": "50 Cent",
+    "categories": ["Rap", "Rap 00s"],
+    "snippet": "/songs/rap/50_cent_in_da_club.mp3",
+    "cover": "https://is1-ssl.mzstatic.com/image/thumb/Music112/v4/6e/56/af/6e56af83-bdff-56c2-7c6a-b30cd0d356ce/06UMGIM08757.rgb.jpg/600x600bb.jpg"
+  },
+  {
+    "title": "P.I.M.P.",
+    "artist": "50 Cent",
+    "categories": ["Rap", "Rap 00s"],
+    "snippet": "/songs/pop/50_cent_p_i_m_p_mixed.mp3",
+    "cover": "https://is1-ssl.mzstatic.com/image/thumb/Music112/v4/19/5c/ef/195cefbe-555e-c80f-0520-e478c03fa491/dj.cbaflfil.png/600x600bb.jpg"
+  },
+  {
+    "title": "Just a Friend",
+    "artist": "Biz Markie",
+    "categories": ["Rap", "Rap 80s"],
+    "snippet": "/songs/rap/biz_markie_just_a_friend.mp3",
+    "cover": "https://is1-ssl.mzstatic.com/image/thumb/Music115/v4/72/25/d2/7225d25f-57fd-d742-d78d-bad8e0b51d03/mzi.bproosii.jpg/600x600bb.jpg"
+  },
+  {
+    "title": "WAP (feat. Megan Thee Stallion)",
+    "artist": "Cardi B",
+    "categories": ["Rap", "Rap 20s"],
+    "snippet": "/songs/rap/cardi_b_wap_feat_megan_thee_stallion.mp3",
+    "cover": "https://is1-ssl.mzstatic.com/image/thumb/Music124/v4/ec/f5/45/ecf545c0-24bd-90de-7639-3069e648c51d/075679804938.jpg/600x600bb.jpg"
+  },
+  {
+    "title": "I Like It",
+    "artist": "Cardi B, Bad Bunny & J Balvin",
+    "categories": ["Rap", "Rap 10s"],
+    "snippet": "/songs/rap/cardi_b_bad_bunny_j_balvin_i_like_it.mp3",
+    "cover": "https://is1-ssl.mzstatic.com/image/thumb/Music115/v4/ca/58/e5/ca58e5e3-acb7-8ca3-6af9-ad63af3b71f1/075679873675.jpg/600x600bb.jpg"
+  },
+  {
+    "title": "Ridin' (feat. Krayzie Bone)",
+    "artist": "Chamillionaire",
+    "categories": ["Rap", "Rap 00s"],
+    "snippet": "/songs/rap/chamillionaire_ridin_feat_krayzie_bone.mp3",
+    "cover": "https://is1-ssl.mzstatic.com/image/thumb/Music112/v4/8b/d4/0f/8bd40f66-f9a7-963c-c327-79980e91445f/06UMGIM17125.rgb.jpg/600x600bb.jpg"
+  },
+  {
+    "title": "Gangsta's Paradise (feat. L.V.)",
+    "artist": "Coolio",
+    "categories": ["Rap", "Rap 90s"],
+    "snippet": "/songs/rap/coolio_gangsta_s_paradise_feat_l_v_2023_remaster.mp3",
+    "cover": "https://is1-ssl.mzstatic.com/image/thumb/Music211/v4/c2/23/0b/c2230b5f-e753-e9b0-c032-b9ea0713450f/016998513262.png/600x600bb.jpg"
+  },
+  {
+    "title": "X Gon' Give It to Ya",
+    "artist": "DMX",
+    "categories": ["Rap", "Rap 00s"],
+    "snippet": "/songs/rap/dmx_x_gon_give_it_to_ya.mp3",
+    "cover": "https://is1-ssl.mzstatic.com/image/thumb/Music112/v4/7f/03/95/7f039588-d333-8dcb-cfe3-85d4646047e3/07UMGIM08038.rgb.jpg/600x600bb.jpg"
+  },
+  {
+    "title": "Forgot About Dre (feat. Eminem)",
+    "artist": "Dr. Dre",
+    "categories": ["Rap", "Rap 90s"],
+    "snippet": "/songs/rap/dr_dre_forgot_about_dre_feat_eminem_instrumental.mp3",
+    "cover": "https://is1-ssl.mzstatic.com/image/thumb/Music124/v4/07/d4/d9/07d4d90d-704e-c10e-2203-2b18318a2064/00606949057121.rgb.jpg/600x600bb.jpg"
+  },
+  {
+    "title": "Nuthin’ But a \"G\" Thang",
+    "artist": "Dr. Dre & Snoop Dogg",
+    "categories": ["Rap", "Rap 90s"],
+    "snippet": "/songs/rap/dr_dre_snoop_dogg_nuthin_but_a_g_thang.mp3",
+    "cover": "https://is1-ssl.mzstatic.com/image/thumb/Music116/v4/59/5c/49/595c49ca-20af-1a27-3716-fe1fe481c45e/617513535860_cover.jpg/600x600bb.jpg"
+  },
+  {
+    "title": "Still D.R.E. (feat. Snoop Dogg)",
+    "artist": "Dr. Dre",
+    "categories": ["Rap", "Rap 00s"],
+    "snippet": "/songs/pop/mixmaster_throwback_still_d_r_e.mp3",
+    "cover": "https://is1-ssl.mzstatic.com/image/thumb/Music221/v4/63/99/6a/63996a0c-8ac0-d9ad-e02d-c9659c012e46/dcbd333d-6aaa-4ba3-8ddd-20346cad61a4.jpg/600x600bb.jpg"
+  },
+  {
+    "title": "The Next Episode (feat. Snoop Dogg) [Wooli Remix] [Mixed]",
+    "artist": "Dr. Dre",
+    "categories": ["Pop", "Pop 20s"],
+    "snippet": "/songs/pop/dr_dre_the_next_episode_feat_snoop_dogg_wooli_remix_mixed.mp3",
+    "cover": "https://is1-ssl.mzstatic.com/image/thumb/Music221/v4/63/99/6a/63996a0c-8ac0-d9ad-e02d-c9659c012e46/dcbd333d-6aaa-4ba3-8ddd-20346cad61a4.jpg/600x600bb.jpg"
+  },
+  {
+    "title": "Forever (with Drake, Kanye West & Lil Wayne)",
+    "artist": "Drake, Kanye West, Lil Wayne & Eminem",
+    "categories": ["Rap", "Rap 00s"],
+    "snippet": "/songs/rap/drake_kanye_west_lil_wayne_eminem_forever_with_drake_kanye_west_lil_wayne.mp3",
+    "cover": "https://is1-ssl.mzstatic.com/image/thumb/Music118/v4/b2/eb/92/b2eb92ce-84f7-9ccd-709f-063c30de71c3/00602527307749.rgb.jpg/600x600bb.jpg"
+  },
+  {
+    "title": "Best I Ever Had",
+    "artist": "Drake",
+    "categories": ["Rap", "Rap 00s"],
+    "snippet": "/songs/rap/drake_best_i_ever_had.mp3",
+    "cover": "https://is1-ssl.mzstatic.com/image/thumb/Music114/v4/50/7f/3b/507f3b71-c606-5a59-06ee-22be3e1e6ca5/00602577542602.rgb.jpg/600x600bb.jpg"
+  },
+  {
+    "title": "Hotline Bling",
+    "artist": "Drake",
+    "categories": ["Rap", "Rap 10s"],
+    "snippet": "/songs/rap/drake_hotline_bling.mp3",
+    "cover": "https://is1-ssl.mzstatic.com/image/thumb/Music115/v4/f2/0d/8b/f20d8bff-a927-ae98-6784-20a1f51cb23e/16UMGIM27642.rgb.jpg/600x600bb.jpg"
+  },
+  {
+    "title": "In My Feelings",
+    "artist": "Drake",
+    "categories": ["Rap", "Rap 10s"],
+    "snippet": "/songs/rap/drake_in_my_feelings.mp3",
+    "cover": "https://is1-ssl.mzstatic.com/image/thumb/Music115/v4/bb/6d/8f/bb6d8f67-6d04-10b5-dd62-eb5809ac54fc/00602567879152.rgb.jpg/600x600bb.jpg"
+  },
+  {
+    "title": "One Dance (feat. Wizkid & Kyla)",
+    "artist": "Drake",
+    "categories": ["Rap", "Rap 10s"],
+    "snippet": "/songs/rap/drake_one_dance_feat_wizkid_kyla.mp3",
+    "cover": "https://is1-ssl.mzstatic.com/image/thumb/Music128/v4/c4/3a/78/c43a7814-b089-9447-8688-a2fb9bf12c1e/00602547899972.rgb.jpg/600x600bb.jpg"
+  },
+  {
+    "title": "Trap Queen",
+    "artist": "Fetty Wap",
+    "categories": ["Rap", "Rap 10s"],
+    "snippet": "/songs/rap/fetty_wap_trap_queen.mp3",
+    "cover": "https://is1-ssl.mzstatic.com/image/thumb/Music114/v4/b3/df/c5/b3dfc5e2-3980-7b7c-f227-7022c846f5dd/814908020219.jpg/600x600bb.jpg"
+  },
+  {
+    "title": "God's Plan",
+    "artist": "Drake",
+    "categories": ["Rap", "Rap 10s"],
+    "snippet": "/songs/rap/drake_god_s_plan.mp3",
+    "cover": "https://is1-ssl.mzstatic.com/image/thumb/Music115/v4/bb/6d/8f/bb6d8f67-6d04-10b5-dd62-eb5809ac54fc/00602567879152.rgb.jpg/600x600bb.jpg"
+  },
+  {
+    "title": "The Message",
+    "artist": "Grandmaster Flash & The Furious Five",
+    "categories": ["Rap", "Rap 80s"],
+    "snippet": "/songs/pop/grandmaster_flash_the_furious_five_the_message.mp3",
+    "cover": "https://is1-ssl.mzstatic.com/image/thumb/Music125/v4/c2/34/48/c234484e-a6f3-4355-6d41-24275da82c74/s06.kststhcn.jpg/600x600bb.jpg"
+  },
+  {
+    "title": "Jump Around (Pete Rock Remix)",
+    "artist": "House of Pain",
+    "categories": ["Rap", "Rap 90s"],
+    "snippet": "/songs/rap/house_of_pain_jump_around_pete_rock_remix.mp3",
+    "cover": "https://is1-ssl.mzstatic.com/image/thumb/Music221/v4/c5/b7/2f/c5b72ff4-d593-ed4c-f7ed-080fb4d224aa/081227911560.png/600x600bb.jpg"
+  },
+  {
+    "title": "No Role Modelz",
+    "artist": "J. Cole",
+    "categories": ["Rap", "Rap 10s"],
+    "snippet": "/songs/rap/j_cole_no_role_modelz.mp3",
+    "cover": "https://is1-ssl.mzstatic.com/image/thumb/Music116/v4/ee/28/67/ee286794-6c33-a8c2-5c37-c04f1cb5e8a6/21UM1IM54415.rgb.jpg/600x600bb.jpg"
+  },
+  {
+    "title": "Day 'N' Nite",
+    "artist": "Kid Cudi",
+    "categories": ["Rap", "Rap 00s"],
+    "snippet": "/songs/rap/kid_cudi_day_n_nite_nightmare.mp3",
+    "cover": "https://is1-ssl.mzstatic.com/image/thumb/Music221/v4/36/78/1e/36781ee4-be7e-1c54-5a4a-a262faa3a245/09UMGIM33419.rgb.jpg/600x600bb.jpg"
+  },
+  {
+    "title": "Jump",
+    "artist": "Kris Kross",
+    "categories": ["Rap", "Rap 90s"],
+    "snippet": "/songs/rap/kris_kross_jump.mp3",
+    "cover": "https://is1-ssl.mzstatic.com/image/thumb/Music125/v4/ea/03/30/ea033079-3254-3a3c-e2a6-504b30095ca6/dj.wutawrld.jpg/600x600bb.jpg"
+  },
+  {
+    "title": "Sound of da Police",
+    "artist": "KRS-One",
+    "categories": ["Rap", "Rap 90s"],
+    "snippet": "/songs/rap/krs_one_sound_of_da_police.mp3",
+    "cover": "https://is1-ssl.mzstatic.com/image/thumb/Music124/v4/8e/38/c8/8e38c8c0-b0de-82c3-87a5-1e4c23fa4963/dj.ryotsuac.jpg/600x600bb.jpg"
+  },
+  {
+    "title": "Lean Back",
+    "artist": "Terror Squad",
+    "categories": ["Rap", "Rap 00s"],
+    "snippet": "/songs/rap/terror_squad_lean_back.mp3",
+    "cover": "https://is1-ssl.mzstatic.com/image/thumb/Music124/v4/59/6b/86/596b86a4-6dd1-70e3-5a57-4539c11a137a/00602498627518.rgb.jpg/600x600bb.jpg"
+  },
+  {
+    "title": "Get Low",
+    "artist": "Lil Jon & The East Side Boyz & Ying Yang Twins",
+    "categories": ["Pop", "Pop 00s"],
+    "snippet": "/songs/pop/lil_jon_the_east_side_boyz_get_low_radio_edit.mp3",
+    "cover": "https://is1-ssl.mzstatic.com/image/thumb/Music221/v4/70/9d/d8/709dd8c4-ed90-f478-f63a-82f2bf5f19ee/199350141881.jpg/600x600bb.jpg"
+  },
+  {
+    "title": "Old Town Road",
+    "artist": "Lil Nas X",
+    "categories": ["Rap", "Rap 10s"],
+    "snippet": "/songs/pop/lil_nas_x_old_town_road_feat_billy_ray_cyrus_remix.mp3",
+    "cover": "https://is1-ssl.mzstatic.com/image/thumb/Music125/v4/b9/07/51/b9075120-62d2-4c00-2657-58e40da17a12/886447659168.jpg/600x600bb.jpg"
+  },
+  {
+    "title": "Lollipop (feat. Static Major)",
+    "artist": "Lil Wayne",
+    "categories": ["Rap", "Rap 00s"],
+    "snippet": "/songs/rap/lil_wayne_lollipop_feat_static_major.mp3",
+    "cover": "https://is1-ssl.mzstatic.com/image/thumb/Music116/v4/ad/59/2b/ad592bdf-0fd7-857f-3ca5-12f1d4861e3e/08UMGIM15512.rgb.jpg/600x600bb.jpg"
+  },
+  {
+    "title": "I Got 5 On It (feat. Michael Marshall)",
+    "artist": "Luniz",
+    "categories": ["Rap", "Rap 90s"],
+    "snippet": "/songs/rap/luniz_i_got_5_on_it_feat_michael_marshall.mp3",
+    "cover": "https://is1-ssl.mzstatic.com/image/thumb/Music124/v4/21/03/22/210322c7-493d-8193-1b2a-d742fe82d7ab/13UABIM51437.rgb.jpg/600x600bb.jpg"
+  },
+  {
+    "title": "Bad and Boujee (feat. Lil Uzi Vert)",
+    "artist": "Migos",
+    "categories": ["Rap", "Rap 10s"],
+    "snippet": "/songs/rap/migos_bad_and_boujee_feat_lil_uzi_vert.mp3",
+    "cover": "https://is1-ssl.mzstatic.com/image/thumb/Music116/v4/b9/3d/60/b93d604d-e3e4-813b-1feb-8be6d6d0af89/22UMGIM27531.rgb.jpg/600x600bb.jpg"
+  },
+  {
+    "title": "Get Ur Freak On",
+    "artist": "Missy Elliott",
+    "categories": ["Rap", "Rap 00s"],
+    "snippet": "/songs/rap/missy_elliott_get_ur_freak_on_amended_lp_version.mp3",
+    "cover": "https://is1-ssl.mzstatic.com/image/thumb/Music/71/c2/4f/mzi.gsutnxrb.jpg/600x600bb.jpg"
+  },
+  {
+    "title": "Shook Ones (Pt.2)",
+    "artist": "Mobb Deep",
+    "categories": ["Rap", "Rap 00s"],
+    "snippet": "/songs/rap/mobb_deep_shook_ones_pt_2.mp3",
+    "cover": "https://is1-ssl.mzstatic.com/image/thumb/Music/16/db/34/mzi.gwfwomxd.jpg/600x600bb.jpg"
+  },
+  {
+    "title": "Hot In Here",
+    "artist": "Nelly",
+    "categories": ["Rap", "Rap 10s"],
+    "snippet": "/songs/pop/rascal_flatts_hot_in_here.mp3",
+    "cover": "a"
+  },
+  {
+    "title": "Super Bass",
+    "artist": "Nicki Minaj",
+    "categories": ["Rap", "Rap 10s"],
+    "snippet": "/songs/rap/nicki_minaj_super_bass.mp3",
+    "cover": "https://is1-ssl.mzstatic.com/image/thumb/Music116/v4/3f/6a/dc/3f6adcfb-4d27-303e-b964-3710c56800e3/11UMGIM13385.rgb.jpg/600x600bb.jpg"
+  },
+  {
+    "title": "rockstar (feat. 21 Savage)",
+    "artist": "Post Malone",
+    "categories": ["Rap", "Rap 10s"],
+    "snippet": "/songs/rap/post_malone_rockstar_feat_21_savage.mp3",
+    "cover": "https://is1-ssl.mzstatic.com/image/thumb/Music124/v4/55/9f/fb/559ffb75-3c00-abd6-7b1f-8b6b1518b173/18UMGIM22101.rgb.jpg/600x600bb.jpg"
+  },
+  {
+    "title": "Sunflower (Spider-Man: Into the Spider-Verse)",
+    "artist": "Post Malone & Swae Lee",
+    "categories": ["Rap", "Rap 10s"],
+    "snippet": "/songs/rap/post_malone_swae_lee_sunflower_spider_man_into_the_spider_verse.mp3",
+    "cover": "https://is1-ssl.mzstatic.com/image/thumb/Music115/v4/7b/1b/1b/7b1b1b0b-7ce2-b223-f9e0-8e36abe51877/19UMGIM78325.rgb.jpg/600x600bb.jpg"
+  },
+  {
+    "title": "It's Tricky",
+    "artist": "Run-DMC",
+    "categories": ["Rap", "Rap 80s"],
+    "snippet": "/songs/rap/run_dmc_it_s_tricky.mp3",
+    "cover": "https://is1-ssl.mzstatic.com/image/thumb/Music115/v4/00/3f/21/003f21c0-6bc3-dbed-7081-04ffaf172016/078221640824.jpg/600x600bb.jpg"
+  },
+  {
+    "title": "Push It (Re-Recorded) [Remastered]",
+    "artist": "Salt-N-Pepa",
+    "categories": ["Pop", "Pop 90s"],
+    "snippet": "/songs/pop/salt_n_pepa_push_it_re_recorded_remastered.mp3",
+    "cover": "https://is1-ssl.mzstatic.com/image/thumb/Music/v4/71/14/f9/7114f9b5-630e-a488-8199-31658b70d1df/888003320291.jpg/600x600bb.jpg"
+  },
+  {
+    "title": "Watch Me (Whip / Nae Nae)",
+    "artist": "Silentó",
+    "categories": ["Rap", "Rap 10s"],
+    "snippet": "/songs/rap/silento_watch_me_whip_nae_nae.mp3",
+    "cover": "https://is1-ssl.mzstatic.com/image/thumb/Music125/v4/0c/80/ae/0c80aefb-d146-e0ea-ad7c-9b0e3044e77d/00602547382825.rgb.jpg/600x600bb.jpg"
+  },
+  {
+    "title": "Drop It Like It's Hot (feat. Pharrell Williams)",
+    "artist": "Snoop Dogg",
+    "categories": ["Rap", "Rap 00s"],
+    "snippet": "/songs/rap/snoop_dogg_drop_it_like_it_s_hot_feat_pharrell_williams.mp3",
+    "cover": "https://is1-ssl.mzstatic.com/image/thumb/Music124/v4/a3/75/27/a3752707-e88a-cf93-423f-c6134156962a/00075021034518.rgb.jpg/600x600bb.jpg"
+  },
+  {
+    "title": "Crank That (Soulja Boy)",
+    "artist": "Soulja Boy Tell 'Em",
+    "categories": ["Rap", "Rap 00s"],
+    "snippet": "/songs/rap/soulja_boy_tell_em_crank_that_soulja_boy.mp3",
+    "cover": "https://is1-ssl.mzstatic.com/image/thumb/Music211/v4/ec/4e/2f/ec4e2f2a-d74c-8d6d-3ec1-b8fe83eb8053/07UMGIM13400.rgb.jpg/600x600bb.jpg"
+  },
+  {
+    "title": "Hate It or Love It (feat. 50 Cent)",
+    "artist": "The Game",
+    "categories": ["Rap", "Rap 00s"],
+    "snippet": "/songs/rap/the_game_hate_it_or_love_it_feat_50_cent.mp3",
+    "cover": "https://is1-ssl.mzstatic.com/image/thumb/Music118/v4/fe/d1/3b/fed13b47-091c-a793-56ad-b2bbc677e92a/00602498641453.rgb.jpg/600x600bb.jpg"
+  },
+  {
+    "title": "Hypnotize",
+    "artist": "The Notorious B.I.G.",
+    "categories": ["Rap", "Rap 90s"],
+    "snippet": "/songs/rap/the_notorious_b_i_g_hypnotize_radio_mix.mp3",
+    "cover": "https://is1-ssl.mzstatic.com/image/thumb/Music3/v4/37/71/76/37717609-909d-5ff5-282c-b3851e577005/603497899531.jpg/600x600bb.jpg"
+  },
+  {
+    "title": "Juicy",
+    "artist": "The Notorious B.I.G.",
+    "categories": ["Rap", "Rap 90s"],
+    "snippet": "/songs/rap/the_notorious_b_i_g_juicy.mp3",
+    "cover": "https://is1-ssl.mzstatic.com/image/thumb/Features115/v4/08/66/e3/0866e3ef-c111-c0a2-f18e-a10035a5bb07/dj.hpsoegav.jpg/600x600bb.jpg"
+  },
+  {
+    "title": "Rapper's Delight",
+    "artist": "The Sugarhill Gang",
+    "categories": ["Rap", "Rap 90s"],
+    "snippet": "/songs/rap/the_sugarhill_gang_rapper_s_delight.mp3",
+    "cover": "https://is1-ssl.mzstatic.com/image/thumb/Music115/v4/08/59/3f/08593fb1-9fa6-3f9c-5753-f5eb6620b644/dj.jnqewlpv.jpg/600x600bb.jpg"
+  },
+  {
+    "title": "Ice Ice Baby",
+    "artist": "Vanilla Ice",
+    "categories": ["Rap", "Rap 90s"],
+    "snippet": "/songs/rap/vanilla_ice_ice_ice_baby.mp3",
+    "cover": "https://is1-ssl.mzstatic.com/image/thumb/Music221/v4/a1/6f/fb/a16ffb26-747f-5509-1233-2e472c293a89/13UABIM50850.rgb.jpg/600x600bb.jpg"
+  },
+  {
+    "title": "Gettin' Jiggy Wit It",
+    "artist": "Will Smith",
+    "categories": ["Rap", "Rap 90s"],
+    "snippet": "/songs/rap/will_smith_gettin_jiggy_wit_it.mp3",
+    "cover": "https://is1-ssl.mzstatic.com/image/thumb/Music115/v4/96/47/9d/96479d49-1ccd-ea1a-7bee-6750a73f363f/mzi.haxmzhnz.jpg/600x600bb.jpg"
+  },
+  {
+    "title": "C.R.E.A.M. (Cash Rules Everything Around Me) [Radio Edit] ",
+    "artist": "Wu-Tang Clan",
+    "categories": ["Rap", "Rap 90s"],
+    "snippet": "/songs/rap/wu_tang_clan_c_r_e_a_m_cash_rules_everything_around_me_a_cappella.mp3",
+    "cover": "https://is1-ssl.mzstatic.com/image/thumb/Music221/v4/7c/58/b1/7c58b153-2525-d47f-ab7a-9c9fe6882826/888880400017.jpg/600x600bb.jpg"
+  },
+  {
+    "title": "SAD! (Instrumental)",
+    "artist": "XXXTENTACION",
+    "categories": ["Rap", "Rap 10s"],
+    "snippet": "/songs/pop/xxxtentacion_changes.mp3",
+    "cover": "https://is1-ssl.mzstatic.com/image/thumb/Music116/v4/f0/b0/21/f0b021d2-8bfb-e2ff-93f9-17c64147f971/18UMGIM14845.rgb.jpg/600x600bb.jpg"
   }
 ]
 
