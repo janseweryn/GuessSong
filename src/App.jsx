@@ -472,6 +472,32 @@ const manualDaily = {
       dailyCategory: "Rap",
     },
   ],
+   "2026-01-15": [
+    {
+      title: "Stronger (What Doesn't Kill You)",
+      artist: "Kelly Clarkson",
+      cover: "https://is1-ssl.mzstatic.com/image/thumb/Music/68/81/4f/mzi.wrtaopaz.jpg/600x600bb.jpg",
+      snippet: "/songs/pop/kelly_clarkson_stronger_what_doesn_t_kill_you.mp3",
+      categories: ["pop"],
+      dailyCategory: "Pop",
+    },
+    {
+      title: "In the Air Tonight",
+      artist: "Phil Collins",
+      cover: "https://is1-ssl.mzstatic.com/image/thumb/Music115/v4/e2/64/d1/e264d18c-2b20-051d-3fc3-68b3424f8cde/603497880249.jpg/600x600bb.jpg",
+      snippet: "/songs/rock/phil_collins_in_the_air_tonight.mp3",
+      categories: ["rock"],
+      dailyCategory: "Rock",
+    },
+    {
+      title: "No Role Modelz",
+      artist: "J. Cole",
+      cover: "https://is1-ssl.mzstatic.com/image/thumb/Music116/v4/ee/28/67/ee286794-6c33-a8c2-5c37-c04f1cb5e8a6/21UM1IM54415.rgb.jpg/600x600bb.jpg",
+      snippet: "/songs/rap/j_cole_no_role_modelz.mp3",
+      categories: ["rap"],
+      dailyCategory: "Rap",
+    },
+  ],
 };
 
 const LEVELS = [
