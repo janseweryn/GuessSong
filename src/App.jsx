@@ -498,6 +498,32 @@ const manualDaily = {
       dailyCategory: "Rap",
     },
   ],
+  "2026-01-16": [
+    {
+      title: "My Head & My Heart",
+      artist: "Ava Max",
+      cover: "https://is1-ssl.mzstatic.com/image/thumb/Music125/v4/94/74/1e/94741ee9-bb3c-4c9f-da27-e04d9878faae/075679797032.jpg/600x600bb.jpg",
+      snippet: "/songs/pop/ava_max_my_head_my_heart.mp3",
+      categories: ["pop"],
+      dailyCategory: "Pop",
+    },
+    {
+      title: "Shape of My Heart",
+      artist: "Sting",
+      cover: "https://is1-ssl.mzstatic.com/image/thumb/Music221/v4/59/ac/f4/59acf4db-0ea8-a8e5-5607-01e931bb2d58/06UMGIM49867.rgb.jpg/600x600bb.jpg",
+      snippet: "/songs/rock/sting_shape_of_my_heart.mp3",
+      categories: ["rock"],
+      dailyCategory: "Rock",
+    },
+    {
+      title: "Praise The Lord (Da Shine) [feat. Skepta]",
+      artist: "A$AP Rocky",
+      cover: "https://is1-ssl.mzstatic.com/image/thumb/Music115/v4/d3/91/9c/d3919c54-3426-07a2-91a4-b4e46b2a8d34/886447076453.jpg/600x600bb.jpg",
+      snippet: "/songs/rap/a_ap_rocky_praise_the_lord_da_shine_feat_skepta.mp3",
+      categories: ["rap"],
+      dailyCategory: "Rap",
+    },
+  ],
 };
 
 const LEVELS = [
