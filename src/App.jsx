@@ -524,6 +524,32 @@ const manualDaily = {
       dailyCategory: "Rap",
     },
   ],
+  "2026-01-17": [
+    {
+      title: "Wrecking Ball",
+      artist: "Miley Cyrus",
+      cover: "https://is1-ssl.mzstatic.com/image/thumb/Music115/v4/e3/e0/84/e3e08400-2d03-75f9-6b8b-a3345452aa98/886444197816.jpg/600x600bb.jpg",
+      snippet: "/songs/pop/miley_cyrus_wrecking_ball.mp3",
+      categories: ["pop"],
+      dailyCategory: "Pop",
+    },
+    {
+      title: "Have You Ever Seen the Rain?",
+      artist: "Creedence Clearwater Revival",
+      cover: "https://is1-ssl.mzstatic.com/image/thumb/Music115/v4/fb/93/81/fb938141-0ec9-ff80-3b57-3d3d0979e4b3/00888072356085.rgb.jpg/600x600bb.jpg",
+      snippet: "/songs/rock/creedence_clearwater_revival_have_you_ever_seen_the_rain.mp3",
+      categories: ["rock"],
+      dailyCategory: "Rock",
+    },
+    {
+      title: "Sound of da Police",
+      artist: "KRS-One",
+      cover: "https://is1-ssl.mzstatic.com/image/thumb/Music124/v4/8e/38/c8/8e38c8c0-b0de-82c3-87a5-1e4c23fa4963/dj.ryotsuac.jpg/600x600bb.jpg",
+      snippet: "/songs/rap/krs_one_sound_of_da_police.mp3",
+      categories: ["rap"],
+      dailyCategory: "Rap",
+    },
+  ],
 };
 
 const LEVELS = [
