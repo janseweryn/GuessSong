@@ -550,6 +550,32 @@ const manualDaily = {
       dailyCategory: "Rap",
     },
   ],
+  "2026-01-18": [
+    {
+      title: "How You Like That",
+      artist: "Blackpink",
+      cover: "/songs/covers/album.jpg",
+      snippet: "/songs/pop/how_you_like_that.mp3",
+      categories: ["pop"],
+      dailyCategory: "Pop",
+    },
+    {
+      title: "Can't Stop",
+      artist: "Red Hot Chili Peppers",
+      cover: "/songs/covers/byway.jpg",
+      snippet: "/songs/rock/cant_stop.mp3",
+      categories: ["rock"],
+      dailyCategory: "Rock",
+    },
+    {
+      title: "Hotline Bling",
+      artist: "Drake",
+      cover: "https://is1-ssl.mzstatic.com/image/thumb/Music115/v4/f2/0d/8b/f20d8bff-a927-ae98-6784-20a1f51cb23e/16UMGIM27642.rgb.jpg/600x600bb.jpg",
+      snippet: "/songs/rap/drake_hotline_bling.mp3",
+      categories: ["rap"],
+      dailyCategory: "Rap",
+    },
+  ],
 };
 
 const LEVELS = [
