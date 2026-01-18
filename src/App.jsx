@@ -576,6 +576,32 @@ const manualDaily = {
       dailyCategory: "Rap",
     },
   ],
+  "2026-01-19": [
+    {
+      title: "Dandelions",
+      artist: "Ruth B.",
+      cover: "/songs/covers/dandelions.jpg",
+      snippet: "/songs/pop/dandelions.mp3",
+      categories: ["pop"],
+      dailyCategory: "Pop",
+    },
+    {
+      title: "Rollin' (Air Raid Vehicle)",
+      artist: "Limp Bizkit",
+      cover: "/songs/covers/chocolate.jpg",
+      snippet: "/songs/rock/rollin.mp3",
+      categories: ["rock"],
+      dailyCategory: "Rock",
+    },
+    {
+      title: "Airplanes (feat. Hayley Williams)",
+      artist: "B.o.B feat. Hayley Williams",
+      cover: "https://is1-ssl.mzstatic.com/image/thumb/Music115/v4/bc/f8/ed/bcf8ed12-42b0-b50f-9dab-e9124d26137a/mzi.rklkakdk.jpg/600x600bb.jpg",
+      snippet: "/songs/rap/b_o_b_feat_hayley_williams_airplanes_feat_hayley_williams.mp3",
+      categories: ["rap"],
+      dailyCategory: "Rap",
+    },
+  ],
 };
 
 const LEVELS = [
