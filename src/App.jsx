@@ -602,6 +602,32 @@ const manualDaily = {
       dailyCategory: "Rap",
     },
   ],
+    "2026-01-20": [
+    {
+      title: "Mr. Saxobeat",
+      artist: "Alexandra Stan",
+      cover: "https://is1-ssl.mzstatic.com/image/thumb/Music126/v4/90/91/83/909183ff-bc63-8cfc-4f0f-ac742912286c/0617465300950.jpg/600x600bb.jpg",
+      snippet: "/songs/pop/alexandra_stan_mr_saxobeat_radio_edit.mp3",
+      categories: ["pop"],
+      dailyCategory: "Pop",
+    },
+    {
+      title: "September",
+      artist: "Earth, Wind & Fire",
+      cover: "https://is1-ssl.mzstatic.com/image/thumb/Music124/v4/ab/31/40/ab314083-718f-b292-2c3e-982c166257e0/mzi.ioethdgk.jpg/600x600bb.jpg",
+      snippet: "/songs/rock/earth_wind_fire_september_live.mp3",
+      categories: ["rock"],
+      dailyCategory: "Rock",
+    },
+    {
+      title: "It Was A Good Day",
+      artist: "Ice Cube",
+      cover: "https://is1-ssl.mzstatic.com/image/thumb/Music116/v4/69/2f/1a/692f1a70-dc15-3a30-6a33-84623a9c49b8/23UM1IM17850.rgb.jpg/600x600bb.jpg",
+      snippet: "/songs/rap/ice_cube_it_was_a_good_day.mp3",
+      categories: ["rap"],
+      dailyCategory: "Rap",
+    },
+  ],
 };
 
 const LEVELS = [
