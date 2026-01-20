@@ -628,6 +628,32 @@ const manualDaily = {
       dailyCategory: "Rap",
     },
   ],
+  "2026-01-21": [
+    {
+      title: "Sugar",
+      artist: "Maroon 5",
+      cover: "https://is1-ssl.mzstatic.com/image/thumb/Music122/v4/b7/25/76/b72576f1-072e-3da2-60d5-2724a9bccf4a/14UMGIM31673.rgb.jpg/600x600bb.jpg",
+      snippet: "/songs/pop/maroon_5_sugar.mp3",
+      categories: ["pop"],
+      dailyCategory: "Pop",
+    },
+    {
+      title: "Coming Undone",
+      artist: "Korn",
+      cover: "https://is1-ssl.mzstatic.com/image/thumb/Music126/v4/05/87/ad/0587ad45-51e5-f00c-48a4-941452a65d85/5054526859951.jpg/600x600bb.jpg",
+      snippet: "/songs/rock/korn_coming_undone.mp3",
+      categories: ["rock"],
+      dailyCategory: "Rock",
+    },
+    {
+      title: "rockstar (feat. 21 Savage)",
+      artist: "Post Malone",
+      cover: "https://is1-ssl.mzstatic.com/image/thumb/Music124/v4/55/9f/fb/559ffb75-3c00-abd6-7b1f-8b6b1518b173/18UMGIM22101.rgb.jpg/600x600bb.jpg",
+      snippet: "/songs/rap/post_malone_rockstar_feat_21_savage.mp3",
+      categories: ["rap"],
+      dailyCategory: "Rap",
+    },
+  ],
 };
 
 const LEVELS = [
