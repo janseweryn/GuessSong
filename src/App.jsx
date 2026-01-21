@@ -654,6 +654,32 @@ const manualDaily = {
       dailyCategory: "Rap",
     },
   ],
+  "2026-01-22": [
+    {
+      title: "Astronomia",
+      artist: "Vicetone & Tony Igy",
+      cover: "https://is1-ssl.mzstatic.com/image/thumb/Music124/v4/61/70/24/6170245a-cf39-29a5-a4e4-553f84bb86c4/886446088099.jpg/600x600bb.jpg",
+      snippet: "/songs/pop/vicetone_tony_igy_astronomia.mp3",
+      categories: ["pop"],
+      dailyCategory: "Pop",
+    },
+    {
+      title: "Creep (Acoustic)",
+      artist: "Radiohead",
+      cover: "/songs/covers/honey.jpg",
+      snippet: "/songs/rock/creep.mp3",
+      categories: ["rock"],
+      dailyCategory: "Rock",
+    },
+    {
+      title: "Can I Kick It?",
+      artist: "A Tribe Called Quest",
+      cover: "https://is1-ssl.mzstatic.com/image/thumb/Music115/v4/f8/28/e9/f828e985-7724-112e-1658-80f9dea61952/dj.zpkqadnl.jpg/600x600bb.jpg",
+      snippet: "/songs/rap/a_tribe_called_quest_can_i_kick_it.mp3",
+      categories: ["rap"],
+      dailyCategory: "Rap",
+    },
+  ],
 };
 
 const LEVELS = [
