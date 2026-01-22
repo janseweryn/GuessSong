@@ -680,6 +680,32 @@ const manualDaily = {
       dailyCategory: "Rap",
     },
   ],
+  "2026-01-23": [
+    {
+      title: "Everything I Wanted",
+      artist: "Billie Eilish",
+      cover: "/songs/covers/everythingwanted.jpg",
+      snippet: "/songs/pop/everything_wanted.mp3",
+      categories: ["pop"],
+      dailyCategory: "Pop",
+    },
+    {
+      title: "Summer of '69",
+      artist: "Bryan Adams",
+      cover: "https://is1-ssl.mzstatic.com/image/thumb/Music125/v4/e4/9b/c2/e49bc283-607b-9f0b-d7d4-adaba6cd3ff3/14UMGIM34434.rgb.jpg/600x600bb.jpg",
+      snippet: "/songs/rock/bryan_adams_summer_of_69.mp3",
+      categories: ["rock"],
+      dailyCategory: "Rock",
+    },
+    {
+      title: "BILLIE EILISH.",
+      artist: "Armani White",
+      cover: "https://is1-ssl.mzstatic.com/image/thumb/Music122/v4/89/db/38/89db38db-1dfc-3fd7-cb0d-fcb95b8bdb37/22UMGIM62666.rgb.jpg/600x600bb.jpg",
+      snippet: "/songs/rap/armani_white_billie_eilish.mp3",
+      categories: ["rap"],
+      dailyCategory: "Rap",
+    },
+  ],
 };
 
 const LEVELS = [
