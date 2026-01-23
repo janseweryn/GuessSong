@@ -706,6 +706,32 @@ const manualDaily = {
       dailyCategory: "Rap",
     },
   ],
+  "2026-01-24": [
+    {
+      title: "Sports Car",
+      artist: "Tate McRae",
+      cover: "/songs/covers/so_close_to_what.jpg",
+      snippet: "/songs/pop/sports_car.mp3",
+      categories: ["pop"],
+      dailyCategory: "Pop",
+    },
+    {
+      title: "Mr. Blue Sky",
+      artist: "Electric Light Orchestra",
+      cover: "https://is1-ssl.mzstatic.com/image/thumb/Music221/v4/a3/6e/74/a36e7450-3818-f2c1-a137-d4ef5934c119/827969448922.jpg/600x600bb.jpg",
+      snippet: "/songs/rock/electric_light_orchestra_mr_blue_sky.mp3",
+      categories: ["rock"],
+      dailyCategory: "Rock",
+    },
+    {
+      title: "Crank That (Soulja Boy)",
+      artist: "Soulja Boy Tell 'Em",
+      cover: "https://is1-ssl.mzstatic.com/image/thumb/Music211/v4/ec/4e/2f/ec4e2f2a-d74c-8d6d-3ec1-b8fe83eb8053/07UMGIM13400.rgb.jpg/600x600bb.jpg",
+      snippet: "/songs/rap/soulja_boy_tell_em_crank_that_soulja_boy.mp3",
+      categories: ["rap"],
+      dailyCategory: "Rap",
+    },
+  ],
 };
 
 const LEVELS = [
