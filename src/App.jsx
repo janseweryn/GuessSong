@@ -732,6 +732,32 @@ const manualDaily = {
       dailyCategory: "Rap",
     },
   ],
+  "2026-01-25": [
+    {
+      title: "As It Was",
+      artist: "Harry Styles",
+      cover: "https://is1-ssl.mzstatic.com/image/thumb/Music126/v4/2a/19/fb/2a19fb85-2f70-9e44-f2a9-82abe679b88e/886449990061.jpg/600x600bb.jpg",
+      snippet: "/songs/pop/harry_styles_as_it_was.mp3",
+      categories: ["pop"],
+      dailyCategory: "Pop",
+    },
+    {
+      title: "Yellow",
+      artist: "Coldplay",
+      cover: "/songs/covers/parachutes.jpg",
+      snippet: "/songs/pop/yellow.mp3",
+      categories: ["rock"],
+      dailyCategory: "Rock",
+    },
+    {
+      title: "goosebumps",
+      artist: "Travis Scott",
+      cover: "https://is1-ssl.mzstatic.com/image/thumb/Music114/v4/b8/e5/27/b8e527c8-aaf4-c7b7-5562-c479458ed7d9/886446092645.jpg/600x600bb.jpg",
+      snippet: "/songs/rap/travis_scott_goosebumps.mp3",
+      categories: ["rap"],
+      dailyCategory: "Rap",
+    },
+  ],
 };
 
 const LEVELS = [

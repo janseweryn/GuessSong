@@ -9260,6 +9260,538 @@
     "categories": ["Rap", "Rap 90s"],
     "snippet": "/songs/rap/ice_cube_it_was_a_good_day.mp3",
     "cover": "https://is1-ssl.mzstatic.com/image/thumb/Music116/v4/69/2f/1a/692f1a70-dc15-3a30-6a33-84623a9c49b8/23UM1IM17850.rgb.jpg/600x600bb.jpg"
+  },
+  {
+    "title": "Mood (feat. iann dior)",
+    "artist": "24kGoldn",
+    "categories": ["Rap", "Rap 20s"],
+    "snippet": "/songs/rap/24kgoldn_mood_feat_iann_dior.mp3",
+    "cover": "https://is1-ssl.mzstatic.com/image/thumb/Music125/v4/ac/fe/35/acfe3571-3872-92c6-e208-072fe362d7c3/886449095070.jpg/600x600bb.jpg"
+  },
+  {
+    "title": "family ties",
+    "artist": "Baby Keem & Kendrick Lamar",
+    "categories": ["Rap", "Rap 20s"],
+    "snippet": "/songs/rap/baby_keem_kendrick_lamar_family_ties.mp3",
+    "cover": "https://is1-ssl.mzstatic.com/image/thumb/Music115/v4/c5/28/0e/c5280eeb-0a5e-9906-3bcf-0cebfe06e318/886449597543.jpg/600x600bb.jpg"
+  },
+  {
+    "title": "Shooting Stars",
+    "artist": "Bag Raiders",
+    "categories": ["Pop", "Pop 00s"],
+    "snippet": "/songs/rock/bag_raiders_shooting_stars.mp3",
+    "cover": "https://is1-ssl.mzstatic.com/image/thumb/Music115/v4/16/1a/e7/161ae7fa-026b-453a-e443-626924179812/00602527174396.rgb.jpg/600x600bb.jpg"
+  },
+  {
+    "title": "Sex, Drugs, Etc.",
+    "artist": "Beach Weather",
+    "categories": ["Rock", "Rock 10s"],
+    "snippet": "/songs/rock/beach_weather_sex_drugs_etc.mp3",
+    "cover": "https://is1-ssl.mzstatic.com/image/thumb/Music122/v4/6e/1a/79/6e1a797b-5049-06d9-e8b5-4b8c987dc27c/3614971458486.jpg/600x600bb.jpg"
+  },
+  {
+    "title": "Stayin' Alive",
+    "artist": "Bee Gees",
+    "categories": ["Rock", "Rock 70s"],
+    "snippet": "/songs/pop/bee_gees_stayin_alive.mp3",
+    "cover": "https://is1-ssl.mzstatic.com/image/thumb/Music113/v4/45/db/1d/45db1dac-fe00-3681-b216-266deea6e4cc/17UM1IM26789.rgb.jpg/600x600bb.jpg"
+  },
+  {
+    "title": "Man's Not Hot",
+    "artist": "Big Shaq",
+    "categories": ["Rap", "Rap 10s"],
+    "snippet": "/songs/rap/big_shaq_man_s_not_hot.mp3",
+    "cover": "https://is1-ssl.mzstatic.com/image/thumb/Music115/v4/4a/54/3e/4a543e0a-fdda-4d89-4dc0-b67c7743c18f/00602567083108.rgb.jpg/600x600bb.jpg"
+  },
+  {
+    "title": "Bodies",
+    "artist": "Drowning Pool",
+    "categories": ["Rock", "Rock 00s"],
+    "snippet": "/songs/rock/drowning_pool_bodies.mp3",
+    "cover": "https://is1-ssl.mzstatic.com/image/thumb/Music221/v4/65/ed/24/65ed24a6-b0bb-85e9-88b1-fbe64708713d/14CMGIM00807.rgb.jpg/600x600bb.jpg"
+  },
+  {
+    "title": "Daddy Cool",
+    "artist": "Boney M.",
+    "categories": ["Pop", "Pop 70s"],
+    "snippet": "/songs/pop/boney_m_daddy_cool.mp3",
+    "cover": "https://is1-ssl.mzstatic.com/image/thumb/Music4/v4/aa/23/e3/aa23e3a1-de3e-5aa7-870b-a1403afb2b10/886444503273.jpg/600x600bb.jpg"
+  },
+  {
+    "title": "Rasputin",
+    "artist": "Boney M.",
+    "categories": ["Pop", "Pop 70s"],
+    "snippet": "/songs/pop/boney_m_rasputin.mp3",
+    "cover": "https://is1-ssl.mzstatic.com/image/thumb/Music115/v4/b7/86/45/b786452a-a723-eaed-8170-cdc261367eb7/886443575578.jpg/600x600bb.jpg"
+  },
+  {
+    "title": "Butter",
+    "artist": "BTS",
+    "categories": ["Pop", "Pop 20s"],
+    "snippet": "/songs/pop/bts_butter.mp3",
+    "cover": "https://is1-ssl.mzstatic.com/image/thumb/Music126/v4/66/28/6c/66286c9f-6bea-4f99-ec15-507b0c95dc04/196006991739_Cover.jpg/600x600bb.jpg"
+  },
+  {
+    "title": "Dynamite",
+    "artist": "BTS",
+    "categories": ["Pop", "Pop 20s"],
+    "snippet": "/songs/pop/bts_dynamite_live.mp3",
+    "cover": "https://is1-ssl.mzstatic.com/image/thumb/Music221/v4/2b/f6/82/2bf682ab-f6c5-a82e-d204-306faede272e/198704579318_Cover.jpg/600x600bb.jpg"
+  },
+  {
+    "title": "Bam Bam (feat. Ed Sheeran)",
+    "artist": "Camila Cabello",
+    "categories": ["Pop", "Pop 20s"],
+    "snippet": "/songs/pop/camila_cabello_bam_bam_feat_ed_sheeran.mp3",
+    "cover": "https://is1-ssl.mzstatic.com/image/thumb/Music116/v4/b7/e3/2f/b7e32fd7-7ca3-edf6-7df8-861bfcfd6f9a/886449526772.jpg/600x600bb.jpg"
+  },
+  {
+    "title": "Under the Influence",
+    "artist": "Chris Brown",
+    "categories": ["Rap", "Rap 10s"],
+    "snippet": "/songs/pop/chris_brown_under_the_influence.mp3",
+    "cover": "https://is1-ssl.mzstatic.com/image/thumb/Music123/v4/62/7c/ac/627cac79-3693-dd16-6466-48950746f527/886447924471.jpg/600x600bb.jpg"
+  },
+  {
+    "title": "Johnny B. Goode",
+    "artist": "Chuck Berry",
+    "categories": ["Pop", "Pop 50s"],
+    "snippet": "/songs/pop/chuck_berry_johnny_b_goode.mp3",
+    "cover": "https://is1-ssl.mzstatic.com/image/thumb/Music122/v4/67/c8/33/67c83356-08b8-e3c0-34cd-ee084db91f59/06UMGIM60693.rgb.jpg/600x600bb.jpg"
+  },
+  {
+    "title": "Heather",
+    "artist": "Conan Gray",
+    "categories": ["Pop", "Pop 20s"],
+    "snippet": "/songs/pop/conan_gray_heather.mp3",
+    "cover": "https://is1-ssl.mzstatic.com/image/thumb/Music125/v4/18/08/a1/1808a1be-b5a9-5e69-583d-b8a357efd760/19UM1IM12338.rgb.jpg/600x600bb.jpg"
+  },
+  {
+    "title": "Sunshine of Your Love",
+    "artist": "Cream",
+    "categories": ["Rock", "Rock 60s"],
+    "snippet": "/songs/rock/cream_sunshine_of_your_love.mp3",
+    "cover": "https://is1-ssl.mzstatic.com/image/thumb/Music115/v4/9f/3f/da/9f3fdaab-98af-bec1-633c-212a2705ccf3/00602537802913.rgb.jpg/600x600bb.jpg"
+  },
+  {
+    "title": "Here With Me",
+    "artist": "d4vd",
+    "categories": ["Pop", "Pop 20s","Rap", "Rap 20s"],
+    "snippet": "/songs/rock/d4vd_here_with_me.mp3",
+    "cover": "https://is1-ssl.mzstatic.com/image/thumb/Music112/v4/90/ad/38/90ad385f-2dba-8046-99d0-3ee71df77297/22UM1IM07351.rgb.jpg/600x600bb.jpg"
+  },
+  {
+    "title": "Romantic Homicide",
+    "artist": "d4vd",
+    "categories": ["Pop", "Pop 20s","Rap", "Rap 20s"],
+    "snippet": "/songs/rock/d4vd_romantic_homicide.mp3",
+    "cover": "https://is1-ssl.mzstatic.com/image/thumb/Music112/v4/4e/0c/82/4e0c82e8-7970-25f5-bfd6-6f0faec83dcb/22UMGIM94151.rgb.jpg/600x600bb.jpg"
+  },
+  {
+    "title": "ROCKSTAR (feat. Roddy Ricch)",
+    "artist": "DaBaby",
+    "categories": ["Rap", "Rap 20s"],
+    "snippet": "/songs/rap/dababy_rockstar_feat_roddy_ricch.mp3",
+    "cover": "https://is1-ssl.mzstatic.com/image/thumb/Music124/v4/1b/63/04/1b630400-490e-245b-a26f-0120f6f253c8/20UMGIM28168.rgb.jpg/600x600bb.jpg"
+  },
+  {
+    "title": "You Spin Me Round (Like a Record)",
+    "artist": "Dead or Alive",
+    "categories": ["Pop", "Pop 80s"],
+    "snippet": "/songs/pop/dead_or_alive_you_spin_me_round_like_a_record.mp3",
+    "cover": "https://is1-ssl.mzstatic.com/image/thumb/Music115/v4/1c/84/31/1c8431ca-9852-169c-ad8c-bcf97cc62ae4/mzi.dugjeekd.jpg/600x600bb.jpg"
+  },
+  {
+    "title": "Elevate (feat. Denzel Curry, YBN Cordae, SwaVay & Trevor Rich)",
+    "artist": "DJ Khalil",
+    "categories": ["Pop", "Pop 10s"],
+    "snippet": "/songs/pop/dj_khalil_elevate_feat_denzel_curry_ybn_cordae_swavay_trevor_rich.mp3",
+    "cover": "https://is1-ssl.mzstatic.com/image/thumb/Music125/v4/4b/30/2c/4b302cb6-7a14-5464-4e97-0577e9d0be49/18UMGIM82277.rgb.jpg/600x600bb.jpg"
+  },
+  {
+    "title": "Fair Trade (feat. Travis Scott)",
+    "artist": "Drake",
+    "categories": ["Rap", "Rap 20s"],
+    "snippet": "/songs/rap/drake_fair_trade_feat_travis_scott.mp3",
+    "cover": "https://is1-ssl.mzstatic.com/image/thumb/Music125/v4/cb/6b/5f/cb6b5fc3-8d35-908a-18e6-6f8eda46ce11/21UM1IM07521.rgb.jpg/600x600bb.jpg"
+  },
+  {
+    "title": "Jimmy Cooks (feat. 21 Savage)",
+    "artist": "Drake",
+    "categories": ["Rap", "Rap 20s"],
+    "snippet": "/songs/pop/drake_jimmy_cooks_feat_21_savage.mp3",
+    "cover": "https://is1-ssl.mzstatic.com/image/thumb/Music122/v4/6d/31/ab/6d31abaf-7a07-05f1-13ad-72ec520b6bfb/22UMGIM67374.rgb.jpg/600x600bb.jpg"
+  },
+  {
+    "title": "Toosie Slide",
+    "artist": "Drake",
+    "categories": ["Rap", "Rap 20s"],
+    "snippet": "/songs/rap/drake_toosie_slide.mp3",
+    "cover": "https://is1-ssl.mzstatic.com/image/thumb/Music114/v4/00/70/0b/00700b6f-2b06-c986-c7ec-445d95b28e74/20UMGIM34467.rgb.jpg/600x600bb.jpg"
+  },
+  {
+    "title": "Moskau",
+    "artist": "GENGHIS KHAN",
+    "categories": ["Pop", "Pop 70s"],
+    "snippet": "/songs/pop/genghis_khan_moskau.mp3",
+    "cover": "https://is1-ssl.mzstatic.com/image/thumb/Music125/v4/88/fe/63/88fe63b4-2704-40da-702b-ddab75db3dbf/886446898902.jpg/600x600bb.jpg"
+  },
+  {
+    "title": "MIDDLE OF THE NIGHT",
+    "artist": "Elley Duhé",
+    "categories": ["Pop", "Pop 20s"],
+    "snippet": "/songs/pop/elley_duh_middle_of_the_night.mp3",
+    "cover": "https://is1-ssl.mzstatic.com/image/thumb/Music114/v4/64/03/cb/6403cb43-d892-4663-d759-5093b5ed610c/886448203087.jpg/600x600bb.jpg"
+  },
+  {
+    "title": "Pepas (Mixed)",
+    "artist": "Farruko",
+    "categories": ["Pop", "Pop 20s"],
+    "snippet": "/songs/pop/farruko_pepas_ti_sto_remix_mixed.mp3",
+    "cover": "https://is1-ssl.mzstatic.com/image/thumb/Features126/v4/ac/cb/f3/accbf323-a631-12eb-3977-0563254dd89e/mza_8588403352509644499.png/600x600bb.jpg"
+  },
+  {
+    "title": "Heat Waves",
+    "artist": "Glass Animals",
+    "categories": ["Pop", "Pop 20s"],
+    "snippet": "/songs/rock/glass_animals_heat_waves.mp3",
+    "cover": "https://is1-ssl.mzstatic.com/image/thumb/Music115/v4/da/8b/77/da8b7731-6f4f-eacf-5e74-8b23389eefa1/20UMGIM03371.rgb.jpg/600x600bb.jpg"
+  },
+  {
+    "title": "What Is Love (7\" Mix)",
+    "artist": "Haddaway",
+    "categories": ["Pop", "Pop 90s"],
+    "snippet": "/songs/pop/haddaway_what_is_love_7_mix.mp3",
+    "cover": "https://is1-ssl.mzstatic.com/image/thumb/Music112/v4/88/ec/43/88ec43e7-3321-6664-835b-73243625f668/4250282801123.jpg/600x600bb.jpg"
+  },
+  {
+    "title": "As It Was",
+    "artist": "Harry Styles",
+    "categories": ["Pop", "Pop 20s"],
+    "snippet": "/songs/pop/harry_styles_as_it_was.mp3",
+    "cover": "https://is1-ssl.mzstatic.com/image/thumb/Music126/v4/2a/19/fb/2a19fb85-2f70-9e44-f2a9-82abe679b88e/886449990061.jpg/600x600bb.jpg"
+  },
+  {
+    "title": "Late Night Talking",
+    "artist": "Harry Styles",
+    "categories": ["Pop", "Pop 20s"],
+    "snippet": "/songs/pop/harry_styles_late_night_talking.mp3",
+    "cover": "https://is1-ssl.mzstatic.com/image/thumb/Music126/v4/2a/19/fb/2a19fb85-2f70-9e44-f2a9-82abe679b88e/886449990061.jpg/600x600bb.jpg"
+  },
+  {
+    "title": "Watermelon Sugar",
+    "artist": "Harry Styles",
+    "categories": ["Pop", "Pop 10s"],
+    "snippet": "/songs/pop/harry_styles_watermelon_sugar.mp3",
+    "cover": "https://is1-ssl.mzstatic.com/image/thumb/Music115/v4/2b/c4/c9/2bc4c9d4-3bc6-ab13-3f71-df0b89b173de/886448022213.jpg/600x600bb.jpg"
+  },
+  {
+    "title": "Lemonade (feat. NAV)",
+    "artist": "Internet Money, Gunna & Don Toliver",
+    "categories": ["Rap", "Rap 20s"],
+    "snippet": "/songs/rap/internet_money_gunna_don_toliver_lemonade_feat_nav.mp3",
+    "cover": "https://is1-ssl.mzstatic.com/image/thumb/Music126/v4/6f/6e/5f/6f6e5f75-7a2c-91c0-6ecc-5ed0c93e89e1/842812133862.jpg/600x600bb.jpg"
+  },
+  {
+    "title": "First Class",
+    "artist": "Jack Harlow",
+    "categories": ["Rap", "Rap 20s"],
+    "snippet": "/songs/rap/jack_harlow_first_class.mp3",
+    "cover": "https://is1-ssl.mzstatic.com/image/thumb/Music122/v4/cf/9a/0e/cf9a0ee1-3b03-c511-cf7c-4929265e261c/075679745118.jpg/600x600bb.jpg"
+  },
+  {
+    "title": "Whatcha Say",
+    "artist": "Jason Derulo",
+    "categories": ["Pop", "Pop 00s"],
+    "snippet": "/songs/pop/jason_derulo_whatcha_say.mp3",
+    "cover": "https://is1-ssl.mzstatic.com/image/thumb/Features115/v4/2a/e1/fc/2ae1fc34-a98d-20bf-33ed-71e321773b0a/dj.lykipmdm.jpg/600x600bb.jpg"
+  },
+  {
+    "title": "The Time Is Now",
+    "artist": "John Cena & Tha Trademarc",
+    "categories": ["Rap", "Rap 00s"],
+    "snippet": "/songs/rap/john_cena_tha_trademarc_the_time_is_now.mp3",
+    "cover": "https://is1-ssl.mzstatic.com/image/thumb/Music124/v4/f7/1a/1b/f71a1bce-ebf2-66cc-e1c8-b2563719dc22/mzi.nzichsfo.jpg/600x600bb.jpg"
+  },
+  {
+    "title": "Glimpse of Us",
+    "artist": "Joji",
+    "categories": ["Pop", "Pop 20s"],
+    "snippet": "/songs/pop/joji_glimpse_of_us.mp3",
+    "cover": "https://is1-ssl.mzstatic.com/image/thumb/Music221/v4/e4/f6/bd/e4f6bd1d-c969-026d-bb63-f32c77649474/54391890016.jpg/600x600bb.jpg"
+  },
+  {
+    "title": "Peaches (feat. Daniel Caesar & GIVĒON)",
+    "artist": "Justin Bieber",
+    "categories": ["Pop", "Pop 20s"],
+    "snippet": "/songs/pop/justin_bieber_peaches_feat_daniel_caesar_giv_on.mp3",
+    "cover": "https://is1-ssl.mzstatic.com/image/thumb/Music115/v4/e0/92/da/e092da2d-9f6d-11dc-7843-2021e95a2b61/21UMGIM17518.rgb.jpg/600x600bb.jpg"
+  },
+  {
+    "title": "golden hour",
+    "artist": "JVKE",
+    "categories": ["Pop", "Pop 20s"],
+    "snippet": "/songs/pop/jvke_golden_hour.mp3",
+    "cover": "https://is1-ssl.mzstatic.com/image/thumb/Music211/v4/8d/1a/7b/8d1a7b44-316f-7c7f-4380-935673fb697a/5056167175650.jpg/600x600bb.jpg"
+  },
+  {
+    "title": "telepatía",
+    "artist": "Kali Uchis",
+    "categories": ["Pop", "Pop 20s"],
+    "snippet": "/songs/pop/kali_uchis_telepat_a.mp3",
+    "cover": "https://is1-ssl.mzstatic.com/image/thumb/Music115/v4/c2/21/4a/c2214a0a-1355-770e-eef2-7b872f433e02/20UMGIM71274.rgb.jpg/600x600bb.jpg"
+  },
+  {
+    "title": "Formula",
+    "artist": "Labrinth",
+    "categories": ["Pop", "Pop 10s"],
+    "snippet": "/songs/pop/labrinth_formula.mp3",
+    "cover": "https://is1-ssl.mzstatic.com/image/thumb/Music114/v4/6f/f4/05/6ff40578-72c8-e9ed-5413-96dc4874cc86/886447932223.jpg/600x600bb.jpg"
+  },
+  {
+    "title": "Blueberry Faygo",
+    "artist": "Lil Mosey",
+    "categories": ["Rap", "Rap 20s"],
+    "snippet": "/songs/rap/lil_mosey_blueberry_faygo.mp3",
+    "cover": "https://is1-ssl.mzstatic.com/image/thumb/Music124/v4/56/98/88/569888d8-9094-d4bd-0ace-54e09e16cd90/20UMGIM06026.rgb.jpg/600x600bb.jpg"
+  },
+  {
+    "title": "INDUSTRY BABY",
+    "artist": "Lil Nas X & Jack Harlow",
+    "categories": ["Rap", "Rap 20s"],
+    "snippet": "/songs/rap/lil_nas_x_jack_harlow_industry_baby.mp3",
+    "cover": "https://is1-ssl.mzstatic.com/image/thumb/Music115/v4/4d/f2/df/4df2dfcc-a2a5-de63-9885-cd77efa6d26c/886449661831.jpg/600x600bb.jpg"
+  },
+  {
+    "title": "MONTERO (Call Me By Your Name)",
+    "artist": "Lil Nas X",
+    "categories": ["Rap", "Rap 20s"],
+    "snippet": "/songs/pop/lil_nas_x_montero_call_me_by_your_name.mp3",
+    "cover": "https://is1-ssl.mzstatic.com/image/thumb/Music125/v4/8d/ef/37/8def37cf-f641-1bba-f312-61a9b8d19fbf/886449068029.jpg/600x600bb.jpg"
+  },
+  {
+    "title": "THATS WHAT I WANT",
+    "artist": "Lil Nas X",
+    "categories": ["Rap", "Rap 20s"],
+    "snippet": "/songs/pop/lil_nas_x_thats_what_i_want.mp3",
+    "cover": "https://is1-ssl.mzstatic.com/image/thumb/Music115/v4/4b/42/21/4b422136-2cfd-222c-ca7c-7573bf23139c/886449537204.jpg/600x600bb.jpg"
+  },
+  {
+    "title": "About Damn Time",
+    "artist": "Lizzo",
+    "categories": ["Pop", "Pop 20s"],
+    "snippet": "/songs/pop/lizzo_about_damn_time.mp3",
+    "cover": "https://is1-ssl.mzstatic.com/image/thumb/Music112/v4/b8/20/f9/b820f951-e53c-93bf-e75d-33df6165e7c1/075679736109.jpg/600x600bb.jpg"
+  },
+  {
+    "title": "Where Are You Now",
+    "artist": "Lost Frequencies & Calum Scott",
+    "categories": ["Pop", "Pop 20s"],
+    "snippet": "/songs/pop/lost_frequencies_calum_scott_where_are_you_now.mp3",
+    "cover": "https://is1-ssl.mzstatic.com/image/thumb/Music125/v4/25/79/2a/25792aaa-fe16-c718-27fa-c3b1781780fb/886449449668.jpg/600x600bb.jpg"
+  },
+  {
+    "title": "Astronaut In The Ocean",
+    "artist": "Masked Wolf",
+    "categories": ["Rap", "Rap 20s"],
+    "snippet": "/songs/pop/kidz_bop_kids_astronaut_in_the_ocean.mp3",
+    "cover": "https://is1-ssl.mzstatic.com/image/thumb/Music115/v4/48/1e/c4/481ec4ab-5e42-8f6c-ad8f-086314e47eee/21CRGIM29092.rgb.jpg/600x600bb.jpg"
+  },
+  {
+    "title": "Sunroof",
+    "artist": "Nicky Youre & Dazy",
+    "categories": ["Pop", "Pop 20s"],
+    "snippet": "/songs/pop/nicky_youre_dazy_sunroof.mp3",
+    "cover": "https://is1-ssl.mzstatic.com/image/thumb/Music116/v4/1e/7d/78/1e7d788c-4cc7-4bb5-0e82-913d4b55ae58/196871151153.jpg/600x600bb.jpg"
+  },
+  {
+    "title": "favorite crime",
+    "artist": "Olivia Rodrigo",
+    "categories": ["Pop", "Pop 20s"],
+    "snippet": "/songs/pop/olivia_rodrigo_favorite_crime.mp3",
+    "cover": "https://is1-ssl.mzstatic.com/image/thumb/Music125/v4/33/fd/32/33fd32b1-0e43-9b4a-8ed6-19643f23544e/21UMGIM26092.rgb.jpg/600x600bb.jpg"
+  },
+  {
+    "title": "Only Time",
+    "artist": "Enya",
+    "categories": ["Pop", "Pop 00s"],
+    "snippet": "/songs/pop/enya_only_time.mp3",
+    "cover": "https://is1-ssl.mzstatic.com/image/thumb/Music125/v4/b0/84/b3/b084b388-41b6-8767-23dc-341a76fcd64d/mzi.bwmjkjwa.jpg/600x600bb.jpg"
+  },
+  {
+    "title": "Martin & Gina",
+    "artist": "Polo G",
+    "categories": ["Rap", "Rap 20s"],
+    "snippet": "/songs/rap/polo_g_martin_gina.mp3",
+    "cover": "https://is1-ssl.mzstatic.com/image/thumb/Music125/v4/b4/b2/91/b4b29174-2fed-26f8-72a1-e2d2fcd08316/886448463771.jpg/600x600bb.jpg"
+  },
+  {
+    "title": "RAPSTAR",
+    "artist": "Polo G",
+    "categories": ["Rap", "Rap 20s"],
+    "snippet": "/songs/rap/polo_g_rapstar.mp3",
+    "cover": "https://is1-ssl.mzstatic.com/image/thumb/Music116/v4/88/34/6d/88346d4a-5eb9-4f9b-e0e4-d1b838873bc2/886449781454.jpg/600x600bb.jpg"
+  },
+  {
+    "title": "Dior",
+    "artist": "Pop Smoke",
+    "categories": ["Rap", "Rap 10s"],
+    "snippet": "/songs/rap/pop_smoke_dior.mp3",
+    "cover": "https://is1-ssl.mzstatic.com/image/thumb/Music116/v4/3b/7e/58/3b7e588a-dd75-5625-a24c-5778efb2778a/19UMGIM73428.rgb.jpg/600x600bb.jpg"
+  },
+  {
+    "title": "For The Night (feat. Lil Baby & DaBaby)",
+    "artist": "Pop Smoke",
+    "categories": ["Rap", "Rap 20s"],
+    "snippet": "/songs/rap/pop_smoke_for_the_night_feat_lil_baby_dababy_mixed.mp3",
+    "cover": "https://is1-ssl.mzstatic.com/image/thumb/Music112/v4/65/7a/9e/657a9e19-1a6d-e3e8-1217-ebfd8b0acf17/dj.gkbiejjr.jpg/600x600bb.jpg"
+  },
+  {
+    "title": "What You Know Bout Love",
+    "artist": "Pop Smoke",
+    "categories": ["Rap", "Rap 20s"],
+    "snippet": "/songs/rap/pop_smoke_what_you_know_bout_love.mp3",
+    "cover": "https://is1-ssl.mzstatic.com/image/thumb/Music124/v4/f1/25/a0/f125a0be-bb35-ca34-8364-73d25fc9de6b/20UMGIM54052.rgb.jpg/600x600bb.jpg"
+  },
+  {
+    "title": "I Like You (A Happier Song) [feat. Doja Cat]",
+    "artist": "Post Malone",
+    "categories": ["Rap", "Rap 20s"],
+    "snippet": "/songs/rap/post_malone_i_like_you_a_happier_song_feat_doja_cat.mp3",
+    "cover": "https://is1-ssl.mzstatic.com/image/thumb/Music112/v4/a1/4b/50/a14b5021-1167-41bd-0944-7461357e0c43/22UMGIM49145.rgb.jpg/600x600bb.jpg"
+  },
+  {
+    "title": "Calm Down",
+    "artist": "Rema",
+    "categories": ["Pop", "Pop 20s"],
+    "snippet": "/songs/pop/rema_calm_down.mp3",
+    "cover": "https://is1-ssl.mzstatic.com/image/thumb/Music116/v4/b2/b4/7c/b2b47cf9-d8e2-53f6-5c62-c974d665c95b/22UMGIM08994.rgb.jpg/600x600bb.jpg"
+  },
+  {
+    "title": "Friday (feat. Mufasa & Hypeman) [Dopamine Re-Edit]",
+    "artist": "Riton & Nightcrawlers",
+    "categories": ["Pop", "Pop 20s"],
+    "snippet": "/songs/pop/riton_nightcrawlers_friday_feat_mufasa_hypeman_dopamine_re_edit.mp3",
+    "cover": "https://is1-ssl.mzstatic.com/image/thumb/Music115/v4/f8/a5/5f/f8a55f83-f755-524c-aa9e-fd6a039e34e7/886448989318.jpg/600x600bb.jpg"
+  },
+  {
+    "title": "SNAP",
+    "artist": "Rosa Linn",
+    "categories": ["Pop", "Pop 20s"],
+    "snippet": "/songs/pop/rosa_linn_snap.mp3",
+    "cover": "https://is1-ssl.mzstatic.com/image/thumb/Music221/v4/db/b6/5b/dbb65bfe-d7ba-fa7a-2939-8efe303f06c1/196589359971.jpg/600x600bb.jpg"
+  },
+  {
+    "title": "DESPECHÁ (Remix) [Mixed]",
+    "artist": "ROSALÍA",
+    "categories": ["Pop", "Pop 20s"],
+    "snippet": "/songs/pop/rosal_a_despech_remix_mixed.mp3",
+    "cover": "https://is1-ssl.mzstatic.com/image/thumb/Music112/v4/aa/d4/e1/aad4e105-1194-33d7-1273-3380f18c9c9e/af0aa48a-b27e-4276-a3c3-b91ebf8353c4.jpg/600x600bb.jpg"
+  },
+  {
+    "title": "Unholy",
+    "artist": "Sam Smith & Kim Petras",
+    "categories": ["Pop", "Pop 20s"],
+    "snippet": "/songs/pop/sam_smith_kim_petras_unholy.mp3",
+    "cover": "https://is1-ssl.mzstatic.com/image/thumb/Music112/v4/a4/0c/bd/a40cbd9d-bb38-8164-cd30-e107c8c7bb0e/22UMGIM83430.rgb.jpg/600x600bb.jpg"
+  },
+  {
+    "title": "Scatman (Ski-Ba-Bop-Ba-Dop-Bop)",
+    "artist": "Scatman John",
+    "categories": ["Pop", "Pop 90s"],
+    "snippet": "/songs/pop/scatman_john_scatman_ski_ba_bop_ba_dop_bop_extended_radio_version.mp3",
+    "cover": "https://is1-ssl.mzstatic.com/image/thumb/Music/42/ab/b2/mzi.okwymuos.jpg/600x600bb.jpg"
+  },
+  {
+    "title": "Seven Nation Army",
+    "artist": "The White Stripes",
+    "categories": ["Pop", "Pop 20s"],
+    "snippet": "/songs/pop/the_white_stripes_seven_nation_army_the_glitch_mob_remix_mixed.mp3",
+    "cover": "https://is1-ssl.mzstatic.com/image/thumb/Features126/v4/4f/a4/4b/4fa44b1b-6486-0f1f-70d2-047365a22bc7/mza_7786158018589245738.png/600x600bb.jpg"
+  },
+  {
+    "title": "2055 (Originally Performed by Sleepy Hallow) [Instrumental Version]",
+    "artist": "Backing Business",
+    "categories": ["Rap", "Rap 20s"],
+    "snippet": "/songs/pop/backing_business_2055_originally_performed_by_sleepy_hallow_instrumental_version.mp3",
+    "cover": "https://is1-ssl.mzstatic.com/image/thumb/Music126/v4/e2/21/1a/e2211ada-4f3c-8ca8-1049-3dee97ea10d6/MM19053.jpg/600x600bb.jpg"
+  },
+  {
+    "title": "Somebody That I Used to Know (feat. Kimbra)",
+    "artist": "Gotye",
+    "categories": ["Pop", "Pop 10s"],
+    "snippet": "/songs/rock/gotye_somebody_that_i_used_to_know_feat_kimbra.mp3",
+    "cover": "https://is1-ssl.mzstatic.com/image/thumb/Music115/v4/b3/8a/98/b38a9867-2a9c-de2f-2d80-c624fb2200ec/11UMGIM19347.rgb.jpg/600x600bb.jpg"
+  },
+  {
+    "title": "Until I Found You",
+    "artist": "Stephen Sanchez",
+    "categories": ["Pop", "Pop 20s"],
+    "snippet": "/songs/pop/stephen_sanchez_until_i_found_you.mp3",
+    "cover": "https://is1-ssl.mzstatic.com/image/thumb/Music115/v4/64/d2/c5/64d2c511-67f4-ae09-5153-d39c3da413a3/21UMGIM75467.rgb.jpg/600x600bb.jpg"
+  },
+  {
+    "title": "Bad Habit",
+    "artist": "Steve Lacy",
+    "categories": ["Rap", "Rap 20s"],
+    "snippet": "/songs/pop/steve_lacy_bad_habit.mp3",
+    "cover": "https://is1-ssl.mzstatic.com/image/thumb/Music122/v4/f4/b4/c4/f4b4c458-e52c-859b-fdef-2600dd4fe768/196589380630.jpg/600x600bb.jpg"
+  },
+  {
+    "title": "Eye of the Tiger",
+    "artist": "Survivor",
+    "categories": ["Rock", "Rock 80s"],
+    "snippet": "/songs/rock/survivor_eye_of_the_tiger.mp3",
+    "cover": "https://is1-ssl.mzstatic.com/image/thumb/Music125/v4/f9/02/8f/f9028f63-7a55-235e-f789-1e8946430fa2/614223201122.jpg/600x600bb.jpg"
+  },
+  {
+    "title": "Moth To A Flame",
+    "artist": "Swedish House Mafia & The Weeknd",
+    "categories": ["Pop", "Pop 20s"],
+    "snippet": "/songs/pop/swedish_house_mafia_the_weeknd_moth_to_a_flame.mp3",
+    "cover": "https://is1-ssl.mzstatic.com/image/thumb/Music115/v4/2f/56/e7/2f56e79c-fdaa-c0d5-545e-9942e54301c3/21UM1IM29516.rgb.jpg/600x600bb.jpg"
+  },
+  {
+    "title": "STAY",
+    "artist": "The Kid LAROI & Justin Bieber",
+    "categories": ["Pop", "Pop 20s"],
+    "snippet": "/songs/pop/the_kid_laroi_justin_bieber_stay.mp3",
+    "cover": "https://is1-ssl.mzstatic.com/image/thumb/Music125/v4/89/59/6a/89596ab9-fa3c-8d08-4d95-a6450fa2013c/886449400515.jpg/600x600bb.jpg"
+  },
+  {
+    "title": "Give It to Me (feat. Justin Timberlake & Nelly Furtado)",
+    "artist": "Timbaland",
+    "categories": ["Pop", "Pop 00s"],
+    "snippet": "/songs/rap/timbaland_give_it_to_me_feat_justin_timberlake_nelly_furtado.mp3",
+    "cover": "https://is1-ssl.mzstatic.com/image/thumb/Music211/v4/2e/2e/27/2e2e2781-9cba-7fa4-df33-1c5eb66e607e/07UMGIM02822.rgb.jpg/600x600bb.jpg"
+  },
+  {
+    "title": "Freaks",
+    "artist": "Timmy Trumpet & Savage",
+    "categories": ["Pop", "Pop 10s"],
+    "snippet": "/songs/pop/timmy_trumpet_savage_freaks_radio_edit.mp3",
+    "cover": "https://is1-ssl.mzstatic.com/image/thumb/Music124/v4/1d/0d/6f/1d0d6fca-a4f0-91b6-9617-87330c7e9817/00602557456561.rgb.jpg/600x600bb.jpg"
+  },
+  {
+    "title": "goosebumps",
+    "artist": "Travis Scott",
+    "categories": ["Rap", "Rap 10s"],
+    "snippet": "/songs/rap/travis_scott_goosebumps.mp3",
+    "cover": "https://is1-ssl.mzstatic.com/image/thumb/Music114/v4/b8/e5/27/b8e527c8-aaf4-c7b7-5562-c479458ed7d9/886446092645.jpg/600x600bb.jpg"
+  },
+  {
+    "title": "Heads Will Roll",
+    "artist": "Yeah Yeah Yeahs",
+    "categories": ["Pop", "Pop 00s"],
+    "snippet": "/songs/rock/yeah_yeah_yeahs_heads_will_roll_a_trak_remix.mp3",
+    "cover": "https://is1-ssl.mzstatic.com/image/thumb/Music122/v4/09/2b/ed/092bed71-03c0-bfe9-d790-423a379461a7/09UMGIM40706.rgb.jpg/600x600bb.jpg"
+  },
+  {
+    "title": "Something in the Orange",
+    "artist": "Zach Bryan",
+    "categories": ["Pop", "Pop 20s"],
+    "snippet": "/songs/pop/zach_bryan_something_in_the_orange.mp3",
+    "cover": "https://is1-ssl.mzstatic.com/image/thumb/Music112/v4/d6/cd/d8/d6cdd86f-db67-ffc8-cd5e-26c4559686c3/054391903860.jpg/600x600bb.jpg"
   }
 ]
 
