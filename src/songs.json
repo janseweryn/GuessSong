@@ -9792,6 +9792,20 @@
     "categories": ["Pop", "Pop 20s"],
     "snippet": "/songs/pop/zach_bryan_something_in_the_orange.mp3",
     "cover": "https://is1-ssl.mzstatic.com/image/thumb/Music112/v4/d6/cd/d8/d6cdd86f-db67-ffc8-cd5e-26c4559686c3/054391903860.jpg/600x600bb.jpg"
+  },
+  {
+    "title": "Let Me Entertain You",
+    "artist": "Robbie Williams",
+    "categories": ["Pop", "Pop 90s"],
+    "snippet": "/songs/pop/robbie_williams_let_me_entertain_you.mp3",
+    "cover": "https://is1-ssl.mzstatic.com/image/thumb/Music124/v4/70/87/d6/7087d62d-f751-c9c3-5c5c-d3fe7caa307b/13UABIM56247.rgb.jpg/600x600bb.jpg"
+  },
+  {
+    "title": "Ice Ice Baby",
+    "artist": "Vanilla Ice",
+    "categories": ["Rap", "Rap 90s"],
+    "snippet": "/songs/rap/vanilla_ice_ice_ice_baby.mp3",
+    "cover": "https://is1-ssl.mzstatic.com/image/thumb/Music221/v4/a1/6f/fb/a16ffb26-747f-5509-1233-2e472c293a89/13UABIM50850.rgb.jpg/600x600bb.jpg"
   }
 ]
 

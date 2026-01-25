@@ -758,6 +758,32 @@ const manualDaily = {
       dailyCategory: "Rap",
     },
   ],
+  "2026-01-26": [
+    {
+      title: "Let Me Entertain You",
+      artist: "Robbie Williams",
+      cover: "https://is1-ssl.mzstatic.com/image/thumb/Music124/v4/70/87/d6/7087d62d-f751-c9c3-5c5c-d3fe7caa307b/13UABIM56247.rgb.jpg/600x600bb.jpg",
+      snippet: "/songs/pop/robbie_williams_let_me_entertain_you.mp3",
+      categories: ["pop"],
+      dailyCategory: "Pop",
+    },
+    {
+      title: "Welcome To The Jungle",
+      artist: "Guns N' Roses",
+      cover: "/songs/covers/appetite.jpg",
+      snippet: "/songs/rock/welcome_jungle.mp3",
+      categories: ["rock"],
+      dailyCategory: "Rock",
+    },
+    {
+      title: "Ice Ice Baby",
+      artist: "Vanilla Ice",
+      cover: "https://is1-ssl.mzstatic.com/image/thumb/Music221/v4/a1/6f/fb/a16ffb26-747f-5509-1233-2e472c293a89/13UABIM50850.rgb.jpg/600x600bb.jpg",
+      snippet: "/songs/rap/vanilla_ice_ice_ice_baby.mp3",
+      categories: ["rap"],
+      dailyCategory: "Rap",
+    },
+  ],
 };
 
 const LEVELS = [
