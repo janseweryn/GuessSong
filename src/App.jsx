@@ -784,6 +784,32 @@ const manualDaily = {
       dailyCategory: "Rap",
     },
   ],
+  "2026-01-27": [
+    {
+      title: "Beautiful Things",
+      artist: "Benson Boone",
+      cover: "https://is1-ssl.mzstatic.com/image/thumb/Music116/v4/54/f4/92/54f49210-e260-b519-ebbd-f4f40ee710cd/054391342751.jpg/600x600bb.jpg",
+      snippet: "/songs/pop/benson_boone_beautiful_things.mp3",
+      categories: ["pop"],
+      dailyCategory: "Pop",
+    },
+    {
+      title: "Psycho Killer",
+      artist: "Talking Heads",
+      cover: "https://is1-ssl.mzstatic.com/image/thumb/Music/y2004/m08/d17/h21/s06.xwrnkppg.jpg/600x600bb.jpg",
+      snippet: "/songs/rock/talking_heads_psycho_killer.mp3",
+      categories: ["rock"],
+      dailyCategory: "Rock",
+    },
+    {
+      title: "The Time Is Now",
+      artist: "John Cena & Tha Trademarc",
+      cover: "https://is1-ssl.mzstatic.com/image/thumb/Music124/v4/f7/1a/1b/f71a1bce-ebf2-66cc-e1c8-b2563719dc22/mzi.nzichsfo.jpg/600x600bb.jpg",
+      snippet: "/songs/rap/john_cena_tha_trademarc_the_time_is_now.mp3",
+      categories: ["rap"],
+      dailyCategory: "Rap",
+    },
+  ],
 };
 
 const LEVELS = [
