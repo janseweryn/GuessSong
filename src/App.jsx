@@ -830,8 +830,8 @@ const manualDaily = {
     {
       title: "Babydoll",
       artist: "Dominic Fike",
-      cover: "https://is1-ssl.mzstatic.com/image/thumb/Music6/v4/36/08/55/36085508-0a77-329e-5d72-f340b9020c58/0724358368659_1401x1401_300dpi.jpg/600x600bb.jpg",
-      snippet: "/songs/pop/caesars_jerk_it_out.mp3",
+      cover: "https://is1-ssl.mzstatic.com/image/thumb/Music125/v4/2d/37/18/2d3718e9-8620-b603-d3cc-f34ce817070d/886447290170.jpg/600x600bb.jpg",
+      snippet: "/songs/rock/dominic_fike_babydoll.mp3",
       categories: ["rap"],
       dailyCategory: "Rap",
     },
