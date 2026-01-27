@@ -810,6 +810,32 @@ const manualDaily = {
       dailyCategory: "Rap",
     },
   ],
+  "2026-01-28": [
+    {
+      title: "Harder Better Faster Stronger",
+      artist: "Daft Punk",
+      cover: "/songs/covers/discovery.jpg",
+      snippet: "/songs/pop/harder_better.mp3",
+      categories: ["pop"],
+      dailyCategory: "Pop",
+    },
+    {
+      title: "Jerk It Out",
+      artist: "Caesars",
+      cover: "https://is1-ssl.mzstatic.com/image/thumb/Music6/v4/36/08/55/36085508-0a77-329e-5d72-f340b9020c58/0724358368659_1401x1401_300dpi.jpg/600x600bb.jpg",
+      snippet: "/songs/pop/caesars_jerk_it_out.mp3",
+      categories: ["rock"],
+      dailyCategory: "Rock",
+    },
+    {
+      title: "Babydoll",
+      artist: "Dominic Fike",
+      cover: "https://is1-ssl.mzstatic.com/image/thumb/Music6/v4/36/08/55/36085508-0a77-329e-5d72-f340b9020c58/0724358368659_1401x1401_300dpi.jpg/600x600bb.jpg",
+      snippet: "/songs/pop/caesars_jerk_it_out.mp3",
+      categories: ["rap"],
+      dailyCategory: "Rap",
+    },
+  ],
 };
 
 const LEVELS = [
