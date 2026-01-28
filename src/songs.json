@@ -9820,6 +9820,20 @@
     "categories": ["Rock", "Rock 00s"],
     "snippet": "/songs/pop/caesars_jerk_it_out.mp3",
     "cover": "https://is1-ssl.mzstatic.com/image/thumb/Music6/v4/36/08/55/36085508-0a77-329e-5d72-f340b9020c58/0724358368659_1401x1401_300dpi.jpg/600x600bb.jpg"
+  },
+   {
+    "title": "Wicked Game",
+    "artist": "Chris Isaak",
+    "categories": ["Rock", "Rock 80s"],
+    "snippet": "/songs/rock/chris_isaak_wicked_game.mp3",
+    "cover": "https://is1-ssl.mzstatic.com/image/thumb/Music125/v4/d0/34/9b/d0349b33-35fb-8913-8755-08b6a1bdd382/21UMGIM47740.rgb.jpg/600x600bb.jpg"
+  },
+  {
+    "title": "So Sick",
+    "artist": "Ne-Yo",
+    "categories": ["Pop", "Pop 00s","Rap", "Rap 00s"],
+    "snippet": "/songs/pop/ne_yo_so_sick.mp3",
+    "cover": "https://is1-ssl.mzstatic.com/image/thumb/Music112/v4/3c/0e/86/3c0e86f7-60bd-6c3d-024f-a4877b16b0e3/06UMGIM17731.rgb.jpg/600x600bb.jpg"
   }
 ]
 

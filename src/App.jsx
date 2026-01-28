@@ -836,6 +836,32 @@ const manualDaily = {
       dailyCategory: "Rap",
     },
   ],
+  "2026-01-29": [
+    {
+      title: "My All",
+      artist: "Mariah Carey",
+      cover: "https://is1-ssl.mzstatic.com/image/thumb/Music114/v4/b8/fb/9b/b8fb9b86-32ab-5f6a-0e50-35b0e991ee44/mzi.stdlgspm.jpg/600x600bb.jpg",
+      snippet: "/songs/rock/chris_isaak_wicked_game.mp3",
+      categories: ["pop"],
+      dailyCategory: "Pop",
+    },
+    {
+      title: "Wicked Game",
+      artist: "Chris Isaak",
+      cover: "https://is1-ssl.mzstatic.com/image/thumb/Music125/v4/d0/34/9b/d0349b33-35fb-8913-8755-08b6a1bdd382/21UMGIM47740.rgb.jpg/600x600bb.jpg",
+      snippet: "/songs/rock/chris_isaak_wicked_game.mp3",
+      categories: ["rock"],
+      dailyCategory: "Rock",
+    },
+    {
+      title: "So Sick",
+      artist: "Ne-Yo",
+      cover: "https://is1-ssl.mzstatic.com/image/thumb/Music112/v4/3c/0e/86/3c0e86f7-60bd-6c3d-024f-a4877b16b0e3/06UMGIM17731.rgb.jpg/600x600bb.jpg",
+      snippet: "/songs/pop/ne_yo_so_sick.mp3",
+      categories: ["rap"],
+      dailyCategory: "Rap",
+    },
+  ],
 };
 
 const LEVELS = [
