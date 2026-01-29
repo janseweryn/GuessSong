@@ -862,6 +862,32 @@ const manualDaily = {
       dailyCategory: "Rap",
     },
   ],
+   "2026-01-30": [
+    {
+      title: "Disturbia",
+      artist: "Rihanna",
+      cover: "/songs/covers/goodgirl.jpg",
+      snippet: "/songs/pop/disturbia.mp3",
+      categories: ["pop"],
+      dailyCategory: "Pop",
+    },
+    {
+      title: "Wind of Change",
+      artist: "Scorpions",
+      cover: "https://is1-ssl.mzstatic.com/image/thumb/Music124/v4/65/29/ca/6529cad4-827a-8aa5-ebbc-f9de2ea33af2/00602567825265.rgb.jpg/600x600bb.jpg",
+      snippet: "/songs/rock/scorpions_wind_of_change.mp3",
+      categories: ["rock"],
+      dailyCategory: "Rock",
+    },
+    {
+      title: "Candy Shop (feat. Olivia)",
+      artist: "50 Cent",
+      cover: "https://is1-ssl.mzstatic.com/image/thumb/Music112/v4/b6/50/07/b650079b-15db-74fb-5395-ff7ef7c5a45e/17UMGIM93593.rgb.jpg/600x600bb.jpg",
+      snippet: "/songs/rap/50_cent_candy_shop_feat_olivia.mp3",
+      categories: ["rap"],
+      dailyCategory: "Rap",
+    },
+  ],
 };
 
 const LEVELS = [
