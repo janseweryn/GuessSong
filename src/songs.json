@@ -9834,6 +9834,13 @@
     "categories": ["Pop", "Pop 00s","Rap", "Rap 00s"],
     "snippet": "/songs/pop/ne_yo_so_sick.mp3",
     "cover": "https://is1-ssl.mzstatic.com/image/thumb/Music112/v4/3c/0e/86/3c0e86f7-60bd-6c3d-024f-a4877b16b0e3/06UMGIM17731.rgb.jpg/600x600bb.jpg"
+  },
+   {
+    "title": "Today",
+    "artist": "The Smashing Pumpkins",
+    "categories": ["Rock", "Rock 90s"],
+    "snippet": "/songs/rock/the_smashing_pumpkins_today.mp3",
+    "cover": "https://is1-ssl.mzstatic.com/image/thumb/Music115/v4/3a/dc/08/3adc08b0-e98c-b5dd-943e-a37c7ed06205/13UABIM03615.rgb.jpg/600x600bb.jpg"
   }
 ]
 

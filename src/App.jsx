@@ -888,6 +888,32 @@ const manualDaily = {
       dailyCategory: "Rap",
     },
   ],
+  "2026-01-31": [
+    {
+      title: "Good Luck, Babe!",
+      artist: "Chappell Roan",
+      cover: "/songs/covers/goodluck.jpg",
+      snippet: "/songs/pop/good_luck_babe.mp3",
+      categories: ["pop"],
+      dailyCategory: "Pop",
+    },
+    {
+      title: "Today",
+      artist: "The Smashing Pumpkins",
+      cover: "https://is1-ssl.mzstatic.com/image/thumb/Music115/v4/3a/dc/08/3adc08b0-e98c-b5dd-943e-a37c7ed06205/13UABIM03615.rgb.jpg/600x600bb.jpg",
+      snippet: "/songs/rock/the_smashing_pumpkins_today.mp3",
+      categories: ["rock"],
+      dailyCategory: "Rock",
+    },
+    {
+      title: "Lemonade (feat. NAV)",
+      artist: "Internet Money, Gunna & Don Toliver",
+      cover: "https://is1-ssl.mzstatic.com/image/thumb/Music126/v4/6f/6e/5f/6f6e5f75-7a2c-91c0-6ecc-5ed0c93e89e1/842812133862.jpg/600x600bb.jpg",
+      snippet: "/songs/rap/internet_money_gunna_don_toliver_lemonade_feat_nav.mp3",
+      categories: ["rap"],
+      dailyCategory: "Rap",
+    },
+  ],
 };
 
 const LEVELS = [
