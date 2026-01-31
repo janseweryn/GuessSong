@@ -914,6 +914,32 @@ const manualDaily = {
       dailyCategory: "Rap",
     },
   ],
+  "2026-02-01": [
+    {
+      title: "Abracadabra",
+      artist: "Lady Gaga",
+      cover: "https://is1-ssl.mzstatic.com/image/thumb/Music221/v4/54/64/2c/54642c8f-4c6c-5e55-45ea-475f98cf74b4/25UMGIM06790.rgb.jpg/600x600bb.jpg",
+      snippet: "/songs/pop/lady_gaga_abracadabra.mp3",
+      categories: ["pop"],
+      dailyCategory: "Pop",
+    },
+    {
+      title: "The Emptiness Machine (Instrumental)",
+      artist: "Linkin Park",
+      cover: "/songs/covers/fromzero.jpg",
+      snippet: "/songs/rock/emptiness_machine.mp3",
+      categories: ["rock"],
+      dailyCategory: "Rock",
+    },
+    {
+      title: "Luther",
+      artist: "Kendrick Lamar & SZA",
+      cover: "/songs/covers/gnx.jpg",
+      snippet: "/songs/rap/luther.mp3",
+      categories: ["rap"],
+      dailyCategory: "Rap",
+    },
+  ],
 };
 
 const LEVELS = [
