@@ -933,7 +933,7 @@ const manualDaily = {
     },
     {
       title: "Luther",
-      artist: "Kendrick Lamar & SZA",
+      artist: "Kendrick Lamar",
       cover: "/songs/covers/gnx.jpg",
       snippet: "/songs/rap/luther.mp3",
       categories: ["rap"],
