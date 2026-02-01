@@ -940,6 +940,32 @@ const manualDaily = {
       dailyCategory: "Rap",
     },
   ],
+  "2026-02-02": [
+    {
+      title: "Video Games",
+      artist: "Lana Del Rey",
+      cover: "https://is1-ssl.mzstatic.com/image/thumb/Music115/v4/5f/d9/63/5fd96387-45fa-6b94-afd8-7b2c4a24a93b/11UMGIM38959.rgb.jpg/600x600bb.jpg",
+      snippet: "/songs/rock/lana_del_rey_video_games.mp3",
+      categories: ["pop"],
+      dailyCategory: "Pop",
+    },
+    {
+      title: "Scar Tissue",
+      artist: "Red Hot Chili Peppers",
+      cover: "/songs/covers/califo.jpg",
+      snippet: "/songs/rock/scar_tissue.mp3",
+      categories: ["rock"],
+      dailyCategory: "Rock",
+    },
+    {
+      title: "WAP (feat. Megan Thee Stallion)",
+      artist: "Cardi B",
+      cover: "https://is1-ssl.mzstatic.com/image/thumb/Music124/v4/ec/f5/45/ecf545c0-24bd-90de-7639-3069e648c51d/075679804938.jpg/600x600bb.jpg",
+      snippet: "/songs/rap/cardi_b_wap_feat_megan_thee_stallion.mp3",
+      categories: ["rap"],
+      dailyCategory: "Rap",
+    },
+  ],
 };
 
 const LEVELS = [

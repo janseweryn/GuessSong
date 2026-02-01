@@ -1050,13 +1050,6 @@
     "cover": "/songs/covers/borndie.jpg"
   },
   {
-    "title": "Video Games",
-    "artist": "Lana Del Rey",
-    "categories": ["Pop", "Pop 10s"],
-    "snippet": "/songs/pop/video_games.mp3",
-    "cover": "/songs/covers/borndie.jpg"
-  },
-  {
     "title": "Brooklyn Baby",
     "artist": "Lana Del Rey",
     "categories": ["Pop", "Pop 10s"],
@@ -9841,6 +9834,20 @@
     "categories": ["Rock", "Rock 90s"],
     "snippet": "/songs/rock/the_smashing_pumpkins_today.mp3",
     "cover": "https://is1-ssl.mzstatic.com/image/thumb/Music115/v4/3a/dc/08/3adc08b0-e98c-b5dd-943e-a37c7ed06205/13UABIM03615.rgb.jpg/600x600bb.jpg"
+  },
+  {
+    "title": "Abracadabra",
+    "artist": "Lady Gaga",
+    "categories": ["Pop", "Pop 20s"],
+    "snippet": "/songs/pop/lady_gaga_abracadabra.mp3",
+    "cover": "https://is1-ssl.mzstatic.com/image/thumb/Music221/v4/54/64/2c/54642c8f-4c6c-5e55-45ea-475f98cf74b4/25UMGIM06790.rgb.jpg/600x600bb.jpg"
+  },
+   {
+    "title": "Video Games",
+    "artist": "Lana Del Rey",
+    "categories": ["Rock", "Rock 10s"],
+    "snippet": "/songs/rock/lana_del_rey_video_games.mp3",
+    "cover": "https://is1-ssl.mzstatic.com/image/thumb/Music115/v4/5f/d9/63/5fd96387-45fa-6b94-afd8-7b2c4a24a93b/11UMGIM38959.rgb.jpg/600x600bb.jpg"
   }
 ]
 
