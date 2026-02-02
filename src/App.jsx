@@ -966,6 +966,32 @@ const manualDaily = {
       dailyCategory: "Rap",
     },
   ],
+  "2026-02-03": [
+    {
+      title: "I'm Still Standing",
+      artist: "Elton John",
+      cover: "https://is1-ssl.mzstatic.com/image/thumb/Music116/v4/45/e5/b4/45e5b409-0564-a7a3-186c-1dc116c3ffb7/06UMGIM49712.rgb.jpg/600x600bb.jpg",
+      snippet: "/songs/pop/elton_john_i_m_still_standing.mp3",
+      categories: ["pop"],
+      dailyCategory: "Pop",
+    },
+    {
+      title: "Vienna",
+      artist: "Billy Joel",
+      cover: "/songs/covers/stranger.jpg",
+      snippet: "/songs/rock/vienna.mp3",
+      categories: ["rock"],
+      dailyCategory: "Rock",
+    },
+    {
+      title: "Roses",
+      artist: "Outkast",
+      cover: "https://is1-ssl.mzstatic.com/image/thumb/Music221/v4/71/ae/6a/71ae6a46-99a6-e9d8-d7f3-41c0f2df45c4/196872579123.jpg/600x600bb.jpg",
+      snippet: "/songs/rap/outkast_roses.mp3",
+      categories: ["rap"],
+      dailyCategory: "Rap",
+    },
+  ],
 };
 
 const LEVELS = [
