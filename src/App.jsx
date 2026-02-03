@@ -992,6 +992,32 @@ const manualDaily = {
       dailyCategory: "Rap",
     },
   ],
+  "2026-02-04": [
+    {
+      title: "Man I Need",
+      artist: "Olivia Dean",
+      cover: "/songs/covers/artloving.jpg",
+      snippet: "/songs/pop/man_need.mp3",
+      categories: ["pop"],
+      dailyCategory: "Pop",
+    },
+    {
+      title: "Going Under",
+      artist: "Evanescence",
+      cover: "https://is1-ssl.mzstatic.com/image/thumb/Music115/v4/10/4c/21/104c21e6-9ef0-4d3a-d1bd-d47167f121e5/00601501406300.rgb.jpg/600x600bb.jpg",
+      snippet: "/songs/rock/evanescence_going_under.mp3",
+      categories: ["rock"],
+      dailyCategory: "Rock",
+    },
+    {
+      title: "Mamushi (feat. Yuki Chiba)",
+      artist: "Megan Thee Stallion",
+      cover: "https://is1-ssl.mzstatic.com/image/thumb/Music211/v4/74/98/bc/7498bce2-125d-a550-401e-71a2a4c354a6/075679642578.jpg/600x600bb.jpg",
+      snippet: "/songs/rap/megan_thee_stallion_mamushi_feat_yuki_chiba.mp3",
+      categories: ["rap"],
+      dailyCategory: "Rap",
+    },
+  ],
 };
 
 const LEVELS = [
