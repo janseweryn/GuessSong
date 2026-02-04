@@ -1018,6 +1018,32 @@ const manualDaily = {
       dailyCategory: "Rap",
     },
   ],
+  "2026-02-05": [
+    {
+      title: "Prayer in C (Robin Schulz Radio Edit)",
+      artist: "Lilly Wood & The Prick and Robin Schulz",
+      cover: "https://is1-ssl.mzstatic.com/image/thumb/Music124/v4/2b/55/c2/2b55c258-0f75-bdee-dfce-abdee319a134/825646217687.jpg/600x600bb.jpg",
+      snippet: "/songs/pop/lilly_wood_the_prick_and_robin_schulz_prayer_in_c_robin_schulz_radio_edit.mp3",
+      categories: ["pop"],
+      dailyCategory: "Pop",
+    },
+    {
+      title: "ballad of a homeschooled girl",
+      artist: "Olivia Rodrigo",
+      cover: "https://is1-ssl.mzstatic.com/image/thumb/Music126/v4/9b/d8/9c/9bd89c9e-b44d-ad25-1516-b9b30f64fd2a/23UMGIM71510.rgb.jpg/600x600bb.jpg",
+      snippet: "/songs/pop/olivia_rodrigo_ballad_of_a_homeschooled_girl.mp3",
+      categories: ["rock"],
+      dailyCategory: "Rock",
+    },
+    {
+      title: "C.R.E.A.M. (feat. Method Man, Raekwon, Inspectah Deck & Buddha Monk)",
+      artist: "Wu-Tang Clan",
+      cover: "https://is1-ssl.mzstatic.com/image/thumb/Music221/v4/7c/58/b1/7c58b153-2525-d47f-ab7a-9c9fe6882826/888880400017.jpg/600x600bb.jpg",
+      snippet: "/songs/rap/wu_tang_clan_c_r_e_a_m_cash_rules_everything_around_me_a_cappella.mp3",
+      categories: ["rap"],
+      dailyCategory: "Rap",
+    },
+  ],
 };
 
 const LEVELS = [
