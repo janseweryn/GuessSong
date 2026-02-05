@@ -1044,6 +1044,32 @@ const manualDaily = {
       dailyCategory: "Rap",
     },
   ],
+   "2026-02-06": [
+    {
+      title: "Gabriela",
+      artist: "KATSEYE",
+      cover: "https://is1-ssl.mzstatic.com/image/thumb/Music211/v4/ad/92/ca/ad92ca90-90f5-eb46-7a56-e7b6b88584f7/25UMGIM37394.rgb.jpg/600x600bb.jpg",
+      snippet: "/songs/pop/katseye_gabriela.mp3",
+      categories: ["pop"],
+      dailyCategory: "Pop",
+    },
+    {
+      title: "Fly Away",
+      artist: "Lenny Kravitz",
+      cover: "https://is1-ssl.mzstatic.com/image/thumb/Music125/v4/e6/e6/2b/e6e62b8d-3616-dc96-b65e-9ff31eddecd3/13UABIM59279.rgb.jpg/600x600bb.jpg",
+      snippet: "/songs/rock/lenny_kravitz_fly_away.mp3",
+      categories: ["rock"],
+      dailyCategory: "Rock",
+    },
+    {
+      title: "Money In My Pocket (MOMO)",
+      artist: "MISAMO",
+      cover: "a",
+      snippet: "/songs/pop/dennis_brown_money_in_my_pocket.mp3",
+      categories: ["rap"],
+      dailyCategory: "Rap",
+    },
+  ],
 };
 
 const LEVELS = [
