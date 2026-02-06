@@ -1070,6 +1070,32 @@ const manualDaily = {
       dailyCategory: "Rap",
     },
   ],
+  "2026-02-07": [
+    {
+      title: "Material Girl",
+      artist: "Madonna",
+      cover: "/songs/covers/likevirgin.jpg",
+      snippet: "/songs/pop/material_girl.mp3",
+      categories: ["pop"],
+      dailyCategory: "Pop",
+    },
+    {
+      title: "Stricken",
+      artist: "Disturbed",
+      cover: "/songs/covers/tenfists.jpg",
+      snippet:"/songs/rock/stricken.mp3",
+      categories: ["rock"],
+      dailyCategory: "Rock",
+    },
+    {
+      title: "Lollipop (feat. Static Major)",
+      artist: "Lil Wayne",
+      cover: "https://is1-ssl.mzstatic.com/image/thumb/Music116/v4/ad/59/2b/ad592bdf-0fd7-857f-3ca5-12f1d4861e3e/08UMGIM15512.rgb.jpg/600x600bb.jpg",
+      snippet: "/songs/rap/lil_wayne_lollipop_feat_static_major.mp3",
+      categories: ["rap"],
+      dailyCategory: "Rap",
+    },
+  ],
 };
 
 const LEVELS = [
