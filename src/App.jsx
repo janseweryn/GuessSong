@@ -1096,6 +1096,32 @@ const manualDaily = {
       dailyCategory: "Rap",
     },
   ],
+  "2026-02-07": [
+    {
+      title: "Faded",
+      artist: "Alan Walker",
+      cover: "https://is1-ssl.mzstatic.com/image/thumb/Music211/v4/1f/48/c0/1f48c0ab-7710-1724-e737-b2f6e106a747/7333236909117.png/600x600bb.jpg",
+      snippet: "/songs/pop/alan_walker_fade.mp3",
+      categories: ["pop"],
+      dailyCategory: "Pop",
+    },
+    {
+      title: "That's All",
+      artist: "Genesis",
+      cover: "https://is1-ssl.mzstatic.com/image/thumb/Music115/v4/8b/7b/ce/8b7bcee5-4c31-aab1-7a65-82e757057e83/mzi.ykiyfzna.jpg/600x600bb.jpg",
+      snippet:"/songs/rock/genesis_that_s_all.mp3",
+      categories: ["rock"],
+      dailyCategory: "Rock",
+    },
+    {
+      title: "Lean Back",
+      artist: "Terror Squad",
+      cover: "https://is1-ssl.mzstatic.com/image/thumb/Music124/v4/59/6b/86/596b86a4-6dd1-70e3-5a57-4539c11a137a/00602498627518.rgb.jpg/600x600bb.jpg",
+      snippet: "/songs/rap/terror_squad_lean_back.mp3",
+      categories: ["rap"],
+      dailyCategory: "Rap",
+    },
+  ],
 };
 
 const LEVELS = [
