@@ -1096,7 +1096,7 @@ const manualDaily = {
       dailyCategory: "Rap",
     },
   ],
-  "2026-02-07": [
+  "2026-02-08": [
     {
       title: "Faded",
       artist: "Alan Walker",
