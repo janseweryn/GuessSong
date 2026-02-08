@@ -1122,6 +1122,32 @@ const manualDaily = {
       dailyCategory: "Rap",
     },
   ],
+    "2026-02-09": [
+    {
+      title: "More Than You Know",
+      artist: "Axwell Λ Ingrosso",
+      cover: "https://is1-ssl.mzstatic.com/image/thumb/Features126/v4/ac/cb/f3/accbf323-a631-12eb-3977-0563254dd89e/mza_8588403352509644499.png/600x600bb.jpg",
+      snippet: "/songs/pop/axwell_ingrosso_more_than_you_know_mixed.mp3",
+      categories: ["pop"],
+      dailyCategory: "Pop",
+    },
+    {
+      title: "Welcome to the Black Parade",
+      artist: "My Chemical Romance",
+      cover: "https://is1-ssl.mzstatic.com/image/thumb/Music115/v4/7e/ac/69/7eac6998-7fa4-f1ab-9601-e8b791c736fa/mzi.fbpszunc.jpg/600x600bb.jpg",
+      snippet: "/songs/rock/my_chemical_romance_welcome_to_the_black_parade.mp3",
+      categories: ["rock"],
+      dailyCategory: "Rock",
+    },
+    {
+      title: "Yeah! (feat. Lil Jon & Ludacris)",
+      artist: "USHER",
+      cover: "a",
+      snippet: "/songs/rap/houch30_usher_yeah.mp3",
+      categories: ["rap"],
+      dailyCategory: "Rap",
+    },
+  ],
 };
 
 const LEVELS = [
