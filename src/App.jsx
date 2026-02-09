@@ -1148,6 +1148,32 @@ const manualDaily = {
       dailyCategory: "Rap",
     },
   ],
+  "2026-02-10": [
+    {
+      title: "Work from Home (feat. Ty Dolla $ign)",
+      artist: "Fifth Harmony",
+      cover: "https://is1-ssl.mzstatic.com/image/thumb/Music115/v4/5e/35/68/5e3568b7-3e08-cdac-d0d9-122fc0429f08/886445883091.jpg/600x600bb.jpg",
+      snippet: "/songs/pop/fifth_harmony_work_from_home_feat_ty_dolla_ign.mp3",
+      categories: ["pop"],
+      dailyCategory: "Pop",
+    },
+    {
+      title: "Stayin' Alive",
+      artist: "Bee Gees",
+      cover: "https://is1-ssl.mzstatic.com/image/thumb/Music113/v4/45/db/1d/45db1dac-fe00-3681-b216-266deea6e4cc/17UM1IM26789.rgb.jpg/600x600bb.jpg",
+      snippet: "/songs/pop/bee_gees_stayin_alive.mp3",
+      categories: ["rock"],
+      dailyCategory: "Rock",
+    },
+    {
+      title: "Wild Thoughts (feat. Rihanna & Bryson Tiller)",
+      artist: "DJ Khaled",
+      cover: "https://is1-ssl.mzstatic.com/image/thumb/Music124/v4/42/7c/23/427c23ba-78dc-5a27-78c4-1a0e5f0e40da/886446557731.jpg/600x600bb.jpg",
+      snippet: "/songs/rap/dj_khaled_wild_thoughts_feat_rihanna_bryson_tiller.mp3",
+      categories: ["rap"],
+      dailyCategory: "Rap",
+    },
+  ],
 };
 
 const LEVELS = [
