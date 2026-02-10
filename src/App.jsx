@@ -1174,6 +1174,32 @@ const manualDaily = {
       dailyCategory: "Rap",
     },
   ],
+  "2026-02-11": [
+    {
+      title: "On the Floor (feat. Pitbull)",
+      artist: "Jennifer Lopez",
+      cover: "https://is1-ssl.mzstatic.com/image/thumb/Music126/v4/83/5c/53/835c5395-2138-8f92-70d9-f12819d5885c/11UMGIM10446.rgb.jpg/600x600bb.jpg",
+      snippet: "/songs/pop/jennifer_lopez_on_the_floor_feat_pitbull.mp3",
+      categories: ["pop"],
+      dailyCategory: "Pop",
+    },
+    {
+      title: "Mary On A Cross",
+      artist: "Ghost",
+      cover: "https://is1-ssl.mzstatic.com/image/thumb/Music211/v4/20/72/d3/2072d3b2-238c-1ac2-1f6f-21f683fdc41b/24CRGIM45902.rgb.jpg/600x600bb.jpg",
+      snippet: "/songs/rock/ghost_mary_on_a_cross.mp3",
+      categories: ["rock"],
+      dailyCategory: "Rock",
+    },
+    {
+      title: "Day 'N' Nite",
+      artist: "Kid Cudi",
+      cover: "https://is1-ssl.mzstatic.com/image/thumb/Music221/v4/36/78/1e/36781ee4-be7e-1c54-5a4a-a262faa3a245/09UMGIM33419.rgb.jpg/600x600bb.jpg",
+      snippet: "/songs/rap/kid_cudi_day_n_nite_nightmare.mp3",
+      categories: ["rap"],
+      dailyCategory: "Rap",
+    },
+  ],
 };
 
 const LEVELS = [
