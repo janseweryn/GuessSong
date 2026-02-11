@@ -1200,6 +1200,32 @@ const manualDaily = {
       dailyCategory: "Rap",
     },
   ],
+  "2026-02-12": [
+    {
+      title: "Heart of Glass",
+      artist: "Blondie",
+      cover: "https://is1-ssl.mzstatic.com/image/thumb/Music115/v4/2f/0b/25/2f0b252d-838e-4f19-3c08-91e49b269564/15UMGIM18445.rgb.jpg/600x600bb.jpg",
+      snippet: "/songs/pop/blondie_heart_of_glass.mp3",
+      categories: ["pop"],
+      dailyCategory: "Pop",
+    },
+    {
+      title: "I-E-A-I-A-I-O (Clean Version)",
+      artist: "System Of A Down",
+      cover: "/songs/covers/steal.jpg",
+      snippet: "/songs/rock/ieio.mp3",
+      categories: ["rock"],
+      dailyCategory: "Rock",
+    },
+    {
+      title: "Hot In Here",
+      artist: "Nelly",
+      cover: "a",
+      snippet: "/songs/pop/rascal_flatts_hot_in_here.mp3",
+      categories: ["rap"],
+      dailyCategory: "Rap",
+    },
+  ],
 };
 
 const LEVELS = [
