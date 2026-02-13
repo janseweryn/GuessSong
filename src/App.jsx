@@ -1226,6 +1226,32 @@ const manualDaily = {
       dailyCategory: "Rap",
     },
   ],
+  "2026-02-14": [
+    {
+      title: "Lovely",
+      artist: "Billie Eilish & Khalid",
+      cover: "/songs/covers/lovely.jpg",
+      snippet: "/songs/pop/lovely.mp3",
+      categories: ["pop"],
+      dailyCategory: "Pop",
+    },
+    {
+      title: "I Just Called to Say I Love You",
+      artist: "Stevie Wonder",
+      cover: "https://is1-ssl.mzstatic.com/image/thumb/Music115/v4/29/3a/92/293a9224-329d-3ede-ed4c-caba1c045e97/00602547215086.rgb.jpg/600x600bb.jpg",
+      snippet: "/songs/pop/stevie_wonder_i_just_called_to_say_i_love_you_single_version.mp3",
+      categories: ["rock"],
+      dailyCategory: "Rock",
+    },
+    {
+      title: "Love Me (feat. Drake & Future)",
+      artist: "Lil Wayne",
+      cover: "https://is1-ssl.mzstatic.com/image/thumb/Music221/v4/33/55/5c/33555c2f-df24-dd08-b680-d92473948262/603497804955.jpg/600x600bb.jpg",
+      snippet: "/songs/pop/madonna_revolver_feat_lil_wayne.mp3",
+      categories: ["rap"],
+      dailyCategory: "Rap",
+    },
+  ],
 };
 
 const LEVELS = [

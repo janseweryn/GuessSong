@@ -10669,13 +10669,6 @@
     "cover": "https://is1-ssl.mzstatic.com/image/thumb/Music112/v4/84/71/13/8471139e-5f02-b603-a462-9a8a62f14af4/17UMGIM87027.rgb.jpg/600x600bb.jpg"
   },
   {
-    "title": "What Makes You Beautiful",
-    "artist": "One Direction",
-    "categories": ["Pop", "Pop 10s"],
-    "snippet": "/songs/pop/one_direction_what_makes_you_beautiful.mp3",
-    "cover": "https://is1-ssl.mzstatic.com/image/thumb/Music125/v4/c3/d4/76/c3d4765f-006e-c9ac-6b83-50ae04894eff/dj.dqbxwvpe.jpg/600x600bb.jpg"
-  },
-  {
     "title": "7 Years",
     "artist": "Lukas Graham",
     "categories": ["Pop", "Pop 10s"],
@@ -10849,6 +10842,531 @@
     "categories": ["Pop", "Pop 10s"],
     "snippet": "/songs/pop/zedd_alessia_cara_stay.mp3",
     "cover": "https://is1-ssl.mzstatic.com/image/thumb/Music125/v4/e5/08/90/e50890a8-205e-a810-dcda-44b614f99f5f/00602557442878.rgb.jpg/600x600bb.jpg"
+  },
+   {
+    "title": "Love Me (feat. Drake & Future)",
+    "artist": "Lil Wayne",
+    "categories": ["Rap", "Rap 10s"],
+    "snippet": "/songs/pop/madonna_revolver_feat_lil_wayne.mp3",
+    "cover": "https://is1-ssl.mzstatic.com/image/thumb/Music221/v4/33/55/5c/33555c2f-df24-dd08-b680-d92473948262/603497804955.jpg/600x600bb.jpg"
+  },
+   {
+    "title": "679 (feat. Monty)",
+    "artist": "Fetty Wap",
+    "categories": ["Rap", "Rap 10s"],
+    "snippet": "/songs/rap/fetty_wap_679_feat_monty.mp3",
+    "cover": "https://is1-ssl.mzstatic.com/image/thumb/Music115/v4/53/9b/95/539b9581-3dd6-7a02-8b25-ebad59ba0949/814908020318.jpg/600x600bb.jpg"
+  },
+  {
+    "title": "Ghost Town",
+    "artist": "Adam Lambert",
+    "categories": ["Pop", "Pop 10s"],
+    "snippet": "/songs/pop/adam_lambert_ghost_town.mp3",
+    "cover": "https://is1-ssl.mzstatic.com/image/thumb/Music7/v4/db/17/e9/db17e924-dd7c-7b72-d4a0-f164c919520d/093624927082.jpg/600x600bb.jpg"
+  },
+  {
+    "title": "Anaconda",
+    "artist": "Nicki Minaj",
+    "categories": ["Rap", "Rap 10s"],
+    "snippet": "/songs/rap/nicki_minaj_anaconda.mp3",
+    "cover": "https://is1-ssl.mzstatic.com/image/thumb/Music116/v4/96/ae/f6/96aef61f-306a-c9f9-e899-98a8b60550b6/14UMGIM59294.rgb.jpg/600x600bb.jpg"
+  },
+  {
+    "title": "Focus",
+    "artist": "Ariana Grande",
+    "categories": ["Pop", "Pop 10s"],
+    "snippet": "/songs/pop/ariana_grande_focus.mp3",
+    "cover": "https://is1-ssl.mzstatic.com/image/thumb/Music125/v4/19/77/49/19774922-3f97-308c-bb6e-fc899c204187/15UMGIM61975.rgb.jpg/600x600bb.jpg"
+  },
+  {
+    "title": "Cure For Me",
+    "artist": "AURORA",
+    "categories": ["Pop", "Pop 20s"],
+    "snippet": "/songs/pop/aurora_cure_for_me.mp3",
+    "cover": "https://is1-ssl.mzstatic.com/image/thumb/Music112/v4/17/ee/5e/17ee5e67-1dcd-beab-a5d4-4845f9dbacbf/5056167167433.jpg/600x600bb.jpg"
+  },
+  {
+    "title": "Runaway",
+    "artist": "AURORA",
+    "categories": ["Pop", "Pop 10s"],
+    "snippet": "/songs/rock/aurora_runaway.mp3",
+    "cover": "https://is1-ssl.mzstatic.com/image/thumb/Music112/v4/b7/5f/76/b75f7659-c7ac-36d8-e01f-2f6d02f5ef34/5056167160632.jpg/600x600bb.jpg"
+  },
+  {
+    "title": "Space Song",
+    "artist": "Beach House",
+    "categories": ["Rock", "Rock 10s"],
+    "snippet": "/songs/rock/beach_house_space_song.mp3",
+    "cover": "https://is1-ssl.mzstatic.com/image/thumb/Music125/v4/09/e0/d5/09e0d559-0682-f0f0-5e0c-3cd11e3114fd/beachhouse_depressioncherry_2400_300.jpg/600x600bb.jpg"
+  },
+  {
+    "title": "BANG BANG BANG",
+    "artist": "BIGBANG",
+    "categories": ["Pop", "Pop 10s"],
+    "snippet": "/songs/pop/bigbang_bang_bang_bang.mp3",
+    "cover": "https://is1-ssl.mzstatic.com/image/thumb/Music125/v4/5b/9b/8e/5b9b8ef2-998e-1210-8454-dfebfbf6271c/BB_COVER_IMAGE_4000.jpg/600x600bb.jpg"
+  },
+  {
+    "title": "Don't",
+    "artist": "Bryson Tiller",
+    "categories": ["Rap", "Rap 10s"],
+    "snippet": "/songs/pop/bryson_tiller_don_t.mp3",
+    "cover": "https://is1-ssl.mzstatic.com/image/thumb/Music125/v4/b6/80/3c/b6803c18-1285-3c66-ec98-5e423e7268f8/886445447828.jpg/600x600bb.jpg"
+  },
+  {
+    "title": "Loyal (feat. Craig David) [Remix] [Mixed]",
+    "artist": "Chris Brown",
+    "categories": ["Pop", "Pop 20s"],
+    "snippet": "/songs/pop/chris_brown_loyal_feat_craig_david_remix_mixed.mp3",
+    "cover": "https://is1-ssl.mzstatic.com/image/thumb/Music211/v4/27/40/d5/2740d5fa-719d-b77d-cbc8-36587e6e055a/ad383831-a8c2-4556-b456-5ca02bfc96fb.png/600x600bb.jpg"
+  },
+  {
+    "title": "Rather Be (feat. Jess Glynne)",
+    "artist": "Clean Bandit",
+    "categories": ["Pop", "Pop 10s"],
+    "snippet": "/songs/pop/clean_bandit_rather_be_feat_jess_glynne.mp3",
+    "cover": "https://is1-ssl.mzstatic.com/image/thumb/Music125/v4/19/e0/1b/19e01b5f-0fd5-85f1-f347-461d4130309a/825646029594.jpg/600x600bb.jpg"
+  },
+  {
+    "title": "Dangerous (feat. Sam Martin)",
+    "artist": "David Guetta",
+    "categories": ["Pop", "Pop 10s"],
+    "snippet": "/songs/pop/david_guetta_dangerous_feat_sam_martin.mp3",
+    "cover": "https://is1-ssl.mzstatic.com/image/thumb/Music124/v4/68/7f/d5/687fd582-2387-5044-a881-0bc4f0697338/825646194315.jpg/600x600bb.jpg"
+  },
+  {
+    "title": "Cool for the Summer",
+    "artist": "Demi Lovato",
+    "categories": ["Pop", "Pop 10s"],
+    "snippet": "/songs/pop/demi_lovato_cool_for_the_summer.mp3",
+    "cover": "https://is1-ssl.mzstatic.com/image/thumb/Music115/v4/ea/08/9e/ea089eb7-9e3c-a442-8656-7cac2da0309f/00050087335120.rgb.jpg/600x600bb.jpg"
+  },
+  {
+    "title": "Cake By the Ocean",
+    "artist": "DNCE",
+    "categories": ["Pop", "Pop 10s"],
+    "snippet": "/songs/pop/dnce_cake_by_the_ocean.mp3",
+    "cover": "https://is1-ssl.mzstatic.com/image/thumb/Music126/v4/46/dd/0d/46dd0d29-7dbf-7e3a-0f76-1595e18c4b73/16UMGIM68265.rgb.jpg/600x600bb.jpg"
+  },
+  {
+    "title": "Ex's & Oh's",
+    "artist": "Elle King",
+    "categories": ["Pop", "Pop 10s"],
+    "snippet": "/songs/rock/elle_king_ex_s_oh_s.mp3",
+    "cover": "https://is1-ssl.mzstatic.com/image/thumb/Music125/v4/8f/dd/bf/8fddbf91-e443-5f22-995b-ff18d6ef6792/886444692205.jpg/600x600bb.jpg"
+  },
+  {
+    "title": "On My Mind",
+    "artist": "Ellie Goulding",
+    "categories": ["Pop", "Pop 10s"],
+    "snippet": "/songs/pop/ellie_goulding_on_my_mind.mp3",
+    "cover": "https://is1-ssl.mzstatic.com/image/thumb/Music116/v4/c4/5f/26/c45f26ac-1bd4-1481-ce51-8a4c10bcd757/15UMGIM48135.rgb.jpg/600x600bb.jpg"
+  },
+  {
+    "title": "Bailando (Spanish Version) [feat. Descemer Bueno & Gente de Zona] ",
+    "artist": "Enrique Iglesias",
+    "categories": ["Pop", "Pop 00s"],
+    "snippet": "/songs/pop/enrique_iglesias_bailando_feat_sean_paul_descemer_bueno_gente_de_zona_english_version.mp3",
+    "cover": "https://is1-ssl.mzstatic.com/image/thumb/Music115/v4/d4/ec/f5/d4ecf56c-2fb8-d529-b6bd-27ffcd43bb17/00602547230461.rgb.jpg/600x600bb.jpg"
+  },
+  {
+    "title": "Trap Queen",
+    "artist": "Fetty Wap",
+    "categories": ["Rap", "Rap 10s"],
+    "snippet": "/songs/rap/fetty_wap_trap_queen.mp3",
+    "cover": "https://is1-ssl.mzstatic.com/image/thumb/Music114/v4/b3/df/c5/b3dfc5e2-3980-7b7c-f227-7022c846f5dd/814908020219.jpg/600x600bb.jpg"
+  },
+  {
+    "title": "GDFR (feat. Sage the Gemini & Lookas)",
+    "artist": "Flo Rida",
+    "categories": ["Rap", "Rap 10s","Pop", "Pop 10s"],
+    "snippet": "/songs/rap/flo_rida_gdfr_feat_sage_the_gemini_lookas.mp3",
+    "cover": "https://is1-ssl.mzstatic.com/image/thumb/Music125/v4/a9/aa/d0/a9aad0bb-e8a3-768f-8555-4b644a17553e/075679930903.jpg/600x600bb.jpg"
+  },
+  {
+    "title": "My House",
+    "artist": "Flo Rida",
+    "categories": ["Rap", "Rap 10s","Pop", "Pop 10s"],
+    "snippet": "/songs/rap/flo_rida_my_house.mp3",
+    "cover": "https://is1-ssl.mzstatic.com/image/thumb/Music125/v4/a9/aa/d0/a9aad0bb-e8a3-768f-8555-4b644a17553e/075679930903.jpg/600x600bb.jpg"
+  },
+  {
+    "title": "Runaway (U & I)",
+    "artist": "Galantis",
+    "categories": ["Pop", "Pop 10s"],
+    "snippet": "/songs/pop/galantis_runaway_u_i.mp3",
+    "cover": "https://is1-ssl.mzstatic.com/image/thumb/Music115/v4/25/82/82/25828228-7afd-026d-0778-340e1de3aec1/075679933652.jpg/600x600bb.jpg"
+  },
+  {
+    "title": "Budapest",
+    "artist": "George Ezra",
+    "categories": ["Pop", "Pop 10s"],
+    "snippet": "/songs/pop/george_ezra_budapest.mp3",
+    "cover": "https://is1-ssl.mzstatic.com/image/thumb/Music115/v4/b4/3b/5d/b43b5dcf-b2b5-0cad-3512-eba02c37500a/886445001372.jpg/600x600bb.jpg"
+  },
+  {
+    "title": "Take Me to Church",
+    "artist": "Hozier",
+    "categories": ["Rock", "Rock 10s","Pop", "Pop 10s"],
+    "snippet": "/songs/rock/hozier_take_me_to_church.mp3",
+    "cover": "https://is1-ssl.mzstatic.com/image/thumb/Music115/v4/5e/1b/f1/5e1bf1de-e5f1-e73e-0752-e7882b4f2d57/886444718820.jpg/600x600bb.jpg"
+  },
+  {
+    "title": "Fancy (feat. Charli XCX)",
+    "artist": "Iggy Azalea",
+    "categories": ["Pop", "Pop 10s"],
+    "snippet": "/songs/rap/iggy_azalea_fancy_feat_charli_xcx.mp3",
+    "cover": "https://is1-ssl.mzstatic.com/image/thumb/Music112/v4/32/64/0d/32640dc0-879a-2771-cfe7-91ea4568436a/14UMGIM08058.rgb.jpg/600x600bb.jpg"
+  },
+  {
+    "title": "Wiggle (feat. Snoop Dogg)",
+    "artist": "Jason Derulo",
+    "categories": ["Pop", "Pop 10s"],
+    "snippet": "/songs/pop/jason_derulo_wiggle_feat_snoop_dogg.mp3",
+    "cover": "https://is1-ssl.mzstatic.com/image/thumb/Music125/v4/28/6f/7d/286f7df6-9da7-bdf5-5a66-b31f15583185/093624938699.jpg/600x600bb.jpg"
+  },
+  {
+    "title": "Wet Dreamz",
+    "artist": "J. Cole",
+    "categories": ["Rap", "Rap 10s"],
+    "snippet": "/songs/rap/j_cole_wet_dreamz.mp3",
+    "cover": "https://is1-ssl.mzstatic.com/image/thumb/Music116/v4/ee/28/67/ee286794-6c33-a8c2-5c37-c04f1cb5e8a6/21UM1IM54415.rgb.jpg/600x600bb.jpg"
+  },
+  {
+    "title": "Bang Bang",
+    "artist": "Jessie J, Ariana Grande & Nicki Minaj",
+    "categories": ["Pop", "Pop 10s"],
+    "snippet": "/songs/pop/jessie_j_ariana_grande_nicki_minaj_bang_bang.mp3",
+    "cover": "https://is1-ssl.mzstatic.com/image/thumb/Music124/v4/ce/81/a0/ce81a0d7-6beb-16bc-2b98-a6b6a9b0faff/14UMGIM31140.rgb.jpg/600x600bb.jpg"
+  },
+  {
+    "title": "Love Yourself",
+    "artist": "Justin Bieber",
+    "categories": ["Pop", "Pop 10s"],
+    "snippet": "/songs/pop/justin_bieber_love_yourself.mp3",
+    "cover": "https://is1-ssl.mzstatic.com/image/thumb/Music116/v4/75/11/84/751184b0-77df-1eff-bb20-dac03247425d/15UMGIM59808.rgb.jpg/600x600bb.jpg"
+  },
+  {
+    "title": "Sorry",
+    "artist": "Justin Bieber",
+    "categories": ["Pop", "Pop 10s"],
+    "snippet": "/songs/pop/justin_bieber_sorry.mp3",
+    "cover": "https://is1-ssl.mzstatic.com/image/thumb/Music116/v4/75/11/84/751184b0-77df-1eff-bb20-dac03247425d/15UMGIM59808.rgb.jpg/600x600bb.jpg"
+  },
+  {
+    "title": "What Do You Mean?",
+    "artist": "Justin Bieber",
+    "categories": ["Pop", "Pop 10s"],
+    "snippet": "/songs/pop/justin_bieber_what_do_you_mean.mp3",
+    "cover": "https://is1-ssl.mzstatic.com/image/thumb/Music116/v4/75/11/84/751184b0-77df-1eff-bb20-dac03247425d/15UMGIM59808.rgb.jpg/600x600bb.jpg"
+  },
+  {
+    "title": "Beauty and a Beat (feat. Nicki Minaj)",
+    "artist": "Justin Bieber",
+    "categories": ["Pop", "Pop 10s"],
+    "snippet": "/songs/pop/justin_bieber_beauty_and_a_beat_feat_nicki_minaj.mp3",
+    "cover": "https://is1-ssl.mzstatic.com/image/thumb/Music126/v4/73/08/1a/73081a96-0f7c-b5f8-2757-5c17fb714323/12UMGIM31899.rgb.jpg/600x600bb.jpg"
+  },
+  {
+    "title": "Firestone (feat. Conrad Sewell)",
+    "artist": "Kygo",
+    "categories": ["Pop", "Pop 10s"],
+    "snippet": "/songs/pop/party_tyme_karaoke_firestone_made_popular_by_kygo_ft_conrad_sewell_instrumental_version.mp3",
+    "cover": "https://is1-ssl.mzstatic.com/image/thumb/Music115/v4/aa/71/3f/aa713fbf-8688-f36f-0136-a7dc7afc20f8/21UMGIM54152.rgb.jpg/600x600bb.jpg"
+  },
+  {
+    "title": "Stole the Show (feat. Parson James)",
+    "artist": "Kygo",
+    "categories": ["Pop", "Pop 10s"],
+    "snippet": "/songs/pop/kygo_stole_the_show_feat_parson_james.mp3",
+    "cover": "https://is1-ssl.mzstatic.com/image/thumb/Music116/v4/b5/69/ad/b569ad82-3ac0-54a8-bafc-baf349491541/0617465690853.jpg/600x600bb.jpg"
+  },
+  {
+    "title": "Perfect Night",
+    "artist": "LE SSERAFIM",
+    "categories": ["Pop", "Pop 20s"],
+    "snippet": "/songs/pop/le_sserafim_perfect_night.mp3",
+    "cover": "https://is1-ssl.mzstatic.com/image/thumb/Music221/v4/a0/cd/40/a0cd4013-89cf-0554-0aa5-1ac5a0bb3db1/196922680779_Cover.jpg/600x600bb.jpg"
+  },
+  {
+    "title": "CRAZY",
+    "artist": "LE SSERAFIM",
+    "categories": ["Pop", "Pop 20s"],
+    "snippet": "/songs/pop/le_sserafim_crazy.mp3",
+    "cover": "https://is1-ssl.mzstatic.com/image/thumb/Music221/v4/38/95/ed/3895ed80-ba5b-7846-ce5b-b49805a818ef/198704101359_Cover.jpg/600x600bb.jpg"
+  },
+  {
+    "title": "EASY",
+    "artist": "LE SSERAFIM",
+    "categories": ["Pop", "Pop 20s"],
+    "snippet": "/songs/pop/le_sserafim_easy.mp3",
+    "cover": "https://is1-ssl.mzstatic.com/image/thumb/Music221/v4/22/0f/fd/220ffdbf-152c-5b65-d5af-01256c1328c2/196922796531_Cover.jpg/600x600bb.jpg"
+  },
+  {
+    "title": "ANTIFRAGILE",
+    "artist": "LE SSERAFIM",
+    "categories": ["Pop", "Pop 20s"],
+    "snippet": "/songs/pop/le_sserafim_antifragile.mp3",
+    "cover": "https://is1-ssl.mzstatic.com/image/thumb/Music221/v4/c8/79/da/c879dadf-db1e-95a5-caf5-b18c7c81d2b6/192641874413_Cover.jpg/600x600bb.jpg"
+  },
+  {
+    "title": "SPAGHETTI",
+    "artist": "LE SSERAFIM & j-hope",
+    "categories": ["Pop", "Pop 20s"],
+    "snippet": "/songs/pop/le_sserafim_j_hope_spaghetti_english_ver.mp3",
+    "cover": "https://is1-ssl.mzstatic.com/image/thumb/Music211/v4/0c/3b/01/0c3b0191-6170-765d-23a6-1b1c9c25cb77/198704776991_Cover.jpg/600x600bb.jpg"
+  },
+  {
+    "title": "Let It Go",
+    "artist": "Idina Menzel",
+    "categories": ["Pop", "Pop 10s"],
+    "snippet": "/songs/pop/idina_menzel_let_it_go.mp3",
+    "cover": "https://is1-ssl.mzstatic.com/image/thumb/Music126/v4/e7/ed/8a/e7ed8a2c-4835-e4dc-efec-5e81abd6c241/13DMGIM04438.rgb.jpg/600x600bb.jpg"
+  },
+  {
+    "title": "Black Magic",
+    "artist": "Little Mix",
+    "categories": ["Pop", "Pop 10s"],
+    "snippet": "/songs/pop/little_mix_black_magic.mp3",
+    "cover": "https://is1-ssl.mzstatic.com/image/thumb/Music125/v4/40/a8/a5/40a8a563-b379-898a-0b27-5ce7a32ae5da/mzm.emyqomfv.jpg/600x600bb.jpg"
+  },
+  {
+    "title": "Are You with Me",
+    "artist": "Lost Frequencies",
+    "categories": ["Pop", "Pop 10s"],
+    "snippet": "/songs/pop/lost_frequencies_are_you_with_me.mp3",
+    "cover": "https://is1-ssl.mzstatic.com/image/thumb/Music211/v4/07/81/14/078114c0-5ff9-6088-9208-d28d20fb0508/8718522109102.png/600x600bb.jpg"
+  },
+  {
+    "title": "Rude",
+    "artist": "MAGIC!",
+    "categories": ["Pop", "Pop 10s"],
+    "snippet": "/songs/pop/magic_rude.mp3",
+    "cover": "https://is1-ssl.mzstatic.com/image/thumb/Music115/v4/2a/46/74/2a4674c2-889f-4f6b-e4e9-b3693f8ee962/886444607650.jpg/600x600bb.jpg"
+  },
+  {
+    "title": "Uptown Funk (feat. Bruno Mars)",
+    "artist": "Mark Ronson",
+    "categories": ["Pop", "Pop 10s"],
+    "snippet": "/songs/pop/mark_ronson_uptown_funk_feat_bruno_mars.mp3",
+    "cover": "https://is1-ssl.mzstatic.com/image/thumb/Music115/v4/7e/30/c5/7e30c572-aa47-5f7b-c6fd-42d50cd2c56d/886444959797.jpg/600x600bb.jpg"
+  },
+  {
+    "title": "All About That Bass",
+    "artist": "Meghan Trainor",
+    "categories": ["Pop", "Pop 10s"],
+    "snippet": "/songs/pop/meghan_trainor_all_about_that_bass.mp3",
+    "cover": "https://is1-ssl.mzstatic.com/image/thumb/Music115/v4/01/de/40/01de40eb-769e-f7f0-2789-3be6d54147af/886446994246.jpg/600x600bb.jpg"
+  },
+  {
+    "title": "MEOW",
+    "artist": "MEOVV",
+    "categories": ["Pop", "Pop 20s"],
+    "snippet": "/songs/pop/meovv_meow.mp3",
+    "cover": "https://is1-ssl.mzstatic.com/image/thumb/Music211/v4/9b/7f/b9/9b7fb97f-57fd-0a2e-64de-30cd3a259c71/198704128974_Cover.jpg/600x600bb.jpg"
+  },
+  {
+    "title": "Only (feat. Drake, Lil Wayne & Chris Brown)",
+    "artist": "Nicki Minaj",
+    "categories": ["Rap", "Rap 10s"],
+    "snippet": "/songs/rap/nicki_minaj_only_feat_drake_lil_wayne_chris_brown.mp3",
+    "cover": "https://is1-ssl.mzstatic.com/image/thumb/Music116/v4/96/ae/f6/96aef61f-306a-c9f9-e899-98a8b60550b6/14UMGIM59294.rgb.jpg/600x600bb.jpg"
+  },
+  {
+    "title": "Cheerleader (Felix Jaehn Remix) [Radio Edit]",
+    "artist": "Omi",
+    "categories": ["Pop", "Pop 10s"],
+    "snippet": "/songs/pop/omi_cheerleader_felix_jaehn_remix_radio_edit.mp3",
+    "cover": "https://is1-ssl.mzstatic.com/image/thumb/Music125/v4/92/91/73/92917387-aeb3-f761-e4b6-1536c1a8e8a3/mzm.djjxxpzr.jpg/600x600bb.jpg"
+  },
+  {
+    "title": "Drag Me Down",
+    "artist": "One Direction",
+    "categories": ["Pop", "Pop 10s"],
+    "snippet": "/songs/pop/one_direction_drag_me_down_feat_lunchmoney_lewis_big_payno_x_afterhrs_remix.mp3",
+    "cover": "https://is1-ssl.mzstatic.com/image/thumb/Music6/v4/6e/8c/4f/6e8c4f54-f777-b315-a2aa-ac656e8e8bb7/886445577778.jpg/600x600bb.jpg"
+  },
+  {
+    "title": "Midnight Memories",
+    "artist": "One Direction",
+    "categories": ["Pop", "Pop 10s"],
+    "snippet": "/songs/pop/one_direction_midnight_memories.mp3",
+    "cover": "https://is1-ssl.mzstatic.com/image/thumb/Features125/v4/66/75/88/6675882c-3685-2b6b-f9de-c6d3e06602b5/dj.fuklqvvg.jpg/600x600bb.jpg"
+  },
+  {
+    "title": "Night Changes",
+    "artist": "One Direction",
+    "categories": ["Pop", "Pop 10s"],
+    "snippet": "/songs/pop/one_direction_night_changes.mp3",
+    "cover": "https://is1-ssl.mzstatic.com/image/thumb/Music125/v4/14/e4/98/14e49846-57a9-dc8d-6fa3-5e03ccf3606c/dj.ljogvxod.jpg/600x600bb.jpg"
+  },
+  {
+    "title": "Perfect",
+    "artist": "One Direction",
+    "categories": ["Pop", "Pop 10s"],
+    "snippet": "/songs/pop/one_direction_perfect.mp3",
+    "cover": "https://is1-ssl.mzstatic.com/image/thumb/Music125/v4/45/ac/db/45acdb3d-1a85-52e3-43d5-195f8f58067d/mzm.qyfviqnb.jpg/600x600bb.jpg"
+  },
+  {
+    "title": "Love Runs Out",
+    "artist": "OneRepublic",
+    "categories": ["Pop", "Pop 10s"],
+    "snippet": "/songs/pop/onerepublic_love_runs_out.mp3",
+    "cover": "https://is1-ssl.mzstatic.com/image/thumb/Music126/v4/93/c1/37/93c137c8-90d8-687a-4f8a-f117ca99c0a1/14UMGIM12027.rgb.jpg/600x600bb.jpg"
+  },
+  {
+    "title": "Fun (feat. Chris Brown)",
+    "artist": "Pitbull",
+    "categories": ["Pop", "Pop 10s"],
+    "snippet": "/songs/pop/pitbull_fun_feat_chris_brown.mp3",
+    "cover": "https://is1-ssl.mzstatic.com/image/thumb/Music115/v4/7d/cc/08/7dcc0849-8aed-b259-e246-f7ffad54507b/886444753852.jpg/600x600bb.jpg"
+  },
+  {
+    "title": "Bitch Better Have My Money",
+    "artist": "Rihanna",
+    "categories": ["Pop", "Pop 10s"],
+    "snippet": "/songs/pop/rihanna_bitch_better_have_my_money.mp3",
+    "cover": "https://is1-ssl.mzstatic.com/image/thumb/Music124/v4/76/d5/19/76d519f9-e79a-1b78-570a-01b737ad5bdb/00851365006066.rgb.jpg/600x600bb.jpg"
+  },
+  {
+    "title": "Sugar (feat. Francesco Yates)",
+    "artist": "Robin Schulz",
+    "categories": ["Pop", "Pop 10s"],
+    "snippet": "/songs/pop/robin_schulz_sugar_feat_francesco_yates.mp3",
+    "cover": "https://is1-ssl.mzstatic.com/image/thumb/Music7/v4/ff/0f/cf/ff0fcfac-848b-70b8-0da2-b16c133d18da/dj.yqavvtmw.jpg/600x600bb.jpg"
+  },
+  {
+    "title": "Lay Me Down",
+    "artist": "Sam Smith",
+    "categories": ["Pop", "Pop 10s"],
+    "snippet": "/songs/pop/sam_smith_lay_me_down.mp3",
+    "cover": "https://is1-ssl.mzstatic.com/image/thumb/Music115/v4/80/74/b6/8074b6bc-387f-6cc9-5ede-92b76396ad5f/13UAEIM58958.rgb.jpg/600x600bb.jpg"
+  },
+  {
+    "title": "Stay With Me",
+    "artist": "Sam Smith",
+    "categories": ["Pop", "Pop 10s"],
+    "snippet": "/songs/pop/sam_smith_stay_with_me.mp3",
+    "cover": "https://is1-ssl.mzstatic.com/image/thumb/Music114/v4/f2/59/8a/f2598a7e-945a-3cb6-24e1-9c3ead873760/15UMGIM50961.rgb.jpg/600x600bb.jpg"
+  },
+  {
+    "title": "Atlantis",
+    "artist": "Seafret",
+    "categories": ["Pop", "Pop 10s"],
+    "snippet": "/songs/rock/seafret_atlantis.mp3",
+    "cover": "https://is1-ssl.mzstatic.com/image/thumb/Music115/v4/34/65/51/34655139-b2e9-d623-8c4c-e19975efb02b/dj.figvivao.jpg/600x600bb.jpg"
+  },
+  {
+    "title": "Same Old Love",
+    "artist": "Selena Gomez",
+    "categories": ["Pop", "Pop 10s"],
+    "snippet": "/songs/pop/selena_gomez_same_old_love.mp3",
+    "cover": "https://is1-ssl.mzstatic.com/image/thumb/Music124/v4/0f/17/eb/0f17eba1-bae8-9a6d-f21e-b727926f5af1/15UMGIM48241.rgb.jpg/600x600bb.jpg"
+  },
+  {
+    "title": "Stitches",
+    "artist": "Shawn Mendes",
+    "categories": ["Pop", "Pop 10s"],
+    "snippet": "/songs/pop/shawn_mendes_stitches.mp3",
+    "cover": "https://is1-ssl.mzstatic.com/image/thumb/Music115/v4/e3/d4/de/e3d4def5-886e-da47-e1cf-568566510b53/15UMGIM62454.rgb.jpg/600x600bb.jpg"
+  },
+  {
+    "title": "Geronimo",
+    "artist": "Sheppard",
+    "categories": ["Pop", "Pop 10s"],
+    "snippet": "/songs/pop/sheppard_geronimo.mp3",
+    "cover": "https://is1-ssl.mzstatic.com/image/thumb/Music126/v4/91/ea/ac/91eaac1f-b347-cdf2-a642-7cdd2a9568d4/14UMGIM23488.rgb.jpg/600x600bb.jpg"
+  },
+  {
+    "title": "Chandelier",
+    "artist": "Sia",
+    "categories": ["Pop", "Pop 10s"],
+    "snippet": "/songs/pop/sia_chandelier.mp3",
+    "cover": "https://is1-ssl.mzstatic.com/image/thumb/Music115/v4/00/bf/72/00bf72a2-3e50-e5e7-ae78-dc35bbf9bcda/886444578219.jpg/600x600bb.jpg"
+  },
+  {
+    "title": "Elastic Heart",
+    "artist": "Sia",
+    "categories": ["Pop", "Pop 10s"],
+    "snippet": "/songs/pop/sia_elastic_heart.mp3",
+    "cover": "https://is1-ssl.mzstatic.com/image/thumb/Music115/v4/00/bf/72/00bf72a2-3e50-e5e7-ae78-dc35bbf9bcda/886444578219.jpg/600x600bb.jpg"
+  },
+  {
+    "title": "Smart",
+    "artist": "LE SSERAFIM",
+    "categories": ["Pop", "Pop 20s"],
+    "snippet": "/songs/pop/le_sserafim_smart.mp3",
+    "cover": "https://is1-ssl.mzstatic.com/image/thumb/Music221/v4/22/0f/fd/220ffdbf-152c-5b65-d5af-01256c1328c2/196922796531_Cover.jpg/600x600bb.jpg"
+  },
+  {
+    "title": "Style",
+    "artist": "Taylor Swift",
+    "categories": ["Pop", "Pop 10s"],
+    "snippet": "/songs/pop/taylor_swift_style.mp3",
+    "cover": "https://is1-ssl.mzstatic.com/image/thumb/Music221/v4/89/4a/4a/894a4ab9-b0b0-9ea5-ca41-8da0b9b79453/14UMDIM03405.rgb.jpg/600x600bb.jpg"
+  },
+  {
+    "title": "#SELFIE",
+    "artist": "The Chainsmokers",
+    "categories": ["Pop", "Pop 10s"],
+    "snippet": "/songs/pop/the_chainsmokers_selfie.mp3",
+    "cover": "https://is1-ssl.mzstatic.com/image/thumb/Music114/v4/02/a3/21/02a32104-d17a-e429-423a-1ae81647dd6d/14UMGIM08237.rgb.jpg/600x600bb.jpg"
+  },
+  {
+    "title": "STAY",
+    "artist": "The Kid LAROI & Justin Bieber",
+    "categories": ["Pop", "Pop 20s"],
+    "snippet": "/songs/pop/the_kid_laroi_justin_bieber_stay.mp3",
+    "cover": "https://is1-ssl.mzstatic.com/image/thumb/Music125/v4/89/59/6a/89596ab9-fa3c-8d08-4d95-a6450fa2013c/886449400515.jpg/600x600bb.jpg"
+  },
+  {
+    "title": "Superheroes",
+    "artist": "The Script",
+    "categories": ["Pop", "Pop 10s"],
+    "snippet": "/songs/pop/the_script_superheroes.mp3",
+    "cover": "https://is1-ssl.mzstatic.com/image/thumb/Music124/v4/d3/3e/f2/d33ef26f-a350-aa1f-ee21-218f095c9014/886444765046.jpg/600x600bb.jpg"
+  },
+  {
+    "title": "Habits (Stay High)",
+    "artist": "Tove Lo",
+    "categories": ["Pop", "Pop 10s"],
+    "snippet": "/songs/rock/tove_lo_habits_stay_high.mp3",
+    "cover": "https://is1-ssl.mzstatic.com/image/thumb/Music115/v4/b9/2d/20/b92d205d-f9fc-13cc-c714-14aed93081b4/15UMGIM46170.rgb.jpg/600x600bb.jpg"
+  },
+  {
+    "title": "Talking Body",
+    "artist": "Tove Lo",
+    "categories": ["Pop", "Pop 10s"],
+    "snippet": "/songs/rock/tove_lo_talking_body.mp3",
+    "cover": "https://is1-ssl.mzstatic.com/image/thumb/Music115/v4/b9/2d/20/b92d205d-f9fc-13cc-c714-14aed93081b4/15UMGIM46170.rgb.jpg/600x600bb.jpg"
+  },
+  {
+    "title": "Shut Up and Dance",
+    "artist": "WALK THE MOON",
+    "categories": ["Pop", "Pop 10s"],
+    "snippet": "/songs/rock/walk_the_moon_shut_up_and_dance.mp3",
+    "cover": "https://is1-ssl.mzstatic.com/image/thumb/Music124/v4/bf/b6/76/bfb67621-b78d-3924-6d29-4f367697a674/886445045758.jpg/600x600bb.jpg"
+  },
+  {
+    "title": "King",
+    "artist": "Years & Years",
+    "categories": ["Pop", "Pop 10s"],
+    "snippet": "/songs/pop/years_years_king.mp3",
+    "cover": "https://is1-ssl.mzstatic.com/image/thumb/Music126/v4/63/54/43/635443d4-70fc-ab27-e622-17b63853eebc/21UM1IM07256.rgb.jpg/600x600bb.jpg"
+  },
+  {
+    "title": "YUKON",
+    "artist": "Justin Bieber",
+    "categories": ["Pop", "Pop 20s"],
+    "snippet": "/songs/pop/justin_bieber_yukon.mp3",
+    "cover": "https://is1-ssl.mzstatic.com/image/thumb/Music221/v4/f9/09/36/f9093663-c05f-7f95-0a60-4e95d52fbb22/25UMGIM93915.rgb.jpg/600x600bb.jpg"
+  },
+  {
+    "title": "Beautiful Now (feat. Jon Bellion)",
+    "artist": "Zedd",
+    "categories": ["Pop", "Pop 10s"],
+    "snippet": "/songs/pop/zedd_beautiful_now_feat_jon_bellion.mp3",
+    "cover": "https://is1-ssl.mzstatic.com/image/thumb/Music126/v4/2d/b6/57/2db6571e-c770-ee80-7567-f8cb94a6f370/15UMGIM20773.rgb.jpg/600x600bb.jpg"
   }
 ]
 
