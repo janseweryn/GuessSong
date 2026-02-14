@@ -1252,6 +1252,32 @@ const manualDaily = {
       dailyCategory: "Rap",
     },
   ],
+  "2026-02-15": [
+    {
+      title: "Single Ladies (Put a Ring on It)",
+      artist: "Beyoncé",
+      cover: "https://is1-ssl.mzstatic.com/image/thumb/Music125/v4/35/0f/55/350f55da-2104-162a-5872-cb35fef30410/mzi.morbeoaw.jpg/600x600bb.jpg",
+      snippet: "/songs/pop/beyonc_single_ladies_put_a_ring_on_it.mp3",
+      categories: ["pop"],
+      dailyCategory: "Pop",
+    },
+    {
+      title: "Alone",
+      artist: "Heart",
+      cover: "https://is1-ssl.mzstatic.com/image/thumb/Music125/v4/2b/d4/d5/2bd4d595-6839-5d35-a601-a74045f1f7b1/00724352680351.rgb.jpg/600x600bb.jpg",
+      snippet: "/songs/rock/heart_alone.mp3",
+      categories: ["rock"],
+      dailyCategory: "Rock",
+    },
+    {
+      title: "Solo",
+      artist: "Future",
+      cover: "https://is1-ssl.mzstatic.com/image/thumb/Music126/v4/17/e0/ba/17e0ba58-4d11-a4df-7502-d4479b179c0a/886446604046.jpg/600x600bb.jpg",
+      snippet: "/songs/rap/future_solo.mp3",
+      categories: ["rap"],
+      dailyCategory: "Rap",
+    },
+  ],
 };
 
 const LEVELS = [
