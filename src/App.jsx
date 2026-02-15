@@ -1278,6 +1278,32 @@ const manualDaily = {
       dailyCategory: "Rap",
     },
   ],
+  "2026-02-16": [
+    {
+      title: "Blame (feat. John Newman)",
+      artist: "Calvin Harris",
+      cover:"/songs/covers/motion.jpg",
+      snippet: "/songs/pop/blame.mp3",
+      categories: ["pop"],
+      dailyCategory: "Pop",
+    },
+    {
+      title: "Ace of Spades",
+      artist: "Motörhead",
+      cover:  "https://is1-ssl.mzstatic.com/image/thumb/Music122/v4/4a/f9/88/4af988c8-5a08-72e1-a97f-7b8d2010cc40/5414939548673.jpg/600x600bb.jpg",
+      snippet: "/songs/rock/mot_rhead_ace_of_spades.mp3",
+      categories: ["rock"],
+      dailyCategory: "Rock",
+    },
+    {
+      title: "Gettin' Jiggy Wit It",
+      artist: "Will Smith",
+      cover: "https://is1-ssl.mzstatic.com/image/thumb/Music115/v4/96/47/9d/96479d49-1ccd-ea1a-7bee-6750a73f363f/mzi.haxmzhnz.jpg/600x600bb.jpg",
+      snippet: "/songs/rap/will_smith_gettin_jiggy_wit_it.mp3",
+      categories: ["rap"],
+      dailyCategory: "Rap",
+    },
+  ],
 };
 
 const LEVELS = [
