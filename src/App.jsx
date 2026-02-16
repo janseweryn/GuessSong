@@ -1304,6 +1304,32 @@ const manualDaily = {
       dailyCategory: "Rap",
     },
   ],
+  "2026-02-17": [
+    {
+      title: "Havana (feat. Young Thug)",
+      artist: "Camila Cabello",
+      cover: "https://is1-ssl.mzstatic.com/image/thumb/Music125/v4/85/28/70/85287029-19b9-cbe3-d1ab-300781875bf4/886446870298.jpg/600x600bb.jpg",
+      snippet: "/songs/pop/camila_cabello_havana_feat_young_thug.mp3",
+      categories: ["pop"],
+      dailyCategory: "Pop",
+    },
+    {
+      title: "Panama",
+      artist: "Van Halen",
+      cover:  "https://is1-ssl.mzstatic.com/image/thumb/Music125/v4/79/98/f7/7998f761-20e0-aa8e-4fb2-190062af1638/603497894161.jpg/600x600bb.jpg",
+      snippet: "/songs/rock/van_halen_panama.mp3",
+      categories: ["rock"],
+      dailyCategory: "Rock",
+    },
+    {
+      title: "ROXANNE",
+      artist: "Arizona Zervas",
+      cover: "https://is1-ssl.mzstatic.com/image/thumb/Music114/v4/9c/19/1b/9c191bbf-15e1-ffd6-c36d-2e480a1a156e/886448153238.jpg/600x600bb.jpg",
+      snippet: "/songs/rap/arizona_zervas_roxanne.mp3",
+      categories: ["rap"],
+      dailyCategory: "Rap",
+    },
+  ],
 };
 
 const LEVELS = [
