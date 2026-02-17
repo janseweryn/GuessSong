@@ -1330,6 +1330,32 @@ const manualDaily = {
       dailyCategory: "Rap",
     },
   ],
+  "2026-02-18": [
+    {
+      title: "Uptown Funk (feat. Bruno Mars)",
+      artist: "Mark Ronson",
+      cover: "https://is1-ssl.mzstatic.com/image/thumb/Music115/v4/7e/30/c5/7e30c572-aa47-5f7b-c6fd-42d50cd2c56d/886444959797.jpg/600x600bb.jpg",
+      snippet: "/songs/pop/mark_ronson_uptown_funk_feat_bruno_mars.mp3",
+      categories: ["pop"],
+      dailyCategory: "Pop",
+    },
+    {
+      title: "Killer Queen",
+      artist: "Queen",
+      cover:  "/songs/covers/heartatack.jpg",
+      snippet: "/songs/rock/killer_queen.mp3",
+      categories: ["rock"],
+      dailyCategory: "Rock",
+    },
+    {
+      title: "Whistle",
+      artist: "Flo Rida",
+      cover: "https://is1-ssl.mzstatic.com/image/thumb/Music114/v4/eb/ca/0d/ebca0d0d-3c73-686a-285a-f5899d1e0f25/075679954046.jpg/600x600bb.jpg",
+      snippet: "/songs/rap/flo_rida_whistle.mp3",
+      categories: ["rap"],
+      dailyCategory: "Rap",
+    },
+  ],
 };
 
 const LEVELS = [
