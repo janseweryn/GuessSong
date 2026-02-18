@@ -1356,6 +1356,32 @@ const manualDaily = {
       dailyCategory: "Rap",
     },
   ],
+  "2026-02-19": [
+    {
+      title: "Adevnture Of A Lifetime",
+      artist: "Coldplay", 
+      cover: "/songs/covers/headfull.jpg",
+      snippet: "/songs/pop/adventure_lifetime.mp3",
+      categories: ["pop"],
+      dailyCategory: "Pop",
+    },
+    {
+      title: "Yuve Yuve Yu",
+      artist: "The Hu",
+      cover:  "https://is1-ssl.mzstatic.com/image/thumb/Music116/v4/cc/47/47/cc474777-7915-7796-2cba-d3fda565f8a6/849320081005.png/600x600bb.jpg",
+      snippet: "/songs/rock/the_hu_yuve_yuve_yu_feat_from_ashes_to_new.mp3",
+      categories: ["rock"],
+      dailyCategory: "Rock",
+    },
+    {
+      title: "P.I.M.P.",
+      artist: "50 Cent",
+      cover: "https://is1-ssl.mzstatic.com/image/thumb/Music112/v4/19/5c/ef/195cefbe-555e-c80f-0520-e478c03fa491/dj.cbaflfil.png/600x600bb.jpg",
+      snippet: "/songs/pop/50_cent_p_i_m_p_mixed.mp3",
+      categories: ["rap"],
+      dailyCategory: "Rap",
+    },
+  ],
 };
 
 const LEVELS = [
