@@ -1407,20 +1407,16 @@ const CATEGORY_NAMES = {
   polish_rap: "Polskie Rap",
 };
 
-
 // 🟡 Pobiera ręczne daily zdefiniowane na dziś (czas Polski)
 function getManualDailySongs() {
   const today = new Date();
-
-  // oblicz czas UTC +1 (Polska, niezależnie od miejsca użytkownika)
   const polandTime = new Date(today.toLocaleString("en-US", { timeZone: "Europe/Warsaw" }));
-
   const dateKey = polandTime.toISOString().split("T")[0];
   return manualDaily[dateKey] || null;
 }
 
 export default function App() {
-  const [mode, setMode] = useState("menu"); // "menu" | "category" | "daily"
+  const [mode, setMode] = useState("menu"); 
   const [category, setCategory] = useState(null);
   const [filteredSongs, setFilteredSongs] = useState([]);
   const [currentSong, setCurrentSong] = useState(null);
@@ -1448,65 +1444,63 @@ export default function App() {
   };
 
   const startNewSong = (songsList) => {
-  // Jeśli funkcja została wywołana bez argumentu (np. przyciskiem "Next"),
-  // użyj aktualnie przefiltrowanych piosenek ze stanu.
-  const list = songsList || filteredSongs;
+    const list = songsList || filteredSongs;
+    if (!list || list.length === 0) return console.error("Brak piosenek do losowania!");
+    const idx = Math.floor(Math.random() * list.length);
+    const song = list[idx];
+    setCurrentSong(song);
+    setSnippetIndex(0);
+    setIsCorrect(false);
+    setGameOver(false);
+    setCanReplayFull(false);
+    setIsPlaying(false);
+    setWrongAnswers([]);
+    clearTimers();
+    if (audioRef.current) {
+      audioRef.current.pause();
+      audioRef.current.currentTime = 0;
+    }
+  };
 
-  if (!list || list.length === 0) {
-    console.error("Brak piosenek do losowania!");
-    return;
-  }
-  
-  const idx = Math.floor(Math.random() * list.length);
-  const song = list[idx];
-  
-  setCurrentSong(song);
-  setSnippetIndex(0);
-  setIsCorrect(false);
-  setGameOver(false);
-  setCanReplayFull(false);
-  setIsPlaying(false);
-  setWrongAnswers([]);
-  
-  clearTimers();
-  if (audioRef.current) {
-    audioRef.current.pause();
-    audioRef.current.currentTime = 0;
-  }
-};
-
+  // 🔹 POPRAWIONE: obsługa polskich i zagranicznych kategorii
   const selectCategory = (cat) => {
-  if (!songsData) return;
+    if (!songsData) return;
+    const allSongs = Array.isArray(songsData) ? songsData : songsData.songs;
 
-  // Obsługa tablicy bezpośredniej (tak jak masz w aaaa.txt)
-  const allSongs = Array.isArray(songsData) ? songsData : songsData.songs;
+    const categoryMap = {
+      all: "all",
+      pop: "Pop",
+      rock: "Rock",
+      rap: "Rap",
+      polish_all: "Polskie",
+      polish_pop: "Polskie Pop",
+      polish_rock: "Polskie Rock",
+      polish_rap: "Polskie Rap",
+    };
 
-  const filtered = cat === "all"
-    ? allSongs
-    : allSongs.filter((s) => {
-        // ZABEZPIECZENIE: Sprawdzamy czy s istnieje, czy ma categories i czy to tablica
-        return s && s.categories && Array.isArray(s.categories) && 
-               s.categories.some((c) => c && c.toLowerCase().includes(cat.toLowerCase()));
-      });
+    const filterValue = categoryMap[cat];
 
-  if (!filtered || filtered.length === 0) {
-    console.error("Nie znaleziono piosenek dla kategorii:", cat);
-    return;
-  }
+    const filtered = allSongs.filter((s) => {
+      if (!s || !s.categories || !Array.isArray(s.categories)) return false;
 
-  setCategory(cat);
-  setFilteredSongs(filtered);
-  setMode("category");
+      if (cat === "polish_all") {
+        return s.categories.some((c) => c.startsWith("Polskie"));
+      }
 
-  // WAŻNE: Przekazujemy 'filtered', bo stan 'filteredSongs' nie odświeża się natychmiast
-  startNewSong(filtered); 
-};
+      return s.categories.some((c) => c === filterValue);
+    });
+
+    if (!filtered || filtered.length === 0) return console.error("Nie znaleziono piosenek dla kategorii:", cat);
+
+    setCategory(cat);
+    setFilteredSongs(filtered);
+    setMode("category");
+    startNewSong(filtered);
+  };
+
   const startDaily = () => {
     const todayDaily = getManualDailySongs();
-    if (!todayDaily) {
-      setNoDaily(true);
-      return;
-    }
+    if (!todayDaily) return setNoDaily(true);
     setDailySongs(todayDaily);
     setDailyIndex(0);
     setCurrentSong(todayDaily[0]);
@@ -1534,9 +1528,7 @@ export default function App() {
   };
 
   const handleGuess = () => {
-    const [title, artist = ""] = userGuess
-      .split(" - ")
-      .map((x) => x.trim().toLowerCase());
+    const [title, artist = ""] = userGuess.split(" - ").map((x) => x.trim().toLowerCase());
     const correctTitle = currentSong.title.toLowerCase();
     const correctArtist = currentSong.artist.toLowerCase();
 
@@ -1545,12 +1537,8 @@ export default function App() {
       stopSnippet();
       setCanReplayFull(true);
     } else {
-      const artistMatches =
-        artist && correctArtist.includes(artist.toLowerCase());
-      setWrongAnswers((prev) => [
-        ...prev,
-        { title: userGuess, artistCorrect: artistMatches },
-      ]);
+      const artistMatches = artist && correctArtist.includes(artist.toLowerCase());
+      setWrongAnswers((prev) => [...prev, { title: userGuess, artistCorrect: artistMatches }]);
       skipToNext();
     }
     setUserGuess("");
@@ -1604,319 +1592,102 @@ export default function App() {
   })();
 
   return (
-    <div
-      style={{
-        display: "flex",
-        flexDirection: "column",
-        alignItems: "center",
-        justifyContent: "center",
-        textAlign: "center",
-        minHeight: "100vh",
-        color: "white",
-        background: "#222",
-        padding: 20,
-      }}
-    >
+    <div style={{ display: "flex", flexDirection: "column", alignItems: "center", justifyContent: "center", textAlign: "center", minHeight: "100vh", color: "white", background: "#222", padding: 20 }}>
       <h1 style={{ fontSize: "2.5rem", marginBottom: 20 }}>🎵 SongGuess 🎵</h1>
 
       {mode === "menu" && (
         <>
           <h2>Wybierz kategorię:</h2>
           <div style={{ marginTop: 20 }}>
-            <button onClick={() => selectCategory("all")} style={{ margin: 8 }}>
-              🎧 All
-            </button>
-            <button onClick={() => selectCategory("pop")} style={{ margin: 8 }}>
-              🎤 Pop
-            </button>
-            <button onClick={() => selectCategory("rock")} style={{ margin: 8 }}>
-              🎸 Rock
-            </button>
-            <button onClick={() => selectCategory("rap")} style={{ margin: 8 }}>
-              🧢 Rap
-            </button>
-           <div style={{ marginTop: 30 }}>
-          <h3 style={{ color: "#aaa" }}>🇵🇱 Polskie</h3>
-
-          <button onClick={() => selectCategory("polish_all")} style={{ margin: 8 }}>
-           🇵🇱 🎧 Polskie
-           </button>
-
-           <button onClick={() => selectCategory("polish_pop")} style={{ margin: 8 }}>
-           🇵🇱 🎤 Polski Pop
-          </button>
-
-           <button onClick={() => selectCategory("polish_rock")} style={{ margin: 8 }}>
-           🇵🇱 🎸 Polski Rock
-           </button>
-
-            <button onClick={() => selectCategory("polish_rap")} style={{ margin: 8 }}>
-           🇵🇱 🧢 Polski Rap
-          </button>
-          </div>
-
+            <button onClick={() => selectCategory("all")} style={{ margin: 8 }}>🎧 All</button>
+            <button onClick={() => selectCategory("pop")} style={{ margin: 8 }}>🎤 Pop</button>
+            <button onClick={() => selectCategory("rock")} style={{ margin: 8 }}>🎸 Rock</button>
+            <button onClick={() => selectCategory("rap")} style={{ margin: 8 }}>🧢 Rap</button>
             <div style={{ marginTop: 30 }}>
-              {/* 🟣 DAILY BUTTON */}
-              <button
-                onClick={startDaily}
-                style={{
-                  background: "#8b5cf6",
-                  color: "white",
-                  padding: "10px 16px",
-                  borderRadius: 10,
-                  fontWeight: "bold",
-                }}
-              >
-                🎯 Daily Challenge
-              </button>
+              <h3 style={{ color: "#aaa" }}>🇵🇱 Polskie</h3>
+              <button onClick={() => selectCategory("polish_all")} style={{ margin: 8 }}>🇵🇱 🎧 Polskie</button>
+              <button onClick={() => selectCategory("polish_pop")} style={{ margin: 8 }}>🇵🇱 🎤 Polski Pop</button>
+              <button onClick={() => selectCategory("polish_rock")} style={{ margin: 8 }}>🇵🇱 🎸 Polski Rock</button>
+              <button onClick={() => selectCategory("polish_rap")} style={{ margin: 8 }}>🇵🇱 🧢 Polski Rap</button>
+            </div>
+            <div style={{ marginTop: 30 }}>
+              <button onClick={startDaily} style={{ background: "#8b5cf6", color: "white", padding: "10px 16px", borderRadius: 10, fontWeight: "bold" }}>🎯 Daily Challenge</button>
             </div>
             {noDaily && <p style={{ color: "#ff5555" }}>Brak daily na dziś 😢</p>}
           </div>
         </>
       )}
 
-      {/* 🟢 NORMAL CATEGORY TRYB */}
       {mode === "category" && currentSong && (
         <GameView
           title={`🎵 ${CATEGORY_NAMES[category]} Mode`}
-          onBack={() => {
-            setMode("menu");
-            setCategory(null);
-            clearTimers();
-          }}
-          {...{
-            currentSong,
-            snippetIndex,
-            displayedTime,
-            LEVELS,
-            audioRef,
-            isPlaying,
-            playSnippet,
-            stopSnippet,
-            skipToNext,
-            giveUp,
-            wrongAnswers,
-            isCorrect,
-            gameOver,
-            userGuess,
-            setUserGuess,
-            handleGuess,
-            isFullPlaying,
-            playFullSong,
-            stopFullSong,
-            startNewSong: () => startNewSong(filteredSongs),
-          }}
+          onBack={() => { setMode("menu"); setCategory(null); clearTimers(); }}
+          {...{ currentSong, snippetIndex, displayedTime, LEVELS, audioRef, isPlaying, playSnippet, stopSnippet, skipToNext, giveUp, wrongAnswers, isCorrect, gameOver, userGuess, setUserGuess, handleGuess, isFullPlaying, playFullSong, stopFullSong, startNewSong: () => startNewSong(filteredSongs) }}
         />
       )}
 
       {mode === "daily" && currentSong && (
-  <>
-    {!dailyComplete ? (
-      <GameView
-        title={`🎯 Daily ${dailyIndex + 1} / ${dailySongs.length} — ${currentSong.dailyCategory}`}
-        onBack={() => setMode("menu")}
-        {...{
-          currentSong,
-          snippetIndex,
-          displayedTime,
-          LEVELS,
-          audioRef,
-          isPlaying,
-          playSnippet,
-          stopSnippet,
-          skipToNext,
-          giveUp,
-          wrongAnswers,
-          isCorrect,
-          gameOver,
-          userGuess,
-          setUserGuess,
-          handleGuess,
-          isFullPlaying,
-          playFullSong,
-          stopFullSong,
-          startNewSong: nextDailySong,
-        }}
-      />
-    ) : (
-      <div style={{ marginTop: 100, textAlign: "center" }}>
-        <h2 style={{ fontSize: "2rem", marginBottom: 20 }}>
-          ✅ Daily ukończone!
-        </h2>
-        <button
-          onClick={() => setMode("menu")}
-          style={{
-            background: "#555",
-            color: "white",
-            padding: "10px 16px",
-            borderRadius: 10,
-            fontWeight: "bold",
-          }}
-        >
-          ⬅ Wróć na stronę główną
-        </button>
-      </div>
-    )}
-  </>
-)}
-
+        <>
+          {!dailyComplete ? (
+            <GameView
+              title={`🎯 Daily ${dailyIndex + 1} / ${dailySongs.length} — ${currentSong.dailyCategory}`}
+              onBack={() => setMode("menu")}
+              {...{ currentSong, snippetIndex, displayedTime, LEVELS, audioRef, isPlaying, playSnippet, stopSnippet, skipToNext, giveUp, wrongAnswers, isCorrect, gameOver, userGuess, setUserGuess, handleGuess, isFullPlaying, playFullSong, stopFullSong, startNewSong: nextDailySong }}
+            />
+          ) : (
+            <div style={{ marginTop: 100, textAlign: "center" }}>
+              <h2 style={{ fontSize: "2rem", marginBottom: 20 }}>✅ Daily ukończone!</h2>
+              <button onClick={() => setMode("menu")} style={{ background: "#555", color: "white", padding: "10px 16px", borderRadius: 10, fontWeight: "bold" }}>⬅ Wróć na stronę główną</button>
+            </div>
+          )}
+        </>
+      )}
     </div>
   );
 }
 
 // 🔹 Komponent wspólny dla gry
-function GameView({
-  title,
-  onBack,
-  currentSong,
-  snippetIndex,
-  displayedTime,
-  LEVELS,
-  audioRef,
-  isPlaying,
-  playSnippet,
-  stopSnippet,
-  skipToNext,
-  giveUp,
-  wrongAnswers,
-  isCorrect,
-  gameOver,
-  userGuess,
-  setUserGuess,
-  handleGuess,
-  isFullPlaying,
-  playFullSong,
-  stopFullSong,
-  startNewSong,
-}) {
+function GameView({ title, onBack, currentSong, snippetIndex, displayedTime, LEVELS, audioRef, isPlaying, playSnippet, stopSnippet, skipToNext, giveUp, wrongAnswers, isCorrect, gameOver, userGuess, setUserGuess, handleGuess, isFullPlaying, playFullSong, stopFullSong, startNewSong }) {
   return (
     <>
-      <button
-        onClick={onBack}
-        style={{
-          position: "absolute",
-          top: 20,
-          left: 20,
-          background: "#555",
-          padding: "6px 10px",
-          borderRadius: 8,
-        }}
-      >
-        ⬅ Wróć
-      </button>
-
+      <button onClick={onBack} style={{ position: "absolute", top: 20, left: 20, background: "#555", padding: "6px 10px", borderRadius: 8 }}>⬅ Wróć</button>
       <h2 style={{ marginBottom: 10, color: "#ccc" }}>{title}</h2>
-      <h3>
-        Fragment: <strong>{LEVELS[snippetIndex].label}</strong>
-      </h3>
-      <p>
-        ⏱ {displayedTime.toFixed(1)}s / {LEVELS[snippetIndex].displayTime}s
-      </p>
+      <h3>Fragment: <strong>{LEVELS[snippetIndex].label}</strong></h3>
+      <p>⏱ {displayedTime.toFixed(1)}s / {LEVELS[snippetIndex].displayTime}s</p>
       <audio ref={audioRef} src={currentSong.snippet} />
-
       {!isCorrect && !gameOver && (
         <>
           <div>
-            {!isPlaying ? (
-              <button onClick={playSnippet}>▶️ Play</button>
-            ) : (
-              <button onClick={stopSnippet}>⏹ Stop</button>
-            )}
-            <button onClick={skipToNext} style={{ marginLeft: 8 }}>
-              ⏭ Skip
-            </button>
+            {!isPlaying ? <button onClick={playSnippet}>▶️ Play</button> : <button onClick={stopSnippet}>⏹ Stop</button>}
+            <button onClick={skipToNext} style={{ marginLeft: 8 }}>⏭ Skip</button>
           </div>
-
           <div style={{ marginTop: 12 }}>
-            <SearchBar
-              onSelectSong={(title, artist) =>
-                setUserGuess(`${title} - ${artist}`)
-              }
-            />
-            <button
-              onClick={handleGuess}
-              style={{
-                marginLeft: 8,
-                background: "#4caf50",
-                color: "white",
-                padding: "6px 10px",
-                borderRadius: 6,
-              }}
-            >
-              Submit
-            </button>
+            <SearchBar onSelectSong={(title, artist) => setUserGuess(`${title} - ${artist}`)} />
+            <button onClick={handleGuess} style={{ marginLeft: 8, background: "#4caf50", color: "white", padding: "6px 10px", borderRadius: 6 }}>Submit</button>
           </div>
-
           <div style={{ marginTop: 20 }}>
             {wrongAnswers.map((ans, i) => (
-              <div
-                key={i}
-                style={{
-                  marginTop: 8,
-                  borderRadius: 8,
-                  padding: "6px 10px",
-                  border: "1px solid #444",
-                  backgroundColor: ans.artistCorrect ? "#ffd54f" : "#ef5350",
-                  color: "black",
-                  display: "inline-block",
-                  minWidth: 200,
-                }}
-              >
+              <div key={i} style={{ marginTop: 8, borderRadius: 8, padding: "6px 10px", border: "1px solid #444", backgroundColor: ans.artistCorrect ? "#ffd54f" : "#ef5350", color: "black", display: "inline-block", minWidth: 200 }}>
                 ❌ {ans.title}
               </div>
             ))}
           </div>
-
           {snippetIndex === LEVELS.length - 1 && (
             <div style={{ marginTop: 12 }}>
-              <button
-                onClick={giveUp}
-                style={{
-                  background: "#ff5555",
-                  color: "white",
-                  padding: "6px 10px",
-                }}
-              >
-                Give Up
-              </button>
+              <button onClick={giveUp} style={{ background: "#ff5555", color: "white", padding: "6px 10px" }}>Give Up</button>
             </div>
           )}
         </>
       )}
-
       {(isCorrect || gameOver) && (
         <div style={{ marginTop: 16 }}>
-          {isCorrect ? (
-            <h2>✅ Correct!</h2>
-          ) : (
-            <h2 style={{ color: "red" }}>❌ Nie udało się</h2>
-          )}
-          <p>
-            <strong>Tytuł:</strong> {currentSong.title}
-            <br />
-            <strong>Artysta:</strong> {currentSong.artist}
-          </p>
-
-          {currentSong.cover && (
-            <img
-              src={currentSong.cover}
-              alt="cover"
-              width={220}
-              style={{ borderRadius: 12, marginTop: 10 }}
-            />
-          )}
-
+          {isCorrect ? <h2>✅ Correct!</h2> : <h2 style={{ color: "red" }}>❌ Nie udało się</h2>}
+          <p><strong>Tytuł:</strong> {currentSong.title}<br /><strong>Artysta:</strong> {currentSong.artist}</p>
+          {currentSong.cover && <img src={currentSong.cover} alt="cover" width={220} style={{ borderRadius: 12, marginTop: 10 }} />}
           <div style={{ marginTop: 10 }}>
-            {isFullPlaying ? (
-              <button onClick={stopFullSong}>⏹ Stop Full</button>
-            ) : (
-              <button onClick={playFullSong}>▶️ Play Full</button>
-            )}
+            {isFullPlaying ? <button onClick={stopFullSong}>⏹ Stop Full</button> : <button onClick={playFullSong}>▶️ Play Full</button>}
           </div>
-
-          <button onClick={() => startNewSong()} style={{ marginTop: 16 }}>
-            Next →
-          </button>
+          <button onClick={() => startNewSong()} style={{ marginTop: 16 }}>Next →</button>
         </div>
       )}
     </>
