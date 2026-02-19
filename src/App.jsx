@@ -1382,6 +1382,32 @@ const manualDaily = {
       dailyCategory: "Rap",
     },
   ],
+   "2026-02-20": [
+    {
+      title: "Bad Idea Right?",
+      artist: "Olivia Rodrigo", 
+      cover: "/songs/covers/guts.jpg",
+      snippet: "/songs/pop/bad_idea_right.mp3",
+      categories: ["pop"],
+      dailyCategory: "Pop",
+    },
+    {
+      title: "Friday I'm In Love",
+      artist: "The Cure",
+      cover:  "/songs/covers/wish.jpg",
+      snippet: "/songs/rock/friday_im_love.mp3",
+      categories: ["rock"],
+      dailyCategory: "Rock",
+    },
+    {
+      title: "DDU-DU DDU-DU",
+      artist: "Blackpink",
+      cover: "/songs/covers/squareup.jpg",
+      snippet: "/songs/pop/ddu.mp3",
+      categories: ["rap"],
+      dailyCategory: "Rap",
+    },
+  ],
 };
 
 const LEVELS = [
@@ -1464,39 +1490,40 @@ export default function App() {
 
   // 🔹 POPRAWIONE: obsługa polskich i zagranicznych kategorii
   const selectCategory = (cat) => {
-    if (!songsData) return;
-    const allSongs = Array.isArray(songsData) ? songsData : songsData.songs;
+  if (!songsData) return;
+  const allSongs = Array.isArray(songsData) ? songsData : songsData.songs;
 
-    const categoryMap = {
-      all: "all",
-      pop: "Pop",
-      rock: "Rock",
-      rap: "Rap",
-      polish_all: "Polskie",
-      polish_pop: "Polskie Pop",
-      polish_rock: "Polskie Rock",
-      polish_rap: "Polskie Rap",
-    };
+  let filtered = [];
 
-    const filterValue = categoryMap[cat];
+  if (cat === "all") {
+    filtered = allSongs;
+  } else if (cat.startsWith("polish")) {
+    // Polskie kategorie
+    filtered = allSongs.filter(
+      (s) => s && s.categories && Array.isArray(s.categories) && 
+             s.categories.some((c) => c.toLowerCase().startsWith("polsk"))
+    );
+    if (cat === "polish_pop") filtered = filtered.filter((s) => s.categories.includes("Polskie Pop"));
+    if (cat === "polish_rock") filtered = filtered.filter((s) => s.categories.includes("Polskie Rock"));
+    if (cat === "polish_rap") filtered = filtered.filter((s) => s.categories.includes("Polskie Rap"));
+  } else {
+    // Zagraniczne kategorie
+    filtered = allSongs.filter(
+      (s) => s && s.categories && Array.isArray(s.categories) && 
+             s.categories.some((c) => c.toLowerCase().includes(cat.toLowerCase()))
+    );
+  }
 
-    const filtered = allSongs.filter((s) => {
-      if (!s || !s.categories || !Array.isArray(s.categories)) return false;
+  if (!filtered || filtered.length === 0) {
+    console.error("Nie znaleziono piosenek dla kategorii:", cat);
+    return;
+  }
 
-      if (cat === "polish_all") {
-        return s.categories.some((c) => c.startsWith("Polskie"));
-      }
-
-      return s.categories.some((c) => c === filterValue);
-    });
-
-    if (!filtered || filtered.length === 0) return console.error("Nie znaleziono piosenek dla kategorii:", cat);
-
-    setCategory(cat);
-    setFilteredSongs(filtered);
-    setMode("category");
-    startNewSong(filtered);
-  };
+  setCategory(cat);
+  setFilteredSongs(filtered);
+  setMode("category");
+  startNewSong(filtered);
+};
 
   const startDaily = () => {
     const todayDaily = getManualDailySongs();
