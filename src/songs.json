@@ -11374,6 +11374,34 @@
     "categories": ["Rap", "Rap 10s"],
     "snippet": "/songs/rap/flo_rida_whistle.mp3",
     "cover": "https://is1-ssl.mzstatic.com/image/thumb/Music114/v4/eb/ca/0d/ebca0d0d-3c73-686a-285a-f5899d1e0f25/075679954046.jpg/600x600bb.jpg"
+  },
+  {
+    "title": "Hej Hej!",
+    "artist": "Daria Zawiałow",
+    "categories": ["Polskie Pop", "Polskie Pop 10s"],
+    "snippet": "/songs/pop/daria_zawialow_hej_hej.mp3",
+    "cover": "https://is1-ssl.mzstatic.com/image/thumb/Music125/v4/f1/ef/30/f1ef308f-1716-dbea-c4bb-f7de3510adcb/886447528587.jpg/600x600bb.jpg"
+  },
+  {
+    "title": "W Strone Slonca",
+    "artist": "Ewelina Lisowska",
+    "categories": ["Polskie Pop", "Polskie Pop 10s"],
+    "snippet": "/songs/pop/ewelina_lisowska_w_strone_slonca.mp3",
+    "cover": "https://is1-ssl.mzstatic.com/image/thumb/Music/v4/eb/c1/52/ebc1528f-d489-a796-84bd-b0ef5af91887/4250783606470_1448.jpg/600x600bb.jpg"
+  },
+  {
+    "title": "12 Groszy",
+    "artist": "Kazik Staszewski",
+    "categories": ["Polskie Rock", "Polskie Rock 90s"],
+    "snippet": "/songs/rock/kazik_staszewski_12_groszy.mp3",
+    "cover": "https://is1-ssl.mzstatic.com/image/thumb/Music114/v4/f0/ca/f4/f0caf428-31e7-c068-ea03-3c041ffc3e63/5908294613355.jpg/600x600bb.jpg"
+  },
+  {
+    "title": "Tamagotchi",
+    "artist": "TACONAFIDE, Quebonafide & Taco Hemingway",
+    "categories": ["Polskie Rap", "Polskie Rap 10s"],
+    "snippet": "/songs/rap/taconafide_quebonafide_taco_hemingway_tamagotchi.mp3",
+    "cover": "https://is1-ssl.mzstatic.com/image/thumb/Music126/v4/1e/31/bb/1e31bb4d-09bb-33b4-2b44-1c15eec73786/23UMGIM28914.rgb.jpg/600x600bb.jpg"
   }
 ]
 

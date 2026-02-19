@@ -1400,6 +1400,11 @@ const CATEGORY_NAMES = {
   pop: "Pop",
   rock: "Rock",
   rap: "Rap",
+  
+  polish_all: "Polskie",
+  polish_pop: "Polskie Pop",
+  polish_rock: "Polskie Rock",
+  polish_rap: "Polskie Rap",
 };
 
 
@@ -1630,6 +1635,25 @@ export default function App() {
             <button onClick={() => selectCategory("rap")} style={{ margin: 8 }}>
               🧢 Rap
             </button>
+           <div style={{ marginTop: 30 }}>
+          <h3 style={{ color: "#aaa" }}>🇵🇱 Polskie</h3>
+
+          <button onClick={() => selectCategory("polish_all")} style={{ margin: 8 }}>
+           🇵🇱 🎧 Polskie
+           </button>
+
+           <button onClick={() => selectCategory("polish_pop")} style={{ margin: 8 }}>
+           🇵🇱 🎤 Polski Pop
+          </button>
+
+           <button onClick={() => selectCategory("polish_rock")} style={{ margin: 8 }}>
+           🇵🇱 🎸 Polski Rock
+           </button>
+
+            <button onClick={() => selectCategory("polish_rap")} style={{ margin: 8 }}>
+           🇵🇱 🧢 Polski Rap
+          </button>
+          </div>
 
             <div style={{ marginTop: 30 }}>
               {/* 🟣 DAILY BUTTON */}
