@@ -1408,6 +1408,32 @@ const manualDaily = {
       dailyCategory: "Rap",
     },
   ],
+    "2026-02-21": [
+    {
+      title: "Revolving Door",
+      artist: "Tate McRae",
+      cover: "/songs/covers/so_close_to_what.jpg",
+      snippet: "/songs/pop/revolving_door.mp3",
+      categories: ["pop"],
+      dailyCategory: "Pop",
+    },
+    {
+      title: "Whole Lotta Love",
+      artist: "Led Zeppelin", 
+      cover:  "/songs/covers/zeppelin2.jpg",
+      snippet: "/songs/rock/whole_lotta.mp3",
+      categories: ["rock"],
+      dailyCategory: "Rock",
+    },
+    {
+      title: "Godzilla (feat. Juice WRLD)",
+      artist: "Eminem",
+      cover: "/songs/covers/musicmurder.jpg",
+      snippet: "/songs/rap/godzilla.mp3",
+      categories: ["rap"],
+      dailyCategory: "Rap",
+    },
+  ],
 };
 
 const LEVELS = [
