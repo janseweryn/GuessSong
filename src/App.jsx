@@ -43,6 +43,7 @@ const manualDaily = {
       title: "Ironic",
       artist: "Alanis Morissette",
       cover:  "https://is1-ssl.mzstatic.com/image/thumb/Features124/v4/5f/3b/ca/5f3bca60-024c-d4aa-d638-6d58e7e81461/mza_1406686761081396977.jpg/600x600bb.jpg",
+      snippet: "/songs/rock/alanis_morissette_ironic.mp3",
       categories: ["rock"],
       dailyCategory: "Rock",
     },
