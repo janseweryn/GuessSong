@@ -1729,8 +1729,8 @@ function GameView({ title, onBack, currentSong, snippetIndex, displayedTime, LEV
       
       {!isCorrect && !gameOver && (
         <>
-          {/* PRZYCISKI STEROWANIA: Play i Skip obok siebie na górze */}
-          <div style={{ display: "flex", gap: "10px", justifyContent: "center", marginBottom: 20 }}>
+          {/* PRZYCISKI STEROWANIA: Zwiększony marginBottom dla odstępu od wyszukiwarki */}
+          <div style={{ display: "flex", gap: "10px", justifyContent: "center", marginBottom: 35 }}>
             {!isPlaying ? 
               <button onClick={playSnippet} style={{ background: "#333", padding: "10px 25px", borderRadius: 10, display: "flex", alignItems: "center", gap: "8px" }}>▶️ Play</button> : 
               <button onClick={stopSnippet} style={{ background: "#333", padding: "10px 25px", borderRadius: 10, display: "flex", alignItems: "center", gap: "8px" }}>⏹ Stop</button>
@@ -1738,22 +1738,24 @@ function GameView({ title, onBack, currentSong, snippetIndex, displayedTime, LEV
             <button onClick={skipToNext} style={{ background: "#333", padding: "10px 25px", borderRadius: 10, display: "flex", alignItems: "center", gap: "8px" }}>⏭ Skip</button>
           </div>
 
-          {/* SEKCJA WYSZUKIWANIA: Duży pasek i przycisk Submit pod spodem */}
+          {/* SEKCJA WYSZUKIWANIA: Poprawiona klasa i styl przycisku */}
           <div className="search-section">
             <SearchBar onSelectSong={(title, artist) => setUserGuess(`${title} - ${artist}`)} />
             
             <button 
               onClick={handleGuess} 
+              className="submit-button-large" /* Użycie klasy z CSS zamiast brzydkiego stylu inline */
               style={{ 
                 background: "#4caf50", 
                 color: "white", 
-                padding: "14px 0", 
-                borderRadius: 12, 
+                padding: "16px 0", 
+                borderRadius: 14, 
                 border: "none", 
                 fontWeight: "bold", 
                 cursor: "pointer",
-                fontSize: "1.1rem",
-                width: "100%" 
+                fontSize: "1.2rem",
+                width: "100%",
+                marginTop: 5 /* Mały odstęp od paska wyszukiwarki */
               }}
             >
               Submit

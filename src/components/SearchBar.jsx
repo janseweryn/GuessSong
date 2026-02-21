@@ -52,13 +52,17 @@ const SearchBar = ({ onSelectSong }) => {
         placeholder="Wpisz tytuł lub artystę..."
         className="main-search-input"
       />
+      
       {loading && <div className="loader-mini"></div>}
 
       {suggestions.length > 0 && (
         <ul className="suggestions-list">
           {suggestions.map((s, index) => (
-            <li key={index} onClick={() => handleSelect(s.title, s.artist)} className="suggestion-item">
-              {/* TUTAJ POPRAWKA: Rozdzielenie tytułu i artysty myślnikiem */}
+            <li 
+              key={index} 
+              onClick={() => handleSelect(s.title, s.artist)} 
+              className="suggestion-item"
+            >
               <div className="suggestion-content">
                 <span className="s-title">{s.title}</span>
                 <span className="s-separator"> - </span>
