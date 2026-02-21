@@ -1436,6 +1436,12 @@ const manualDaily = {
   ],
 };
 
+// Zachowane Twoje stałe i poziomy
+import React, { useState, useRef, useEffect } from "react";
+import SearchBar from "./components/SearchBar";
+import songsData from "./data/songs.json"; 
+import manualDaily from "./data/daily.json"; 
+
 const LEVELS = [
   { label: "0.1s", time: 0.2, displayTime: 0.1 },
   { label: "0.5s", time: 0.5, displayTime: 0.5 },
@@ -1452,7 +1458,6 @@ const CATEGORY_NAMES = {
   pop: "Pop",
   rock: "Rock",
   rap: "Rap",
-  
   polish_all: "Polskie",
   polish_pop: "Polskie Pop",
   polish_rock: "Polskie Rock",
@@ -1463,19 +1468,16 @@ const simplifyText = (text) => {
   if (!text) return "";
   return text
     .toLowerCase()
-    // Usuwa nawiasy okrągłe i kwadratowe wraz z zawartością oraz zbędne spacje
     .replace(/\s*[\(\[][^)]*[\)\]]\s*/g, "")
-    // Usuwa znaki specjalne (opcjonalnie, dla większej tolerancji)
     .replace(/[.,/#!$%^&*;:{}=\-_`~]/g, "")
     .trim();
 };
 
-// 🟡 Pobiera ręczne daily zdefiniowane na dziś (czas Polski)
 function getManualDailySongs() {
   const today = new Date();
   const polandTime = new Date(today.toLocaleString("en-US", { timeZone: "Europe/Warsaw" }));
   const dateKey = polandTime.toISOString().split("T")[0];
-  return manualDaily[dateKey] || null;
+  return typeof manualDaily !== 'undefined' ? manualDaily[dateKey] : null;
 }
 
 export default function App() {
@@ -1501,6 +1503,24 @@ export default function App() {
   const intervalRef = useRef(null);
   const timeoutRef = useRef(null);
 
+  // --- ZAKTUALIZOWANE: Wysyłanie danych do funkcji Netlify ---
+  const sendGuessStat = async (song, levelLabel) => {
+    try {
+      await fetch("/.netlify/functions/save-stat", {
+        method: "POST",
+        headers: { "Content-Type": "application/json" },
+        body: JSON.stringify({
+          songKey: song.snippet,
+          title: song.title,
+          level: levelLabel
+        })
+      });
+      console.log("🚀 Statystyka wysłana do bazy danych!");
+    } catch (err) {
+      console.error("❌ Błąd statystyk:", err);
+    }
+  };
+
   const clearTimers = () => {
     clearInterval(intervalRef.current);
     clearTimeout(timeoutRef.current);
@@ -1525,42 +1545,33 @@ export default function App() {
     }
   };
 
-  // 🔹 POPRAWIONE: obsługa polskich i zagranicznych kategorii
   const selectCategory = (cat) => {
-  if (!songsData) return;
-  const allSongs = Array.isArray(songsData) ? songsData : songsData.songs;
+    const allSongs = Array.isArray(songsData) ? songsData : songsData.songs;
 
-  let filtered = [];
+    let filtered = [];
+    if (cat === "all") {
+      filtered = allSongs;
+    } else if (cat.startsWith("polish")) {
+      filtered = allSongs.filter(
+        (s) => s && s.categories && Array.isArray(s.categories) && 
+               s.categories.some((c) => c.toLowerCase().startsWith("polsk"))
+      );
+      if (cat === "polish_pop") filtered = filtered.filter((s) => s.categories.includes("Polskie Pop"));
+      if (cat === "polish_rock") filtered = filtered.filter((s) => s.categories.includes("Polskie Rock"));
+      if (cat === "polish_rap") filtered = filtered.filter((s) => s.categories.includes("Polskie Rap"));
+    } else {
+      filtered = allSongs.filter(
+        (s) => s && s.categories && Array.isArray(s.categories) && 
+               s.categories.some((c) => c.toLowerCase().includes(cat.toLowerCase()))
+      );
+    }
 
-  if (cat === "all") {
-    filtered = allSongs;
-  } else if (cat.startsWith("polish")) {
-    // Polskie kategorie
-    filtered = allSongs.filter(
-      (s) => s && s.categories && Array.isArray(s.categories) && 
-             s.categories.some((c) => c.toLowerCase().startsWith("polsk"))
-    );
-    if (cat === "polish_pop") filtered = filtered.filter((s) => s.categories.includes("Polskie Pop"));
-    if (cat === "polish_rock") filtered = filtered.filter((s) => s.categories.includes("Polskie Rock"));
-    if (cat === "polish_rap") filtered = filtered.filter((s) => s.categories.includes("Polskie Rap"));
-  } else {
-    // Zagraniczne kategorie
-    filtered = allSongs.filter(
-      (s) => s && s.categories && Array.isArray(s.categories) && 
-             s.categories.some((c) => c.toLowerCase().includes(cat.toLowerCase()))
-    );
-  }
-
-  if (!filtered || filtered.length === 0) {
-    console.error("Nie znaleziono piosenek dla kategorii:", cat);
-    return;
-  }
-
-  setCategory(cat);
-  setFilteredSongs(filtered);
-  setMode("category");
-  startNewSong(filtered);
-};
+    if (!filtered || filtered.length === 0) return;
+    setCategory(cat);
+    setFilteredSongs(filtered);
+    setMode("category");
+    startNewSong(filtered);
+  };
 
   const startDaily = () => {
     const todayDaily = getManualDailySongs();
@@ -1592,35 +1603,34 @@ export default function App() {
   };
 
   const handleGuess = () => {
-  // Rozbijamy to co przyszło z wyszukiwarki (Format: "Tytuł - Artysta")
-  const parts = userGuess.split(" - ");
-  const guessedTitle = parts[0] || "";
-  const guessedArtist = parts[1] || "";
+    const parts = userGuess.split(" - ");
+    const guessedTitle = parts[0] || "";
+    const guessedArtist = parts[1] || "";
 
-  // Normalizacja do porównania
-  const simplifiedGuess = simplifyText(guessedTitle);
-  const simplifiedCorrect = simplifyText(currentSong.title);
+    const simplifiedGuess = simplifyText(guessedTitle);
+    const simplifiedCorrect = simplifyText(currentSong.title);
 
-  // Porównujemy TYLKO uproszczone tytuły
-  if (simplifiedGuess === simplifiedCorrect) {
-    setIsCorrect(true);
-    stopSnippet();
-    setCanReplayFull(true);
-  } else {
-    // Sprawdzamy czy artysta się zgadza (do koloru żółtego w wynikach)
-    const artistMatches = guessedArtist && currentSong.artist.toLowerCase().includes(guessedArtist.toLowerCase().trim());
-    setWrongAnswers((prev) => [...prev, { title: userGuess, artistCorrect: artistMatches }]);
-    skipToNext();
-  }
-  setUserGuess("");
-};
+    if (simplifiedGuess === simplifiedCorrect) {
+      setIsCorrect(true);
+      stopSnippet();
+      setCanReplayFull(true);
+      sendGuessStat(currentSong, LEVELS[snippetIndex].label);
+    } else {
+      const artistMatches = guessedArtist && currentSong.artist.toLowerCase().includes(guessedArtist.toLowerCase().trim());
+      setWrongAnswers((prev) => [...prev, { title: userGuess, artistCorrect: artistMatches }]);
+      skipToNext();
+    }
+    setUserGuess("");
+  };
 
   const skipToNext = () => {
     stopSnippet();
-    if (snippetIndex < LEVELS.length - 1) setSnippetIndex((i) => i + 1);
-    else {
+    if (snippetIndex < LEVELS.length - 1) {
+      setSnippetIndex((i) => i + 1);
+    } else {
       setGameOver(true);
       setCanReplayFull(true);
+      sendGuessStat(currentSong, "fail");
     }
   };
 
@@ -1628,6 +1638,7 @@ export default function App() {
     stopSnippet();
     setGameOver(true);
     setCanReplayFull(true);
+    sendGuessStat(currentSong, "fail");
   };
 
   const playFullSong = () => {
@@ -1717,7 +1728,6 @@ export default function App() {
   );
 }
 
-// 🔹 Komponent wspólny dla gry
 function GameView({ title, onBack, currentSong, snippetIndex, displayedTime, LEVELS, audioRef, isPlaying, playSnippet, stopSnippet, skipToNext, giveUp, wrongAnswers, isCorrect, gameOver, userGuess, setUserGuess, handleGuess, isFullPlaying, playFullSong, stopFullSong, startNewSong }) {
   return (
     <>
@@ -1729,40 +1739,24 @@ function GameView({ title, onBack, currentSong, snippetIndex, displayedTime, LEV
       
       {!isCorrect && !gameOver && (
         <>
-          {/* PRZYCISKI STEROWANIA: Zwiększony marginBottom dla odstępu od wyszukiwarki */}
           <div style={{ display: "flex", gap: "10px", justifyContent: "center", marginBottom: 35 }}>
             {!isPlaying ? 
-              <button onClick={playSnippet} style={{ background: "#333", padding: "10px 25px", borderRadius: 10, display: "flex", alignItems: "center", gap: "8px" }}>▶️ Play</button> : 
-              <button onClick={stopSnippet} style={{ background: "#333", padding: "10px 25px", borderRadius: 10, display: "flex", alignItems: "center", gap: "8px" }}>⏹ Stop</button>
+              <button onClick={playSnippet} style={{ background: "#333", padding: "10px 25px", borderRadius: 10 }}>▶️ Play</button> : 
+              <button onClick={stopSnippet} style={{ background: "#333", padding: "10px 25px", borderRadius: 10 }}>⏹ Stop</button>
             }
-            <button onClick={skipToNext} style={{ background: "#333", padding: "10px 25px", borderRadius: 10, display: "flex", alignItems: "center", gap: "8px" }}>⏭ Skip</button>
+            <button onClick={skipToNext} style={{ background: "#333", padding: "10px 25px", borderRadius: 10 }}>⏭ Skip</button>
           </div>
 
-          {/* SEKCJA WYSZUKIWANIA: Poprawiona klasa i styl przycisku */}
           <div className="search-section">
             <SearchBar onSelectSong={(title, artist) => setUserGuess(`${title} - ${artist}`)} />
-            
             <button 
               onClick={handleGuess} 
-              className="submit-button-large" /* Użycie klasy z CSS zamiast brzydkiego stylu inline */
-              style={{ 
-                background: "#4caf50", 
-                color: "white", 
-                padding: "16px 0", 
-                borderRadius: 14, 
-                border: "none", 
-                fontWeight: "bold", 
-                cursor: "pointer",
-                fontSize: "1.2rem",
-                width: "100%",
-                marginTop: 5 /* Mały odstęp od paska wyszukiwarki */
-              }}
+              style={{ background: "#4caf50", color: "white", padding: "16px 0", borderRadius: 14, border: "none", fontWeight: "bold", cursor: "pointer", fontSize: "1.2rem", width: "100%", marginTop: 5 }}
             >
               Submit
             </button>
           </div>
 
-          {/* LISTA BŁĘDNYCH ODPOWIEDZI */}
           <div style={{ marginTop: 25 }}>
             {wrongAnswers.map((ans, i) => (
               <div key={i} style={{ marginTop: 8, borderRadius: 8, padding: "8px 15px", border: "1px solid #444", backgroundColor: ans.artistCorrect ? "#ffd54f" : "#ef5350", color: "black", display: "inline-block", minWidth: "250px" }}>

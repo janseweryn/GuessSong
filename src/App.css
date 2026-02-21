@@ -40,53 +40,60 @@ button:active {
   transform: scale(0.95);
 }
 
-/* --- SEKCJA WYSZUKIWANIA (PO POPRAWKACH) --- */
+/* =============================== */
+/* === SEKCJA WYSZUKIWANIA === */
+/* =============================== */
+
 .search-section {
   width: 100%;
-  max-width: 500px; 
-  margin: 40px auto 0 auto; /* Duży odstęp od przycisków Play/Skip na górze */
+  margin: 40px auto 0 auto;
   display: flex;
   flex-direction: column;
   align-items: center;
-  gap: 20px; /* Odstęp między paskiem a przyciskiem Submit */
+  gap: 20px;
 }
 
-/* Duża i wygodna wyszukiwarka - główny element */
+/* DUŻA, SZEROKA WYSZUKIWARKA */
 .search-input-wrapper {
   position: relative;
   display: flex;
   align-items: center;
+
+  width: 100%;           /* ⬅️ ZAJMUJE CAŁĄ SZEROKOŚĆ */
+  max-width: 100%;       /* ⬅️ BRAK OGRANICZENIA */
+  min-height: 64px;      /* ⬅️ WYSOKI, KLIKALNY */
+
   background-color: #1a1a1a;
   border: 2px solid #333;
-  border-radius: 14px; /* Nowoczesne zaokrąglenie */
-  padding: 18px 25px;  /* DUŻY padding sprawia, że pasek jest sporej wielkości */
-  width: 100%;
+  border-radius: 16px;
+  padding: 18px 24px;
   box-sizing: border-box;
-  transition: all 0.2s ease;
+
+  transition: border-color 0.2s ease, box-shadow 0.2s ease;
 }
 
-/* Efekt aktywnego pola */
 .search-input-wrapper:focus-within {
-  border-color: #4ade80; 
-  box-shadow: 0 0 20px rgba(74, 222, 128, 0.15);
+  border-color: #4ade80;
+  box-shadow: 0 0 22px rgba(74, 222, 128, 0.18);
 }
 
 .search-icon {
-  margin-right: 15px;
-  font-size: 1.3rem;
+  font-size: 1.4rem;
+  margin-right: 16px;
   opacity: 0.6;
+  pointer-events: none;
 }
 
-/* CAŁKOWITE USUNIĘCIE SYSTEMOWYCH RAMEK INPUTA */
+/* INPUT WYPEŁNIA CAŁY PROSTOKĄT */
 .main-search-input {
-  background: transparent !important;
-  border: none !important;
-  outline: none !important;
-  color: white !important;
-  font-size: 1.2rem; /* Większa czcionka dla czytelności */
+  background: transparent;
+  border: none;
+  outline: none;
+
   width: 100%;
-  padding: 0;
-  margin: 0;
+  height: 100%;
+  font-size: 1.25rem;
+  color: white;
   font-family: inherit;
 }
 
@@ -94,7 +101,7 @@ button:active {
   color: #555;
 }
 
-/* --- LISTA PODPOWIEDZI (DROPDOWN) --- */
+/* --- LISTA PODPOWIEDZI --- */
 .suggestions-list {
   position: absolute;
   top: calc(100% + 10px);
@@ -129,7 +136,6 @@ button:active {
   background-color: #333;
 }
 
-/* Formatowanie wiersza na liście podpowiedzi */
 .suggestion-content {
   display: flex;
   align-items: center;
@@ -140,7 +146,6 @@ button:active {
 .s-title {
   color: #fff;
   font-weight: 600;
-  font-size: 1rem;
 }
 
 .s-separator {
@@ -152,7 +157,7 @@ button:active {
   font-size: 0.9rem;
 }
 
-/* --- POZOSTAŁE --- */
+/* --- LOADER --- */
 .loader-mini {
   width: 20px;
   height: 20px;
