@@ -16,7 +16,7 @@ const SearchBar = ({ onSelectSong }) => {
       setLoading(true);
       try {
         const response = await fetch(
-          `https://itunes.apple.com/search?term=${encodeURIComponent(query)}&entity=song&limit=18`
+          `https://itunes.apple.com/search?term=${encodeURIComponent(query)}&entity=song&limit=10`
         );
         const data = await response.json();
         const formatted = data.results.map((song) => ({
@@ -36,6 +36,7 @@ const SearchBar = ({ onSelectSong }) => {
   }, [query]);
 
   const handleSelect = (title, artist) => {
+    // Formatowanie tekstu, który wpada do pola input po kliknięciu
     setQuery(`${title} - ${artist}`);
     setSuggestions([]);
     onSelectSong?.(title, artist);
@@ -48,7 +49,7 @@ const SearchBar = ({ onSelectSong }) => {
         type="text"
         value={query}
         onChange={(e) => setQuery(e.target.value)}
-        placeholder="Search a song..."
+        placeholder="Wpisz tytuł lub artystę..."
         className="main-search-input"
       />
       {loading && <div className="loader-mini"></div>}
@@ -57,8 +58,12 @@ const SearchBar = ({ onSelectSong }) => {
         <ul className="suggestions-list">
           {suggestions.map((s, index) => (
             <li key={index} onClick={() => handleSelect(s.title, s.artist)} className="suggestion-item">
-              <span className="s-title">{s.title}</span>
-              <span className="s-artist">{s.artist}</span>
+              {/* TUTAJ POPRAWKA: Rozdzielenie tytułu i artysty myślnikiem */}
+              <div className="suggestion-content">
+                <span className="s-title">{s.title}</span>
+                <span className="s-separator"> - </span>
+                <span className="s-artist">{s.artist}</span>
+              </div>
             </li>
           ))}
         </ul>

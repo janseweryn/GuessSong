@@ -1729,26 +1729,25 @@ function GameView({ title, onBack, currentSong, snippetIndex, displayedTime, LEV
       
       {!isCorrect && !gameOver && (
         <>
-          {/* PRZYCISKI STEROWANIA: Zostają na górze obok siebie */}
+          {/* PRZYCISKI STEROWANIA: Play i Skip obok siebie na górze */}
           <div style={{ display: "flex", gap: "10px", justifyContent: "center", marginBottom: 20 }}>
             {!isPlaying ? 
-              <button onClick={playSnippet} style={{ background: "#333", padding: "10px 25px", borderRadius: 10 }}>▶️ Play</button> : 
-              <button onClick={stopSnippet} style={{ background: "#333", padding: "10px 25px", borderRadius: 10 }}>⏹ Stop</button>
+              <button onClick={playSnippet} style={{ background: "#333", padding: "10px 25px", borderRadius: 10, display: "flex", alignItems: "center", gap: "8px" }}>▶️ Play</button> : 
+              <button onClick={stopSnippet} style={{ background: "#333", padding: "10px 25px", borderRadius: 10, display: "flex", alignItems: "center", gap: "8px" }}>⏹ Stop</button>
             }
-            <button onClick={skipToNext} style={{ background: "#333", padding: "10px 25px", borderRadius: 10 }}>⏭ Skip</button>
+            <button onClick={skipToNext} style={{ background: "#333", padding: "10px 25px", borderRadius: 10, display: "flex", alignItems: "center", gap: "8px" }}>⏭ Skip</button>
           </div>
 
-          {/* SEKCJA WYSZUKIWANIA: Nowoczesny wygląd paska */}
-          <div style={{ width: '100%', maxWidth: '500px', margin: '0 auto' }}>
+          {/* SEKCJA WYSZUKIWANIA: Duży pasek i przycisk Submit pod spodem */}
+          <div className="search-section">
             <SearchBar onSelectSong={(title, artist) => setUserGuess(`${title} - ${artist}`)} />
             
             <button 
               onClick={handleGuess} 
               style={{ 
-                marginTop: 15,
                 background: "#4caf50", 
                 color: "white", 
-                padding: "12px 0", 
+                padding: "14px 0", 
                 borderRadius: 12, 
                 border: "none", 
                 fontWeight: "bold", 
