@@ -5,6 +5,7 @@
   text-align: center;
 }
 
+/* --- LOGO I ANIMACJE (Zostawione bez zmian) --- */
 .logo {
   height: 6em;
   padding: 1.5em;
@@ -19,12 +20,8 @@
 }
 
 @keyframes logo-spin {
-  from {
-    transform: rotate(0deg);
-  }
-  to {
-    transform: rotate(360deg);
-  }
+  from { transform: rotate(0deg); }
+  to { transform: rotate(360deg); }
 }
 
 @media (prefers-reduced-motion: no-preference) {
@@ -39,4 +36,138 @@
 
 .read-the-docs {
   color: #888;
+}
+
+/* --- STYLIZACJA PRZYCISKÓW STEROWANIA (Play / Skip na górze) --- */
+/* Te style sprawią, że Twoje przyciski Play i Skip będą wyglądać jak na screenie */
+button {
+  cursor: pointer;
+  border: none;
+  font-family: inherit;
+  transition: transform 0.1s, background-color 0.2s;
+}
+
+button:active {
+  transform: scale(0.95);
+}
+
+/* --- NOWOCZESNA WYSZUKIWARKA --- */
+
+.search-section {
+  width: 100%;
+  display: flex;
+  flex-direction: column; /* Układ pionowy: Wyszukiwarka nad Submit */
+  align-items: center;
+  margin-top: 1rem;
+}
+
+.search-input-wrapper {
+  position: relative; /* Kluczowe dla pozycjonowania listy sugestii */
+  display: flex;
+  align-items: center;
+  background-color: #1a1a1a; /* Bardzo ciemny szary */
+  border: 2px solid #333;
+  border-radius: 12px;
+  padding: 12px 18px;
+  transition: all 0.2s ease;
+  width: 100%;
+}
+
+/* Zielony akcent przy aktywnym polu */
+.search-input-wrapper:focus-within {
+  border-color: #4ade80;
+  box-shadow: 0 0 15px rgba(74, 222, 128, 0.1);
+}
+
+.search-icon {
+  margin-right: 12px;
+  font-size: 1.1rem;
+  opacity: 0.5;
+}
+
+.main-search-input {
+  background: transparent;
+  border: none;
+  color: white;
+  font-size: 1.1rem;
+  width: 100%;
+  outline: none;
+  font-family: inherit;
+}
+
+.main-search-input::placeholder {
+  color: #555;
+}
+
+/* Lista podpowiedzi (Dropdown) */
+.suggestions-list {
+  position: absolute;
+  top: calc(100% + 10px);
+  left: 0;
+  width: 100%; /* Teraz na całą szerokość paska */
+  background-color: #1e1e1e;
+  border: 1px solid #333;
+  border-radius: 12px;
+  list-style: none;
+  padding: 8px;
+  margin: 0;
+  max-height: 280px;
+  overflow-y: auto;
+  z-index: 1000;
+  box-shadow: 0 10px 30px rgba(0,0,0,0.6);
+  text-align: left;
+}
+
+.suggestion-item {
+  padding: 12px 16px;
+  cursor: pointer;
+  border-radius: 8px;
+  display: flex;
+  flex-direction: column;
+  gap: 2px;
+  border-bottom: 1px solid #252525;
+}
+
+.suggestion-item:last-child {
+  border-bottom: none;
+}
+
+.suggestion-item:hover {
+  background-color: #2d2d2d;
+}
+
+.s-title {
+  color: #fff;
+  font-weight: 600;
+  font-size: 1rem;
+}
+
+.s-artist {
+  color: #888;
+  font-size: 0.85rem;
+}
+
+/* Pasek przewijania */
+.suggestions-list::-webkit-scrollbar {
+  width: 6px;
+}
+.suggestions-list::-webkit-scrollbar-thumb {
+  background: #444;
+  border-radius: 10px;
+}
+
+/* Mini loader wewnątrz paska */
+.loader-mini {
+  width: 16px;
+  height: 16px;
+  border: 2px solid #333;
+  border-top: 2px solid #4ade80;
+  border-radius: 50%;
+  animation: spin 0.8s linear infinite;
+  margin-left: 10px;
+}
+
+@keyframes spin {
+  0% { transform: rotate(0deg); }
+  100% { transform: rotate(360deg); }
 }

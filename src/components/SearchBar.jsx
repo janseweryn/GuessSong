@@ -1,3 +1,4 @@
+// src/components/SearchBar.jsx
 import React, { useState, useEffect } from "react";
 
 const SearchBar = ({ onSelectSong }) => {
@@ -18,12 +19,10 @@ const SearchBar = ({ onSelectSong }) => {
           `https://itunes.apple.com/search?term=${encodeURIComponent(query)}&entity=song&limit=18`
         );
         const data = await response.json();
-
         const formatted = data.results.map((song) => ({
           title: song.trackName,
           artist: song.artistName,
         }));
-
         setSuggestions(formatted);
       } catch (error) {
         console.error("Błąd pobierania danych:", error);
@@ -42,35 +41,24 @@ const SearchBar = ({ onSelectSong }) => {
     onSelectSong?.(title, artist);
   };
 
-  const handleManualSubmit = (e) => {
-    if (e.key === "Enter") {
-      e.preventDefault();
-      onSelectSong?.(query, ""); // pozwalamy wpisać ręcznie
-      setSuggestions([]);
-    }
-  };
-
   return (
-    <div className="relative w-full max-w-md mx-auto">
+    <div className="search-input-wrapper">
+      <span className="search-icon">🔍</span>
       <input
         type="text"
         value={query}
         onChange={(e) => setQuery(e.target.value)}
-        onKeyDown={handleManualSubmit}
-        placeholder="Wpisz tytuł lub artystę..."
-        className="w-full p-2 rounded-xl border border-gray-300 focus:outline-none focus:ring-2 focus:ring-blue-400"
+        placeholder="Search a song..."
+        className="main-search-input"
       />
-      {loading && <p className="text-sm text-gray-400 mt-1">Ładowanie...</p>}
+      {loading && <div className="loader-mini"></div>}
 
       {suggestions.length > 0 && (
-        <ul className="absolute z-10 bg-white shadow-md rounded-lg w-full mt-1 max-h-60 overflow-y-auto">
+        <ul className="suggestions-list">
           {suggestions.map((s, index) => (
-            <li
-              key={index}
-              onClick={() => handleSelect(s.title, s.artist)}
-              className="px-3 py-2 cursor-pointer hover:bg-gray-100"
-            >
-              {s.title} – {s.artist}
+            <li key={index} onClick={() => handleSelect(s.title, s.artist)} className="suggestion-item">
+              <span className="s-title">{s.title}</span>
+              <span className="s-artist">{s.artist}</span>
             </li>
           ))}
         </ul>
