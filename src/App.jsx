@@ -1436,11 +1436,6 @@ const manualDaily = {
   ],
 };
 
-// Zachowane Twoje stałe i poziomy
-import React, { useState, useRef, useEffect } from "react";
-import SearchBar from "./components/SearchBar";
-import songsData from "./data/songs.json"; 
-import manualDaily from "./data/daily.json"; 
 
 const LEVELS = [
   { label: "0.1s", time: 0.2, displayTime: 0.1 },
