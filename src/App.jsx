@@ -97,6 +97,64 @@ function getManualDailySongs() {
   return typeof manualDaily !== 'undefined' ? manualDaily[dateKey] : null;
 }
 
+// --- KOMPONENT STATYSTYK (MODAL) ---
+function StatsModal({ stats, onClose, currentLevel }) {
+  if (!stats) return null;
+
+  const levelsOrder = ["0.1s", "0.5s", "1s", "2s", "4s", "8s", "15s", "30s", "fail"];
+  
+  // Znajdujemy najwyższą wartość, aby przeskalować słupki
+  const counts = Object.values(stats.distribution || {});
+  const maxHits = counts.length > 0 ? Math.max(...counts) : 1;
+
+  return (
+    <div style={{ position: "fixed", top: 0, left: 0, width: "100%", height: "100%", background: "rgba(0,0,0,0.9)", display: "flex", alignItems: "center", justifyContent: "center", zIndex: 2000, padding: "20px", backdropFilter: "blur(4px)" }}>
+      <div style={{ background: "#1a1a1a", padding: "30px", borderRadius: "20px", width: "100%", maxWidth: "380px", border: "1px solid #333", textAlign: "center", boxShadow: "0 10px 30px rgba(0,0,0,0.5)" }}>
+        <h2 style={{ color: "white", marginBottom: "5px", fontSize: "1.2rem", letterSpacing: "1px" }}>GUESS DISTRIBUTION</h2>
+        <p style={{ color: "#888", marginBottom: "25px", fontSize: "0.85rem" }}>Total players: {stats.total}</p>
+        
+        <div style={{ textAlign: "left", marginBottom: "25px" }}>
+          {levelsOrder.map((lvl) => {
+            const count = stats.distribution[lvl] || 0;
+            const percentage = (count / maxHits) * 100;
+            const isPlayerLevel = lvl === currentLevel;
+
+            return (
+              <div key={lvl} style={{ display: "flex", alignItems: "center", marginBottom: "10px", gap: "12px" }}>
+                <div style={{ width: "35px", fontSize: "0.75rem", color: isPlayerLevel ? "#4caf50" : "#888", fontWeight: isPlayerLevel ? "bold" : "normal" }}>
+                  {lvl === "fail" ? "X" : lvl.replace("s", "")}
+                </div>
+                <div style={{ flex: 1, background: "#2a2a2a", borderRadius: "4px", height: "22px", position: "relative" }}>
+                  <div style={{ 
+                    width: count > 0 ? `${percentage}%` : "7%", 
+                    height: "100%", 
+                    background: isPlayerLevel ? "#4caf50" : "#555",
+                    display: "flex",
+                    alignItems: "center",
+                    justifyContent: "flex-end",
+                    paddingRight: "8px",
+                    fontSize: "0.75rem",
+                    color: "white",
+                    fontWeight: "bold",
+                    transition: "width 1s ease-out",
+                    minWidth: "20px"
+                  }}>
+                    {count}
+                  </div>
+                </div>
+              </div>
+            );
+          })}
+        </div>
+
+        <button onClick={onClose} style={{ background: "#4caf50", color: "white", border: "none", padding: "14px", borderRadius: "12px", fontWeight: "bold", cursor: "pointer", width: "100%", fontSize: "1rem" }}>
+          CONTINUE
+        </button>
+      </div>
+    </div>
+  );
+}
+
 export default function App() {
   const [mode, setMode] = useState("menu"); 
   const [category, setCategory] = useState(null);
@@ -108,7 +166,6 @@ export default function App() {
   const [userGuess, setUserGuess] = useState("");
   const [isCorrect, setIsCorrect] = useState(false);
   const [gameOver, setGameOver] = useState(false);
-  const [canReplayFull, setCanReplayFull] = useState(false);
   const [isFullPlaying, setIsFullPlaying] = useState(false);
   const [wrongAnswers, setWrongAnswers] = useState([]);
   const [dailySongs, setDailySongs] = useState([]);
@@ -116,11 +173,27 @@ export default function App() {
   const [dailyComplete, setDailyComplete] = useState(false);
   const [noDaily, setNoDaily] = useState(false);
 
+  // STATYSTYKI
+  const [stats, setStats] = useState(null);
+  const [showModal, setShowModal] = useState(false);
+
   const audioRef = useRef(null);
   const intervalRef = useRef(null);
   const timeoutRef = useRef(null);
 
-  // --- ZAKTUALIZOWANE: Wysyłanie danych do funkcji Netlify ---
+  // Pobieranie statystyk z bazy
+  const fetchStats = async (song) => {
+    try {
+      const res = await fetch(`/.netlify/functions/get-stats?songKey=${encodeURIComponent(song.snippet)}`);
+      const data = await res.json();
+      setStats(data);
+      setShowModal(true);
+    } catch (err) {
+      console.error("❌ Błąd pobierania statystyk:", err);
+    }
+  };
+
+  // Wysyłanie statystyki
   const sendGuessStat = async (song, levelLabel) => {
     try {
       await fetch("/.netlify/functions/save-stat", {
@@ -132,7 +205,7 @@ export default function App() {
           level: levelLabel
         })
       });
-      console.log("🚀 Statystyka wysłana do bazy danych!");
+      fetchStats(song);
     } catch (err) {
       console.error("❌ Błąd statystyk:", err);
     }
@@ -145,16 +218,17 @@ export default function App() {
 
   const startNewSong = (songsList) => {
     const list = songsList || filteredSongs;
-    if (!list || list.length === 0) return console.error("Brak piosenek do losowania!");
+    if (!list || list.length === 0) return;
     const idx = Math.floor(Math.random() * list.length);
     const song = list[idx];
     setCurrentSong(song);
     setSnippetIndex(0);
     setIsCorrect(false);
     setGameOver(false);
-    setCanReplayFull(false);
     setIsPlaying(false);
     setWrongAnswers([]);
+    setStats(null);
+    setShowModal(false);
     clearTimers();
     if (audioRef.current) {
       audioRef.current.pause();
@@ -164,26 +238,18 @@ export default function App() {
 
   const selectCategory = (cat) => {
     const allSongs = Array.isArray(songsData) ? songsData : songsData.songs;
-
     let filtered = [];
     if (cat === "all") {
       filtered = allSongs;
     } else if (cat.startsWith("polish")) {
-      filtered = allSongs.filter(
-        (s) => s && s.categories && Array.isArray(s.categories) && 
-               s.categories.some((c) => c.toLowerCase().startsWith("polsk"))
-      );
-      if (cat === "polish_pop") filtered = filtered.filter((s) => s.categories.includes("Polskie Pop"));
-      if (cat === "polish_rock") filtered = filtered.filter((s) => s.categories.includes("Polskie Rock"));
-      if (cat === "polish_rap") filtered = filtered.filter((s) => s.categories.includes("Polskie Rap"));
+      filtered = allSongs.filter(s => s && s.categories && s.categories.some(c => c.toLowerCase().startsWith("polsk")));
+      if (cat === "polish_pop") filtered = filtered.filter(s => s.categories.includes("Polskie Pop"));
+      if (cat === "polish_rock") filtered = filtered.filter(s => s.categories.includes("Polskie Rock"));
+      if (cat === "polish_rap") filtered = filtered.filter(s => s.categories.includes("Polskie Rap"));
     } else {
-      filtered = allSongs.filter(
-        (s) => s && s.categories && Array.isArray(s.categories) && 
-               s.categories.some((c) => c.toLowerCase().includes(cat.toLowerCase()))
-      );
+      filtered = allSongs.filter(s => s && s.categories && s.categories.some(c => c.toLowerCase().includes(cat.toLowerCase())));
     }
-
-    if (!filtered || filtered.length === 0) return;
+    if (!filtered.length) return;
     setCategory(cat);
     setFilteredSongs(filtered);
     setMode("category");
@@ -209,7 +275,7 @@ export default function App() {
     audio.play();
     setIsPlaying(true);
     setCurrentTime(0);
-    intervalRef.current = setInterval(() => setCurrentTime((t) => t + 0.1), 100);
+    intervalRef.current = setInterval(() => setCurrentTime(t => t + 0.1), 100);
     timeoutRef.current = setTimeout(() => stopSnippet(), level.time * 1000);
   };
 
@@ -220,21 +286,17 @@ export default function App() {
   };
 
   const handleGuess = () => {
-    const parts = userGuess.split(" - ");
-    const guessedTitle = parts[0] || "";
-    const guessedArtist = parts[1] || "";
-
-    const simplifiedGuess = simplifyText(guessedTitle);
+    const simplifiedGuess = simplifyText(userGuess.split(" - ")[0]);
     const simplifiedCorrect = simplifyText(currentSong.title);
 
     if (simplifiedGuess === simplifiedCorrect) {
       setIsCorrect(true);
       stopSnippet();
-      setCanReplayFull(true);
       sendGuessStat(currentSong, LEVELS[snippetIndex].label);
     } else {
+      const guessedArtist = userGuess.split(" - ")[1] || "";
       const artistMatches = guessedArtist && currentSong.artist.toLowerCase().includes(guessedArtist.toLowerCase().trim());
-      setWrongAnswers((prev) => [...prev, { title: userGuess, artistCorrect: artistMatches }]);
+      setWrongAnswers(prev => [...prev, { title: userGuess, artistCorrect: artistMatches }]);
       skipToNext();
     }
     setUserGuess("");
@@ -243,10 +305,9 @@ export default function App() {
   const skipToNext = () => {
     stopSnippet();
     if (snippetIndex < LEVELS.length - 1) {
-      setSnippetIndex((i) => i + 1);
+      setSnippetIndex(i => i + 1);
     } else {
       setGameOver(true);
-      setCanReplayFull(true);
       sendGuessStat(currentSong, "fail");
     }
   };
@@ -254,14 +315,12 @@ export default function App() {
   const giveUp = () => {
     stopSnippet();
     setGameOver(true);
-    setCanReplayFull(true);
     sendGuessStat(currentSong, "fail");
   };
 
   const playFullSong = () => {
-    const audio = audioRef.current;
-    audio.currentTime = 0;
-    audio.play();
+    audioRef.current.currentTime = 0;
+    audioRef.current.play();
     setIsFullPlaying(true);
   };
 
@@ -278,15 +337,15 @@ export default function App() {
       setSnippetIndex(0);
       setIsCorrect(false);
       setGameOver(false);
-      setCanReplayFull(false);
       setWrongAnswers([]);
+      setStats(null);
+      setShowModal(false);
     } else setDailyComplete(true);
   };
 
   const displayedTime = (() => {
     const level = LEVELS[snippetIndex];
-    const scale = level.displayTime / level.time;
-    const scaled = currentTime * scale;
+    const scaled = currentTime * (level.displayTime / level.time);
     return scaled > level.displayTime ? level.displayTime : scaled;
   })();
 
@@ -295,51 +354,44 @@ export default function App() {
       <h1 style={{ fontSize: "2.5rem", marginBottom: 20 }}>🎵 SongGuess 🎵</h1>
 
       {mode === "menu" && (
-        <>
+        <div style={{ marginTop: 20 }}>
           <h2>Wybierz kategorię:</h2>
-          <div style={{ marginTop: 20 }}>
-            <button onClick={() => selectCategory("all")} style={{ margin: 8 }}>🎧 All</button>
-            <button onClick={() => selectCategory("pop")} style={{ margin: 8 }}>🎤 Pop</button>
-            <button onClick={() => selectCategory("rock")} style={{ margin: 8 }}>🎸 Rock</button>
-            <button onClick={() => selectCategory("rap")} style={{ margin: 8 }}>🧢 Rap</button>
-            <div style={{ marginTop: 30 }}>
-              <h3 style={{ color: "#aaa" }}>🇵🇱 Polskie</h3>
-              <button onClick={() => selectCategory("polish_all")} style={{ margin: 8 }}>🇵🇱 🎧 Polskie</button>
-              <button onClick={() => selectCategory("polish_pop")} style={{ margin: 8 }}>🇵🇱 🎤 Polski Pop</button>
-              <button onClick={() => selectCategory("polish_rock")} style={{ margin: 8 }}>🇵🇱 🎸 Polski Rock</button>
-              <button onClick={() => selectCategory("polish_rap")} style={{ margin: 8 }}>🇵🇱 🧢 Polski Rap</button>
-            </div>
-            <div style={{ marginTop: 30 }}>
-              <button onClick={startDaily} style={{ background: "#8b5cf6", color: "white", padding: "10px 16px", borderRadius: 10, fontWeight: "bold" }}>🎯 Daily Challenge</button>
-            </div>
-            {noDaily && <p style={{ color: "#ff5555" }}>Brak daily na dziś 😢</p>}
+          {Object.keys(CATEGORY_NAMES).map(cat => (
+            <button key={cat} onClick={() => selectCategory(cat)} style={{ margin: 8, padding: "10px 18px", borderRadius: 8, border: "1px solid #444", background: "#333", color: "white", cursor: "pointer" }}>{CATEGORY_NAMES[cat]}</button>
+          ))}
+          <div style={{ marginTop: 30 }}>
+            <button onClick={startDaily} style={{ background: "#8b5cf6", color: "white", padding: "12px 24px", borderRadius: 12, fontWeight: "bold", border: "none", cursor: "pointer" }}>🎯 Daily Challenge</button>
           </div>
-        </>
+          {noDaily && <p style={{ color: "#ff5555", marginTop: 10 }}>Brak daily na dziś!</p>}
+        </div>
       )}
 
-      {mode === "category" && currentSong && (
-        <GameView
-          title={`🎵 ${CATEGORY_NAMES[category]} Mode`}
-          onBack={() => { setMode("menu"); setCategory(null); clearTimers(); }}
-          {...{ currentSong, snippetIndex, displayedTime, LEVELS, audioRef, isPlaying, playSnippet, stopSnippet, skipToNext, giveUp, wrongAnswers, isCorrect, gameOver, userGuess, setUserGuess, handleGuess, isFullPlaying, playFullSong, stopFullSong, startNewSong: () => startNewSong(filteredSongs) }}
-        />
-      )}
-
-      {mode === "daily" && currentSong && (
+      {(mode === "category" || mode === "daily") && currentSong && (
         <>
-          {!dailyComplete ? (
-            <GameView
-              title={`🎯 Daily ${dailyIndex + 1} / ${dailySongs.length} — ${currentSong.dailyCategory}`}
-              onBack={() => setMode("menu")}
-              {...{ currentSong, snippetIndex, displayedTime, LEVELS, audioRef, isPlaying, playSnippet, stopSnippet, skipToNext, giveUp, wrongAnswers, isCorrect, gameOver, userGuess, setUserGuess, handleGuess, isFullPlaying, playFullSong, stopFullSong, startNewSong: nextDailySong }}
-            />
-          ) : (
-            <div style={{ marginTop: 100, textAlign: "center" }}>
-              <h2 style={{ fontSize: "2rem", marginBottom: 20 }}>✅ Daily ukończone!</h2>
-              <button onClick={() => setMode("menu")} style={{ background: "#555", color: "white", padding: "10px 16px", borderRadius: 10, fontWeight: "bold" }}>⬅ Wróć na stronę główną</button>
+          {dailyComplete ? (
+            <div style={{ marginTop: 50 }}>
+              <h2>🎯 Daily Challenge Complete!</h2>
+              <button onClick={() => setMode("menu")} style={{ marginTop: 20, padding: "12px 24px", borderRadius: 10, background: "#555", color: "white", border: "none" }}>Back to Menu</button>
             </div>
+          ) : (
+            <GameView 
+              title={mode === "daily" ? `🎯 Daily ${dailyIndex + 1}/${dailySongs.length} — ${currentSong.dailyCategory}` : `🎵 ${CATEGORY_NAMES[category]} Mode`}
+              onBack={() => { setMode("menu"); clearTimers(); }}
+              {...{ currentSong, snippetIndex, displayedTime, LEVELS, audioRef, isPlaying, playSnippet, stopSnippet, skipToNext, giveUp, wrongAnswers, isCorrect, gameOver, userGuess, setUserGuess, handleGuess, isFullPlaying, playFullSong, stopFullSong, startNewSong: mode === "daily" ? nextDailySong : () => startNewSong() }}
+            />
           )}
         </>
+      )}
+
+      {showModal && (
+        <StatsModal 
+          stats={stats} 
+          currentLevel={isCorrect ? LEVELS[snippetIndex].label : "fail"} 
+          onClose={() => {
+            setShowModal(false);
+            if (mode !== "daily") startNewSong();
+          }} 
+        />
       )}
     </div>
   );
@@ -348,60 +400,38 @@ export default function App() {
 function GameView({ title, onBack, currentSong, snippetIndex, displayedTime, LEVELS, audioRef, isPlaying, playSnippet, stopSnippet, skipToNext, giveUp, wrongAnswers, isCorrect, gameOver, userGuess, setUserGuess, handleGuess, isFullPlaying, playFullSong, stopFullSong, startNewSong }) {
   return (
     <>
-      <button onClick={onBack} style={{ position: "absolute", top: 20, left: 20, background: "#555", padding: "6px 10px", borderRadius: 8 }}>⬅ Wróć</button>
-      <h2 style={{ marginBottom: 10, color: "#ccc" }}>{title}</h2>
-      <h3>Fragment: <strong>{LEVELS[snippetIndex].label}</strong></h3>
+      <button onClick={onBack} style={{ position: "absolute", top: 20, left: 20, background: "#444", color: "white", border: "none", padding: "8px 15px", borderRadius: 8, cursor: "pointer" }}>⬅ Wróć</button>
+      <h2 style={{ color: "#aaa", marginBottom: 10 }}>{title}</h2>
+      <h3>Fragment: {LEVELS[snippetIndex].label}</h3>
       <p>⏱ {displayedTime.toFixed(1)}s / {LEVELS[snippetIndex].displayTime}s</p>
-      <audio ref={audioRef} src={currentSong.snippet} />
       
-      {!isCorrect && !gameOver && (
-        <>
-          <div style={{ display: "flex", gap: "10px", justifyContent: "center", marginBottom: 35 }}>
-            {!isPlaying ? 
-              <button onClick={playSnippet} style={{ background: "#333", padding: "10px 25px", borderRadius: 10 }}>▶️ Play</button> : 
-              <button onClick={stopSnippet} style={{ background: "#333", padding: "10px 25px", borderRadius: 10 }}>⏹ Stop</button>
-            }
-            <button onClick={skipToNext} style={{ background: "#333", padding: "10px 25px", borderRadius: 10 }}>⏭ Skip</button>
-          </div>
+      <audio ref={audioRef} src={currentSong.snippet} />
 
-          <div className="search-section">
-            <SearchBar onSelectSong={(title, artist) => setUserGuess(`${title} - ${artist}`)} />
-            <button 
-              onClick={handleGuess} 
-              style={{ background: "#4caf50", color: "white", padding: "16px 0", borderRadius: 14, border: "none", fontWeight: "bold", cursor: "pointer", fontSize: "1.2rem", width: "100%", marginTop: 5 }}
-            >
-              Submit
-            </button>
+      {!isCorrect && !gameOver ? (
+        <div style={{ width: "100%", maxWidth: "400px" }}>
+          <div style={{ display: "flex", gap: 10, justifyContent: "center", marginBottom: 35 }}>
+            <button onClick={isPlaying ? stopSnippet : playSnippet} style={{ padding: "12px 30px", borderRadius: 10, background: "#333", color: "white", border: "1px solid #444", cursor: "pointer" }}>{isPlaying ? "⏹ Stop" : "▶️ Play"}</button>
+            <button onClick={skipToNext} style={{ padding: "12px 30px", borderRadius: 10, background: "#333", color: "white", border: "1px solid #444", cursor: "pointer" }}>⏭ Skip</button>
           </div>
-
+          <SearchBar onSelectSong={(t, a) => setUserGuess(`${t} - ${a}`)} />
+          <button onClick={handleGuess} style={{ background: "#4caf50", color: "white", width: "100%", padding: 16, borderRadius: 14, border: "none", fontWeight: "bold", marginTop: 10, cursor: "pointer", fontSize: "1.1rem" }}>Submit</button>
+          
           <div style={{ marginTop: 25 }}>
             {wrongAnswers.map((ans, i) => (
-              <div key={i} style={{ marginTop: 8, borderRadius: 8, padding: "8px 15px", border: "1px solid #444", backgroundColor: ans.artistCorrect ? "#ffd54f" : "#ef5350", color: "black", display: "inline-block", minWidth: "250px" }}>
-                ❌ {ans.title}
-              </div>
+              <div key={i} style={{ background: ans.artistCorrect ? "#ffd54f" : "#ef5350", color: "black", padding: "8px 15px", borderRadius: 8, marginTop: 8, fontSize: "0.9rem", display: "inline-block", minWidth: "250px" }}>❌ {ans.title}</div>
             ))}
           </div>
-          
-          {snippetIndex === LEVELS.length - 1 && (
-            <div style={{ marginTop: 20 }}>
-              <button onClick={giveUp} style={{ background: "#ff5555", color: "white", padding: "8px 15px", borderRadius: 8 }}>Give Up</button>
-            </div>
-          )}
-        </>
-      )}
-
-      {(isCorrect || gameOver) && (
-        <div style={{ marginTop: 16 }}>
-          {isCorrect ? <h2>✅ Correct!</h2> : <h2 style={{ color: "#ff5555" }}>❌ Nie udało się</h2>}
-          <p style={{ fontSize: "1.2rem" }}><strong>Tytuł:</strong> {currentSong.title}<br /><strong>Artysta:</strong> {currentSong.artist}</p>
-          {currentSong.cover && <img src={currentSong.cover} alt="cover" width={220} style={{ borderRadius: 15, marginTop: 15, boxShadow: "0 10px 20px rgba(0,0,0,0.5)" }} />}
+          {snippetIndex === LEVELS.length - 1 && <button onClick={giveUp} style={{ marginTop: 20, background: "transparent", color: "#888", border: "none", textDecoration: "underline", cursor: "pointer" }}>Give Up</button>}
+        </div>
+      ) : (
+        <div style={{ marginTop: 20 }}>
+          <h2 style={{ color: isCorrect ? "#4caf50" : "#ff5555" }}>{isCorrect ? "✅ Correct!" : "❌ Game Over"}</h2>
+          <p style={{ fontSize: "1.2rem" }}><strong>{currentSong.title}</strong> - {currentSong.artist}</p>
+          <img src={currentSong.cover} width={220} style={{ borderRadius: 15, marginTop: 15, boxShadow: "0 10px 30px rgba(0,0,0,0.5)" }} />
           <div style={{ marginTop: 20 }}>
-            {isFullPlaying ? 
-              <button onClick={stopFullSong} style={{ background: "#444", padding: "10px 20px", borderRadius: 10 }}>⏹ Stop Full</button> : 
-              <button onClick={playFullSong} style={{ background: "#444", padding: "10px 20px", borderRadius: 10 }}>▶️ Play Full</button>
-            }
+            <button onClick={isFullPlaying ? stopFullSong : playFullSong} style={{ padding: "10px 20px", borderRadius: 10, background: "#444", color: "white", border: "none", cursor: "pointer" }}>{isFullPlaying ? "⏹ Stop Full" : "▶️ Play Full"}</button>
           </div>
-          <button onClick={() => startNewSong()} style={{ marginTop: 20, background: "#fff", color: "#000", padding: "12px 30px", borderRadius: 10, fontWeight: "bold" }}>Next →</button>
+          <button onClick={startNewSong} style={{ marginTop: 30, background: "white", color: "black", padding: "12px 40px", borderRadius: 12, fontWeight: "bold", border: "none", cursor: "pointer" }}>Next Song →</button>
         </div>
       )}
     </>
