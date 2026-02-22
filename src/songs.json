@@ -2702,7 +2702,7 @@
     "cover": "/songs/covers/reputation.jpg"
   },
   {
-   "title": "Don't Blame Me",
+   "title": "Don’t Blame Me",
     "artist": "Taylor Swift",  
     "categories": ["Pop", "Pop 10s"],
     "snippet": "/songs/pop/blame_me.mp3",
@@ -8543,7 +8543,7 @@
   {
     "title": "The Next Episode (feat. Snoop Dogg)",
     "artist": "Dr. Dre",
-    "categories": ["Pop", "Pop 20s"],
+    "categories": ["Rap", "Rap 20s"],
     "snippet": "/songs/pop/dr_dre_the_next_episode_feat_snoop_dogg_wooli_remix_mixed.mp3",
     "cover": "https://is1-ssl.mzstatic.com/image/thumb/Music221/v4/63/99/6a/63996a0c-8ac0-d9ad-e02d-c9659c012e46/dcbd333d-6aaa-4ba3-8ddd-20346cad61a4.jpg/600x600bb.jpg"
   },
@@ -9341,7 +9341,7 @@
   {
     "title": "Johnny B. Goode",
     "artist": "Chuck Berry",
-    "categories": ["Pop", "Pop 50s"],
+    "categories": ["Rock", "Rock 50s"],
     "snippet": "/songs/pop/chuck_berry_johnny_b_goode.mp3",
     "cover": "https://is1-ssl.mzstatic.com/image/thumb/Music122/v4/67/c8/33/67c83356-08b8-e3c0-34cd-ee084db91f59/06UMGIM60693.rgb.jpg/600x600bb.jpg"
   },
