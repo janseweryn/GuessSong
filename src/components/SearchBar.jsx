@@ -1,5 +1,6 @@
 // src/components/SearchBar.jsx
 import React, { useState, useEffect } from "react";
+import manualSongs from "../manualSongs.json"; // <-- tu twoje ręczne utwory
 
 const SearchBar = ({ onSelectSong }) => {
   const [query, setQuery] = useState("");
@@ -15,15 +16,28 @@ const SearchBar = ({ onSelectSong }) => {
     const fetchSuggestions = async () => {
       setLoading(true);
       try {
+        // --- iTunes API ---
         const response = await fetch(
           `https://itunes.apple.com/search?term=${encodeURIComponent(query)}&entity=song&limit=10`
         );
         const data = await response.json();
-        const formatted = data.results.map((song) => ({
+        const itunesResults = data.results.map((song) => ({
           title: song.trackName,
           artist: song.artistName,
+          source: "itunes", // opcjonalnie do oznaczenia w UI
         }));
-        setSuggestions(formatted);
+
+        // --- ręczne utwory ---
+        const manualResults = manualSongs
+          .filter(
+            (s) =>
+              s.title.toLowerCase().includes(query.toLowerCase()) ||
+              s.artist.toLowerCase().includes(query.toLowerCase())
+          )
+          .map((s) => ({ ...s, source: "manual" }));
+
+        // --- połączenie obu źródeł ---
+        setSuggestions([...itunesResults, ...manualResults]);
       } catch (error) {
         console.error("Błąd pobierania danych:", error);
       } finally {
@@ -36,7 +50,6 @@ const SearchBar = ({ onSelectSong }) => {
   }, [query]);
 
   const handleSelect = (title, artist) => {
-    // Formatowanie tekstu, który wpada do pola input po kliknięciu
     setQuery(`${title} - ${artist}`);
     setSuggestions([]);
     onSelectSong?.(title, artist);
@@ -67,6 +80,9 @@ const SearchBar = ({ onSelectSong }) => {
                 <span className="s-title">{s.title}</span>
                 <span className="s-separator"> - </span>
                 <span className="s-artist">{s.artist}</span>
+                {s.source === "manual" && (
+                  <span className="manual-badge"> (manual)</span>
+                )}
               </div>
             </li>
           ))}

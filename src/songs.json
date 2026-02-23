@@ -11649,8 +11649,8 @@
     "title": "Załoga G",
     "artist": "Hurt",
     "categories": [
-      "Rock",
-      "Rock 00s"
+      "Polskie Rock",
+      "Polskie Rock 00s"
     ],
     "snippet": "/songs/Polskie/hurt_zaloga_g.mp3",
     "cover": "https://is1-ssl.mzstatic.com/image/thumb/Music211/v4/a9/57/d5/a957d563-d4a0-4807-6ab8-c4ac3ba28a06/5900672922615.jpg/600x600bb.jpg"
@@ -12154,6 +12154,307 @@
     ],
     "snippet": "/songs/Polskie/republika_smierc_w_bikini.mp3",
     "cover": "https://is1-ssl.mzstatic.com/image/thumb/Music112/v4/65/58/a5/6558a5d6-2836-1184-6f50-dcb8a9d27501/724353375553.jpg/600x600bb.jpg"
+  },
+  {
+    "title": "Nic nie może wiecznie trwać",
+    "artist": "Anna Jantar",
+    "categories": ["Polskie Pop", "Polskie Pop 80s"],
+    "snippet": "/songs/Polskie/anna_jantar_nic_nie_moze_wiecznie_trwac.mp3",
+    "cover": "https://is1-ssl.mzstatic.com/image/thumb/Music112/v4/81/5d/fb/815dfb12-d6e7-fbfa-e9a8-fac7287c3a5d/cover.jpg/600x600bb.jpg"
+  },
+  {
+    "title": "Grill u Gawrona",
+    "artist": "Białas & Lanek",
+    "categories": ["Polskie Rap", "Polskie Rap 10s"],
+    "snippet": "/songs/Polskie/bialas_lanek_grill_u_gawrona.mp3",
+    "cover": "https://is1-ssl.mzstatic.com/image/thumb/Music221/v4/53/84/6b/53846b0d-73f8-3932-a714-0ef175a0a093/0000438900057.jpg/600x600bb.jpg"
+  },
+  {
+    "title": "Buena",
+    "artist": "Blue Cafe",
+    "categories": ["Polskie Pop", "Polskie Pop 10s"],
+    "snippet": "/songs/Polskie/blue_cafe_buena.mp3",
+    "cover": "https://is1-ssl.mzstatic.com/image/thumb/Music124/v4/3e/2c/80/3e2c8001-8179-3805-639c-214b75bc978b/00602527702759.rgb.jpg/600x600bb.jpg"
+  },
+  {
+    "title": "Kiedy Bylem Malym Chlopcem",
+    "artist": "Breakout",
+    "categories": ["Polskie Rock", "Polskie Rock 70s"],
+    "snippet": "/songs/Polskie/breakout_kiedy_bylem_malym_chlopcem.mp3",
+    "cover": "https://is1-ssl.mzstatic.com/image/thumb/Music124/v4/be/4b/00/be4b00dd-a9e5-dc65-cd6e-1181104e3bd4/825646933174.jpg/600x600bb.jpg"
+  },
+  {
+    "title": "Bal Wszystkich Świętych",
+    "artist": "Budka Suflera",
+    "categories": ["Polskie Rock", "Polskie Rock 00s"],
+    "snippet": "/songs/Polskie/budka_suflera_bal_wszystkich_swietych.mp3",
+    "cover": "https://is1-ssl.mzstatic.com/image/thumb/Music124/v4/c8/22/8e/c8228ee3-9f67-c33a-8e34-dbd2e7891832/Budka_Suflera_-_Bal_wszystkich_s_wie_tych_COVER.png/600x600bb.jpg"
+  },
+  {
+    "title": "Jest Taki Samotny Dom",
+    "artist": "Budka Suflera",
+    "categories": ["Polskie Rock", "Polskie Rock 90s"],
+    "snippet": "/songs/Polskie/budka_suflera_jest_taki_samotny_dom_live.mp3",
+    "cover": "https://is1-ssl.mzstatic.com/image/thumb/Music123/v4/f3/ae/19/f3ae19cb-9944-3479-8b86-32026a552979/dj.xqwkmahu.png/600x600bb.jpg"
+  },
+  {
+    "title": "Jolka, Jolka pamiętasz...",
+    "artist": "Felicjan Andrzejczak",
+    "categories": ["Polskie Rock", "Polskie Rock 10s"],
+    "snippet": "/songs/Polskie/budka_suflera_jolka_jolka_pamietasz_feat_felicjan_andrzejczak_live.mp3",
+    "cover": "https://is1-ssl.mzstatic.com/image/thumb/Music124/v4/87/90/9d/87909d31-9ae4-9f34-2b70-68d1331ee136/Budka_Suflera_-_Cien_wielkiej_go_ry_Live_Przystanek_Woodstock_COVER.jpg/600x600bb.jpg"
+  },
+  {
+    "title": "King Bruce Lee",
+    "artist": "Franek Kimono",
+    "categories": ["Polskie Pop", "Polskie Pop 20s"],
+    "snippet": "/songs/Polskie/claysteer_popek_franek_kimono_king_bruce_lee.mp3",
+    "cover": "https://is1-ssl.mzstatic.com/image/thumb/Music115/v4/57/66/3d/57663d5a-31e8-224d-e7cd-420e6f2d22d4/5903600310690.jpg/600x600bb.jpg"
+  },
+  {
+    "title": "Czerwony Jak Cegla (2003 Remaster)",
+    "artist": "Dżem",
+    "categories": ["Polskie Pop", "Polskie Pop 80s"],
+    "snippet": "/songs/Polskie/dzem_czerwony_jak_cegla_2003_remaster.mp3",
+    "cover": "https://is1-ssl.mzstatic.com/image/thumb/Music114/v4/ee/5c/1f/ee5c1f92-52a9-64b4-3e15-a2818cd993a9/825646244553.jpg/600x600bb.jpg"
+  },
+  {
+    "title": "Sen O Victorii",
+    "artist": "Dżem",
+    "categories": ["Polskie Pop", "Polskie Pop 00s"],
+    "snippet": "/songs/Polskie/dzem_sen_o_victorii.mp3",
+    "cover": "https://is1-ssl.mzstatic.com/image/thumb/Music114/v4/d4/80/e5/d480e55b-4566-bdfd-c5b9-8e243fd17283/0094638828259_1500x1500_300dpi.jpg/600x600bb.jpg"
+  },
+  {
+    "title": "3Kipa",
+    "artist": "Ekipa",
+    "categories": ["Polskie Pop", "Polskie Pop 20s"],
+    "snippet": "/songs/Polskie/ekipa_3kipa.mp3",
+    "cover": "https://is1-ssl.mzstatic.com/image/thumb/Music124/v4/9e/e1/f0/9ee1f00e-98f6-268a-4dfc-f5454bfdf69f/0000720620533.jpg/600x600bb.jpg"
+  },
+  {
+    "title": "Zygzak",
+    "artist": "Ekipa & Jacuś",
+    "categories": ["Polskie Rap", "Polskie Rap 20s"],
+    "snippet": "/songs/Polskie/ekipa_jacus_zygzak.mp3",
+    "cover": "https://is1-ssl.mzstatic.com/image/thumb/Music115/v4/0b/e4/04/0be404c4-0829-8619-7345-9f3b648d928c/0000737233665.jpg/600x600bb.jpg"
+  },
+  {
+    "title": "Co Ty Tutaj Robisz",
+    "artist": "Elektryczne Gitary",
+    "categories": ["Polskie Rock", "Polskie Rock 10s"],
+    "snippet": "/songs/Polskie/elektryczne_gitary_co_ty_tutaj_robisz.mp3",
+    "cover": "https://is1-ssl.mzstatic.com/image/thumb/Music115/v4/20/32/ea/2032ea1c-67e7-874d-216d-d211cf7c691d/825646259496.jpg/600x600bb.jpg"
+  },
+  {
+    "title": "Symetryczno-Liryczna",
+    "artist": "Enej",
+    "categories": ["Polskie Pop", "Polskie Pop 10s"],
+    "snippet": "/songs/Polskie/enej_symetryczno_liryczna.mp3",
+    "cover": "https://is1-ssl.mzstatic.com/image/thumb/Music211/v4/cb/6f/c5/cb6fc513-2537-3275-521b-12b60a0af639/24UMGIM82137.rgb.jpg/600x600bb.jpg"
+  },
+  {
+    "title": "Noc komety",
+    "artist": "Felicjan Andrzejczak",
+    "categories": ["Polskie Pop", "Polskie Pop 10s"],
+    "snippet": "/songs/Polskie/felicjan_andrzejczak_noc_komety.mp3",
+    "cover": "https://is1-ssl.mzstatic.com/image/thumb/Music113/v4/b6/89/a8/b689a86e-01cc-3ae6-7a50-351f80ed5f20/cover.jpg/600x600bb.jpg"
+  },
+  {
+    "title": "Erotyczne Pif-Paf",
+    "artist": "Figo i Samogony",
+    "categories": ["Polskie Pop", "Polskie Pop 20s"],
+    "snippet": "/songs/Polskie/figo_i_samogony_erotyczne_pif_paf.mp3",
+    "cover": "https://is1-ssl.mzstatic.com/image/thumb/Music116/v4/03/84/fb/0384fbab-5584-fedf-eb80-42383a8e35c2/5904892392210.jpg/600x600bb.jpg"
+  },
+  {
+    "title": "O Pani!",
+    "artist": "Grzegorz Hyży",
+    "categories": ["Polskie Pop", "Polskie Pop 10s"],
+    "snippet": "/songs/Polskie/grzegorz_hyzy_o_pani.mp3",
+    "cover": "https://is1-ssl.mzstatic.com/image/thumb/Music117/v4/97/18/1f/97181fbd-db24-f952-76fc-7412baea31a0/886446519630.jpg/600x600bb.jpg"
+  },
+  {
+    "title": "Ech, Poleczko",
+    "artist": "Guzowianki",
+    "categories": ["Polskie Pop", "Polskie Pop 20s"],
+    "snippet": "/songs/Polskie/guzowianki_ech_poleczko.mp3",
+    "cover": "https://is1-ssl.mzstatic.com/image/thumb/Music124/v4/c3/09/20/c3092089-cace-a977-a96d-a94e4caccaa4/artwork.jpg/600x600bb.jpg"
+  },
+  {
+    "title": "Jej Czarne Oczy",
+    "artist": "Ivan i Delfin",
+    "categories": ["Polskie Pop", "Polskie Pop 00s"],
+    "snippet": "/songs/Polskie/ivan_i_delfin_jej_czarne_oczy.mp3",
+    "cover": "https://is1-ssl.mzstatic.com/image/thumb/Music116/v4/58/93/e3/5893e31d-7d3a-421b-abe5-3d6b2d968837/602498705827.jpg/600x600bb.jpg"
+  },
+  {
+    "title": "Jezu jak się cieszę",
+    "artist": "Klaus Mitffoch",
+    "categories": ["Polskie Rock", "Polskie Rock 80s"],
+    "snippet": "/songs/Polskie/klaus_mitffoch_jezu_jak_sie_ciesze.mp3",
+    "cover": "https://is1-ssl.mzstatic.com/image/thumb/Music125/v4/f0/09/cd/f009cd5e-e353-6cd1-a1c1-a17dc7e44248/cover.jpg/600x600bb.jpg"
+  },
+  {
+    "title": "Mniej niż zero",
+    "artist": "Lady Pank",
+    "categories": ["Polskie Rock", "Polskie Rock 80s"],
+    "snippet": "/songs/Polskie/lady_pank_mniej_niz_zero.mp3",
+    "cover": "https://is1-ssl.mzstatic.com/image/thumb/Music123/v4/f3/2d/fc/f32dfc28-e9b1-17ec-7239-555652f6709e/cover.jpg/600x600bb.jpg"
+  },
+  {
+    "title": "Na co komu dziś",
+    "artist": "Lady Pank",
+    "categories": ["Polskie Rock", "Polskie Rock 90s"],
+    "snippet": "/songs/Polskie/lady_pank_na_co_komu_dzis.mp3",
+    "cover": "https://is1-ssl.mzstatic.com/image/thumb/Music123/v4/f7/a7/be/f7a7bed8-a2ca-0b80-91bd-1a2037bdcaca/cover.jpg/600x600bb.jpg"
+  },
+  {
+    "title": "Zawsze tam gdzie Ty",
+    "artist": "Lady Pank",
+    "categories": ["Polskie Rock", "Polskie Rock 90s"],
+    "snippet": "/songs/Polskie/lady_pank_zawsze_tam_gdzie_ty.mp3",
+    "cover": "https://is1-ssl.mzstatic.com/image/thumb/Music125/v4/a9/9a/55/a99a55a2-1467-95fe-982a-ea8082af7d19/cover.jpg/600x600bb.jpg"
+  },
+  {
+    "title": "Rapapara",
+    "artist": "Łydka Grubasa",
+    "categories": ["Polskie Rock", "Polskie Rock 10s"],
+    "snippet": "/songs/Polskie/lydka_grubasa_rapapara.mp3",
+    "cover": "https://is1-ssl.mzstatic.com/image/thumb/Music211/v4/64/04/ed/6404edeb-6540-b9b1-8175-1c5bd9b0a99e/cover.jpg/600x600bb.jpg"
+  },
+  {
+    "title": "Cykady Na Cykladach",
+    "artist": "Maanam",
+    "categories": ["Polskie Pop", "Polskie Pop 90s"],
+    "snippet": "/songs/Polskie/maanam_cykady_na_cykladach.mp3",
+    "cover": "https://is1-ssl.mzstatic.com/image/thumb/Music6/v4/e4/64/56/e4645650-a43b-5c1c-45a1-3d8898796383/825646968527.jpg/600x600bb.jpg"
+  },
+  {
+    "title": "Szal Niebieskich Cial (Remastered)",
+    "artist": "Maanam",
+    "categories": ["Polskie Rock", "Polskie Rock 80s"],
+    "snippet": "/songs/Polskie/maanam_szal_niebieskich_cial_remastered.mp3",
+    "cover": "https://is1-ssl.mzstatic.com/image/thumb/Music6/v4/1d/b8/ab/1db8abf9-fae1-b1ae-39c7-28367c563564/5099909579156_1500x1500_300dpi.jpg/600x600bb.jpg"
+  },
+  {
+    "title": "Nie Dokazuj",
+    "artist": "Marek Grechuta & Anawa",
+    "categories": ["Polskie Pop", "Polskie Pop 70s"],
+    "snippet": "/songs/Polskie/marek_grechuta_anawa_nie_dokazuj.mp3",
+    "cover": "https://is1-ssl.mzstatic.com/image/thumb/Music69/v4/82/01/ea/8201eaf6-6320-8c26-fdc3-b483aa983aac/825646488063.jpg/600x600bb.jpg"
+  },
+  {
+    "title": "Nie Przerywajcie Zabawy",
+    "artist": "Marek Grechuta",
+    "categories": ["Polskie Pop", "Polskie Pop 10s"],
+    "snippet": "/songs/Polskie/marek_grechuta_nie_przerywajcie_zabawy.mp3",
+    "cover": "https://is1-ssl.mzstatic.com/image/thumb/Music7/v4/eb/56/d1/eb56d176-4bb6-98e8-89dc-df2e5b9e821b/825646488681.jpg/600x600bb.jpg"
+  },
+  {
+    "title": "To Ostatnia Niedziela",
+    "artist": "Mieczysław Fogg",
+    "categories": ["Polskie Pop", "Polskie Pop 00s"],
+    "snippet": "/songs/Polskie/mieczyslaw_fogg_to_ostatnia_niedziela.mp3",
+    "cover": "https://is1-ssl.mzstatic.com/image/thumb/Music/v4/09/50/76/0950766f-b339-c612-a7ff-9959e82a886b/Cover.jpg/600x600bb.jpg"
+  },
+  {
+    "title": "Jak Nie My To Kto (feat. Tomson)",
+    "artist": "Mrozu",
+    "categories": ["Polskie Pop", "Polskie Pop 10s"],
+    "snippet": "/songs/Polskie/mrozu_jak_nie_my_to_kto_feat_tomson.mp3",
+    "cover": "https://is1-ssl.mzstatic.com/image/thumb/Music126/v4/49/ca/69/49ca6985-2b56-cd0f-18e6-ad88cd1320c5/22UMGIM16236.rgb.jpg/600x600bb.jpg"
+  },
+  {
+    "title": "Chlopcy",
+    "artist": "Myslovitz",
+    "categories": ["Polskie Rock", "Polskie Rock 90s"],
+    "snippet": "/songs/Polskie/myslovitz_chlopcy.mp3",
+    "cover": "https://is1-ssl.mzstatic.com/image/thumb/Music/ad/ab/c1/mzi.lsuebvdq.jpg/600x600bb.jpg"
+  },
+  {
+    "title": "Jestem Bogiem",
+    "artist": "Paktofonika",
+    "categories": ["Polskie Rap", "Polskie Rap 20s"],
+    "snippet": "/songs/Polskie/mysticmuse_paktofonika_jestem_bogiem_disco_remix.mp3",
+    "cover": "https://is1-ssl.mzstatic.com/image/thumb/Music221/v4/35/34/6e/35346e55-49df-8f2d-8b0e-04cd40eee9a5/cover.jpg/600x600bb.jpg"
+  },
+  {
+    "title": "Zdrajca Metalu",
+    "artist": "Nocny Kochanek",
+    "categories": ["Polskie Rock", "Polskie Rock 10s"],
+    "snippet": "/songs/Polskie/nocny_kochanek_zdrajca_metalu.mp3",
+    "cover": "https://is1-ssl.mzstatic.com/image/thumb/Music124/v4/3d/6a/fb/3d6afb85-c8e9-cd7b-f7ef-600e57e4e12b/cover.jpg/600x600bb.jpg"
+  },
+  {
+    "title": "Bombsite A (feat. MAMiKO & Gimpson)",
+    "artist": "Remo",
+    "categories": ["Polskie Pop", "Polskie Pop 10s"],
+    "snippet": "/songs/Polskie/remo_bombsite_a_feat_mamiko_gimpson.mp3",
+    "cover": "https://is1-ssl.mzstatic.com/image/thumb/Music18/v4/b5/0a/48/b50a480b-8be7-f347-3a69-3181282c7eeb/mzm.qzsohgeh.jpg/600x600bb.jpg"
+  },
+  {
+    "title": "Nocturne in E-Flat Major, Op. 9 No. 2",
+    "artist": "Frédéric Chopin",
+    "categories": ["Polskie Pop", "Polskie Pop 20s"],
+    "snippet": "/songs/Polskie/smile_melody_baby_music_chopin_chopin_nocturne_e_flat_major_op_9_no_2.mp3",
+    "cover": "https://is1-ssl.mzstatic.com/image/thumb/Music211/v4/54/e1/fc/54e1fc68-6c5a-ba29-fd7b-f43bc904b9f8/193017200447.jpg/600x600bb.jpg"
+  },
+  {
+    "title": "Czarny Chleb I Czarna Kawa",
+    "artist": "Strachy Na Lachy",
+    "categories": ["Polskie Rock", "Polskie Rock 00s"],
+    "snippet": "/songs/Polskie/strachy_na_lachy_czarny_chleb_i_czarna_kawa.mp3",
+    "cover": "https://is1-ssl.mzstatic.com/image/thumb/Music114/v4/49/50/bc/4950bcf0-a989-3aae-16cc-4ab806f3f551/5908294726956.jpg/600x600bb.jpg"
+  },
+  {
+    "title": "Tamta Dziewczyna",
+    "artist": "Sylwia Grzeszczak",
+    "categories": ["Polskie Pop", "Polskie Pop 10s"],
+    "snippet": "/songs/Polskie/sylwia_grzeszczak_tamta_dziewczyna.mp3",
+    "cover": "https://is1-ssl.mzstatic.com/image/thumb/Music71/v4/d2/d1/8f/d2d18fda-5fef-9508-99d3-0e3aec0e5586/190295869144.jpg/600x600bb.jpg"
+  },
+  {
+    "title": "Nie Nie Nie",
+    "artist": "T.Love",
+    "categories": ["Polskie Pop", "Polskie Pop 00s"],
+    "snippet": "/songs/Polskie/t_love_nie_nie_nie.mp3",
+    "cover": "https://is1-ssl.mzstatic.com/image/thumb/Music113/v4/57/e3/61/57e3616c-599a-e71e-f1d0-d908229bffd2/724353611057.jpg/600x600bb.jpg"
+  },
+  {
+    "title": "Warszawa",
+    "artist": "T.Love",
+    "categories": ["Polskie Rock", "Polskie Rock 90s"],
+    "snippet": "/songs/Polskie/t_love_warszawa.mp3",
+    "cover": "https://is1-ssl.mzstatic.com/image/thumb/Music113/v4/2a/18/f1/2a18f1df-4a37-c3bd-77aa-6729a5fe26b9/190296836091.jpg/600x600bb.jpg"
+  },
+  {
+    "title": "Bohema",
+    "artist": "Wilki",
+    "categories": ["Polskie Rock", "Polskie Rock 00s"],
+    "snippet": "/songs/Polskie/wilki_bohema.mp3",
+    "cover": "https://is1-ssl.mzstatic.com/image/thumb/Music116/v4/9b/3e/b3/9b3eb327-66bc-4ada-fb78-a4193570ace9/724387519657.jpg/600x600bb.jpg"
+  },
+  {
+    "title": "Szklanki",
+    "artist": "Young Leosia",
+    "categories": ["Polskie Rap", "Polskie Rap 20s"],
+    "snippet": "/songs/Polskie/young_leosia_szklanki.mp3",
+    "cover": "https://is1-ssl.mzstatic.com/image/thumb/Music115/v4/d3/46/41/d3464142-1401-e2a6-460b-d2e404845e7e/21UMGIM36477.rgb.jpg/600x600bb.jpg"
+  },
+  {
+    "title": "Floyd Mayweather",
+    "artist": "Żabson",
+    "categories": ["Polskie Rap", "Polskie Rap 10s"],
+    "snippet": "/songs/Polskie/zabson_floyd_mayweather.mp3",
+    "cover": "https://is1-ssl.mzstatic.com/image/thumb/Music115/v4/4c/5d/61/4c5d618a-46f1-df07-d202-7c2abb2a29a8/0000514491370.jpg/600x600bb.jpg"
+  },
+  {
+    "title": "Bania U Cygana",
+    "artist": "ZeRO",
+    "categories": ["Polskie Pop", "Polskie Pop 00s"],
+    "snippet": "/songs/Polskie/zero_bania_u_cygana.mp3",
+    "cover": "https://is1-ssl.mzstatic.com/image/thumb/Music128/v4/cb/9e/23/cb9e234d-9dbf-93af-9508-38a8c9dfa05b/192914281627.jpg/600x600bb.jpg"
   }
 ]
 
