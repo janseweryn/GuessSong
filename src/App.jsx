@@ -82,6 +82,32 @@ const manualDaily = {
       dailyCategory: "Rap",
     },
   ],
+  "2026-02-24": [
+    {
+      title: "Cake By the Ocean",
+      artist: "DNCE",
+      cover: "https://is1-ssl.mzstatic.com/image/thumb/Music126/v4/46/dd/0d/46dd0d29-7dbf-7e3a-0f76-1595e18c4b73/16UMGIM68265.rgb.jpg/600x600bb.jpg",
+      snippet: "/songs/pop/dnce_cake_by_the_ocean.mp3",
+      categories: ["pop"],
+      dailyCategory: "Pop",
+    },
+    {
+      title: "PA PA YA!! (feat. F.HERO)",
+      artist: "Babymetal", 
+      cover: "/songs/covers/10babymetal.jpg",
+      snippet: "/songs/rock/papaya.mp3",
+      categories: ["rock"],
+      dailyCategory: "Rock",
+    },
+    {
+      title: "Alright",
+      artist: "Kendrick Lamar",
+      cover: "/songs/covers/butterfly.jpg",
+      snippet: "/songs/rap/alright.mp3",
+      categories: ["rap"],
+      dailyCategory: "Rap",
+    },
+  ],
 };
 
 
