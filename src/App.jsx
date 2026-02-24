@@ -136,7 +136,6 @@ const manualDaily = {
   ],
 };
 
-
 const LEVELS = [
   { label: "0.1s", time: 0.2, displayTime: 0.1 },
   { label: "0.5s", time: 0.5, displayTime: 0.5 },

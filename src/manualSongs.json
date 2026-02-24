@@ -12,5 +12,323 @@
     "categories": ["Polskie Rap", "Polskie Rap 10s"],
     "snippet": "/songs/Polskie/4_pory_roku_qbik.mp3",
     "cover": ""
+  },
+  {
+    "title": "Riot",
+    "artist": "Three Days Grace",
+    "categories": ["Rock", "Rock 00s"],
+    "snippet": "/songs/rock/riot.mp3",
+    "cover": "/songs/covers/onex.jpg"
+  },
+  {
+   "title": "S&M",
+    "artist": "Rihanna",  
+    "categories": ["Pop", "Pop 10s"],
+    "snippet": "/songs/pop/sm.mp3",
+    "cover": "/songs/covers/loud.jpg"
+  },
+  {
+   "title": "EVIL J0RDAN",
+    "artist": "Playboi Carti",  
+    "categories": ["Rap", "Rap 20s"],
+    "snippet": "/songs/rap/jordan.mp3",
+    "cover": "/songs/covers/music.jpg"
+  },
+  {
+   "title": "Location",
+    "artist": "Playboi Carti",  
+    "categories": ["Rap", "Rap 10s"],
+    "snippet": "/songs/rap/location.mp3",
+    "cover": "/songs/covers/carti.jpg"
+  },
+  {
+   "title": "Kokain",
+    "artist": "RAF Camora & Bonez MC",  
+    "categories": ["Rap", "Rap 10s"],
+    "snippet": "/songs/rap/kokain.mp3",
+    "cover": "/songs/covers/palmen.jpg"
+  },
+  {
+   "title": "Down with the Sickness",
+    "artist": "Disturbed",  
+    "categories": ["Rock", "Rock 00s"],
+    "snippet": "/songs/rock/down_sickness.mp3",
+    "cover": "/songs/covers/sickness.jpg"
+  },
+  {
+   "title": "Boulevard of Broken Dreams",
+    "artist": "Green Day",  
+    "categories": ["Rock", "Rock 00s"],
+    "snippet": "/songs/rock/boulevard.mp3",
+    "cover": "/songs/covers/idiot.jpg"
+  },
+    {
+   "title": "American Idiot",
+    "artist": "Green Day",  
+    "categories": ["Rock", "Rock 00s"],
+    "snippet": "/songs/rock/american_idiot.mp3",
+    "cover": "/songs/covers/idiot.jpg"
+  },
+  {
+   "title": "Titanium (feat. Sia)",
+    "artist": "David Guetta",  
+    "categories": ["Pop", "Pop 10s"],
+    "snippet": "/songs/pop/titanium.mp3",
+    "cover": "/songs/covers/nothingbeat.jpg"
+  },
+  {
+   "title": "Sexy Bitch (feat. Akon)",
+    "artist": "David Guetta",  
+    "categories": ["Pop", "Pop 10s"],
+    "snippet": "/songs/pop/sexy_bitch.mp3",
+    "cover": "/songs/covers/onelove.jpg"
+  },
+   { 
+   "title": "Ms. Jackson",
+    "artist": "Outkast",  
+    "categories": ["Rap", "Rap 00s"],
+    "snippet": "/songs/rap/ms.mp3",
+    "cover": "/songs/covers/a.jpg"
+  },
+   {
+    "title": "Rockabye (feat. Sean Paul & Anne-Marie)",
+    "artist": "Clean Bandit",
+    "categories": [
+      "Pop",
+      "Pop 10s"
+    ],
+    "snippet": "/songs/pop/clean_bandit_rockabye_feat_sean_paul_anne_marie_autograf_remix.mp3",
+    "cover": "https://is1-ssl.mzstatic.com/image/thumb/Music91/v4/17/ad/8f/17ad8f52-e9e5-2858-464b-a40e1b84070b/190295859138.jpg/600x600bb.jpg"
+  },
+  {
+    "title": "Rusted from the Rain",
+    "artist": "Billy Talent",
+    "categories": ["Rock", "Rock 10s"],
+    "snippet": "/songs/rock/billy_talent_rusted_from_the_rain_itunes_session.mp3",
+    "cover": "https://is1-ssl.mzstatic.com/image/thumb/Music123/v4/83/fb/0b/83fb0bd7-cfa7-0c51-c39e-23859f29468f/825646829569.jpg/600x600bb.jpg"
+  },
+  {
+    "title": "Freak On a Leash",
+    "artist": "Korn",
+    "categories": ["Rock", "Rock 90s"],
+    "snippet": "/songs/rock/korn_freak_on_a_leash_dante_ross_mix.mp3",
+    "cover": "https://is1-ssl.mzstatic.com/image/thumb/Music211/v4/c7/03/a2/c703a2c4-97d1-106d-4e25-10322d7063ea/196873486703.jpg/600x600bb.jpg"
+  },
+  {
+    "title": "Livin' On A Prayer",
+    "artist": "Bon Jovi",
+    "categories": ["Rock", "Rock 80s"],
+    "snippet": "/songs/rock/bon_jovi_livin_on_a_prayer_live_at_cobo_arena_detroit_march_11_1987.mp3",
+    "cover": "https://is1-ssl.mzstatic.com/image/thumb/Music211/v4/5f/a8/1e/5fa81eae-6514-1d56-b352-8e3b243c65ec/24UMGIM99102.rgb.jpg/600x600bb.jpg"
+  },
+  {
+    "title": "Waka Waka (This Time for Africa)",
+    "artist": "Shakira",
+    "categories": ["Pop", "Pop 10s"],
+    "snippet": "/songs/pop/shakira_waka_waka_this_time_for_africa_the_official_2010_fifa_world_cup_tm_song_feat_freshlyground_single.mp3",
+    "cover": "https://is1-ssl.mzstatic.com/image/thumb/Music124/v4/3e/3a/73/3e3a73da-e19e-b26c-ec19-9da6a5da93fa/mzi.ixhiugev.jpg/600x600bb.jpg"
+  },
+   {
+    "title": "Killing in the Name",
+    "artist": "Rage Against the Machine",
+    "categories": ["Rock", "Rock 10s"],
+    "snippet": "/songs/rock/rage_against_the_machine_killing_in_the_name_live_at_2000_democratic_national_convention.mp3",
+    "cover": "https://is1-ssl.mzstatic.com/image/thumb/Music211/v4/3b/7b/17/3b7b1762-04bc-a9e9-4f5c-93946b13b727/886448670452.jpg/600x600bb.jpg"
+  },
+  {
+    "title": "Bulls On Parade",
+    "artist": "Rage Against the Machine",
+    "categories": ["Rock", "Rock 00s"],
+    "snippet": "/songs/rock/rage_against_the_machine_bulls_on_parade_live.mp3",
+    "cover": "https://is1-ssl.mzstatic.com/image/thumb/Music123/v4/ac/21/58/ac215841-458b-81f4-becf-e801e0673ad7/696998511422.jpg/600x600bb.jpg"
+  },
+  {
+    "title": "Guerrilla Radio",
+    "artist": "Rage Against the Machine",
+    "categories": ["Rock", "Rock 00s"],
+    "snippet": "/songs/rock/rage_against_the_machine_guerrilla_radio_live_in_mexico_city_mx_10_28_99.mp3",
+    "cover": "https://is1-ssl.mzstatic.com/image/thumb/Music114/v4/b0/8c/dd/b08cdd66-9c18-b724-5b50-770007804f0e/886448665946.jpg/600x600bb.jpg"
+  },
+   {
+    "title": "The Imperial March (Darth Vader's Theme)",
+    "artist": "John Williams & London Symphony Orchestra",
+    "categories": ["Pop", "Pop 80s"],
+    "snippet": "/songs/pop/john_williams_london_symphony_orchestra_the_imperial_march_darth_vader_s_theme.mp3",
+    "cover": "https://is1-ssl.mzstatic.com/image/thumb/Music116/v4/0a/5d/af/0a5daf0f-34f0-6413-9b8c-fe668663b3dd/18UMGIM22122.rgb.jpg/600x600bb.jpg"
+  },
+  {
+    "title": "Jump Around",
+    "artist": "House of Pain",
+    "categories": ["Rap", "Rap 90s"],
+    "snippet": "/songs/rap/house_of_pain_jump_around_pete_rock_remix.mp3",
+    "cover": "https://is1-ssl.mzstatic.com/image/thumb/Music221/v4/c5/b7/2f/c5b72ff4-d593-ed4c-f7ed-080fb4d224aa/081227911560.png/600x600bb.jpg"
+  },
+  {
+    "title": "Push It",
+    "artist": "Salt-N-Pepa",
+    "categories": ["Pop", "Pop 90s"],
+    "snippet": "/songs/pop/salt_n_pepa_push_it_re_recorded_remastered.mp3",
+    "cover": "https://is1-ssl.mzstatic.com/image/thumb/Music/v4/71/14/f9/7114f9b5-630e-a488-8199-31658b70d1df/888003320291.jpg/600x600bb.jpg"
+  },
+  {
+    "title": "SAD!",
+    "artist": "XXXTENTACION",
+    "categories": ["Rap", "Rap 10s"],
+    "snippet": "/songs/pop/xxxtentacion_changes.mp3",
+    "cover": "https://is1-ssl.mzstatic.com/image/thumb/Music116/v4/f0/b0/21/f0b021d2-8bfb-e2ff-93f9-17c64147f971/18UMGIM14845.rgb.jpg/600x600bb.jpg"
+  },
+  {
+    "title": "fukumean",
+    "artist": "Gunna",
+    "categories": ["Rap", "Rap 20s"],
+    "snippet": "/songs/rap/gunna_fukumean_instrumental.mp3",
+    "cover": "https://is1-ssl.mzstatic.com/image/thumb/Music126/v4/5c/9d/0c/5c9d0c9b-ae5a-5b4c-fb27-f2d1a606411d/075679675576.jpg/600x600bb.jpg"
+  },
+  {
+    "title": "Friday (feat. Mufasa & Hypeman)",
+    "artist": "Riton & Nightcrawlers",
+    "categories": ["Pop", "Pop 20s"],
+    "snippet": "/songs/pop/riton_nightcrawlers_friday_feat_mufasa_hypeman_dopamine_re_edit.mp3",
+    "cover": "https://is1-ssl.mzstatic.com/image/thumb/Music115/v4/f8/a5/5f/f8a55f83-f755-524c-aa9e-fd6a039e34e7/886448989318.jpg/600x600bb.jpg"
+  },
+  {
+    "title": "DESPECHÁ",
+    "artist": "ROSALÍA",
+    "categories": ["Pop", "Pop 20s"],
+    "snippet": "/songs/pop/rosal_a_despech_remix_mixed.mp3",
+    "cover": "https://is1-ssl.mzstatic.com/image/thumb/Music112/v4/aa/d4/e1/aad4e105-1194-33d7-1273-3380f18c9c9e/af0aa48a-b27e-4276-a3c3-b91ebf8353c4.jpg/600x600bb.jpg"
+  },
+   {
+    "title": "On My Way",
+    "artist": "Alan Walker, Sabrina Carpenter & Farruko",
+    "categories": ["Pop", "Pop 10s"],
+    "snippet": "/songs/pop/alan_walker_sabrina_carpenter_farruko_on_my_way_da_tweekaz_remix.mp3",
+    "cover": "https://is1-ssl.mzstatic.com/image/thumb/Music124/v4/4b/83/31/4b8331ab-e75b-1e73-30dc-2511b1c93463/886447816639.jpg/600x600bb.jpg"
+  },
+  {
+    "title": "Dakiti",
+    "artist": "JHAYCO & Bad Bunny",
+    "categories": ["Pop", "Pop 20s"],
+    "snippet": "/songs/pop/jhayco_bad_bunny_dakiti_remix_mixed.mp3",
+    "cover": "https://is1-ssl.mzstatic.com/image/thumb/Music211/v4/5b/c6/23/5bc6233b-5649-7484-8b4c-ff68fe275fbe/e86a8bf6-e0b3-4a42-94b6-8696b711e06a.jpg/600x600bb.jpg"
+  },
+  {
+    "title": "EARFQUAKE",
+    "artist": "Tyler, The Creator",
+    "categories": ["Rap", "Rap"],
+    "snippet": "/songs/pop/kali_uchis_after_the_storm_feat_tyler_the_creator_bootsy_collins.mp3",
+    "cover": "https://is1-ssl.mzstatic.com/image/thumb/Music126/v4/de/e1/8b/dee18be4-276a-1e90-7aec-883c91a5a43e/17UM1IM08185.rgb.jpg/600x600bb.jpg"
+  },
+   {
+    "title": "Loyal (feat. Craig David)",
+    "artist": "Chris Brown",
+    "categories": ["Pop", "Pop 20s"],
+    "snippet": "/songs/pop/chris_brown_loyal_feat_craig_david_remix_mixed.mp3",
+    "cover": "https://is1-ssl.mzstatic.com/image/thumb/Music211/v4/27/40/d5/2740d5fa-719d-b77d-cbc8-36587e6e055a/ad383831-a8c2-4556-b456-5ca02bfc96fb.png/600x600bb.jpg"
+  },
+  {
+    "title": "Donald Trump",
+    "artist": "Mac Miller",
+    "categories": ["Rap", "Rap 10s"],
+    "snippet": "/songs/rap/mac_miller_donald_trump.mp3",
+    "cover": "https://is1-ssl.mzstatic.com/image/thumb/Music221/v4/7a/fa/81/7afa8155-fa6a-4f68-9459-455f0fd79784/881034789822.jpg/600x600bb.jpg"
+  },
+  {
+    "title": "Knock Knock",
+    "artist": "Mac Miller",
+    "categories": ["Rap", "Rap 10s"],
+    "snippet": "/songs/rap/mac_miller_knock_knock.mp3",
+    "cover": "https://is1-ssl.mzstatic.com/image/thumb/Music221/v4/a5/e5/53/a5e55335-850b-9df5-ed97-93539abdbfff/881034719560.jpg/600x600bb.jpg"
+  },
+  {
+    "title": "Missed Calls",
+    "artist": "Mac Miller",
+    "categories": ["Rap", "Rap 10s"],
+    "snippet": "/songs/rap/mac_miller_missed_calls.mp3",
+    "cover": "https://is1-ssl.mzstatic.com/image/thumb/Music211/v4/e6/9c/2f/e69c2f37-db93-bf74-2429-569d408c51da/881034912541.jpg/600x600bb.jpg"
+  },
+  {
+    "title": "My Favorite Part (feat. Ariana Grande)",
+    "artist": "Mac Miller",
+    "categories": ["Rap", "Rap 10s"],
+    "snippet": "/songs/rap/mac_miller_my_favorite_part_feat_ariana_grande.mp3",
+    "cover": "https://is1-ssl.mzstatic.com/image/thumb/Music115/v4/33/cc/4d/33cc4d85-e92a-b171-1b72-4dc882ce2359/093624918844.jpg/600x600bb.jpg"
+  },
+  {
+    "title": "Weekend (feat. Miguel)",
+    "artist": "Mac Miller",
+    "categories": ["Rap", "Rap 10s"],
+    "snippet": "/songs/rap/mac_miller_weekend_feat_miguel.mp3",
+    "cover": "https://is1-ssl.mzstatic.com/image/thumb/Music5/v4/92/fb/29/92fb2980-906d-3761-651d-cabcc49723b0/093624923763.jpg/600x600bb.jpg"
+  },
+  {
+    "title": "Rather Lie (feat. The Weeknd)",
+    "artist": "Playboi Carti",
+    "categories": ["Rap", "Rap 10s"],
+    "snippet": "/songs/pop/the_weeknd_try_me.mp3",
+    "cover": "https://is1-ssl.mzstatic.com/image/thumb/Music115/v4/2a/aa/b4/2aaab42a-a4cb-a600-4a25-d78961495960/18UMGIM17204.rgb.jpg/600x600bb.jpg"
+  },
+  {
+    "title": "Magnolia",
+    "artist": "Playboi Carti",
+    "categories": ["Rap", "Rap 10s"],
+    "snippet": "/songs/pop/now_that_s_karaoke_instrumentals_magnolia_originally_performed_by_playboi_carti_instrumental_karaoke_version.mp3",
+    "cover": "https://is1-ssl.mzstatic.com/image/thumb/Music128/v4/1b/6e/77/1b6e7759-1d1a-b429-e1f8-14a2e7debb30/191515665508_Cover.jpg/600x600bb.jpg"
+  },
+  {
+    "title": "Pop Out",
+    "artist": "Playboi Carti",
+    "categories": ["Rap", "Rap 20s"],
+    "snippet": "/songs/pop/the_weeknd_playboi_carti_timeless.mp3",
+    "cover": "https://is1-ssl.mzstatic.com/image/thumb/Music211/v4/af/04/83/af048357-131d-1ca3-fe8a-d7ef3dda68ec/24UM1IM04062.rgb.jpg/600x600bb.jpg"
+  },
+  {
+    "title": "Wokeuplikethis*",
+    "artist": "Playboi Carti",
+    "categories": ["Rap", "Rap 20s"],
+    "snippet": "/songs/rap/cardo_grandz_wokeuplikethis_instrumental.mp3",
+    "cover": "https://is1-ssl.mzstatic.com/image/thumb/Music116/v4/47/4a/5f/474a5fa1-692f-7d66-4bac-4db1cfee292d/198009520879.png/600x600bb.jpg"
+  },
+  {
+    "title": "The Spins",
+    "artist": "Mac Miller",
+    "categories": ["Rap", "Rap 10s"],
+    "snippet": "/songs/pop/mac_miller_the_spins_ben_gerrans_remix_mixed.mp3",
+    "cover": "https://is1-ssl.mzstatic.com/image/thumb/Music126/v4/fa/86/c6/fa86c648-146e-02a0-09f5-166dfb07b076/Long_Story_Short_Apple.png/600x600bb.jpg"
+  },
+  {
+    "title": "ARE WE STILL FRIENDS?",
+    "artist": "Tyler, The Creator",
+    "categories": ["Rap", "Rap 10s"],
+    "snippet": "/songs/rap/twinkle_twinkle_little_rock_star_are_we_still_friends.mp3",
+    "cover": "https://is1-ssl.mzstatic.com/image/thumb/Music211/v4/d9/d5/38/d9d538f2-a271-882f-07f5-b9164c505613/198704573552_Cover.jpg/600x600bb.jpg"
+  },
+  {
+    "title": "I Think",
+    "artist": "Tyler, The Creator",
+    "categories": ["Rap", "Rap 10s"],
+    "snippet": "/songs/pop/snoh_aalegra_neon_peach_feat_tyler_the_creator.mp3",
+    "cover": "https://is1-ssl.mzstatic.com/image/thumb/Music115/v4/a7/97/3b/a7973b31-9f82-b586-b525-f2b5fa849339/21UMGIM48179.rgb.jpg/600x600bb.jpg"
+  },
+  {
+    "title": "IFHY",
+    "artist": "Tyler, The Creator",
+    "categories": ["Rap", "Rap 10s"],
+    "snippet": "/songs/rap/tyler_the_creator_ifhy_instrumental.mp3",
+    "cover": "https://is1-ssl.mzstatic.com/image/thumb/Music126/v4/2d/c5/be/2dc5be12-4135-ef2f-eff0-3715021b27a4/196589962690.jpg/600x600bb.jpg"
+  },
+  {
+    "title": "She (feat. Frank Ocean)",
+    "artist": "Tyler, The Creator",
+    "categories": ["Rap", "Rap 10s"],
+    "snippet": "/songs/pop/kali_uchis_after_the_storm_feat_tyler_the_creator_bootsy_collins.mp3",
+    "cover": "https://is1-ssl.mzstatic.com/image/thumb/Music126/v4/de/e1/8b/dee18be4-276a-1e90-7aec-883c91a5a43e/17UM1IM08185.rgb.jpg/600x600bb.jpg"
+  },
+  {
+    "title": "See You Again (feat. Kali Uchis)",
+    "artist": "Tyler, The Creator",
+    "categories": ["Rap", "Rap 00s"],
+    "snippet": "/songs/pop/miley_cyrus_see_you_again.mp3",
+    "cover": "https://is1-ssl.mzstatic.com/image/thumb/Music124/v4/ab/ab/f7/ababf7b5-c65b-905a-ae71-c7195f66e25c/21UMGIM04584.rgb.jpg/600x600bb.jpg"
   }
 ]

@@ -12469,6 +12469,111 @@
     "categories": ["Rock", "Rock 90s"],
     "snippet": "/songs/rock/pearl_jam_even_flow_brendan_o_brien_mix.mp3",
     "cover": "https://is1-ssl.mzstatic.com/image/thumb/Music3/v4/31/2b/2b/312b2b48-b634-329b-3ced-552dd997050e/dj.dyrqkvux.jpg/600x600bb.jpg"
+  },
+  {
+    "title": "Donald Trump",
+    "artist": "Mac Miller",
+    "categories": ["Rap", "Rap 10s"],
+    "snippet": "/songs/rap/mac_miller_donald_trump.mp3",
+    "cover": "https://is1-ssl.mzstatic.com/image/thumb/Music221/v4/7a/fa/81/7afa8155-fa6a-4f68-9459-455f0fd79784/881034789822.jpg/600x600bb.jpg"
+  },
+  {
+    "title": "Knock Knock",
+    "artist": "Mac Miller",
+    "categories": ["Rap", "Rap 10s"],
+    "snippet": "/songs/rap/mac_miller_knock_knock.mp3",
+    "cover": "https://is1-ssl.mzstatic.com/image/thumb/Music221/v4/a5/e5/53/a5e55335-850b-9df5-ed97-93539abdbfff/881034719560.jpg/600x600bb.jpg"
+  },
+  {
+    "title": "Missed Calls",
+    "artist": "Mac Miller",
+    "categories": ["Rap", "Rap 10s"],
+    "snippet": "/songs/rap/mac_miller_missed_calls.mp3",
+    "cover": "https://is1-ssl.mzstatic.com/image/thumb/Music211/v4/e6/9c/2f/e69c2f37-db93-bf74-2429-569d408c51da/881034912541.jpg/600x600bb.jpg"
+  },
+  {
+    "title": "My Favorite Part (feat. Ariana Grande)",
+    "artist": "Mac Miller",
+    "categories": ["Rap", "Rap 10s"],
+    "snippet": "/songs/rap/mac_miller_my_favorite_part_feat_ariana_grande.mp3",
+    "cover": "https://is1-ssl.mzstatic.com/image/thumb/Music115/v4/33/cc/4d/33cc4d85-e92a-b171-1b72-4dc882ce2359/093624918844.jpg/600x600bb.jpg"
+  },
+  {
+    "title": "Weekend (feat. Miguel)",
+    "artist": "Mac Miller",
+    "categories": ["Rap", "Rap 10s"],
+    "snippet": "/songs/rap/mac_miller_weekend_feat_miguel.mp3",
+    "cover": "https://is1-ssl.mzstatic.com/image/thumb/Music5/v4/92/fb/29/92fb2980-906d-3761-651d-cabcc49723b0/093624923763.jpg/600x600bb.jpg"
+  },
+  {
+    "title": "Rather Lie (feat. The Weeknd)",
+    "artist": "Playboi Carti",
+    "categories": ["Rap", "Rap 10s"],
+    "snippet": "/songs/pop/the_weeknd_try_me.mp3",
+    "cover": "https://is1-ssl.mzstatic.com/image/thumb/Music115/v4/2a/aa/b4/2aaab42a-a4cb-a600-4a25-d78961495960/18UMGIM17204.rgb.jpg/600x600bb.jpg"
+  },
+  {
+    "title": "Magnolia",
+    "artist": "Playboi Carti",
+    "categories": ["Rap", "Rap 10s"],
+    "snippet": "/songs/pop/now_that_s_karaoke_instrumentals_magnolia_originally_performed_by_playboi_carti_instrumental_karaoke_version.mp3",
+    "cover": "https://is1-ssl.mzstatic.com/image/thumb/Music128/v4/1b/6e/77/1b6e7759-1d1a-b429-e1f8-14a2e7debb30/191515665508_Cover.jpg/600x600bb.jpg"
+  },
+  {
+    "title": "Pop Out",
+    "artist": "Playboi Carti",
+    "categories": ["Rap", "Rap 20s"],
+    "snippet": "/songs/pop/the_weeknd_playboi_carti_timeless.mp3",
+    "cover": "https://is1-ssl.mzstatic.com/image/thumb/Music211/v4/af/04/83/af048357-131d-1ca3-fe8a-d7ef3dda68ec/24UM1IM04062.rgb.jpg/600x600bb.jpg"
+  },
+  {
+    "title": "Wokeuplikethis*",
+    "artist": "Playboi Carti",
+    "categories": ["Rap", "Rap 20s"],
+    "snippet": "/songs/rap/cardo_grandz_wokeuplikethis_instrumental.mp3",
+    "cover": "https://is1-ssl.mzstatic.com/image/thumb/Music116/v4/47/4a/5f/474a5fa1-692f-7d66-4bac-4db1cfee292d/198009520879.png/600x600bb.jpg"
+  },
+  {
+    "title": "The Spins",
+    "artist": "Mac Miller",
+    "categories": ["Rap", "Rap 10s"],
+    "snippet": "/songs/pop/mac_miller_the_spins_ben_gerrans_remix_mixed.mp3",
+    "cover": "https://is1-ssl.mzstatic.com/image/thumb/Music126/v4/fa/86/c6/fa86c648-146e-02a0-09f5-166dfb07b076/Long_Story_Short_Apple.png/600x600bb.jpg"
+  },
+  {
+    "title": "ARE WE STILL FRIENDS?",
+    "artist": "Tyler, The Creator",
+    "categories": ["Rap", "Rap 10s"],
+    "snippet": "/songs/rap/twinkle_twinkle_little_rock_star_are_we_still_friends.mp3",
+    "cover": "https://is1-ssl.mzstatic.com/image/thumb/Music211/v4/d9/d5/38/d9d538f2-a271-882f-07f5-b9164c505613/198704573552_Cover.jpg/600x600bb.jpg"
+  },
+  {
+    "title": "I Think",
+    "artist": "Tyler, The Creator",
+    "categories": ["Rap", "Rap 10s"],
+    "snippet": "/songs/pop/snoh_aalegra_neon_peach_feat_tyler_the_creator.mp3",
+    "cover": "https://is1-ssl.mzstatic.com/image/thumb/Music115/v4/a7/97/3b/a7973b31-9f82-b586-b525-f2b5fa849339/21UMGIM48179.rgb.jpg/600x600bb.jpg"
+  },
+  {
+    "title": "IFHY",
+    "artist": "Tyler, The Creator",
+    "categories": ["Rap", "Rap 10s"],
+    "snippet": "/songs/rap/tyler_the_creator_ifhy_instrumental.mp3",
+    "cover": "https://is1-ssl.mzstatic.com/image/thumb/Music126/v4/2d/c5/be/2dc5be12-4135-ef2f-eff0-3715021b27a4/196589962690.jpg/600x600bb.jpg"
+  },
+  {
+    "title": "She (feat. Frank Ocean)",
+    "artist": "Tyler, The Creator",
+    "categories": ["Rap", "Rap 10s"],
+    "snippet": "/songs/pop/kali_uchis_after_the_storm_feat_tyler_the_creator_bootsy_collins.mp3",
+    "cover": "https://is1-ssl.mzstatic.com/image/thumb/Music126/v4/de/e1/8b/dee18be4-276a-1e90-7aec-883c91a5a43e/17UM1IM08185.rgb.jpg/600x600bb.jpg"
+  },
+  {
+    "title": "See You Again (feat. Kali Uchis)",
+    "artist": "Tyler, The Creator",
+    "categories": ["Rap", "Rap 00s"],
+    "snippet": "/songs/pop/miley_cyrus_see_you_again.mp3",
+    "cover": "https://is1-ssl.mzstatic.com/image/thumb/Music124/v4/ab/ab/f7/ababf7b5-c65b-905a-ae71-c7195f66e25c/21UMGIM04584.rgb.jpg/600x600bb.jpg"
   }
 ]
 
