@@ -189,7 +189,7 @@
     "cover": "/songs/covers/letgo.jpg"
   },
   {
-    "title": "Girlfriend (Radio Edit)",
+    "title": "Girlfriend",
     "artist": "Avril Lavigne",
     "categories": ["Pop", "Pop 00s", "Rock", "Rock 00s"],
     "snippet": "/songs/pop/girlfriend.mp3",
@@ -357,7 +357,7 @@
     "cover": "/songs/covers/globalwarn.jpg"
   },
   {
-    "title": "Fireball (feat. John Ryan) ",
+    "title": "Fireball (feat. John Ryan)",
     "artist": "Pitbull",
     "categories": ["Pop", "Pop 10s"],
     "snippet": "/songs/pop/fireball.mp3",
@@ -525,7 +525,7 @@
     "cover": "/songs/covers/onelight.jpg"
   },
   {
-    "title": "The Emptiness Machine (Instrumental)",
+    "title": "The Emptiness Machine",
     "artist": "Linkin Park",
     "categories": ["Rock", "Rock 20s"],
     "snippet": "/songs/rock/emptiness_machine.mp3",
@@ -735,7 +735,7 @@
     "cover": "/songs/covers/goodluck.jpg"
   },
   {
-    "title": "You Broke Me First (Bedroom Sessions)",
+    "title": "You Broke Me First",
     "artist": "Tate McRae",
     "categories": ["Pop", "Pop 20s"],
     "snippet": "/songs/pop/you_broke_first.mp3",
@@ -1596,7 +1596,7 @@
     "cover": "/songs/covers/pride.jpg"
   },
   {
-    "title": "Swimming Pools (Drank) [Extended Version]",
+    "title": "Swimming Pools (Drank)",
     "artist": "Kendrick Lamar",
     "categories": ["Rap", "Rap 10s"],
     "snippet": "/songs/rap/swimming_pools.mp3",
@@ -1757,7 +1757,7 @@
     "cover": "/songs/covers/drive.jpg"
   },
   {
-    "title": "Don't Be Shy (Tiësto VIP) [Mixed]",
+    "title": "Don't Be Shy",
     "artist": "Tiësto & Karol G",
     "categories": ["Pop", "Pop 20s"],
     "snippet": "/songs/pop/dont_shy.mp3",
@@ -2072,7 +2072,7 @@
     "cover": "/songs/covers/buryme.jpg"
   },
   {
-    "title": "Creep (Acoustic)",
+    "title": "Creep",
     "artist": "Radiohead",  
     "categories": ["Rock", "Rock 90s"],
     "snippet": "/songs/rock/creep.mp3",
@@ -2604,7 +2604,7 @@
     "cover": "/songs/covers/husband.jpg"
   },
   {
-   "title": "This One's for You (feat. Zara Larsson) [Official Song UEFA EURO 2016™]",
+   "title": "This One's for You (feat. Zara Larsson)",
     "artist": "David Guetta",  
     "categories": ["Pop", "Pop 10s"],
     "snippet": "/songs/pop/this_one_you.mp3",
@@ -2821,7 +2821,7 @@
     "cover": "/songs/covers/lonerism.jpg"
   },
   {
-   "title": "Popular (feat. Playboi Carti) [Music from the HBO Original Series The Idol]",
+   "title": "Popular (feat. Playboi Carti)",
     "artist": "The Weeknd & Madonna",  
     "categories": ["Pop", "Pop 20s"],
     "snippet": "/songs/pop/popular.mp3",
@@ -2961,7 +2961,7 @@
     "cover": "/songs/covers/lighting.jpg"
   },
   {
-   "title": "Fuel (Live)",
+   "title": "Fuel",
     "artist": "Metallica",  
     "categories": ["Rock", "Rock 90s"],
     "snippet": "/songs/rock/fuel.mp3",
@@ -3031,7 +3031,7 @@
     "cover": "/songs/covers/humanz.jpg"
   },
   {
-   "title": "New Gold (feat. Tame Impala and Bootie Brown) [Dom Dolla Remix] [Mixed] ",
+   "title": "New Gold (feat. Tame Impala and Bootie Brown)",
     "artist": "Gorillaz",  
     "categories": ["Rock", "Rock 20s", "Pop", "Pop 20s"],
     "snippet": "/songs/rock/new_gold.mp3",
@@ -3073,14 +3073,14 @@
     "cover": "/songs/covers/hypnotize.jpg"
   },
   {
-   "title": "Sugar (Clean Version)",
+   "title": "Sugar",
     "artist": "System Of A Down",  
     "categories": ["Rock", "Rock 90s"],
     "snippet": "/songs/rock/sugar.mp3",
     "cover": "/songs/covers/soad.jpg"
   },
   {
-   "title": "I-E-A-I-A-I-O (Clean Version)",
+   "title": "I-E-A-I-A-I-O",
     "artist": "System Of A Down",  
     "categories": ["Rock", "Rock 00s"],
     "snippet": "/songs/rock/ieio.mp3",
@@ -3206,7 +3206,7 @@
     "cover": "/songs/covers/revival.jpg"
   },
   {
-   "title": "Venom (Music From The Motion Picture)",
+   "title": "Venom",
     "artist": "Eminem",  
     "categories": ["Rap", "Rap 10s"],
     "snippet": "/songs/rap/venom.mp3",
@@ -3556,7 +3556,7 @@
     "cover": "/songs/covers/loud.jpg"
   },
   {
-   "title": "S&M (Remix) [feat. Britney Spears]",
+   "title": "S&M",
     "artist": "Rihanna",  
     "categories": ["Pop", "Pop 10s"],
     "snippet": "/songs/pop/sm.mp3",
@@ -3976,7 +3976,7 @@
     "cover": "/songs/covers/inzone.jpg"
   },
   {
-   "title": "Gimme More (Remastered)",
+   "title": "Gimme More",
     "artist": "Britney Spears",  
     "categories": ["Pop", "Pop 00s"],
     "snippet": "/songs/pop/gimme_more.mp3",
@@ -4172,21 +4172,21 @@
     "cover": "/songs/covers/chromakopia.jpg"
   },
   {
-   "title": "Answer (Instrumental)",
+   "title": "Answer",
     "artist": "Tyler, The Creator",  
     "categories": ["Rap", "Rap 10s"],
     "snippet": "/songs/rap/answer.mp3",
     "cover": "/songs/covers/wolf.jpg"
   },
   {
-   "title": "EVIL J0RDAN (Hills Remix) [Mixed]",
+   "title": "EVIL J0RDAN",
     "artist": "Playboi Carti",  
     "categories": ["Rap", "Rap 20s"],
     "snippet": "/songs/rap/jordan.mp3",
     "cover": "/songs/covers/music.jpg"
   },
   {
-   "title": "Location (Remix) [Mixed]",
+   "title": "Location",
     "artist": "Playboi Carti",  
     "categories": ["Rap", "Rap 10s"],
     "snippet": "/songs/rap/location.mp3",
@@ -4207,7 +4207,7 @@
     "cover": "/songs/covers/hellbilly.jpg"
   },
   {
-   "title": "Kokain (Instrumental)",
+   "title": "Kokain",
     "artist": "RAF Camora & Bonez MC",  
     "categories": ["Rap", "Rap 10s"],
     "snippet": "/songs/rap/kokain.mp3",
@@ -4270,7 +4270,7 @@
     "cover": "/songs/covers/zeppelin4.jpg"
   },
   {
-   "title": "Down with the Sickness (Clean Version)",
+   "title": "Down with the Sickness",
     "artist": "Disturbed",  
     "categories": ["Rock", "Rock 00s"],
     "snippet": "/songs/rock/down_sickness.mp3",
@@ -4319,42 +4319,42 @@
     "cover": "/songs/covers/feardark.jpg"
   },
    {
-   "title": "Run To The Hills (2015 Remaster)",
+   "title": "Run To The Hills",
     "artist": "Iron Maiden",  
     "categories": ["Rock", "Rock 80s"],
     "snippet": "/songs/rock/run_hills.mp3",
     "cover": "/songs/covers/numberbeast.jpg"
   },
    {
-   "title": "The Number Of Beast (2015 Remaster)",
+   "title": "The Number Of Beast",
     "artist": "Iron Maiden",  
     "categories": ["Rock", "Rock 80s"],
     "snippet": "/songs/rock/number_beast.mp3",
     "cover": "/songs/covers/numberbeast.jpg"
   },
    {
-   "title": "Wasted Years (2015 Remastered Version)",
+   "title": "Wasted Years",
     "artist": "Iron Maiden",  
     "categories": ["Rock", "Rock 80s"],
     "snippet": "/songs/rock/wasted_years.mp3",
     "cover": "/songs/covers/somewhere.jpg"
   },
   {
-   "title": "Hallowed By The Name (2015 Remastered Version)",
+   "title": "Hallowed By The Name",
     "artist": "Iron Maiden",  
     "categories": ["Rock", "Rock 80s"],
     "snippet": "/songs/rock/hallowed.mp3",
     "cover": "/songs/covers/numberbeast.jpg"
   },
   {
-   "title": "Running Up That Hill (A Deal With God) [2018 Remaster]",
+   "title": "Running Up That Hill (A Deal With God)",
     "artist": "Kate Bush",  
     "categories": ["Pop", "Pop 80s"],
     "snippet": "/songs/pop/running_hill.mp3",
     "cover": "/songs/covers/hounds.jpg"
   },
   {
-   "title": "Should I Stay or Should I Go (Remastered)",
+   "title": "Should I Stay or Should I Go",
     "artist": "The Clash",  
     "categories": ["Rock", "Rock 80s"],
     "snippet": "/songs/pop/should_stay.mp3",
@@ -4480,7 +4480,7 @@
     "cover": "/songs/covers/voltage.jpg"
   },
   {
-   "title": "Boulevard of Broken Dreams (Live at Makuhari Messe, Tokyo, Japan, 3/19/05)",
+   "title": "Boulevard of Broken Dreams",
     "artist": "Green Day",  
     "categories": ["Rock", "Rock 00s"],
     "snippet": "/songs/rock/boulevard.mp3",
@@ -4494,7 +4494,7 @@
     "cover": "/songs/covers/dookie.jpg"
   },
   {
-   "title": "American Idiot (Live at Irving Plaza, New York, NY, 9/21/04)",
+   "title": "American Idiot",
     "artist": "Green Day",  
     "categories": ["Rock", "Rock 00s"],
     "snippet": "/songs/rock/american_idiot.mp3",
@@ -4606,7 +4606,7 @@
     "cover": "/songs/covers/onelove.jpg"
   },
   {
-   "title": "Sexy Bitch (feat. Akon) [Continuous Mix]",
+   "title": "Sexy Bitch (feat. Akon)",
     "artist": "David Guetta",  
     "categories": ["Pop", "Pop 10s"],
     "snippet": "/songs/pop/sexy_bitch.mp3",
@@ -4746,7 +4746,7 @@
     "cover": "/songs/covers/outheads.jpg"
   },
   {
-   "title": "Gimme Shelter (Remastered 2019)",
+   "title": "Gimme Shelter",
     "artist": "The Rolling Stones",  
     "categories": ["Rock", "Rock 60s"],
     "snippet": "/songs/rock/shelter.mp3",
@@ -4844,7 +4844,7 @@
     "cover": "/songs/covers/mylo.jpg"
   },
   { 
-   "title": "Adevnture Of A Lifetime",
+   "title": "Adventure Of A Lifetime",
     "artist": "Coldplay",  
     "categories": ["Pop", "Pop 10s"],
     "snippet": "/songs/pop/adventure_lifetime.mp3",
@@ -4942,7 +4942,7 @@
     "cover": "/songs/covers/a.jpg"
   },
   { 
-   "title": "Ms. Jackson (Radio Mix)",
+   "title": "Ms. Jackson",
     "artist": "Outkast",  
     "categories": ["Rap", "Rap 00s"],
     "snippet": "/songs/rap/ms.mp3",
@@ -5138,7 +5138,7 @@
     "cover": "https://is1-ssl.mzstatic.com/image/thumb/Music116/v4/aa/a0/09/aaa009fb-3f82-5467-33b5-25d1cb165151/5054197958816.jpg/600x600bb.jpg"
   },
   {
-    "title": "Rockabye (feat. Sean Paul & Anne-Marie) [Autograf Remix]",
+    "title": "Rockabye (feat. Sean Paul & Anne-Marie)",
     "artist": "Clean Bandit",
     "categories": [
       "Pop",
@@ -5158,7 +5158,7 @@
     "cover": "https://is1-ssl.mzstatic.com/image/thumb/Music125/v4/54/4a/6d/544a6dc7-8d93-a8fe-74cc-530f4c078620/886444410779.jpg/600x600bb.jpg"
   },
   {
-    "title": "Stereo Love (Original)",
+    "title": "Stereo Love",
     "artist": "Edward Maya & Vika Jigulina",
     "categories": [
       "Pop",
@@ -5310,7 +5310,7 @@
     "cover": "https://is1-ssl.mzstatic.com/image/thumb/Music115/v4/7c/52/87/7c5287bc-818f-55ed-e607-08b052963632/12UMGIM50914.rgb.jpg/600x600bb.jpg"
   },
   {
-    "title": "Never Gonna Give You Up (2022 Remaster)",
+    "title": "Never Gonna Give You Up",
     "artist": "Rick Astley",
     "categories": [
       "Pop",
@@ -5377,7 +5377,7 @@
     "cover": "https://is1-ssl.mzstatic.com/image/thumb/Music112/v4/54/26/62/5426627b-4707-7867-acc0-ce616d250381/074645247526.jpg/600x600bb.jpg"
   },
   {
-    "title": "Man In the Box (Live)",
+    "title": "Man In the Box",
     "artist": "Alice In Chains",
     "categories": ["Rock", "Rock 00s"],
     "snippet": "/songs/rock/alice_in_chains_man_in_the_box_live.mp3",
@@ -5545,7 +5545,7 @@
     "cover": "https://is1-ssl.mzstatic.com/image/thumb/Music114/v4/0c/c8/0b/0cc80b73-aa09-492d-4fcc-984cab29acfa/825646096909.jpg/600x600bb.jpg"
   },
   {
-    "title": "Heaven Takes You Home (Mixed)",
+    "title": "Heaven Takes You Home",
     "artist": "Swedish House Mafia & Connie Constance",
     "categories": ["Pop", "Pop 20s"],
     "snippet": "/songs/pop/swedish_house_mafia_connie_constance_heaven_takes_you_home_mixed.mp3",
@@ -5706,7 +5706,7 @@
     "cover": "https://is1-ssl.mzstatic.com/image/thumb/Music/31/89/a2/mzi.ntaoftmc.jpg/600x600bb.jpg"
   },
   {
-    "title": "Rusted from the Rain (iTunes Session)",
+    "title": "Rusted from the Rain",
     "artist": "Billy Talent",
     "categories": ["Rock", "Rock 10s"],
     "snippet": "/songs/rock/billy_talent_rusted_from_the_rain_itunes_session.mp3",
@@ -5762,7 +5762,7 @@
     "cover": "https://is1-ssl.mzstatic.com/image/thumb/Music211/v4/c7/03/a2/c703a2c4-97d1-106d-4e25-10322d7063ea/196873486703.jpg/600x600bb.jpg"
   },
   {
-    "title": "Freak On a Leash (Dante Ross Mix)",
+    "title": "Freak On a Leash",
     "artist": "Korn",
     "categories": ["Rock", "Rock 90s"],
     "snippet": "/songs/rock/korn_freak_on_a_leash_dante_ross_mix.mp3",
@@ -6497,7 +6497,7 @@
     "cover": "https://is1-ssl.mzstatic.com/image/thumb/Music221/v4/bb/eb/78/bbeb7856-e31a-6f80-40ae-42170f4822db/24UMGIM50330.rgb.jpg/600x600bb.jpg"
   },
   {
-    "title": "Livin' On A Prayer (Live At Cobo Arena, Detroit, March 11, 1987)",
+    "title": "Livin' On A Prayer",
     "artist": "Bon Jovi",
     "categories": ["Rock", "Rock 80s"],
     "snippet": "/songs/rock/bon_jovi_livin_on_a_prayer_live_at_cobo_arena_detroit_march_11_1987.mp3",
@@ -6966,7 +6966,7 @@
     "cover": "https://is1-ssl.mzstatic.com/image/thumb/Music114/v4/f1/0c/c3/f10cc366-059c-6676-0d25-0220677175fd/886444584371.jpg/600x600bb.jpg"
   },
   {
-    "title": "Waka Waka (This Time for Africa) [The Official 2010 FIFA World Cup (TM) Song] [feat. Freshlyground] [Single]",
+    "title": "Waka Waka (This Time for Africa)",
     "artist": "Shakira",
     "categories": ["Pop", "Pop 10s"],
     "snippet": "/songs/pop/shakira_waka_waka_this_time_for_africa_the_official_2010_fifa_world_cup_tm_song_feat_freshlyground_single.mp3",
@@ -7008,7 +7008,7 @@
     "cover": "https://is1-ssl.mzstatic.com/image/thumb/Music124/v4/2b/fd/a9/2bfda969-e6e8-a983-2666-02fd3ec5ab23/00602577027642.rgb.jpg/600x600bb.jpg"
   },
   {
-    "title": "Still Waiting (Mixed)",
+    "title": "Still Waiting",
     "artist": "Sum 41",
     "categories": ["Pop", "Pop 20s"],
     "snippet": "/songs/pop/sum_41_still_waiting_mixed.mp3",
@@ -7288,7 +7288,7 @@
     "cover": "https://is1-ssl.mzstatic.com/image/thumb/Music115/v4/55/e5/7c/55e57cf2-8325-a088-7d54-3aeedad1143f/21UM1IM16263.rgb.jpg/600x600bb.jpg"
   },
   {
-    "title": "Do for Love (Mixed)",
+    "title": "Do for Love",
     "artist": "2Pac",
     "categories": ["Rap", "Rap 20s"],
     "snippet": "/songs/rap/2pac_do_for_love_mixed.mp3",
@@ -7505,7 +7505,7 @@
     "cover": "https://is1-ssl.mzstatic.com/image/thumb/Music114/v4/39/b1/1e/39b11eef-4709-bf53-2b5b-7954d2782496/20UMGIM58296.rgb.jpg/600x600bb.jpg"
   },
   {
-    "title": "Killing in the Name (Live at 2000 Democratic National Convention)",
+    "title": "Killing in the Name",
     "artist": "Rage Against the Machine",
     "categories": ["Rock", "Rock 10s"],
     "snippet": "/songs/rock/rage_against_the_machine_killing_in_the_name_live_at_2000_democratic_national_convention.mp3",
@@ -7610,14 +7610,14 @@
     "cover": "https://is1-ssl.mzstatic.com/image/thumb/Music116/v4/ff/56/9a/ff569a15-ff9f-307d-3d6c-1415d80bd8c1/653738346720_Cover.jpg/600x600bb.jpg"
   },
   {
-    "title": "Guerrilla Radio (Live In Mexico City, MX, 10/28/99)",
+    "title": "Guerrilla Radio",
     "artist": "Rage Against the Machine",
     "categories": ["Rock", "Rock 00s"],
     "snippet": "/songs/rock/rage_against_the_machine_guerrilla_radio_live_in_mexico_city_mx_10_28_99.mp3",
     "cover": "https://is1-ssl.mzstatic.com/image/thumb/Music114/v4/b0/8c/dd/b08cdd66-9c18-b724-5b50-770007804f0e/886448665946.jpg/600x600bb.jpg"
   },
   {
-    "title": "Bulls On Parade (Live)",
+    "title": "Bulls On Parade",
     "artist": "Rage Against the Machine",
     "categories": ["Rock", "Rock 00s"],
     "snippet": "/songs/rock/rage_against_the_machine_bulls_on_parade_live.mp3",
@@ -7960,7 +7960,7 @@
     "cover": "https://is1-ssl.mzstatic.com/image/thumb/Music124/v4/18/b4/9a/18b49ad5-6407-7169-27f4-d1c8bcb5504b/s05.nqwebndj.jpg/600x600bb.jpg"
   },
   {
-    "title": "Doomsday (Remix)",
+    "title": "Doomsday",
     "artist": "MF DOOM",
     "categories": ["Rap", "Rap 90s"],
     "snippet": "/songs/rap/mf_doom_doomsday_instrumental.mp3",
@@ -8604,7 +8604,7 @@
     "cover": "https://is1-ssl.mzstatic.com/image/thumb/Music125/v4/c2/34/48/c234484e-a6f3-4355-6d41-24275da82c74/s06.kststhcn.jpg/600x600bb.jpg"
   },
   {
-    "title": "Jump Around (Pete Rock Remix)",
+    "title": "Jump Around",
     "artist": "House of Pain",
     "categories": ["Rap", "Rap 90s"],
     "snippet": "/songs/rap/house_of_pain_jump_around_pete_rock_remix.mp3",
@@ -8730,9 +8730,9 @@
     "cover": "https://is1-ssl.mzstatic.com/image/thumb/Music115/v4/00/3f/21/003f21c0-6bc3-dbed-7081-04ffaf172016/078221640824.jpg/600x600bb.jpg"
   },
   {
-    "title": "Push It (Re-Recorded) [Remastered]",
+    "title": "Push It",
     "artist": "Salt-N-Pepa",
-    "categories": ["Pop", "Pop 90s"],
+    "categories": ["Rap", "Rap 90s"],
     "snippet": "/songs/pop/salt_n_pepa_push_it_re_recorded_remastered.mp3",
     "cover": "https://is1-ssl.mzstatic.com/image/thumb/Music/v4/71/14/f9/7114f9b5-630e-a488-8199-31658b70d1df/888003320291.jpg/600x600bb.jpg"
   },
@@ -8807,7 +8807,7 @@
     "cover": "https://is1-ssl.mzstatic.com/image/thumb/Music221/v4/7c/58/b1/7c58b153-2525-d47f-ab7a-9c9fe6882826/888880400017.jpg/600x600bb.jpg"
   },
   {
-    "title": "SAD! (Instrumental)",
+    "title": "SAD!",
     "artist": "XXXTENTACION",
     "categories": ["Rap", "Rap 10s"],
     "snippet": "/songs/pop/xxxtentacion_changes.mp3",
@@ -8884,7 +8884,7 @@
     "cover": "https://is1-ssl.mzstatic.com/image/thumb/Music221/v4/8b/0e/46/8b0e463a-8b5a-d0be-7de2-5b2d3f785976/054391235039.jpg/600x600bb.jpg"
   },
   {
-    "title": "Sprinter (Mixed)",
+    "title": "Sprinter",
     "artist": "Central Cee & Dave",
     "categories": ["Rap", "Rap 20s"],
     "snippet": "/songs/pop/central_cee_dave_sprinter_ti_sto_remix_mixed.mp3",
@@ -8919,7 +8919,7 @@
     "cover": "https://is1-ssl.mzstatic.com/image/thumb/Music211/v4/b9/f2/2b/b9f22b26-d962-70de-6d85-674139ded7cc/842812190988_Cover.jpg/600x600bb.jpg"
   },
   {
-    "title": "No Broke Boys (AVELLO Remix) [Mixed]",
+    "title": "No Broke Boys",
     "artist": "Disco Lines & Tinashe",
     "categories": ["Pop", "Pop 20s"],
     "snippet": "/songs/pop/disco_lines_tinashe_no_broke_boys_avello_remix_mixed.mp3",
@@ -8982,7 +8982,7 @@
     "cover": "https://is1-ssl.mzstatic.com/image/thumb/Music221/v4/25/d4/96/25d49699-acc0-401f-a7cc-d7697339a474/24UM1IM03751.rgb.jpg/600x600bb.jpg"
   },
   {
-    "title": "fukumean (instrumental)",
+    "title": "fukumean",
     "artist": "Gunna",
     "categories": ["Rap", "Rap 20s"],
     "snippet": "/songs/rap/gunna_fukumean_instrumental.mp3",
@@ -9430,7 +9430,7 @@
     "cover": "https://is1-ssl.mzstatic.com/image/thumb/Music114/v4/64/03/cb/6403cb43-d892-4663-d759-5093b5ed610c/886448203087.jpg/600x600bb.jpg"
   },
   {
-    "title": "Pepas (Mixed)",
+    "title": "Pepas",
     "artist": "Farruko",
     "categories": ["Pop", "Pop 20s"],
     "snippet": "/songs/pop/farruko_pepas_ti_sto_remix_mixed.mp3",
@@ -9654,7 +9654,7 @@
     "cover": "https://is1-ssl.mzstatic.com/image/thumb/Music116/v4/b2/b4/7c/b2b47cf9-d8e2-53f6-5c62-c974d665c95b/22UMGIM08994.rgb.jpg/600x600bb.jpg"
   },
   {
-    "title": "Friday (feat. Mufasa & Hypeman) [Dopamine Re-Edit]",
+    "title": "Friday (feat. Mufasa & Hypeman)",
     "artist": "Riton & Nightcrawlers",
     "categories": ["Pop", "Pop 20s"],
     "snippet": "/songs/pop/riton_nightcrawlers_friday_feat_mufasa_hypeman_dopamine_re_edit.mp3",
@@ -9668,7 +9668,7 @@
     "cover": "https://is1-ssl.mzstatic.com/image/thumb/Music221/v4/db/b6/5b/dbb65bfe-d7ba-fa7a-2939-8efe303f06c1/196589359971.jpg/600x600bb.jpg"
   },
   {
-    "title": "DESPECHÁ (Remix) [Mixed]",
+    "title": "DESPECHÁ",
     "artist": "ROSALÍA",
     "categories": ["Pop", "Pop 20s"],
     "snippet": "/songs/pop/rosal_a_despech_remix_mixed.mp3",
@@ -9696,7 +9696,7 @@
     "cover": "https://is1-ssl.mzstatic.com/image/thumb/Features126/v4/4f/a4/4b/4fa44b1b-6486-0f1f-70d2-047365a22bc7/mza_7786158018589245738.png/600x600bb.jpg"
   },
   {
-    "title": "2055 (Originally Performed by Sleepy Hallow) [Instrumental Version]",
+    "title": "2055",
     "artist": "Backing Business",
     "categories": ["Rap", "Rap 20s"],
     "snippet": "/songs/pop/backing_business_2055_originally_performed_by_sleepy_hallow_instrumental_version.mp3",
@@ -9885,7 +9885,7 @@
     "cover": "https://is1-ssl.mzstatic.com/image/thumb/Music128/v4/f3/14/2e/f3142ebf-9226-c977-188f-a4a789d4279f/886447219355.jpg/600x600bb.jpg"
   },
   {
-    "title": "On My Way (Da Tweekaz Remix)",
+    "title": "On My Way",
     "artist": "Alan Walker, Sabrina Carpenter & Farruko",
     "categories": ["Pop", "Pop 10s"],
     "snippet": "/songs/pop/alan_walker_sabrina_carpenter_farruko_on_my_way_da_tweekaz_remix.mp3",
@@ -9920,7 +9920,7 @@
     "cover": "https://is1-ssl.mzstatic.com/image/thumb/Music114/v4/9c/19/1b/9c191bbf-15e1-ffd6-c36d-2e480a1a156e/886448153238.jpg/600x600bb.jpg"
   },
   {
-    "title": "Dakiti (Remix) [Mixed]",
+    "title": "Dakiti",
     "artist": "JHAYCO & Bad Bunny",
     "categories": ["Pop", "Pop 20s"],
     "snippet": "/songs/pop/jhayco_bad_bunny_dakiti_remix_mixed.mp3",
@@ -10151,7 +10151,7 @@
     "cover": "https://is1-ssl.mzstatic.com/image/thumb/Music125/v4/bd/16/12/bd161229-f5c7-d21d-caed-ed9302d52168/19UMGIM38391.rgb.jpg/600x600bb.jpg"
   },
   {
-    "title": "I Love It (Freaky Girl Edit)",
+    "title": "I Love It",
     "artist": "Kanye West & Lil Pump",
     "categories": ["Rap", "Rap 10s"],
     "snippet": "/songs/rap/kanye_west_lil_pump_i_love_it_freaky_girl_edit.mp3",
@@ -10431,7 +10431,7 @@
     "cover": "https://is1-ssl.mzstatic.com/image/thumb/Music128/v4/a5/b9/74/a5b97478-4016-6266-9d1b-3bf72449b5b8/888915632321_cover.jpg/600x600bb.jpg"
   },
   {
-    "title": "EARFQUAKE (wev Remix) [Mixed]",
+    "title": "EARFQUAKE",
     "artist": "Tyler, The Creator",
     "categories": ["Rap", "Rap"],
     "snippet": "/songs/pop/kali_uchis_after_the_storm_feat_tyler_the_creator_bootsy_collins.mp3",
@@ -10501,7 +10501,7 @@
     "cover": "https://is1-ssl.mzstatic.com/image/thumb/Music126/v4/34/a5/93/34a59372-3ebd-ae5f-269d-4c9506864d3f/8804775083280_Cover.jpg/600x600bb.jpg"
   },
   {
-    "title": "Feel So Close (Radio Edit)",
+    "title": "Feel So Close",
     "artist": "Calvin Harris",
     "categories": ["Pop", "Pop 10s"],
     "snippet": "/songs/pop/calvin_harris_feel_so_close_radio_edit.mp3",
@@ -10914,7 +10914,7 @@
     "cover": "https://is1-ssl.mzstatic.com/image/thumb/Music125/v4/b6/80/3c/b6803c18-1285-3c66-ec98-5e423e7268f8/886445447828.jpg/600x600bb.jpg"
   },
   {
-    "title": "Loyal (feat. Craig David) [Remix] [Mixed]",
+    "title": "Loyal (feat. Craig David)",
     "artist": "Chris Brown",
     "categories": ["Pop", "Pop 20s"],
     "snippet": "/songs/pop/chris_brown_loyal_feat_craig_david_remix_mixed.mp3",
@@ -10963,7 +10963,7 @@
     "cover": "https://is1-ssl.mzstatic.com/image/thumb/Music116/v4/c4/5f/26/c45f26ac-1bd4-1481-ce51-8a4c10bcd757/15UMGIM48135.rgb.jpg/600x600bb.jpg"
   },
   {
-    "title": "Bailando (Spanish Version) [feat. Descemer Bueno & Gente de Zona] ",
+    "title": "Bailando (Spanish Version) [feat. Descemer Bueno & Gente de Zona]",
     "artist": "Enrique Iglesias",
     "categories": ["Pop", "Pop 00s"],
     "snippet": "/songs/pop/enrique_iglesias_bailando_feat_sean_paul_descemer_bueno_gente_de_zona_english_version.mp3",
@@ -11173,7 +11173,7 @@
     "cover": "https://is1-ssl.mzstatic.com/image/thumb/Music116/v4/96/ae/f6/96aef61f-306a-c9f9-e899-98a8b60550b6/14UMGIM59294.rgb.jpg/600x600bb.jpg"
   },
   {
-    "title": "Cheerleader (Felix Jaehn Remix) [Radio Edit]",
+    "title": "Cheerleader (Felix Jaehn Remix)",
     "artist": "Omi",
     "categories": ["Pop", "Pop 10s"],
     "snippet": "/songs/pop/omi_cheerleader_felix_jaehn_remix_radio_edit.mp3",
@@ -11495,7 +11495,7 @@
     "cover": "https://is1-ssl.mzstatic.com/image/thumb/Music124/v4/f6/03/6d/f6036de5-6c2f-6f68-1d0b-d5fd174bc130/cover.jpg/600x600bb.jpg"
   },
   {
-    "title": "Biała Flaga (Live)",
+    "title": "Biała Flaga",
     "artist": "Republika",
     "categories": ["Polskie Rock", "Polskie Rock 10s"],
     "snippet": "/songs/rock/republika_biala_flaga_live.mp3",
@@ -12455,6 +12455,20 @@
     "categories": ["Polskie Pop", "Polskie Pop 00s"],
     "snippet": "/songs/Polskie/zero_bania_u_cygana.mp3",
     "cover": "https://is1-ssl.mzstatic.com/image/thumb/Music128/v4/cb/9e/23/cb9e234d-9dbf-93af-9508-38a8c9dfa05b/192914281627.jpg/600x600bb.jpg"
+  },
+  {
+    "title": "'I'm An Albatraoz",
+    "artist": "AronChupa",
+    "categories": ["Pop", "Pop 10s"],
+    "snippet": "/songs/pop/aronchupa_i_m_an_albatraoz.mp3",
+    "cover": "https://is1-ssl.mzstatic.com/image/thumb/Music221/v4/e3/df/72/e3df7264-46c2-f2b2-a586-e7dee1814661/9785.jpg/600x600bb.jpg"
+  },
+  {
+    "title": "Even Flow",
+    "artist": "Pearl Jam",
+    "categories": ["Rock", "Rock 90s"],
+    "snippet": "/songs/rock/pearl_jam_even_flow_brendan_o_brien_mix.mp3",
+    "cover": "https://is1-ssl.mzstatic.com/image/thumb/Music3/v4/31/2b/2b/312b2b48-b634-329b-3ced-552dd997050e/dj.dyrqkvux.jpg/600x600bb.jpg"
   }
 ]
 

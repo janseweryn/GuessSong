@@ -108,6 +108,32 @@ const manualDaily = {
       dailyCategory: "Rap",
     },
   ],
+  "2026-02-25": [
+    {
+      title: "'I'm An Albatraoz",
+      artist: "AronChupa",
+      cover: "https://is1-ssl.mzstatic.com/image/thumb/Music221/v4/e3/df/72/e3df7264-46c2-f2b2-a586-e7dee1814661/9785.jpg/600x600bb.jpg",
+      snippet: "/songs/pop/aronchupa_i_m_an_albatraoz.mp3",
+      categories: ["pop"],
+      dailyCategory: "Pop",
+    },
+    {
+      title: "Even Flow",
+      artist: "Pearl Jam",
+      cover: "https://is1-ssl.mzstatic.com/image/thumb/Music3/v4/31/2b/2b/312b2b48-b634-329b-3ced-552dd997050e/dj.dyrqkvux.jpg/600x600bb.jpg",
+      snippet: "/songs/rock/pearl_jam_even_flow_brendan_o_brien_mix.mp3",
+      categories: ["rock"],
+      dailyCategory: "Rock",
+    },
+    {
+      title: "Flashing Lights",
+      artist: "Kanye West",
+      cover: "/songs/covers/graduation.jpg",
+      snippet: "/songs/rap/flashing_lights.mp3",
+      categories: ["rap"],
+      dailyCategory: "Rap",
+    },
+  ],
 };
 
 
