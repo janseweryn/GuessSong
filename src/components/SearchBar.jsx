@@ -8,46 +8,59 @@ const SearchBar = ({ onSelectSong }) => {
   const [loading, setLoading] = useState(false);
 
   useEffect(() => {
-    if (query.length < 3) {
-      setSuggestions([]);
-      return;
-    }
+  if (query.length < 3) {
+    setSuggestions([]);
+    return;
+  }
 
-    const fetchSuggestions = async () => {
-      setLoading(true);
-      try {
-        // --- iTunes API ---
-        const response = await fetch(
-          `https://itunes.apple.com/search?term=${encodeURIComponent(query)}&entity=song&limit=10`
+  const fetchSuggestions = async () => {
+    setLoading(true);
+
+    try {
+      const normalizedQuery = query.toLowerCase();
+      const queryParts = normalizedQuery.split(" ").filter(Boolean);
+
+      // --- ręczne utwory (NAJPIERW) ---
+      const manualResults = manualSongs.filter((song) => {
+        const searchableText = `${song.title} ${song.artist}`.toLowerCase();
+        return queryParts.every((part) =>
+          searchableText.includes(part)
         );
-        const data = await response.json();
-        const itunesResults = data.results.map((song) => ({
+      });
+
+      // --- iTunes API ---
+      const response = await fetch(
+        `https://itunes.apple.com/search?term=${encodeURIComponent(query)}&entity=song&limit=10`
+      );
+      const data = await response.json();
+
+      const itunesResults = data.results
+        .map((song) => ({
           title: song.trackName,
           artist: song.artistName,
-          source: "itunes", // opcjonalnie do oznaczenia w UI
-        }));
+        }))
+        // usuwamy duplikaty z ręcznych
+        .filter(
+          (itunesSong) =>
+            !manualResults.some(
+              (manualSong) =>
+                manualSong.title.toLowerCase() === itunesSong.title.toLowerCase() &&
+                manualSong.artist.toLowerCase() === itunesSong.artist.toLowerCase()
+            )
+        );
 
-        // --- ręczne utwory ---
-        const manualResults = manualSongs
-          .filter(
-            (s) =>
-              s.title.toLowerCase().includes(query.toLowerCase()) ||
-              s.artist.toLowerCase().includes(query.toLowerCase())
-          )
-          .map((s) => ({ ...s, source: "manual" }));
+      // --- ręczne MAJĄ PRIORYTET ---
+      setSuggestions([...manualResults, ...itunesResults]);
+    } catch (error) {
+      console.error("Błąd pobierania danych:", error);
+    } finally {
+      setLoading(false);
+    }
+  };
 
-        // --- połączenie obu źródeł ---
-        setSuggestions([...itunesResults, ...manualResults]);
-      } catch (error) {
-        console.error("Błąd pobierania danych:", error);
-      } finally {
-        setLoading(false);
-      }
-    };
-
-    const delayDebounce = setTimeout(fetchSuggestions, 400);
-    return () => clearTimeout(delayDebounce);
-  }, [query]);
+  const delayDebounce = setTimeout(fetchSuggestions, 400);
+  return () => clearTimeout(delayDebounce);
+}, [query]);
 
   const handleSelect = (title, artist) => {
     setQuery(`${title} - ${artist}`);
@@ -80,9 +93,6 @@ const SearchBar = ({ onSelectSong }) => {
                 <span className="s-title">{s.title}</span>
                 <span className="s-separator"> - </span>
                 <span className="s-artist">{s.artist}</span>
-                {s.source === "manual" && (
-                  <span className="manual-badge"> (manual)</span>
-                )}
               </div>
             </li>
           ))}
