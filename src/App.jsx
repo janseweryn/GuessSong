@@ -503,113 +503,69 @@ function GameView({ title, onBack, currentSong, snippetIndex, displayedTime, LEV
       {/* AUDIO MUSI BYĆ ZAWSZE W DOM */}
       <audio ref={audioRef} src={currentSong.snippet} />
 
-      <button
-        onClick={onBack}
-        style={{
-          position: "absolute",
-          top: 20,
-          left: 20,
-          background: "#555",
-          border: "none",
-          color: "white",
-          padding: "6px 10px",
-          borderRadius: 8,
-          cursor: "pointer"
-        }}
-      >
+      <button onClick={onBack} style={{ position: "absolute", top: 20, left: 20, background: "#555", border: "none", color: "white", padding: "6px 10px", borderRadius: 8, cursor: "pointer" }}>
         ⬅ Wróć
       </button>
 
-      {/* JEDYNA ZMIANA LAYOUTU */}
-      <div className="game-column">
+      <h2 style={{ marginBottom: 10, color: "#ccc" }}>{title}</h2>
 
-        <h2 style={{ marginBottom: 10, color: "#ccc" }}>{title}</h2>
+      {!isCorrect && !gameOver ? (
+        <>
+          <h3>Fragment: <strong>{LEVELS[snippetIndex].label}</strong></h3>
+          <p>⏱ {displayedTime.toFixed(1)}s / {LEVELS[snippetIndex].displayTime}s</p>
 
-        {!isCorrect && !gameOver ? (
-          <>
-            <h3>Fragment: <strong>{LEVELS[snippetIndex].label}</strong></h3>
-            <p>⏱ {displayedTime.toFixed(1)}s / {LEVELS[snippetIndex].displayTime}s</p>
-
-            <div style={{ display: "flex", gap: "10px", justifyContent: "center", marginBottom: 35 }}>
-              <button
-                onClick={isPlaying ? stopSnippet : playSnippet}
-                style={{ background: "#333", color: "white", border: "none", padding: "10px 25px", borderRadius: 10, cursor: "pointer" }}
-              >
-                {isPlaying ? "⏹ Stop" : "▶️ Play"}
-              </button>
-              <button
-                onClick={skipToNext}
-                style={{ background: "#333", color: "white", border: "none", padding: "10px 25px", borderRadius: 10, cursor: "pointer" }}
-              >
-                ⏭ Skip
-              </button>
-            </div>
-
-            <SearchBar onSelectSong={(t, a) => setUserGuess(`${t} - ${a}`)} />
-
-            <button onClick={handleGuess} className="submit-btn">
-              Submit
+          <div style={{ display: "flex", gap: "10px", justifyContent: "center", marginBottom: 35 }}>
+            <button onClick={isPlaying ? stopSnippet : playSnippet} style={{ background: "#333", color: "white", border: "none", padding: "10px 25px", borderRadius: 10, cursor: "pointer" }}>
+              {isPlaying ? "⏹ Stop" : "▶️ Play"}
             </button>
-
-            <div style={{ marginTop: 25 }}>
-              {wrongAnswers.map((ans, i) => (
-                <div
-                  key={i}
-                  style={{
-                    marginTop: 8,
-                    borderRadius: 8,
-                    padding: "8px 15px",
-                    backgroundColor: ans.artistCorrect ? "#ffd54f" : "#ef5350",
-                    color: "black",
-                    display: "inline-block",
-                    minWidth: "250px"
-                  }}
-                >
-                  ❌ {ans.title}
-                </div>
-              ))}
-            </div>
-
-            {snippetIndex === LEVELS.length - 1 && (
-              <button
-                onClick={giveUp}
-                style={{ background: "#ff5555", color: "white", border: "none", padding: "8px 15px", borderRadius: 8, cursor: "pointer", marginTop: 20 }}
-              >
-                Give Up
-              </button>
-            )}
-          </>
-        ) : (
-          <div style={{ marginTop: 16 }}>
-            {isCorrect ? <h2 style={{ color: "#4caf50" }}>✅ Correct!</h2> : <h2 style={{ color: "#ff5555" }}>❌ Game Over</h2>}
-
-            <p style={{ fontSize: "1.4rem", margin: "10px 0" }}>
-              <strong>{currentSong.title}</strong>
-            </p>
-            <p style={{ fontSize: "1.1rem", color: "#aaa" }}>{currentSong.artist}</p>
-
-            <img src={currentSong.cover} alt="cover" width={220} style={{ borderRadius: 15, marginTop: 15, boxShadow: "0 10px 20px rgba(0,0,0,0.5)" }} />
-
-            <GuessChart stats={stats} currentLevel={isCorrect ? LEVELS[snippetIndex].label : "fail"} />
-
-            <div style={{ marginTop: 25 }}>
-              <button
-                onClick={isFullPlaying ? stopFullSong : playFullSong}
-                style={{ background: "#444", color: "white", padding: "10px 20px", borderRadius: 10, border: "none", cursor: "pointer", marginRight: 10 }}
-              >
-                {isFullPlaying ? "⏹ Stop Full" : "▶️ Play Full"}
-              </button>
-              <button
-                onClick={startNewSong}
-                style={{ background: "#fff", color: "#000", padding: "12px 30px", borderRadius: 10, fontWeight: "bold", border: "none", cursor: "pointer" }}
-              >
-                Next Song →
-              </button>
-            </div>
+            <button onClick={skipToNext} style={{ background: "#333", color: "white", border: "none", padding: "10px 25px", borderRadius: 10, cursor: "pointer" }}>
+              ⏭ Skip
+            </button>
           </div>
-        )}
 
-      </div>
+          <SearchBar onSelectSong={(t, a) => setUserGuess(`${t} - ${a}`)} />
+
+          <button onClick={handleGuess} style={{ background: "#4caf50", color: "white", padding: "16px 0", borderRadius: 14, border: "none", fontWeight: "bold", cursor: "pointer", fontSize: "1.2rem", width: "100%", marginTop: 10 }}>
+            Submit
+          </button>
+
+          <div style={{ marginTop: 25 }}>
+            {wrongAnswers.map((ans, i) => (
+              <div key={i} style={{ marginTop: 8, borderRadius: 8, padding: "8px 15px", backgroundColor: ans.artistCorrect ? "#ffd54f" : "#ef5350", color: "black", display: "inline-block", minWidth: "250px" }}>
+                ❌ {ans.title}
+              </div>
+            ))}
+          </div>
+
+          {snippetIndex === LEVELS.length - 1 && (
+            <button onClick={giveUp} style={{ background: "#ff5555", color: "white", border: "none", padding: "8px 15px", borderRadius: 8, cursor: "pointer", marginTop: 20 }}>
+              Give Up
+            </button>
+          )}
+        </>
+      ) : (
+        <div style={{ marginTop: 16 }}>
+          {isCorrect ? <h2 style={{ color: "#4caf50" }}>✅ Correct!</h2> : <h2 style={{ color: "#ff5555" }}>❌ Game Over</h2>}
+
+          <p style={{ fontSize: "1.4rem", margin: "10px 0" }}>
+            <strong>{currentSong.title}</strong>
+          </p>
+          <p style={{ fontSize: "1.1rem", color: "#aaa" }}>{currentSong.artist}</p>
+
+          <img src={currentSong.cover} alt="cover" width={220} style={{ borderRadius: 15, marginTop: 15, boxShadow: "0 10px 20px rgba(0,0,0,0.5)" }} />
+
+          <GuessChart stats={stats} currentLevel={isCorrect ? LEVELS[snippetIndex].label : "fail"} />
+
+          <div style={{ marginTop: 25 }}>
+            <button onClick={isFullPlaying ? stopFullSong : playFullSong} style={{ background: "#444", color: "white", padding: "10px 20px", borderRadius: 10, border: "none", cursor: "pointer", marginRight: 10 }}>
+              {isFullPlaying ? "⏹ Stop Full" : "▶️ Play Full"}
+            </button>
+            <button onClick={startNewSong} style={{ background: "#fff", color: "#000", padding: "12px 30px", borderRadius: 10, fontWeight: "bold", border: "none", cursor: "pointer" }}>
+              Next Song →
+            </button>
+          </div>
+        </div>
+      )}
     </>
   );
 }
