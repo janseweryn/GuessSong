@@ -186,6 +186,32 @@ const manualDaily = {
       dailyCategory: "Rap",
     },
   ],
+  "2026-02-28": [
+    {
+      title: "Rockabye (feat. Sean Paul & Anne-Marie)",
+      artist: "Clean Bandit",
+      cover: "https://is1-ssl.mzstatic.com/image/thumb/Music91/v4/17/ad/8f/17ad8f52-e9e5-2858-464b-a40e1b84070b/190295859138.jpg/600x600bb.jpg",
+      snippet: "/songs/pop/clean_bandit_rockabye_feat_sean_paul_anne_marie_autograf_remix.mp3",
+      categories: ["pop"],
+      dailyCategory: "Pop",
+    },
+    {
+      title: "On Melancholy Hill",
+      artist: "Gorillaz",
+      cover: "/songs/covers/plastic.jpg",
+      snippet: "/songs/rock/melancholy_hill.mp3",
+      categories: ["rock"],
+      dailyCategory: "Rock",
+    },
+    {
+      title: "See You Again (feat. Kali Uchis)",
+      artist: "Tyler, The Creator",
+      cover: "/songs/covers/flowerboy.jpg",
+      snippet: "/songs/pop/miley_cyrus_see_you_again.mp3",
+      categories: ["rap"],
+      dailyCategory: "Rap",
+    },
+  ],
 };
 
 const LEVELS = [
