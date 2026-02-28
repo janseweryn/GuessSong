@@ -212,6 +212,32 @@ const manualDaily = {
       dailyCategory: "Rap",
     },
   ],
+  "2026-03-01": [
+    {
+      title: "I Ain't Worried",
+      artist: "OneRepublic",
+      cover: "https://is1-ssl.mzstatic.com/image/thumb/Music122/v4/e6/14/14/e6141444-6597-4c3a-7ad1-86304528acf4/22UMGIM45569.rgb.jpg/600x600bb.jpg",
+      snippet: "/songs/pop/onerepublic_i_ain_t_worried.mp3",
+      categories: ["pop"],
+      dailyCategory: "Pop",
+    },
+    {
+      title: "The Chain",
+      artist: "Fleetwood Mac",
+      cover: "/songs/covers/rumours.jpg",
+      snippet: "/songs/rock/chain.mp3",
+      categories: ["rock"],
+      dailyCategory: "Rock",
+    },
+    {
+      title: "Donald Trump",
+      artist: "Mac Miller",
+      cover: "https://is1-ssl.mzstatic.com/image/thumb/Music221/v4/7a/fa/81/7afa8155-fa6a-4f68-9459-455f0fd79784/881034789822.jpg/600x600bb.jpg",
+      snippet: "/songs/rap/mac_miller_donald_trump.mp3",
+      categories: ["rap"],
+      dailyCategory: "Rap",
+    },
+  ],
 };
 
 const LEVELS = [

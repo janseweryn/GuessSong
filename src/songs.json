@@ -12524,7 +12524,7 @@
     "artist": "Playboi Carti",
     "categories": ["Rap", "Rap 20s"],
     "snippet": "/songs/pop/the_weeknd_playboi_carti_timeless.mp3",
-    "cover": "https://is1-ssl.mzstatic.com/image/thumb/Music211/v4/af/04/83/af048357-131d-1ca3-fe8a-d7ef3dda68ec/24UM1IM04062.rgb.jpg/600x600bb.jpg"
+    "cover": "/songs/covers/music.jpg"
   },
   {
     "title": "Wokeuplikethis*",
@@ -12573,7 +12573,7 @@
     "artist": "Tyler, The Creator",
     "categories": ["Rap", "Rap 00s"],
     "snippet": "/songs/pop/miley_cyrus_see_you_again.mp3",
-    "cover": "https://is1-ssl.mzstatic.com/image/thumb/Music124/v4/ab/ab/f7/ababf7b5-c65b-905a-ae71-c7195f66e25c/21UMGIM04584.rgb.jpg/600x600bb.jpg"
+    "cover": "/songs/covers/flowerboy.jpg"
   }
 ]
 
