@@ -238,6 +238,32 @@ const manualDaily = {
       dailyCategory: "Rap",
     },
   ],
+   "2026-03-02": [
+    {
+      title: "Lean On (feat. MØ)",
+      artist: "Major Lazer & DJ Snake",
+      cover: "https://is1-ssl.mzstatic.com/image/thumb/Music126/v4/b9/80/28/b98028a2-1567-1247-6813-d167ef8c99dd/653738277321_Cover.jpg/600x600bb.jpg",
+      snippet: "/songs/pop/major_lazer_dj_snake_lean_on_feat_m.mp3",
+      categories: ["pop"],
+      dailyCategory: "Pop",
+    },
+    {
+      title: "Behind Blue Eyes",
+      artist: "Limp Bizkit",
+      cover: "/songs/covers/results.jpg",
+      snippet: "/songs/rock/behind_eyes.mp3",
+      categories: ["rock"],
+      dailyCategory: "Rock",
+    },
+    {
+      title: "Rather Lie (feat. The Weeknd)",
+      artist: "Playboi Carti",
+      cover: "/songs/covers/music.jpg",
+      snippet: "/songs/pop/the_weeknd_try_me.mp3",
+      categories: ["rap"],
+      dailyCategory: "Rap",
+    },
+  ],
 };
 
 const LEVELS = [
