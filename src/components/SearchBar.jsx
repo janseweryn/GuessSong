@@ -1,99 +1,94 @@
-// src/components/SearchBar.jsx
 import React, { useState, useEffect } from "react";
-import manualSongs from "../manualSongs.json"; // <-- tu twoje ręczne utwory
+import manualSongs from "../manualSongs.json";
 
 const SearchBar = ({ onSelectSong }) => {
   const [query, setQuery] = useState("");
   const [suggestions, setSuggestions] = useState([]);
   const [loading, setLoading] = useState(false);
+  const [locked, setLocked] = useState(false); // ⬅️ NOWE: blokada listy po wyborze
 
   useEffect(() => {
-  if (query.length < 3) {
-    setSuggestions([]);
-    return;
-  }
-
-  const fetchSuggestions = async () => {
-    setLoading(true);
-
-    try {
-      const normalizedQuery = query.toLowerCase();
-      const queryParts = normalizedQuery.split(" ").filter(Boolean);
-
-      // --- ręczne utwory (NAJPIERW) ---
-      const manualResults = manualSongs.filter((song) => {
-        const searchableText = `${song.title} ${song.artist}`.toLowerCase();
-        return queryParts.every((part) =>
-          searchableText.includes(part)
-        );
-      });
-
-      // --- iTunes API ---
-      const response = await fetch(
-        `https://itunes.apple.com/search?term=${encodeURIComponent(query)}&entity=song&limit=10`
-      );
-      const data = await response.json();
-
-      const itunesResults = data.results
-        .map((song) => ({
-          title: song.trackName,
-          artist: song.artistName,
-        }))
-        // usuwamy duplikaty z ręcznych
-        .filter(
-          (itunesSong) =>
-            !manualResults.some(
-              (manualSong) =>
-                manualSong.title.toLowerCase() === itunesSong.title.toLowerCase() &&
-                manualSong.artist.toLowerCase() === itunesSong.artist.toLowerCase()
-            )
-        );
-
-      // --- ręczne MAJĄ PRIORYTET ---
-      setSuggestions([...manualResults, ...itunesResults]);
-    } catch (error) {
-      console.error("Błąd pobierania danych:", error);
-    } finally {
-      setLoading(false);
+    if (locked) return;              // ⬅️ jeśli wybrano utwór, NIE pobieramy listy
+    if (query.length < 3) {
+      setSuggestions([]);
+      return;
     }
-  };
 
-  const delayDebounce = setTimeout(fetchSuggestions, 400);
-  return () => clearTimeout(delayDebounce);
-}, [query]);
+    const fetchSuggestions = async () => {
+      setLoading(true);
+      try {
+        const q = query.toLowerCase();
+        const parts = q.split(" ").filter(Boolean);
 
-  const handleSelect = (title, artist) => {
-    setQuery(`${title} - ${artist}`);
+        const manualResults = manualSongs.filter(song =>
+          parts.every(p =>
+            `${song.title} ${song.artist}`.toLowerCase().includes(p)
+          )
+        );
+
+        const res = await fetch(
+          `https://itunes.apple.com/search?term=${encodeURIComponent(query)}&entity=song&limit=10`
+        );
+        const data = await res.json();
+
+        const itunesResults = data.results
+          .map(s => ({ title: s.trackName, artist: s.artistName }))
+          .filter(it =>
+            !manualResults.some(
+              m =>
+                m.title.toLowerCase() === it.title.toLowerCase() &&
+                m.artist.toLowerCase() === it.artist.toLowerCase()
+            )
+          );
+
+        setSuggestions([...manualResults, ...itunesResults]);
+      } catch (e) {
+        console.error(e);
+      } finally {
+        setLoading(false);
+      }
+    };
+
+    const t = setTimeout(fetchSuggestions, 400);
+    return () => clearTimeout(t);
+  }, [query, locked]);
+
+  const handleSelect = (t, a) => {
+    setQuery(`${t} - ${a}`);
     setSuggestions([]);
-    onSelectSong?.(title, artist);
+    setLocked(true);          // ⬅️ BLOKUJEMY listę na stałe
+    onSelectSong?.(t, a);
   };
 
   return (
-    <div className="search-input-wrapper">
-      <span className="search-icon">🔍</span>
-      <input
-        type="text"
-        value={query}
-        onChange={(e) => setQuery(e.target.value)}
-        placeholder="Wpisz tytuł lub artystę..."
-        className="main-search-input"
-      />
-      
-      {loading && <div className="loader-mini"></div>}
+    <div className="search-root">
+      <div className="search-box">
+        <span className="search-icon">🔍</span>
 
-      {suggestions.length > 0 && (
+        <input
+          className="main-search-input"
+          value={query}
+          onChange={e => {
+            setQuery(e.target.value);
+            setLocked(false); // ⬅️ zaczynam pisać → lista może wrócić
+          }}
+          placeholder="Wpisz tytuł lub artystę..."
+        />
+
+        {loading && <div className="loader-mini" />}
+      </div>
+
+      {!locked && suggestions.length > 0 && (
         <ul className="suggestions-list">
-          {suggestions.map((s, index) => (
-            <li 
-              key={index} 
-              onClick={() => handleSelect(s.title, s.artist)} 
+          {suggestions.map((s, i) => (
+            <li
+              key={i}
               className="suggestion-item"
+              onClick={() => handleSelect(s.title, s.artist)}
             >
-              <div className="suggestion-content">
-                <span className="s-title">{s.title}</span>
-                <span className="s-separator"> - </span>
-                <span className="s-artist">{s.artist}</span>
-              </div>
+              <span className="s-title">{s.title}</span>
+              <span className="s-separator"> – </span>
+              <span className="s-artist">{s.artist}</span>
             </li>
           ))}
         </ul>

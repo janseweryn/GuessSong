@@ -1,6 +1,7 @@
 import React, { useState, useRef, useEffect } from "react";
 import songsData from "./songs.json";
 import SearchBar from "./components/SearchBar";
+import "./app.css";
 
 // 🟢 RĘCZNIE DEFINIOWANE DAILY
 const manualDaily = {
@@ -260,6 +261,32 @@ const manualDaily = {
       artist: "Playboi Carti",
       cover: "/songs/covers/music.jpg",
       snippet: "/songs/pop/the_weeknd_try_me.mp3",
+      categories: ["rap"],
+      dailyCategory: "Rap",
+    },
+  ],
+  "2026-03-03": [
+    {
+      title: "Scream & Shout (feat. Britney Spears)",
+      artist: "will.i.am",
+      cover: "https://is1-ssl.mzstatic.com/image/thumb/Music122/v4/84/6d/92/846d926b-8290-3855-b32b-dd903cc9b1ad/13UMGIM26867.rgb.jpg/600x600bb.jpg",
+      snippet: "/songs/pop/will_i_am_scream_shout_feat_britney_spears.mp3",
+      categories: ["pop"],
+      dailyCategory: "Pop",
+    },
+    {
+      title: "Take On Me",
+      artist: "a-ha",
+      cover: "https://is1-ssl.mzstatic.com/image/thumb/Music124/v4/3e/0a/38/3e0a38d9-b138-429a-61e1-aeac2fad3263/mzi.iefykuuf.jpg/600x600bb.jpg",
+      snippet: "/songs/pop/a_ha_take_on_me.mp3",
+      categories: ["rock"],
+      dailyCategory: "Rock",
+    },
+    {
+      title: "Peso",
+      artist: "A$AP Rocky",
+      cover: "/songs/covers/livelong.jpg",
+      snippet: "/songs/rap/A$APRocky _Peso.mp3",
       categories: ["rap"],
       dailyCategory: "Rap",
     },
@@ -544,11 +571,20 @@ export default function App() {
           <button onClick={() => selectCategory("rock")} style={{ margin: 8 }}>🎸 Rock</button>
           <button onClick={() => selectCategory("rap")} style={{ margin: 8 }}>🧢 Rap</button>
           <div style={{ marginTop: 30 }}>
-            <h3 style={{ color: "#aaa" }}>🇵🇱 Polskie</h3>
-            <button onClick={() => selectCategory("polish_all")} style={{ margin: 8 }}>🇵🇱 🎧 Polskie</button>
-            <button onClick={() => selectCategory("polish_pop")} style={{ margin: 8 }}>🇵🇱 🎤 Polski Pop</button>
-            <button onClick={() => selectCategory("polish_rock")} style={{ margin: 8 }}>🇵🇱 🎸 Polski Rock</button>
-            <button onClick={() => selectCategory("polish_rap")} style={{ margin: 8 }}>🇵🇱 🧢 Polski Rap</button>
+  <h3 style={{ color: "#aaa", display: "flex", alignItems: "center", gap: "8px", justifyContent: "center" }}>
+  <img
+    src="https://flagcdn.com/w40/pl.png"
+    alt="PL"
+    width={22}
+    height={16}
+    style={{ display: "inline-block", verticalAlign: "middle" }}
+  />
+  Polskie
+</h3>
+            <button onClick={() => selectCategory("polish_all")} style={{ margin: 8 }}>🎧 Polskie</button>
+            <button onClick={() => selectCategory("polish_pop")} style={{ margin: 8 }}>🎤 Polski Pop</button>
+            <button onClick={() => selectCategory("polish_rock")} style={{ margin: 8 }}>🎸 Polski Rock</button>
+            <button onClick={() => selectCategory("polish_rap")} style={{ margin: 8 }}>🧢 Polski Rap</button>
           </div>
           <button onClick={startDaily} style={{ background: "#8b5cf6", color: "white", padding: "10px 16px", borderRadius: 10, fontWeight: "bold", border: "none", cursor: "pointer", marginTop: 30 }}>🎯 Daily Challenge</button>
           {noDaily && <p style={{ color: "#ff5555" }}>Brak daily na dziś 😢</p>}
@@ -578,10 +614,22 @@ export default function App() {
 function GameView({ title, onBack, currentSong, snippetIndex, displayedTime, LEVELS, audioRef, isPlaying, playSnippet, stopSnippet, skipToNext, giveUp, wrongAnswers, isCorrect, gameOver, userGuess, setUserGuess, handleGuess, isFullPlaying, playFullSong, stopFullSong, startNewSong, stats }) {
   return (
     <>
-      {/* AUDIO MUSI BYĆ ZAWSZE W DOM */}
       <audio ref={audioRef} src={currentSong.snippet} />
 
-      <button onClick={onBack} style={{ position: "absolute", top: 20, left: 20, background: "#555", border: "none", color: "white", padding: "6px 10px", borderRadius: 8, cursor: "pointer" }}>
+      <button
+        onClick={onBack}
+        style={{
+          position: "absolute",
+          top: 20,
+          left: 20,
+          background: "#555",
+          border: "none",
+          color: "white",
+          padding: "6px 10px",
+          borderRadius: 8,
+          cursor: "pointer"
+        }}
+      >
         ⬅ Wróć
       </button>
 
@@ -589,56 +637,123 @@ function GameView({ title, onBack, currentSong, snippetIndex, displayedTime, LEV
 
       {!isCorrect && !gameOver ? (
         <>
-          <h3>Fragment: <strong>{LEVELS[snippetIndex].label}</strong></h3>
-          <p>⏱ {displayedTime.toFixed(1)}s / {LEVELS[snippetIndex].displayTime}s</p>
+          <h3>
+            Fragment: <strong>{LEVELS[snippetIndex].label}</strong>
+          </h3>
+          <p>
+            ⏱ {displayedTime.toFixed(1)}s / {LEVELS[snippetIndex].displayTime}s
+          </p>
 
-          <div style={{ display: "flex", gap: "10px", justifyContent: "center", marginBottom: 35 }}>
-            <button onClick={isPlaying ? stopSnippet : playSnippet} style={{ background: "#333", color: "white", border: "none", padding: "10px 25px", borderRadius: 10, cursor: "pointer" }}>
+          <div style={{ display: "flex", gap: 10, justifyContent: "center", marginBottom: 35 }}>
+            <button style={btnDark} onClick={isPlaying ? stopSnippet : playSnippet}>
               {isPlaying ? "⏹ Stop" : "▶️ Play"}
             </button>
-            <button onClick={skipToNext} style={{ background: "#333", color: "white", border: "none", padding: "10px 25px", borderRadius: 10, cursor: "pointer" }}>
+            <button style={btnDark} onClick={skipToNext}>
               ⏭ Skip
             </button>
           </div>
 
-          <SearchBar onSelectSong={(t, a) => setUserGuess(`${t} - ${a}`)} />
+          {/* 🔥 JEDYNY WAŻNY WRAPPER */}
+          <div style={{ width: "100%", maxWidth: 420, margin: "0 auto" }}>
+            <SearchBar onSelectSong={(t, a) => setUserGuess(`${t} - ${a}`)} />
 
-          <button onClick={handleGuess} style={{ background: "#4caf50", color: "white", padding: "16px 0", borderRadius: 14, border: "none", fontWeight: "bold", cursor: "pointer", fontSize: "1.2rem", width: "100%", marginTop: 10 }}>
-            Submit
-          </button>
+            <button
+              onClick={handleGuess}
+              style={{
+                width: "100%",
+                marginTop: 12,
+                background: "#4caf50",
+                color: "white",
+                padding: "16px 0",
+                borderRadius: 14,
+                border: "none",
+                fontWeight: "bold",
+                fontSize: "1.2rem",
+                cursor: "pointer"
+              }}
+            >
+              Submit
+            </button>
+          </div>
 
           <div style={{ marginTop: 25 }}>
             {wrongAnswers.map((ans, i) => (
-              <div key={i} style={{ marginTop: 8, borderRadius: 8, padding: "8px 15px", backgroundColor: ans.artistCorrect ? "#ffd54f" : "#ef5350", color: "black", display: "inline-block", minWidth: "250px" }}>
+              <div
+                key={i}
+                style={{
+                  marginTop: 8,
+                  borderRadius: 8,
+                  padding: "8px 15px",
+                  backgroundColor: ans.artistCorrect ? "#ffd54f" : "#ef5350",
+                  color: "black",
+                  display: "inline-block",
+                  minWidth: 250
+                }}
+              >
                 ❌ {ans.title}
               </div>
             ))}
           </div>
 
           {snippetIndex === LEVELS.length - 1 && (
-            <button onClick={giveUp} style={{ background: "#ff5555", color: "white", border: "none", padding: "8px 15px", borderRadius: 8, cursor: "pointer", marginTop: 20 }}>
+            <button
+              onClick={giveUp}
+              style={{
+                background: "#ff5555",
+                color: "white",
+                border: "none",
+                padding: "8px 15px",
+                borderRadius: 8,
+                marginTop: 20
+              }}
+            >
               Give Up
             </button>
           )}
         </>
       ) : (
         <div style={{ marginTop: 16 }}>
-          {isCorrect ? <h2 style={{ color: "#4caf50" }}>✅ Correct!</h2> : <h2 style={{ color: "#ff5555" }}>❌ Game Over</h2>}
+          {isCorrect ? (
+            <h2 style={{ color: "#4caf50" }}>✅ Correct!</h2>
+          ) : (
+            <h2 style={{ color: "#ff5555" }}>❌ Game Over</h2>
+          )}
 
           <p style={{ fontSize: "1.4rem", margin: "10px 0" }}>
             <strong>{currentSong.title}</strong>
           </p>
           <p style={{ fontSize: "1.1rem", color: "#aaa" }}>{currentSong.artist}</p>
 
-          <img src={currentSong.cover} alt="cover" width={220} style={{ borderRadius: 15, marginTop: 15, boxShadow: "0 10px 20px rgba(0,0,0,0.5)" }} />
+          <img
+            src={currentSong.cover}
+            alt="cover"
+            width={220}
+            style={{
+              borderRadius: 15,
+              marginTop: 15,
+              boxShadow: "0 10px 20px rgba(0,0,0,0.5)"
+            }}
+          />
 
           <GuessChart stats={stats} currentLevel={isCorrect ? LEVELS[snippetIndex].label : "fail"} />
 
           <div style={{ marginTop: 25 }}>
-            <button onClick={isFullPlaying ? stopFullSong : playFullSong} style={{ background: "#444", color: "white", padding: "10px 20px", borderRadius: 10, border: "none", cursor: "pointer", marginRight: 10 }}>
+            <button style={{ ...btnDark, marginRight: 10 }} onClick={isFullPlaying ? stopFullSong : playFullSong}>
               {isFullPlaying ? "⏹ Stop Full" : "▶️ Play Full"}
             </button>
-            <button onClick={startNewSong} style={{ background: "#fff", color: "#000", padding: "12px 30px", borderRadius: 10, fontWeight: "bold", border: "none", cursor: "pointer" }}>
+
+            <button
+              onClick={startNewSong}
+              style={{
+                background: "#fff",
+                color: "#000",
+                padding: "12px 30px",
+                borderRadius: 10,
+                fontWeight: "bold",
+                border: "none",
+                cursor: "pointer"
+              }}
+            >
               Next Song →
             </button>
           </div>
@@ -647,3 +762,12 @@ function GameView({ title, onBack, currentSong, snippetIndex, displayedTime, LEV
     </>
   );
 }
+
+const btnDark = {
+  background: "#333",
+  color: "white",
+  border: "none",
+  padding: "10px 25px",
+  borderRadius: 10,
+  cursor: "pointer"
+};

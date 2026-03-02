@@ -330,5 +330,75 @@
     "categories": ["Rap", "Rap 00s"],
     "snippet": "/songs/pop/miley_cyrus_see_you_again.mp3",
     "cover": "https://is1-ssl.mzstatic.com/image/thumb/Music124/v4/ab/ab/f7/ababf7b5-c65b-905a-ae71-c7195f66e25c/21UMGIM04584.rgb.jpg/600x600bb.jpg"
+  },
+  {
+    "title": "Helicopter",
+    "artist": "A$AP Rocky",
+    "categories": ["Rap", "Rap 20s"],
+    "snippet": "/songs/rap/goodie_mob_cell_therapy.mp3",
+    "cover": "/songs/covers/dontdumb.jpg"
+  },
+  {
+    "title": "Sandman",
+    "artist": "A$AP Rocky",
+    "categories": ["Rap", "Rap 10s"],
+    "snippet": "/songs/pop/selena_gomez_good_for_you_feat_a_ap_rocky.mp3",
+    "cover": "/songs/covers/livelong.jpg"
+  },
+  {
+    "title": "Narcotic",
+    "artist": "Liquido",
+    "categories": ["Pop", "Pop 00s"],
+    "snippet": "/songs/pop/bryce_savage_narcotic.mp3",
+    "cover": "https://is1-ssl.mzstatic.com/image/thumb/Music116/v4/9f/b9/7b/9fb97b71-aa99-2d0a-cb53-69443c427bd7/859784003444_cover.jpg/600x600bb.jpg"
+  },
+  {
+    "title": "Ain't It Funny",
+    "artist": "Danny Brown",
+    "categories": ["Rap", "Rap 10s"],
+    "snippet": "/songs/pop/jennifer_lopez_ain_t_it_funny_feat_ja_rule_cadillac_tah_murder_remix.mp3",
+    "cover": "/songs/covers/atrocity.jpg"
+  },
+   {
+    "title": "Peso",
+    "artist": "A$AP Rocky",
+    "categories": ["Rap", "Rap 10s"],
+    "snippet": "/songs/rap/A$APRocky _Peso.mp3",
+    "cover": "/songs/covers/livelong.jpg"
+  },
+   {
+    "title": "Another Love",
+    "artist": "Tom Odell",
+    "categories": ["Pop", "Pop 10s"],
+    "snippet": "/songs/pop/tom_odell_ti_sto_another_love_ti_sto_remix.mp3",
+    "cover": "/songs/covers/longway.jpg"
+  },
+   {
+    "title": "Wonderbread",
+    "artist": "Danny Brown",
+    "categories": ["Rap", "Rap 10s"],
+    "snippet": "/songs/rap/DannyBrown_Wonderbread.mp3",
+    "cover": "/songs/covers/old.jpg"
+  },
+   {
+    "title": "Fur Elise",
+    "artist": "Ludwig van Beethoven",
+    "categories": ["Pop", "Pop 40s", "Rock", "Rock 40s"],
+    "snippet": "/songs/pop/baby_sleep_sounds_beethoven_fur_elise.mp3",
+    "cover": "/songs/covers/elise.jpg"
+  },
+  {
+    "title": "Spring - Four Seasons",
+    "artist": "Antonio Vivaldi",
+    "categories": ["Pop", "Pop 40s", "Rock", "Rock 40s"],
+    "snippet": "/songs/pop/jonathan_carney_royal_philharmonic_orchestra_seasons_spring_i_allegro.mp3",
+    "cover": "/songs/covers/spring.jpg"
+  },
+   {
+    "title": "Money",
+    "artist": "Lisa",
+    "categories": ["Pop", "Pop 20s", "Rap", "Rap 20s"],
+    "snippet": "/songs/pop/money.mp3",
+    "cover": "/songs/covers/lisa.jpg"
   }
 ]
