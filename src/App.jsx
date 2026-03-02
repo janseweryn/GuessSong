@@ -1,7 +1,7 @@
 import React, { useState, useRef, useEffect } from "react";
 import songsData from "./songs.json";
 import SearchBar from "./components/SearchBar";
-import "./app.css";
+import "./App.css";
 
 // 🟢 RĘCZNIE DEFINIOWANE DAILY
 const manualDaily = {
