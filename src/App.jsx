@@ -286,7 +286,7 @@ const manualDaily = {
       title: "Peso",
       artist: "A$AP Rocky",
       cover: "/songs/covers/livelong.jpg",
-      snippet: "/songs/rap/A$APRocky _Peso.mp3",
+      snippet: "/songs/rap/A$APRocky_Peso.mp3",
       categories: ["rap"],
       dailyCategory: "Rap",
     },
@@ -653,7 +653,7 @@ function GameView({ title, onBack, currentSong, snippetIndex, displayedTime, LEV
             </button>
           </div>
 
-          {/* 🔥 JEDYNY WAŻNY WRAPPER */}
+          {/* JEDYNY WAŻNY WRAPPER */}
           <div style={{ width: "100%", maxWidth: 420, margin: "0 auto" }}>
             <SearchBar onSelectSong={(t, a) => setUserGuess(`${t} - ${a}`)} />
 
