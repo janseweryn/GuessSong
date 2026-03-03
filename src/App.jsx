@@ -291,6 +291,32 @@ const manualDaily = {
       dailyCategory: "Rap",
     },
   ],
+  "2026-03-04": [
+    {
+      title: "Pon de Replay",
+      artist: "Rihanna", 
+      cover: "/songs/covers/musicsun.jpg",
+      snippet: "/songs/pop/pon_replay.mp3",
+      categories: ["pop"],
+      dailyCategory: "Pop",
+    },
+    {
+      title: "Sweet Dreams (Are Made of This)",
+      artist: "Eurythmics",
+      cover: "https://is1-ssl.mzstatic.com/image/thumb/Features125/v4/ad/d3/3d/add33dea-0a4d-9509-643b-939ba6735733/dj.vpugapfp.jpg/600x600bb.jpg",
+      snippet: "/songs/pop/eurythmics_sweet_dreams_are_made_of_this.mp3",
+      categories: ["rock"],
+      dailyCategory: "Rock",
+    },
+    {
+      title: "MONACO",
+      artist: "Bad Bunny",
+      cover: "/songs/covers/nadie.jpg",
+      snippet: "/songs/rap/BadBunny _MONACO.mp3",
+      categories: ["rap"],
+      dailyCategory: "Rap",
+    },
+  ],
 };
 
 const LEVELS = [

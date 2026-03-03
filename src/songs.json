@@ -13093,7 +13093,7 @@
   {
     "title": "Sweet Dreams (Are Made of This)",
     "artist": "Eurythmics",
-    "categories": ["Pop", "Pop 80s"],
+    "categories": ["Rock", "Rock 80s"],
     "snippet": "/songs/pop/eurythmics_sweet_dreams_are_made_of_this.mp3",
     "cover": "https://is1-ssl.mzstatic.com/image/thumb/Features125/v4/ad/d3/3d/add33dea-0a4d-9509-643b-939ba6735733/dj.vpugapfp.jpg/600x600bb.jpg"
   },
@@ -13439,6 +13439,13 @@
     "categories": ["Pop", "Pop 10s"],
     "snippet": "/songs/pop/zayn_pillowtalk.mp3",
     "cover": "https://is1-ssl.mzstatic.com/image/thumb/Music125/v4/8b/73/a1/8b73a1fe-27eb-ef0d-535b-950b29769f9d/886445750782.jpg/600x600bb.jpg"
+  },
+  {
+    "title": "MONACO",
+    "artist": "Bad Bunny",
+    "categories": ["Rap", "Rap 10s"],
+    "snippet": "/songs/rap/BadBunny _MONACO.mp3",
+    "cover": "/songs/covers/nadie.jpg"
   }
 ]
 

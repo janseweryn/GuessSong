@@ -400,5 +400,19 @@
     "categories": ["Pop", "Pop 20s", "Rap", "Rap 20s"],
     "snippet": "/songs/pop/money.mp3",
     "cover": "/songs/covers/lisa.jpg"
+  },
+  {
+    "title": "Redbone",
+    "artist": "Childish Gambino",
+    "categories": ["Pop", "Pop 10s"],
+    "snippet": "/songs/pop/smooth_jazz_all_stars_redbone.mp3",
+    "cover": "https://is1-ssl.mzstatic.com/image/thumb/Music118/v4/97/bd/5e/97bd5eed-642a-6b87-fc67-a9458a34fde4/707541084437.jpg/600x600bb.jpg"
+  },
+  {
+    "title": "MONACO",
+    "artist": "Bad Bunny",
+    "categories": ["Rap", "Rap 10s"],
+    "snippet": "/songs/rap/BadBunny _MONACO.mp3",
+    "cover": "/songs/covers/nadie.jpg"
   }
 ]
