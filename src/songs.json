@@ -5058,16 +5058,6 @@
     "cover": "https://is1-ssl.mzstatic.com/image/thumb/Music20/v4/40/1d/0a/401d0a4f-6afe-1548-f4c8-6e8de3ff1e2b/886446009742.jpg/600x600bb.jpg"
   },
   {
-    "title": "Shut Up and Dance",
-    "artist": "WALK THE MOON",
-    "categories": [
-      "Pop",
-      "Pop 10s"
-    ],
-    "snippet": "/songs/pop/walk_the_moon_shut_up_and_dance.mp3",
-    "cover": "https://is1-ssl.mzstatic.com/image/thumb/Music124/v4/bf/b6/76/bfb67621-b78d-3924-6d29-4f367697a674/886445045758.jpg/600x600bb.jpg"
-  },
-  {
     "title": "Dusk Till Dawn (feat. Sia)",
     "artist": "ZAYN",
     "categories": [
@@ -12966,8 +12956,492 @@
     "categories": ["Pop", "Pop 10s"],
     "snippet": "/songs/pop/will_i_am_scream_shout_feat_britney_spears.mp3",
     "cover": "https://is1-ssl.mzstatic.com/image/thumb/Music122/v4/84/6d/92/846d926b-8290-3855-b32b-dd903cc9b1ad/13UMGIM26867.rgb.jpg/600x600bb.jpg"
+  },
+  {
+    "title": "Just a Lil Bit (Mixed)",
+    "artist": "50 Cent",
+    "categories": ["Rap", "Rap 20s"],
+    "snippet": "/songs/rap/50_cent_just_a_lil_bit_mixed.mp3",
+    "cover": "https://is1-ssl.mzstatic.com/image/thumb/Music116/v4/df/10/7c/df107c5d-0a02-8122-f554-7da8b746ef9c/4ad62e53-745e-4db3-94d5-1f7ee80e8bb9.png/600x600bb.jpg"
+  },
+  {
+    "title": "Best Friend",
+    "artist": "Olivia & 50 Cent",
+    "categories": ["Rap", "Rap 00s"],
+    "snippet": "/songs/rap/olivia_50_cent_best_friend_remix.mp3",
+    "cover": "https://is1-ssl.mzstatic.com/image/thumb/Music124/v4/78/69/0f/78690fdf-909b-450e-77af-41084f671bd4/00602498528396.rgb.jpg/600x600bb.jpg"
+  },
+  {
+    "title": "No One",
+    "artist": "Alicia Keys",
+    "categories": ["Pop", "Pop 00s"],
+    "snippet": "/songs/pop/alicia_keys_no_one.mp3",
+    "cover": "https://is1-ssl.mzstatic.com/image/thumb/Music114/v4/c7/88/df/c788dffe-d06f-8923-ad61-a6194daf6616/888880809919.jpg/600x600bb.jpg"
+  },
+  {
+    "title": "Move Along",
+    "artist": "The All-American Rejects",
+    "categories": ["Rock", "Rock 00s"],
+    "snippet": "/songs/rock/the_all_american_rejects_move_along.mp3",
+    "cover": "https://is1-ssl.mzstatic.com/image/thumb/Music211/v4/7f/41/aa/7f41aa35-8904-9946-2e43-48b1893e9495/06UMGIM44690.rgb.jpg/600x600bb.jpg"
+  },
+  {
+    "title": "Dear Maria, Count Me In",
+    "artist": "All Time Low",
+    "categories": ["Rock", "Rock 00s"],
+    "snippet": "/songs/rock/all_time_low_dear_maria_count_me_in.mp3",
+    "cover": "https://is1-ssl.mzstatic.com/image/thumb/Music/7a/ac/cc/mzi.igvemwis.jpg/600x600bb.jpg"
+  },
+  {
+    "title": "This Is the Life",
+    "artist": "Amy Macdonald",
+    "categories": ["Pop", "Pop 00s"],
+    "snippet": "/songs/rock/amy_macdonald_this_is_the_life.mp3",
+    "cover": "https://is1-ssl.mzstatic.com/image/thumb/Music115/v4/bf/0f/96/bf0f9644-5318-2abb-8ba1-1f6760440879/08UMGIM12151.rgb.jpg/600x600bb.jpg"
+  },
+  {
+    "title": "Back To Black",
+    "artist": "Amy Winehouse",
+    "categories": ["Pop", "Pop 00s"],
+    "snippet": "/songs/pop/amy_winehouse_back_to_black_original_demo.mp3",
+    "cover": "https://is1-ssl.mzstatic.com/image/thumb/Music128/v4/cd/6c/11/cd6c11b3-6300-0a29-d211-855847ed2c8c/00602547505040.rgb.jpg/600x600bb.jpg"
+  },
+  {
+    "title": "Be Yourself",
+    "artist": "Audioslave",
+    "categories": ["Rock", "Rock 00s"],
+    "snippet": "/songs/rock/audioslave_be_yourself.mp3",
+    "cover": "https://is1-ssl.mzstatic.com/image/thumb/Music125/v4/97/6c/10/976c100f-a903-6981-066f-7f4919bce1eb/00602498815632.rgb.jpg/600x600bb.jpg"
+  },
+  {
+    "title": "Tití Me Preguntó",
+    "artist": "Bad Bunny",
+    "categories": ["Rap", "Rap 20s"],
+    "snippet": "/songs/rap/bad_bunny_tit_me_pregunto_mixed.mp3",
+    "cover": "https://is1-ssl.mzstatic.com/image/thumb/Music113/v4/b0/b9/7c/b0b97c63-14ff-8946-f34e-4239faecb1e0/820cc83e-1f8f-4738-8ee8-e1ebce5c123b.png/600x600bb.jpg"
+  },
+  {
+    "title": "Right There (feat. Big Sean)",
+    "artist": "Ariana Grande",
+    "categories": ["Pop", "Pop 10s"],
+    "snippet": "/songs/pop/ariana_grande_right_there_feat_big_sean.mp3",
+    "cover": "https://is1-ssl.mzstatic.com/image/thumb/Music124/v4/0a/19/23/0a19235d-8bcc-76d4-58ca-61a65d928587/13UAAIM68293.rgb.jpg/600x600bb.jpg"
+  },
+  {
+    "title": "Black Widow (feat. Rita Ora)",
+    "artist": "Iggy Azalea",
+    "categories": ["Rap", "Rap 10s"],
+    "snippet": "/songs/rap/iggy_azalea_black_widow_feat_rita_ora.mp3",
+    "cover": "https://is1-ssl.mzstatic.com/image/thumb/Music112/v4/32/64/0d/32640dc0-879a-2771-cfe7-91ea4568436a/14UMGIM08058.rgb.jpg/600x600bb.jpg"
+  },
+  {
+    "title": "Redbone",
+    "artist": "Childish Gambino",
+    "categories": ["Pop", "Pop 10s"],
+    "snippet": "/songs/pop/smooth_jazz_all_stars_redbone.mp3",
+    "cover": "https://is1-ssl.mzstatic.com/image/thumb/Music118/v4/97/bd/5e/97bd5eed-642a-6b87-fc67-a9458a34fde4/707541084437.jpg/600x600bb.jpg"
+  },
+  {
+    "title": "K.",
+    "artist": "Cigarettes After Sex",
+    "categories": ["Rock", "Rock 10s"],
+    "snippet": "/songs/rock/cigarettes_after_sex_k.mp3",
+    "cover": "https://is1-ssl.mzstatic.com/image/thumb/Music211/v4/b3/5e/0f/b35e0fbe-2370-fc48-0f0c-977525e93bf2/720841214601_Cover.jpg/600x600bb.jpg"
+  },
+  {
+    "title": "Dakota",
+    "artist": "Stereophonics",
+    "categories": ["Pop", "Pop 00s"],
+    "snippet": "/songs/pop/stereophonics_dakota.mp3",
+    "cover": "https://is1-ssl.mzstatic.com/image/thumb/Music221/v4/3c/a6/c2/3ca6c275-3773-b301-5697-5a283ef697d5/08UMGIM23571.rgb.jpg/600x600bb.jpg"
+  },
+  {
+    "title": "Bad Day",
+    "artist": "Daniel Powter",
+    "categories": ["Rock", "Rock 00s"],
+    "snippet": "/songs/rock/daniel_powter_bad_day.mp3",
+    "cover": "https://is1-ssl.mzstatic.com/image/thumb/Music/90/db/17/mzi.tiuteyft.jpg/600x600bb.jpg"
+  },
+  {
+    "title": "Nevermind",
+    "artist": "Dennis Lloyd",
+    "categories": ["Pop", "Pop 10s"],
+    "snippet": "/songs/pop/dennis_lloyd_nevermind.mp3",
+    "cover": "https://is1-ssl.mzstatic.com/image/thumb/Music115/v4/19/7a/58/197a5870-618b-446f-a193-ca4a84502adc/190295781163.jpg/600x600bb.jpg"
+  },
+  {
+    "title": "Through the Fire and Flames",
+    "artist": "DragonForce",
+    "categories": ["Rock", "Rock 00s"],
+    "snippet": "/songs/rock/dragonforce_through_the_fire_and_flames.mp3",
+    "cover": "https://is1-ssl.mzstatic.com/image/thumb/Music125/v4/82/5d/0e/825d0e0f-ae5c-6f9a-a6ff-3b8a559f0285/mzi.drgtzyuq.jpg/600x600bb.jpg"
+  },
+  {
+    "title": "Fake Love",
+    "artist": "Drake",
+    "categories": ["Rap", "Rap 10s"],
+    "snippet": "/songs/rap/drake_fake_love.mp3",
+    "cover": "https://is1-ssl.mzstatic.com/image/thumb/Music124/v4/18/9d/b8/189db80b-bfa8-89d1-1514-5fcb7e5cf8f4/00602557611526.rgb.jpg/600x600bb.jpg"
+  },
+  {
+    "title": "Sing",
+    "artist": "Ed Sheeran",
+    "categories": ["Pop", "Pop 10s"],
+    "snippet": "/songs/pop/ed_sheeran_sing.mp3",
+    "cover": "https://is1-ssl.mzstatic.com/image/thumb/Music125/v4/2d/36/f9/2d36f9a7-2c3e-ce0f-7fb6-036feecb221f/825646974450.jpg/600x600bb.jpg"
+  },
+  {
+    "title": "Sweet Dreams (Are Made of This)",
+    "artist": "Eurythmics",
+    "categories": ["Pop", "Pop 80s"],
+    "snippet": "/songs/pop/eurythmics_sweet_dreams_are_made_of_this.mp3",
+    "cover": "https://is1-ssl.mzstatic.com/image/thumb/Features125/v4/ad/d3/3d/add33dea-0a4d-9509-643b-939ba6735733/dj.vpugapfp.jpg/600x600bb.jpg"
+  },
+  {
+    "title": "Everytime We Touch",
+    "artist": "Cascada",
+    "categories": ["Pop", "Pop 00s"],
+    "snippet": "/songs/pop/cascada_everytime_we_touch.mp3",
+    "cover": "https://is1-ssl.mzstatic.com/image/thumb/Music/8b/75/11/mzi.jrrxcezm.jpg/600x600bb.jpg"
+  },
+  {
+    "title": "Dance, Dance",
+    "artist": "Fall Out Boy",
+    "categories": ["Rock", "Rock 00s"],
+    "snippet": "/songs/rock/fall_out_boy_dance_dance.mp3",
+    "cover": "https://is1-ssl.mzstatic.com/image/thumb/Music122/v4/b2/27/f4/b227f473-75fd-f557-17ac-90fb92fc2c49/06UMGIM11830.rgb.jpg/600x600bb.jpg"
+  },
+  {
+    "title": "Sugar, We're Goin Down",
+    "artist": "Fall Out Boy",
+    "categories": ["Rock", "Rock 00s"],
+    "snippet": "/songs/rock/fall_out_boy_sugar_we_re_goin_down.mp3",
+    "cover": "https://is1-ssl.mzstatic.com/image/thumb/Music122/v4/b2/27/f4/b227f473-75fd-f557-17ac-90fb92fc2c49/06UMGIM11830.rgb.jpg/600x600bb.jpg"
+  },
+  {
+    "title": "Thnks fr th Mmrs",
+    "artist": "Fall Out Boy",
+    "categories": ["Rock", "Rock 00s"],
+    "snippet": "/songs/rock/fall_out_boy_thnks_fr_th_mmrs.mp3",
+    "cover": "https://is1-ssl.mzstatic.com/image/thumb/Music112/v4/46/de/c9/46dec97f-3420-529c-762c-f83b85f7fb63/07UMGIM15942.rgb.jpg/600x600bb.jpg"
+  },
+  {
+    "title": "No Money",
+    "artist": "Galantis",
+    "categories": ["Pop", "Pop 10s"],
+    "snippet": "/songs/pop/galantis_no_money.mp3",
+    "cover": "https://is1-ssl.mzstatic.com/image/thumb/Music125/v4/b5/f7/72/b5f772a2-f75b-3aa1-5590-f50713e31ab2/075679894755.jpg/600x600bb.jpg"
+  },
+  {
+    "title": "Shut up My Moms Calling",
+    "artist": "Hotel Ugly",
+    "categories": ["Pop", "Pop 20s"],
+    "snippet": "/songs/pop/hotel_ugly_shut_up_my_moms_calling.mp3",
+    "cover": "https://is1-ssl.mzstatic.com/image/thumb/Music116/v4/63/11/1b/63111b50-00ce-2734-e09f-94fb791c9dee/0d6bb465-1f3e-457c-99e5-a786f63c3fbb.jpg/600x600bb.jpg"
+  },
+  {
+    "title": "Work Song",
+    "artist": "Hozier",
+    "categories": ["Rock", "Rock 10s"],
+    "snippet": "/songs/rock/hozier_work_song.mp3",
+    "cover": "https://is1-ssl.mzstatic.com/image/thumb/Music115/v4/5e/1b/f1/5e1bf1de-e5f1-e73e-0752-e7882b4f2d57/886444718820.jpg/600x600bb.jpg"
+  },
+  {
+    "title": "Hold Back the River",
+    "artist": "James Bay",
+    "categories": ["Rock", "Rock 10s"],
+    "snippet": "/songs/rock/james_bay_hold_back_the_river.mp3",
+    "cover": "https://is1-ssl.mzstatic.com/image/thumb/Music115/v4/fb/64/0a/fb640a31-440e-6855-7bf9-8368648bb74d/14UMGIM60062.rgb.jpg/600x600bb.jpg"
+  },
+  {
+    "title": "Ruby",
+    "artist": "Kaiser Chiefs",
+    "categories": ["Rock", "Rock 00s"],
+    "snippet": "/songs/rock/kaiser_chiefs_ruby.mp3",
+    "cover": "https://is1-ssl.mzstatic.com/image/thumb/Music128/v4/c5/e6/83/c5e6833f-f0c8-a2e1-13b2-ba7e9a170eb5/00602547151865.rgb.jpg/600x600bb.jpg"
+  },
+  {
+    "title": "Touch the Sky (feat. Lupe Fiasco)",
+    "artist": "Kanye West",
+    "categories": ["Rap", "Rap 00s"],
+    "snippet": "/songs/rap/kanye_west_touch_the_sky_feat_lupe_fiasco.mp3",
+    "cover": "https://is1-ssl.mzstatic.com/image/thumb/Music125/v4/0e/90/3c/0e903c43-9d81-f91b-90f1-727a58f7fb2c/00602498824030.rgb.jpg/600x600bb.jpg"
+  },
+  {
+    "title": "Somewhere Only We Know",
+    "artist": "Keane",
+    "categories": ["Pop", "Pop 00s"],
+    "snippet": "/songs/pop/keane_somewhere_only_we_know.mp3",
+    "cover": "https://is1-ssl.mzstatic.com/image/thumb/Music221/v4/89/a6/f7/89a6f7be-a0e0-2524-a13b-6b5df7b7534a/06UMGIM24399.rgb.jpg/600x600bb.jpg"
+  },
+  {
+    "title": "No Flockin",
+    "artist": "Kodak Black",
+    "categories": ["Rap", "Rap 10s"],
+    "snippet": "/songs/rap/kodak_black_no_flockin.mp3",
+    "cover": "https://is1-ssl.mzstatic.com/image/thumb/Music124/v4/9b/e7/7f/9be77f56-cb0c-e47c-5bda-15ff50b70cc4/mzm.mvaruvbi.jpg/600x600bb.jpg"
+  },
+  {
+    "title": "Let It Go",
+    "artist": "James Bay",
+    "categories": ["Rock", "Rock 10s"],
+    "snippet": "/songs/rock/james_bay_let_it_go_original_session.mp3",
+    "cover": "https://is1-ssl.mzstatic.com/image/thumb/Music211/v4/be/2b/84/be2b84a4-f31e-6785-0436-58883d9683f4/25UMGIM59987.rgb.jpg/600x600bb.jpg"
+  },
+  {
+    "title": "Leave Out All the Rest",
+    "artist": "LINKIN PARK",
+    "categories": ["Rock", "Rock 00s"],
+    "snippet": "/songs/rock/linkin_park_leave_out_all_the_rest.mp3",
+    "cover": "https://is1-ssl.mzstatic.com/image/thumb/Music125/v4/73/03/56/730356d5-a510-3d3f-d3c6-171f64700d35/093624948971.jpg/600x600bb.jpg"
+  },
+  {
+    "title": "Shake It",
+    "artist": "Metro Station",
+    "categories": ["Rock", "Rock 00s"],
+    "snippet": "/songs/rock/metro_station_shake_it.mp3",
+    "cover": "https://is1-ssl.mzstatic.com/image/thumb/Music125/v4/a4/09/3b/a4093b5b-2f40-f849-9568-88eea302965c/mzi.rjjpgwul.jpg/600x600bb.jpg"
+  },
+  {
+    "title": "Paper Planes",
+    "artist": "M.I.A.",
+    "categories": ["Pop", "Pop 00s"],
+    "snippet": "/songs/pop/m_i_a_paper_planes.mp3",
+    "cover": "https://is1-ssl.mzstatic.com/image/thumb/Music126/v4/48/e8/17/48e81730-12af-700b-6ee5-f7a7d2fe959b/634904228163.png/600x600bb.jpg"
+  },
+  {
+    "title": "Grace Kelly",
+    "artist": "MIKA",
+    "categories": ["Pop", "Pop 00s"],
+    "snippet": "/songs/pop/mika_grace_kelly.mp3",
+    "cover": "https://is1-ssl.mzstatic.com/image/thumb/Music116/v4/36/97/76/36977630-7bed-b717-ce9b-1dbff75fdeb7/07UMGIM00928.rgb.jpg/600x600bb.jpg"
+  },
+  {
+    "title": "Unwritten",
+    "artist": "Natasha Bedingfield",
+    "categories": ["Pop", "Pop 00s"],
+    "snippet": "/songs/pop/natasha_bedingfield_unwritten.mp3",
+    "cover": "https://is1-ssl.mzstatic.com/image/thumb/Music211/v4/1b/dd/1c/1bdd1cf6-c75e-e174-1fda-65d320a4e178/ticket.ejbavdpq.jpg/600x600bb.jpg"
+  },
+  {
+    "title": "Only (feat. Drake, Lil Wayne & Chris Brown)",
+    "artist": "Nicki Minaj",
+    "categories": ["Rap", "Rap 10s"],
+    "snippet": "/songs/rap/nicki_minaj_only_feat_drake_lil_wayne_chris_brown.mp3",
+    "cover": "https://is1-ssl.mzstatic.com/image/thumb/Music116/v4/96/ae/f6/96aef61f-306a-c9f9-e899-98a8b60550b6/14UMGIM59294.rgb.jpg/600x600bb.jpg"
+  },
+  {
+    "title": "House of Memories",
+    "artist": "Panic! At the Disco",
+    "categories": ["Rock", "Rock 10s"],
+    "snippet": "/songs/rock/panic_at_the_disco_house_of_memories.mp3",
+    "cover": "https://is1-ssl.mzstatic.com/image/thumb/Music115/v4/63/c6/66/63c6665b-a553-98f7-f380-4e772a405442/075679917317.jpg/600x600bb.jpg"
+  },
+  {
+    "title": "I Write Sins Not Tragedies",
+    "artist": "Panic! At the Disco",
+    "categories": ["Rock", "Rock 00s"],
+    "snippet": "/songs/rock/panic_at_the_disco_i_write_sins_not_tragedies.mp3",
+    "cover": "https://is1-ssl.mzstatic.com/image/thumb/Music211/v4/cb/a8/ee/cba8ee59-48f6-13f5-6c26-fbb1790a1d04/5059460399082.jpg/600x600bb.jpg"
+  },
+  {
+    "title": "Crushcrushcrush",
+    "artist": "Paramore",
+    "categories": ["Rock", "Rock 00s"],
+    "snippet": "/songs/rock/paramore_crushcrushcrush.mp3",
+    "cover": "https://is1-ssl.mzstatic.com/image/thumb/Music125/v4/9a/3a/26/9a3a2608-29a7-5585-f990-cdfeb10b7394/075679955005.jpg/600x600bb.jpg"
+  },
+  {
+    "title": "Misery Business",
+    "artist": "Paramore",
+    "categories": ["Rock", "Rock 00s"],
+    "snippet": "/songs/rock/paramore_misery_business.mp3",
+    "cover": "https://is1-ssl.mzstatic.com/image/thumb/Music125/v4/9a/3a/26/9a3a2608-29a7-5585-f990-cdfeb10b7394/075679955005.jpg/600x600bb.jpg"
+  },
+  {
+    "title": "Hey There Delilah",
+    "artist": "Plain White T's",
+    "categories": ["Pop", "Pop 00s"],
+    "snippet": "/songs/pop/plain_white_t_s_hey_there_delilah.mp3",
+    "cover": "https://is1-ssl.mzstatic.com/image/thumb/Music125/v4/a8/a4/23/a8a423e8-643b-79d0-81e4-00b3ca683b8c/00050087104436.rgb.jpg/600x600bb.jpg"
+  },
+  {
+    "title": "Come Get Her",
+    "artist": "Rae Sremmurd",
+    "categories": ["Rap", "Rap 10s"],
+    "snippet": "/songs/rap/rae_sremmurd_come_get_her.mp3",
+    "cover": "https://is1-ssl.mzstatic.com/image/thumb/Music112/v4/1e/dc/fd/1edcfd04-d486-b8e5-15fe-83ddbad59759/14UMGIM58447.rgb.jpg/600x600bb.jpg"
+  },
+  {
+    "title": "Shut Up and Drive",
+    "artist": "Rihanna",
+    "categories": ["Pop", "Pop 00s"],
+    "snippet": "/songs/pop/rihanna_shut_up_and_drive.mp3",
+    "cover": "https://is1-ssl.mzstatic.com/image/thumb/Music126/v4/2b/c0/81/2bc081c8-25f0-ba43-d451-587a54613778/16UMGIM59202.rgb.jpg/600x600bb.jpg"
+  },
+  {
+    "title": "Me and My Broken Heart",
+    "artist": "Rixton",
+    "categories": ["Pop", "Pop 10s"],
+    "snippet": "/songs/pop/rixton_me_and_my_broken_heart.mp3",
+    "cover": "https://is1-ssl.mzstatic.com/image/thumb/Music124/v4/3d/5e/f5/3d5ef5fc-442f-8023-1861-15a0b9906718/00602537979899.rgb.jpg/600x600bb.jpg"
+  },
+  {
+    "title": "Beautiful Girls",
+    "artist": "Sean Kingston",
+    "categories": ["Pop", "Pop 00s"],
+    "snippet": "/songs/pop/sean_kingston_beautiful_girls.mp3",
+    "cover": "https://is1-ssl.mzstatic.com/image/thumb/Music112/v4/78/1e/cd/781ecd93-78a8-a27b-b4fb-db85314cca92/888880493637.jpg/600x600bb.jpg"
+  },
+  {
+    "title": "Temperature",
+    "artist": "Sean Paul",
+    "categories": ["Pop", "Pop 00s"],
+    "snippet": "/songs/pop/sean_paul_temperature.mp3",
+    "cover": "https://is1-ssl.mzstatic.com/image/thumb/Features125/v4/6b/a9/89/6ba9895c-5aff-8be1-4ff9-9f88369077b1/dj.decwpjor.jpg/600x600bb.jpg"
+  },
+  {
+    "title": "No Lie (feat. Dua Lipa)",
+    "artist": "Sean Paul",
+    "categories": ["Pop", "Pop 10s"],
+    "snippet": "/songs/pop/sean_paul_no_lie_feat_dua_lipa.mp3",
+    "cover": "https://is1-ssl.mzstatic.com/image/thumb/Music122/v4/30/b8/24/30b824c1-9937-d38a-96e5-f4a660b2d689/18UMGIM35012.rgb.jpg/600x600bb.jpg"
+  },
+  {
+    "title": "Fake It",
+    "artist": "Seether",
+    "categories": ["Rock", "Rock 00s"],
+    "snippet": "/songs/rock/seether_fake_it.mp3",
+    "cover": "https://is1-ssl.mzstatic.com/image/thumb/Music124/v4/68/0b/ec/680becc7-21ca-ba51-6595-cc1d2106d883/14CMGIM00902.rgb.jpg/600x600bb.jpg"
+  },
+  {
+    "title": "Remedy",
+    "artist": "Seether",
+    "categories": ["Rock", "Rock 00s"],
+    "snippet": "/songs/rock/seether_remedy.mp3",
+    "cover": "https://is1-ssl.mzstatic.com/image/thumb/Music211/v4/f4/8b/66/f48b66e4-81c7-3aef-705e-c78346f16004/14CMGIM00787.rgb.jpg/600x600bb.jpg"
+  },
+  {
+    "title": "back to friends",
+    "artist": "sombr",
+    "categories": ["Pop", "Pop 20s"],
+    "snippet": "/songs/rock/sombr_back_to_friends.mp3",
+    "cover": "https://is1-ssl.mzstatic.com/image/thumb/Music221/v4/5d/d5/ad/5dd5ad1b-fabf-9218-77f0-3adbfd5328ac/054391237118.jpg/600x600bb.jpg"
+  },
+  {
+    "title": "Bartender (feat. Akon)",
+    "artist": "T-Pain",
+    "categories": ["Rap", "Rap 00s"],
+    "snippet": "/songs/rap/t_pain_bartender_feat_akon.mp3",
+    "cover": "https://is1-ssl.mzstatic.com/image/thumb/Music125/v4/00/f0/e1/00f0e199-13d5-33c4-bc76-edf88b3876b5/886449120666.jpg/600x600bb.jpg"
+  },
+  {
+    "title": "Buy U a Drank (Shawty Snappin') [feat. Yung Joc]",
+    "artist": "T-Pain",
+    "categories": ["Rap", "Rap 00s"],
+    "snippet": "/songs/rap/t_pain_buy_u_a_drank_shawty_snappin_feat_yung_joc.mp3",
+    "cover": "https://is1-ssl.mzstatic.com/image/thumb/Music125/v4/00/f0/e1/00f0e199-13d5-33c4-bc76-edf88b3876b5/886449120666.jpg/600x600bb.jpg"
+  },
+  {
+    "title": "Somebody else.",
+    "artist": "Bad Omens",
+    "categories": ["Rock", "Rock 20s"],
+    "snippet": "/songs/rock/bad_omens_somebody_else.mp3",
+    "cover": "https://is1-ssl.mzstatic.com/image/thumb/Music221/v4/f0/ce/0d/f0ce0d9c-934d-770d-e62f-74564fc410e1/00810016765424_Cover.jpg/600x600bb.jpg"
+  },
+  {
+    "title": "How to Save a Life",
+    "artist": "The Fray",
+    "categories": ["Pop", "Pop 00s"],
+    "snippet": "/songs/pop/the_fray_how_to_save_a_life.mp3",
+    "cover": "https://is1-ssl.mzstatic.com/image/thumb/Music/v4/cf/89/16/cf891622-f572-1b42-6bb9-0e973e063e35/TheFray_HowToSaveALife_G010000754032B_F_001_RGB.jpeg/600x600bb.jpg"
+  },
+  {
+    "title": "Ophelia",
+    "artist": "The Lumineers",
+    "categories": ["Rock", "Rock 10s"],
+    "snippet": "/songs/rock/the_lumineers_ophelia.mp3",
+    "cover": "https://is1-ssl.mzstatic.com/image/thumb/Music221/v4/0c/46/21/0c462181-5777-67a5-ec92-1775e9a3d5d4/22999.jpg/600x600bb.jpg"
+  },
+  {
+    "title": "I Love You So",
+    "artist": "The Walters",
+    "categories": ["Rock", "Rock 10s"],
+    "snippet": "/songs/rock/the_walters_i_love_you_so.mp3",
+    "cover": "https://is1-ssl.mzstatic.com/image/thumb/Music126/v4/95/a5/14/95a514ab-1f06-81dd-8a60-f7ca13a172ce/054391911063.jpg/600x600bb.jpg"
+  },
+  {
+    "title": "Apologize (feat. OneRepublic)",
+    "artist": "Timbaland",
+    "categories": ["Rap", "Rap 00s"],
+    "snippet": "/songs/rap/timbaland_apologize_feat_onerepublic.mp3",
+    "cover": "https://is1-ssl.mzstatic.com/image/thumb/Music221/v4/a4/95/c0/a495c0cf-6e6a-7af5-308d-1cf8c9931fd6/07UMGIM03315.rgb.jpg/600x600bb.jpg"
+  },
+  {
+    "title": "2 On (feat. Schoolboy Q)",
+    "artist": "Tinashe",
+    "categories": ["Pop", "Pop 20s"],
+    "snippet": "/songs/pop/tinashe_2_on_feat_schoolboy_q_mixed.mp3",
+    "cover": "https://is1-ssl.mzstatic.com/image/thumb/Music211/v4/01/cf/52/01cf5215-330a-2f28-96b1-db3c2ba8d830/fef01b1b-b9d8-4149-b9d8-cdde1c5d92c9.png/600x600bb.jpg"
+  },
+  {
+    "title": "Talking Body",
+    "artist": "Tove Lo",
+    "categories": ["Rock", "Rock 10s"],
+    "snippet": "/songs/rock/tove_lo_talking_body.mp3",
+    "cover": "https://is1-ssl.mzstatic.com/image/thumb/Music115/v4/b9/2d/20/b92d205d-f9fc-13cc-c714-14aed93081b4/15UMGIM46170.rgb.jpg/600x600bb.jpg"
+  },
+  {
+    "title": "pick up the phone",
+    "artist": "Young Thug & Travis Scott",
+    "categories": ["Rap", "Rap 10s"],
+    "snippet": "/songs/rap/young_thug_travis_scott_pick_up_the_phone.mp3",
+    "cover": "https://is1-ssl.mzstatic.com/image/thumb/Music114/v4/b8/e5/27/b8e527c8-aaf4-c7b7-5562-c479458ed7d9/886446092645.jpg/600x600bb.jpg"
+  },
+  {
+    "title": "Not Allowed",
+    "artist": "Tv Girl",
+    "categories": ["Pop", "Pop 10s"],
+    "snippet": "/songs/rap/kapa_boy_not_allowed.mp3",
+    "cover": "/songs/covers/reallycares.jpg"
+  },
+  {
+    "title": "Or Nah (feat. The Weeknd, Wiz Khalifa and DJ Mustard)",
+    "artist": "Ty Dolla $ign",
+    "categories": ["Rap", "Rap 10s"],
+    "snippet": "/songs/rap/ty_dolla_ign_or_nah_feat_the_weeknd_wiz_khalifa_and_dj_mustard_remix.mp3",
+    "cover": "https://is1-ssl.mzstatic.com/image/thumb/Music2/v4/f1/75/73/f1757375-9670-33fc-4426-caf72dcee36b/075679940858.jpg/600x600bb.jpg"
+  },
+  {
+    "title": "Valerie (feat. Amy Winehouse)",
+    "artist": "Mark Ronson featuring Amy Winehouse",
+    "categories": ["Pop", "Pop 00s"],
+    "snippet": "/songs/pop/mark_ronson_featuring_amy_winehouse_valerie_feat_amy_winehouse.mp3",
+    "cover": "https://is1-ssl.mzstatic.com/image/thumb/Music124/v4/9b/c3/36/9bc3369b-250a-5efb-af02-eb29b5a17d0c/mzi.hcitlgrl.jpg/600x600bb.jpg"
+  },
+  {
+    "title": "Mess Is Mine",
+    "artist": "Vance Joy",
+    "categories": ["Rock", "Rock 10s"],
+    "snippet": "/songs/rock/vance_joy_mess_is_mine.mp3",
+    "cover": "https://is1-ssl.mzstatic.com/image/thumb/Music115/v4/7a/1c/65/7a1c6571-34e9-bb77-32be-90c72ba003c0/075679920355.jpg/600x600bb.jpg"
+  },
+  {
+    "title": "Beverly Hills",
+    "artist": "Weezer",
+    "categories": ["Rock", "Rock 00s"],
+    "snippet": "/songs/rock/weezer_beverly_hills.mp3",
+    "cover": "https://is1-ssl.mzstatic.com/image/thumb/Music114/v4/47/40/48/474048e5-27ed-319e-1b60-73dae6a716d8/06UMGIM12419.rgb.jpg/600x600bb.jpg"
+  },
+  {
+    "title": "PILLOWTALK",
+    "artist": "ZAYN",
+    "categories": ["Pop", "Pop 10s"],
+    "snippet": "/songs/pop/zayn_pillowtalk.mp3",
+    "cover": "https://is1-ssl.mzstatic.com/image/thumb/Music125/v4/8b/73/a1/8b73a1fe-27eb-ef0d-535b-950b29769f9d/886445750782.jpg/600x600bb.jpg"
   }
 ]
+
 
 
 
