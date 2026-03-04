@@ -317,6 +317,32 @@ const manualDaily = {
       dailyCategory: "Rap",
     },
   ],
+   "2026-03-05": [
+    {
+      title: "Can't Get You Out of My Head",
+      artist: "Kylie Minogue",
+      cover: "https://is1-ssl.mzstatic.com/image/thumb/Features115/v4/2d/27/f4/2d27f445-abf6-f360-f56a-683b65c9b842/dj.hhpuvuwv.jpg/600x600bb.jpg",
+      snippet: "/songs/pop/kylie_minogue_can_t_get_you_out_of_my_head.mp3",
+      categories: ["pop"],
+      dailyCategory: "Pop",
+    },
+    {
+      title: "Let It Happen",
+      artist: "Tame Impala", 
+      cover: "/songs/covers/currents.jpg",
+      snippet: "/songs/pop/let_happen.mp3",
+      categories: ["rock"],
+      dailyCategory: "Rock",
+    },
+    {
+      title: "STAY",
+      artist: "The Kid LAROI & Justin Bieber",
+      cover: "https://is1-ssl.mzstatic.com/image/thumb/Music125/v4/89/59/6a/89596ab9-fa3c-8d08-4d95-a6450fa2013c/886449400515.jpg/600x600bb.jpg",
+      snippet: "/songs/pop/the_kid_laroi_justin_bieber_stay.mp3",
+      categories: ["rap"],
+      dailyCategory: "Rap",
+    },
+  ],
 };
 
 const LEVELS = [
