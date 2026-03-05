@@ -343,6 +343,32 @@ const manualDaily = {
       dailyCategory: "Rap",
     },
   ],
+  "2026-03-06": [
+    {
+      title: "Watermelon Sugar",
+      artist: "Harry Styles",
+      cover: "https://is1-ssl.mzstatic.com/image/thumb/Music115/v4/2b/c4/c9/2bc4c9d4-3bc6-ab13-3f71-df0b89b173de/886448022213.jpg/600x600bb.jpg",
+      snippet: "/songs/pop/harry_styles_watermelon_sugar.mp3",
+      categories: ["pop"],
+      dailyCategory: "Pop",
+    },
+    {
+      title: "War Pigs",
+      artist: "Black Sabbath",
+      cover: "https://is1-ssl.mzstatic.com/image/thumb/Music124/v4/27/d2/22/27d222de-b53e-eafe-c1ed-1d36c5c9ac3f/603497870318.jpg/600x600bb.jpg",
+      snippet: "/songs/rock/black_sabbath_war_pigs.mp3",
+      categories: ["rock"],
+      dailyCategory: "Rock",
+    },
+    {
+      title: "Touch the Sky (feat. Lupe Fiasco)",
+      artist: "Kanye West",
+      cover: "https://is1-ssl.mzstatic.com/image/thumb/Music125/v4/0e/90/3c/0e903c43-9d81-f91b-90f1-727a58f7fb2c/00602498824030.rgb.jpg/600x600bb.jpg",
+      snippet: "/songs/rap/kanye_west_touch_the_sky_feat_lupe_fiasco.mp3",
+      categories: ["rap"],
+      dailyCategory: "Rap",
+    },
+  ],
 };
 
 const LEVELS = [
@@ -444,6 +470,9 @@ export default function App() {
   const [dailyComplete, setDailyComplete] = useState(false);
   const [noDaily, setNoDaily] = useState(false);
   const [stats, setStats] = useState(null);
+  const [volume, setVolume] = useState(1);
+  const [lastSnippetIndex, setLastSnippetIndex] = useState(-1); // ostatni próg
+const [hasPlayedCurrentLevel, setHasPlayedCurrentLevel] = useState(false); // czy odtworzono już ten poziom
 
   const audioRef = useRef(null);
   const intervalRef = useRef(null);
@@ -529,22 +558,48 @@ export default function App() {
   };
 
   const playSnippet = () => {
-    if (!currentSong) return;
-    const level = LEVELS[snippetIndex];
-    const audio = audioRef.current;
-    audio.currentTime = 0;
-    audio.play();
-    setIsPlaying(true);
-    setCurrentTime(0);
-    intervalRef.current = setInterval(() => setCurrentTime(t => t + 0.1), 100);
-    timeoutRef.current = setTimeout(() => stopSnippet(), level.time * 1000);
-  };
+  if (!currentSong) return;
+  const level = LEVELS[snippetIndex];
+  const audio = audioRef.current;
 
-  const stopSnippet = () => {
-    if (audioRef.current) audioRef.current.pause();
-    setIsPlaying(false);
-    clearTimers();
-  };
+  let startTime = 0;
+
+  if (snippetIndex !== lastSnippetIndex) {
+    // nowy próg → start od końca poprzedniego progu
+    const prevLevelTime = lastSnippetIndex >= 0 ? LEVELS[lastSnippetIndex].time : 0;
+    startTime = prevLevelTime; 
+    setHasPlayedCurrentLevel(true); // pierwsze odtworzenie tego progu
+  } else {
+    // ten sam próg → od początku
+    startTime = 0;
+    setHasPlayedCurrentLevel(false); 
+  }
+
+  audio.currentTime = startTime;
+  audio.play();
+  setIsPlaying(true);
+  setCurrentTime(startTime);
+
+  // timeout do końca bieżącego poziomu
+  const remainingTime = level.time - startTime;
+  timeoutRef.current = setTimeout(() => stopSnippet(), remainingTime * 1000);
+  intervalRef.current = setInterval(() => setCurrentTime(t => t + 0.1), 100);
+
+  setLastSnippetIndex(snippetIndex); // pamiętaj aktualny próg
+};
+
+ const stopSnippet = () => {
+  if (!audioRef.current) return;
+  audioRef.current.pause();
+  setIsPlaying(false);
+  clearTimers();
+
+  // poprawka wizualna: jeśli skończyliśmy próg, ustaw currentTime = czas poziomu
+  if (snippetIndex >= 0 && snippetIndex < LEVELS.length) {
+    const level = LEVELS[snippetIndex];
+    setCurrentTime(level.time);
+  }
+};
 
   const handleGuess = () => {
     const parts = userGuess.split(" - ");
@@ -564,14 +619,16 @@ export default function App() {
   };
 
   const skipToNext = () => {
-    stopSnippet();
-    if (snippetIndex < LEVELS.length - 1) {
-      setSnippetIndex(i => i + 1);
-    } else {
-      setGameOver(true);
-      finishGame(currentSong, "fail");
-    }
-  };
+  stopSnippet();
+  if (snippetIndex < LEVELS.length - 1) {
+    setSnippetIndex(i => i + 1);
+    // przy przejściu do następnego poziomu zawsze uznajemy, że jeszcze nie graliśmy tego progu
+    setHasPlayedCurrentLevel(false);
+  } else {
+    setGameOver(true);
+    finishGame(currentSong, "fail");
+  }
+};
 
   const giveUp = () => {
     stopSnippet();
@@ -651,11 +708,13 @@ export default function App() {
               <button onClick={() => setMode("menu")} style={{ background: "#555", color: "white", padding: "10px 16px", borderRadius: 10, border: "none", cursor: "pointer" }}>⬅ Wróć</button>
             </div>
           ) : (
-            <GameView 
-              title={mode === "daily" ? `🎯 Daily ${dailyIndex + 1}/${dailySongs.length} — ${currentSong.dailyCategory}` : `🎵 ${CATEGORY_NAMES[category]} Mode`}
-              onBack={() => { setMode("menu"); clearTimers(); }}
-              {...{ currentSong, snippetIndex, displayedTime, LEVELS, audioRef, isPlaying, playSnippet, stopSnippet, skipToNext, giveUp, wrongAnswers, isCorrect, gameOver, userGuess, setUserGuess, handleGuess, isFullPlaying, playFullSong, stopFullSong, startNewSong: mode === "daily" ? nextDailySong : () => startNewSong(), stats }}
-            />
+           <GameView 
+            title={mode === "daily" ? `🎯 Daily ${dailyIndex + 1}/${dailySongs.length} — ${currentSong.dailyCategory}` : `🎵 ${CATEGORY_NAMES[category]} Mode`}
+            onBack={() => { setMode("menu"); clearTimers(); }}
+            {...{ currentSong, snippetIndex, displayedTime, LEVELS, audioRef, isPlaying, playSnippet, stopSnippet, skipToNext, giveUp, wrongAnswers, isCorrect, gameOver, userGuess, setUserGuess, handleGuess, isFullPlaying, playFullSong, stopFullSong, startNewSong: mode === "daily" ? nextDailySong : () => startNewSong(), stats }}
+            volume={volume}
+            setVolume={setVolume}
+/>
           )}
         </>
       )}
@@ -663,7 +722,7 @@ export default function App() {
   );
 }
 
-function GameView({ title, onBack, currentSong, snippetIndex, displayedTime, LEVELS, audioRef, isPlaying, playSnippet, stopSnippet, skipToNext, giveUp, wrongAnswers, isCorrect, gameOver, userGuess, setUserGuess, handleGuess, isFullPlaying, playFullSong, stopFullSong, startNewSong, stats }) {
+function GameView({ title, onBack, currentSong, snippetIndex, displayedTime, LEVELS, audioRef, isPlaying, playSnippet, stopSnippet, skipToNext, giveUp, wrongAnswers, isCorrect, gameOver, userGuess, setUserGuess, handleGuess, isFullPlaying, playFullSong, stopFullSong, startNewSong, stats, volume, setVolume}) {
   return (
     <>
       <audio ref={audioRef} src={currentSong.snippet} />
@@ -704,6 +763,37 @@ function GameView({ title, onBack, currentSong, snippetIndex, displayedTime, LEV
               ⏭ Skip
             </button>
           </div>
+<div style={{ display: "flex", alignItems: "center", justifyContent: "center", gap: 12, marginBottom: 20 }}>
+  <span style={{ color: "#aaa", fontWeight: "bold" }}>🔊 Volume</span>
+  <input
+    type="range"
+    min="0"
+    max="1"
+    step="0.01"
+    value={volume}
+    onChange={(e) => {
+      const v = parseFloat(e.target.value);
+      setVolume(v);
+      if (audioRef.current) audioRef.current.volume = v;
+    }}
+    style={{
+      width: 200,
+      height: 8,
+      borderRadius: 8,
+      background: '#2b2b2b',
+      accentColor: '#4caf50',
+      cursor: 'pointer'
+    }}
+  />
+  <span style={{
+    color: "#4caf50",
+    width: 35,           // STAŁA szerokość
+    textAlign: "right",  // wyrównanie do prawej
+    fontWeight: "bold"
+  }}>
+    {Math.round(volume * 100)}%
+  </span>
+</div>
 
           {/* JEDYNY WAŻNY WRAPPER */}
           <div style={{ width: "100%", maxWidth: 420, margin: "0 auto" }}>

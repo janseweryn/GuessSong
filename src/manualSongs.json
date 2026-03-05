@@ -414,5 +414,124 @@
     "categories": ["Rap", "Rap 10s"],
     "snippet": "/songs/rap/BadBunny _MONACO.mp3",
     "cover": "/songs/covers/nadie.jpg"
+  },
+  {
+    "title": "Not Allowed",
+    "artist": "Tv Girl",
+    "categories": ["Pop", "Pop 10s"],
+    "snippet": "/songs/rap/kapa_boy_not_allowed.mp3",
+    "cover": "/songs/covers/reallycares.jpg"
+  },
+  {
+    "title": "Patointeligencja",
+    "artist": "Mata",
+    "categories": ["Polskie Rap", "Polskie Rap 10s"],
+    "snippet": "/songs/Polskie/Mata_Patointeligencja.mp3",
+    "cover": "/songs/covers/100dni.jpg"
+  },
+   {
+    "title": "Schodki",
+    "artist": "Mata",
+    "categories": ["Polskie Rap", "Polskie Rap 10s"],
+    "snippet": "/songs/Polskie/Mata_Schodki.mp3",
+    "cover": "/songs/covers/100dni.jpg"
+  },
+  {
+    "title": "Prawy do Lewego",
+    "artist": "Mata",
+    "categories": ["Polskie Rap", "Polskie Rap 10s"],
+    "snippet": "/songs/Polskie/Mata_PrawydoLewego.mp3",
+    "cover": "/songs/covers/100dni.jpg"
+  },
+  {
+    "title": "100 dni do Matury",
+    "artist": "Mata",
+    "categories": ["Polskie Rap", "Polskie Rap 10s"],
+    "snippet": "/songs/Polskie/Mata_100dnidomatury.mp3",
+    "cover": "/songs/covers/100dni.jpg"
+  },
+  {
+    "title": "Kiss Cam",
+    "artist": "Mata",
+    "categories": ["Polskie Rap", "Polskie Rap 20s"],
+    "snippet": "/songs/Polskie/MATA_kiss_cam.mp3",
+    "cover": "/songs/covers/matczak.jpg"
+  },
+  {
+    "title": "Kiss Cam",
+    "artist": "Mata",
+    "categories": ["Polskie Rap", "Polskie Rap 20s"],
+    "snippet": "/songs/Polskie/MATA_kiss_cam.mp3",
+    "cover": "/songs/covers/matczak.jpg"
+  },
+  {
+    "title": "Papuga (feat. Quebonafide, Malik Montana)",
+    "artist": "Mata",
+    "categories": ["Polskie Rap", "Polskie Rap 20s"],
+    "snippet": "/songs/Polskie/Mata_Papuga.mp3",
+    "cover": "/songs/covers/matczak.jpg"
+  },
+  {
+    "title": "Szmata",
+    "artist": "Mata",
+    "categories": ["Polskie Rap", "Polskie Rap 20s"],
+    "snippet": "/songs/Polskie/Mata_Szmata.mp3",
+    "cover": "/songs/covers/matczak.jpg"
+  },
+  {
+    "title": "Patorekacja",
+    "artist": "Mata",
+    "categories": ["Polskie Rap", "Polskie Rap 20s"],
+    "snippet": "/songs/Polskie/Mata_Patoreakcja.mp3",
+    "cover": "/songs/covers/matczak.jpg"
+  },
+  {
+    "title": "Lloret de Mar",
+    "artist": "Mata",
+    "categories": ["Polskie Rap", "Polskie Rap 20s"],
+    "snippet": "/songs/Polskie/Mata_Lloret de Mar.mp3",
+    "cover": "/songs/covers/lloret.jpg"
+  },
+   {
+    "title": "Sexoholik",
+    "artist": "Żabson",
+    "categories": ["Polskie Rap", "Polskie Rap 10s"],
+    "snippet": "/songs/Polskie/Żabson_SEXOHOLIK.mp3",
+    "cover": "/songs/covers/sexoholik.jpg"
+  },
+  {
+    "title": "Impreza",
+    "artist": "Sobel",
+    "categories": ["Polskie Rap", "Polskie Rap 10s"],
+    "snippet": "/songs/Polskie/Sobel_Impreza.mp3",
+    "cover": "/songs/covers/impreza.jpg"
+  },
+   {
+    "title": "Bandyta",
+    "artist": "Sobel",
+    "categories": ["Polskie Rap", "Polskie Rap 20s"],
+    "snippet": "/songs/Polskie/Sobel_Bandyta.mp3",
+    "cover": "/songs/covers/motyle.jpg"
+  },
+  {
+    "title": "Fiołkowe Pole",
+    "artist": "Sobel",
+    "categories": ["Polskie Rap", "Polskie Rap 20s"],
+    "snippet": "/songs/Polskie/SOBEL_polefiołkowe.mp3",
+    "cover": "/songs/covers/motyle.jpg"
+  },
+  {
+    "title": "Dwutakt",
+    "artist": "Alberto, Olek",
+    "categories": ["Polskie Rap", "Polskie Rap 20s"],
+    "snippet": "/songs/Polskie/Alberto_Dwutakt.mp3",
+    "cover": "/songs/covers/dwutakt.jpg"
+  },
+  {
+    "title": "Harnaś Ice Tea",
+    "artist": "Gawrlye",
+    "categories": ["Polskie Pop", "Polskie Pop 20s"],
+    "snippet": "/songs/Polskie/Jacuś_Rakieta.mp3",
+    "cover": "/songs/covers/gucci.jpg"
   }
 ]
