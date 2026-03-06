@@ -369,6 +369,32 @@ const manualDaily = {
       dailyCategory: "Rap",
     },
   ],
+   "2026-03-07": [
+    {
+      title: "Bailando (Spanish Version) [feat. Descemer Bueno & Gente de Zona]",
+      artist: "Enrique Iglesias",
+      cover: "https://is1-ssl.mzstatic.com/image/thumb/Music115/v4/d4/ec/f5/d4ecf56c-2fb8-d529-b6bd-27ffcd43bb17/00602547230461.rgb.jpg/600x600bb.jpg",
+      snippet: "/songs/pop/enrique_iglesias_bailando_feat_sean_paul_descemer_bueno_gente_de_zona_english_version.mp3",
+      categories: ["pop"],
+      dailyCategory: "Pop",
+    },
+    {
+      title: "Nemo",
+      artist: "Nightwish",
+      cover: "/songs/covers/once.jpg",
+      snippet: "/songs/rock/malcolm_todd_nemo.mp3",
+      categories: ["rock"],
+      dailyCategory: "Rock",
+    },
+    {
+      title: "Jump Around",
+      artist: "House of Pain",
+      cover: "https://is1-ssl.mzstatic.com/image/thumb/Music221/v4/c5/b7/2f/c5b72ff4-d593-ed4c-f7ed-080fb4d224aa/081227911560.png/600x600bb.jpg",
+      snippet: "/songs/rap/house_of_pain_jump_around_pete_rock_remix.mp3",
+      categories: ["rap"],
+      dailyCategory: "Rap",
+    },
+  ],
 };
 
 const LEVELS = [

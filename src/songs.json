@@ -10428,7 +10428,7 @@
     "cover": "https://is1-ssl.mzstatic.com/image/thumb/Music126/v4/de/e1/8b/dee18be4-276a-1e90-7aec-883c91a5a43e/17UM1IM08185.rgb.jpg/600x600bb.jpg"
   },
   {
-    "title": "Moonlight (Instrumental)",
+    "title": "Moonlight",
     "artist": "XXXTENTACION",
     "categories": ["Pop", "Pop 10s"],
     "snippet": "/songs/pop/xxxtentacion_moonlight_instrumental.mp3",
@@ -13565,6 +13565,13 @@
     "categories": ["Polskie Pop", "Polskie Pop 20s"],
     "snippet": "/songs/Polskie/Jacuś_Rakieta.mp3",
     "cover": "/songs/covers/gucci.jpg"
+  },
+  {
+    "title": "War Pigs",
+    "artist": "Black Sabbath",
+    "categories": ["Rock", "Rock 70s"],
+    "snippet": "/songs/rock/black_sabbath_war_pigs.mp3",
+    "cover": "https://is1-ssl.mzstatic.com/image/thumb/Music124/v4/27/d2/22/27d222de-b53e-eafe-c1ed-1d36c5c9ac3f/603497870318.jpg/600x600bb.jpg"
   }
 ]
 
