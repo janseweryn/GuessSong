@@ -395,6 +395,32 @@ const manualDaily = {
       dailyCategory: "Rap",
     },
   ],
+  "2026-03-08": [
+    {
+      title: "Dangerous Woman",
+      artist: "Ariana Grande",
+      cover: "/songs/covers/woman.jpg",
+      snippet: "/songs/pop/dangerous_woman.mp3",
+      categories: ["pop"],
+      dailyCategory: "Pop",
+    },
+    {
+      title: "She's Always a Woman",
+      artist: "Billy Joel",
+      cover: "https://is1-ssl.mzstatic.com/image/thumb/Music125/v4/f0/7a/54/f07a54ab-3ebc-6813-e515-86200b8138fc/dj.uthntyfe.jpg/600x600bb.jpg",
+      snippet: "/songs/pop/billy_joel_she_s_always_a_woman.mp3",
+      categories: ["rock"],
+      dailyCategory: "Rock",
+    },
+    {
+      title: "Woman",
+      artist: "Doja Cat",
+      cover: "/songs/covers/her.jpg",
+      snippet: "/songs/pop/woman.mp3",
+      categories: ["rap"],
+      dailyCategory: "Rap",
+    },
+  ],
 };
 
 const LEVELS = [

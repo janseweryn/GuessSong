@@ -2429,13 +2429,6 @@
     "cover": "/songs/covers/innocent.jpg"
   },
   {
-   "title": "She's Always A Woman",
-    "artist": "Billy Joel",  
-    "categories": ["Rock", "Rock 70s"],
-    "snippet": "/songs/rock/always_woman.mp3",
-    "cover": "/songs/covers/stranger.jpg"
-  },
-  {
    "title": "We Didn't Start The Fire",
     "artist": "Billy Joel",  
     "categories": ["Rock", "Rock 80s"],
@@ -13572,6 +13565,13 @@
     "categories": ["Rock", "Rock 70s"],
     "snippet": "/songs/rock/black_sabbath_war_pigs.mp3",
     "cover": "https://is1-ssl.mzstatic.com/image/thumb/Music124/v4/27/d2/22/27d222de-b53e-eafe-c1ed-1d36c5c9ac3f/603497870318.jpg/600x600bb.jpg"
+  },
+  {
+    "title": "She's Always a Woman",
+    "artist": "Billy Joel",
+    "categories": ["Pop", "Pop 70s"],
+    "snippet": "/songs/pop/billy_joel_she_s_always_a_woman.mp3",
+    "cover": "https://is1-ssl.mzstatic.com/image/thumb/Music125/v4/f0/7a/54/f07a54ab-3ebc-6813-e515-86200b8138fc/dj.uthntyfe.jpg/600x600bb.jpg"
   }
 ]
 
