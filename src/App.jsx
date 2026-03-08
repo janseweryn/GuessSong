@@ -421,6 +421,32 @@ const manualDaily = {
       dailyCategory: "Rap",
     },
   ],
+  "2026-03-09": [
+    {
+      title: "Blank Space",
+      artist: "Taylor Swift",
+      cover: "/songs/covers/1989.jpg",
+      snippet: "/songs/pop/blank_space.mp3",
+      categories: ["pop"],
+      dailyCategory: "Pop",
+    },
+    {
+      title: "Aerials",
+      artist: "System Of A Down", 
+      cover: "/songs/covers/toxicity.jpg",
+      snippet: "/songs/rock/aerials.mp3",
+      categories: ["rock"],
+      dailyCategory: "Rock",
+    },
+    {
+      title: "Stargazing",
+      artist: "Travis Scott",
+      cover: "/songs/covers/astro.jpg",
+      snippet: "/songs/rap/stargazing.mp3",
+      categories: ["rap"],
+      dailyCategory: "Rap",
+    },
+  ],
 };
 
 const LEVELS = [
