@@ -447,6 +447,32 @@ const manualDaily = {
       dailyCategory: "Rap",
     },
   ],
+  "2026-03-10": [
+    {
+      title: "When I Was Your Man",
+      artist: "Bruno Mars",
+      cover: "https://is1-ssl.mzstatic.com/image/thumb/Music115/v4/e0/a4/7c/e0a47c6f-005a-9f9f-ce29-8e858e2bcfcb/075679957283.jpg/600x600bb.jpg",
+      snippet: "/songs/pop/bruno_mars_when_i_was_your_man.mp3",
+      categories: ["pop"],
+      dailyCategory: "Pop",
+    },
+    {
+      title: "Man On the Moon",
+      artist: "R.E.M.",
+      cover: "https://is1-ssl.mzstatic.com/image/thumb/Music124/v4/97/1a/9b/971a9bf7-b6dc-8712-ac3a-1d4351512c8b/17CRGIM03466.rgb.jpg/600x600bb.jpg",
+      snippet: "/songs/rock/r_e_m_man_on_the_moon.mp3",
+      categories: ["rock"],
+      dailyCategory: "Rock",
+    },
+    {
+      title: "Moonlight",
+      artist: "XXXTENTACION",
+      cover: "https://is1-ssl.mzstatic.com/image/thumb/Music126/v4/93/49/bb/9349bb3b-317d-57c3-966a-71fa25247dc2/19UMGIM41705.rgb.jpg/600x600bb.jpg",
+      snippet: "/songs/pop/xxxtentacion_moonlight_instrumental.mp3",
+      categories: ["rap"],
+      dailyCategory: "Rap",
+    },
+  ],
 };
 
 const LEVELS = [

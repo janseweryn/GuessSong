@@ -533,5 +533,12 @@
     "categories": ["Polskie Pop", "Polskie Pop 20s"],
     "snippet": "/songs/Polskie/Jacuś_Rakieta.mp3",
     "cover": "/songs/covers/gucci.jpg"
+  },
+  {
+    "title": "Moonlight",
+    "artist": "XXXTENTACION",
+    "categories": ["Pop", "Pop 10s"],
+    "snippet": "/songs/pop/xxxtentacion_moonlight_instrumental.mp3",
+    "cover": "https://is1-ssl.mzstatic.com/image/thumb/Music126/v4/93/49/bb/9349bb3b-317d-57c3-966a-71fa25247dc2/19UMGIM41705.rgb.jpg/600x600bb.jpg"
   }
 ]
