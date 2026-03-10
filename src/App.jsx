@@ -473,6 +473,32 @@ const manualDaily = {
       dailyCategory: "Rap",
     },
   ],
+  "2026-03-11": [
+    {
+      title: "Material Girl",
+      artist: "Madonna",
+      cover: "/songs/covers/likevirgin.jpg",
+      snippet: "/songs/pop/material_girl.mp3",
+      categories: ["pop"],
+      dailyCategory: "Pop",
+    },
+    {
+      title: "Englishman In New York",
+      artist: "Sting",
+      cover: "https://is1-ssl.mzstatic.com/image/thumb/Music211/v4/42/b7/db/42b7dbe1-d13f-c600-5b78-daa57c5d0f08/06UMGIM50761.rgb.jpg/600x600bb.jpg",
+      snippet: "/songs/rock/sting_englishman_in_new_york.mp3",
+      categories: ["rock"],
+      dailyCategory: "Rock",
+    },
+    {
+      title: "Wonderbread",
+      artist: "Danny Brown",
+      cover: "/songs/covers/old.jpg",
+      snippet: "/songs/rap/DannyBrown_Wonderbread.mp3",
+      categories: ["rap"],
+      dailyCategory: "Rap",
+    },
+  ],
 };
 
 const LEVELS = [
