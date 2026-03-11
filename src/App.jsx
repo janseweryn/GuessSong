@@ -499,6 +499,32 @@ const manualDaily = {
       dailyCategory: "Rap",
     },
   ],
+   "2026-03-12": [
+    {
+      title: "7 rings",
+      artist: "Ariana Grande",
+      cover: "/songs/covers/thanku.jpg",
+      snippet: "/songs/pop/7rings.mp3",
+      categories: ["pop"],
+      dailyCategory: "Pop",
+    },
+    {
+      title: "Man In the Box",
+      artist: "Alice In Chains",
+      cover: "https://is1-ssl.mzstatic.com/image/thumb/Music/2f/47/fa/mzi.effcotrm.jpg/600x600bb.jpg",
+      snippet: "/songs/rock/alice_in_chains_man_in_the_box_live.mp3",
+      categories: ["rock"],
+      dailyCategory: "Rock",
+    },
+    {
+      title: "Stronger",
+      artist: "Kanye West",
+      cover: "/songs/covers/graduation.jpg",
+      snippet: "/songs/rap/stronger.mp3",
+      categories: ["rap"],
+      dailyCategory: "Rap",
+    },
+  ]
 };
 
 const LEVELS = [
