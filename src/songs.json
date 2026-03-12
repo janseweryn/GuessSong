@@ -13572,6 +13572,363 @@
     "categories": ["Pop", "Pop 70s"],
     "snippet": "/songs/pop/billy_joel_she_s_always_a_woman.mp3",
     "cover": "https://is1-ssl.mzstatic.com/image/thumb/Music125/v4/f0/7a/54/f07a54ab-3ebc-6813-e515-86200b8138fc/dj.uthntyfe.jpg/600x600bb.jpg"
+  },
+  {
+    "title": "Kryptonite",
+    "artist": "3 Doors Down",
+    "categories": ["Rock", "Rock 90s"],
+    "snippet": "/songs/rock/3_doors_down_kryptonite.mp3",
+    "cover": "https://is1-ssl.mzstatic.com/image/thumb/Music125/v4/61/2a/58/612a58ca-af10-cc8f-07ef-b3368ebc9564/07UMGIM12238.rgb.jpg/600x600bb.jpg"
+  },
+  {
+    "title": "If It Means A Lot To You",
+    "artist": "A Day to Remember",
+    "categories": ["Rock", "Rock 00s"],
+    "snippet": "/songs/rock/a_day_to_remember_if_it_means_a_lot_to_you.mp3",
+    "cover": "https://is1-ssl.mzstatic.com/image/thumb/Music124/v4/47/69/49/4769492c-5864-60ac-1bc7-31b8eeee05b6/19CRGIM19264.rgb.jpg/600x600bb.jpg"
+  },
+  {
+    "title": "Ain't No Mountain High Enough",
+    "artist": "Marvin Gaye & Tammi Terrell",
+    "categories": ["Rock", "Rock 60s"],
+    "snippet": "/songs/pop/marvin_gaye_tammi_terrell_ain_t_no_mountain_high_enough.mp3",
+    "cover": "https://is1-ssl.mzstatic.com/image/thumb/Music112/v4/9b/c1/cf/9bc1cf3a-84c7-474e-2d0f-2e4bd0327377/06UMGIM11763.rgb.jpg/600x600bb.jpg"
+  },
+  {
+    "title": "Smack That (feat. Eminem)",
+    "artist": "Akon featuring Eminem",
+    "categories": ["Rap", "Rap 00s"],
+    "snippet": "/songs/rap/akon_featuring_eminem_smack_that_feat_eminem.mp3",
+    "cover": "https://is1-ssl.mzstatic.com/image/thumb/Music221/v4/b7/88/33/b78833e4-30eb-739b-d5de-09d2d7db84b3/06UMGIM19420.rgb.jpg/600x600bb.jpg"
+  },
+  {
+    "title": "If I Ain't Got You",
+    "artist": "Alicia Keys",
+    "categories": ["Pop", "Pop 00s"],
+    "snippet": "/songs/pop/alicia_keys_if_i_ain_t_got_you.mp3",
+    "cover": "https://is1-ssl.mzstatic.com/image/thumb/Music125/v4/c2/07/c6/c207c6ee-e3f1-cad2-1259-69a3ebd08b5c/828765571227.jpg/600x600bb.jpg"
+  },
+  {
+    "title": "I Want It That Way",
+    "artist": "Backstreet Boys",
+    "categories": ["Pop", "Pop 90s"],
+    "snippet": "/songs/pop/backstreet_boys_i_want_it_that_way.mp3",
+    "cover": "https://is1-ssl.mzstatic.com/image/thumb/Music115/v4/5f/6b/e9/5f6be919-1b9e-30ef-45b7-cc27fc428fd5/012414167224.jpg/600x600bb.jpg"
+  },
+  {
+    "title": "Blue Jeans",
+    "artist": "Lana Del Rey",
+    "categories": ["Pop", "Pop 10s"],
+    "snippet": "/songs/rock/lana_del_rey_blue_jeans.mp3",
+    "cover": "https://is1-ssl.mzstatic.com/image/thumb/Music211/v4/59/10/66/591066ea-3c85-3dfe-ef82-ffdbbcdfc8b9/12UMGIM00033.rgb.jpg/600x600bb.jpg"
+  },
+  {
+    "title": "Five More Hours (Deorro x Chris Brown)",
+    "artist": "Deorro & Chris Brown",
+    "categories": ["Pop", "Pop 10s"],
+    "snippet": "/songs/pop/deorro_chris_brown_five_more_hours_deorro_x_chris_brown.mp3",
+    "cover": "https://is1-ssl.mzstatic.com/image/thumb/Music126/v4/af/16/02/af1602c1-e93b-5e55-8c46-2629f4b3e635/0617465860058.jpg/600x600bb.jpg"
+  },
+  {
+    "title": "Ocean Drive",
+    "artist": "Duke Dumont",
+    "categories": ["Pop", "Pop 10s"],
+    "snippet": "/songs/pop/duke_dumont_ocean_drive.mp3",
+    "cover": "https://is1-ssl.mzstatic.com/image/thumb/Music115/v4/ab/89/f2/ab89f220-4e4d-de4a-ca68-dba33e8332d6/15UMGIM41059.rgb.jpg/600x600bb.jpg"
+  },
+  {
+    "title": "Hotel California",
+    "artist": "Eagles",
+    "categories": ["Rock", "Rock 70s"],
+    "snippet": "/songs/rock/eagles_hotel_california.mp3",
+    "cover": "https://is1-ssl.mzstatic.com/image/thumb/Music115/v4/88/16/2c/88162c3d-46db-8321-61f3-3a47404cfe76/075596050920.jpg/600x600bb.jpg"
+  },
+  {
+    "title": "Walking On a Dream",
+    "artist": "Empire Of The Sun",
+    "categories": ["Pop", "Pop 00s"],
+    "snippet": "/songs/pop/empire_of_the_sun_walking_on_a_dream.mp3",
+    "cover": "https://is1-ssl.mzstatic.com/image/thumb/Music115/v4/7f/63/2c/7f632c08-3960-de3d-d34c-ee8140038b69/13UADIM60773.rgb.jpg/600x600bb.jpg"
+  },
+  {
+    "title": "Ain't Nobody (Loves Me Better) [feat. Jasmine Thompson]",
+    "artist": "Felix Jaehn",
+    "categories": ["Pop", "Pop 10s"],
+    "snippet": "/songs/pop/felix_jaehn_ain_t_nobody_loves_me_better_feat_jasmine_thompson_extended_mix.mp3",
+    "cover": "https://is1-ssl.mzstatic.com/image/thumb/Music128/v4/23/d3/1d/23d31d78-c8b1-42e2-07ef-84e02e50aedf/00602547384027.rgb.jpg/600x600bb.jpg"
+  },
+  {
+    "title": "Right Round (feat. Ke$ha)",
+    "artist": "Flo Rida",
+    "categories": ["Rap", "Rap 00s","Pop", "Pop 00s"],
+    "snippet": "/songs/rap/flo_rida_right_round_feat_ke_ha.mp3",
+    "cover": "https://is1-ssl.mzstatic.com/image/thumb/Music124/v4/4e/62/be/4e62be48-6e99-1dbe-622d-8ac2cf92467a/mzi.sngplwsl.jpg/600x600bb.jpg"
+  },
+  {
+    "title": "Take Me Out",
+    "artist": "Franz Ferdinand",
+    "categories": ["Rock", "Rock 00s"],
+    "snippet": "/songs/pop/franz_ferdinand_take_me_out.mp3",
+    "cover": "https://is1-ssl.mzstatic.com/image/thumb/Music112/v4/83/c6/54/83c6541f-3b90-b46a-b46a-17bf8fd9af16/5034202113645.png/600x600bb.jpg"
+  },
+  {
+    "title": "Gasolina",
+    "artist": "Daddy Yankee",
+    "categories": ["Pop", "Pop 00s"],
+    "snippet": "/songs/pop/daddy_yankee_gasolina.mp3",
+    "cover": "https://is1-ssl.mzstatic.com/image/thumb/Music221/v4/2f/66/f0/2f66f0f1-c3c2-9dc0-8391-04804cabc8cf/24CRGIM46808.rgb.jpg/600x600bb.jpg"
+  },
+  {
+    "title": "Crazy",
+    "artist": "Gnarls Barkley",
+    "categories": ["Pop", "Pop 00s"],
+    "snippet": "/songs/rock/gnarls_barkley_crazy.mp3",
+    "cover": "https://is1-ssl.mzstatic.com/image/thumb/Music211/v4/fc/6e/1e/fc6e1e95-7f93-09d8-455e-2f24a537a71f/603497823703.jpg/600x600bb.jpg"
+  },
+  {
+    "title": "Barracuda",
+    "artist": "Heart",
+    "categories": ["Rock", "Rock 70s"],
+    "snippet": "/songs/rock/heart_barracuda.mp3",
+    "cover": "https://is1-ssl.mzstatic.com/image/thumb/Music115/v4/1b/83/f2/1b83f233-20c6-c876-ab7a-15757ad397b1/074643479929.jpg/600x600bb.jpg"
+  },
+  {
+    "title": "The Reason",
+    "artist": "Hoobastank",
+    "categories": ["Rock", "Rock 00s"],
+    "snippet": "/songs/rock/hoobastank_the_reason.mp3",
+    "cover": "https://is1-ssl.mzstatic.com/image/thumb/Music115/v4/17/00/ae/1700ae0f-ba70-bf48-df89-12ab614c83f2/10UMGIM21716.rgb.jpg/600x600bb.jpg"
+  },
+  {
+    "title": "I Won't Give Up",
+    "artist": "Jason Mraz",
+    "categories": ["Pop", "Pop 10s"],
+    "snippet": "/songs/pop/jason_mraz_i_won_t_give_up.mp3",
+    "cover": "https://is1-ssl.mzstatic.com/image/thumb/Music115/v4/2c/ac/8a/2cac8ac4-cb90-ac44-0808-a8e3ccbe05d0/075679962577.jpg/600x600bb.jpg"
+  },
+  {
+    "title": "Replay",
+    "artist": "Iyaz",
+    "categories": ["Pop", "Pop 00s"],
+    "snippet": "/songs/pop/iyaz_replay.mp3",
+    "cover": "https://is1-ssl.mzstatic.com/image/thumb/Music/c0/13/1b/mzi.nnistjgw.jpg/600x600bb.jpg"
+  },
+  {
+    "title": "Want to Want Me",
+    "artist": "Jason Derulo",
+    "categories": ["Pop", "Pop 10s"],
+    "snippet": "/songs/pop/jason_derulo_want_to_want_me.mp3",
+    "cover": "https://is1-ssl.mzstatic.com/image/thumb/Music125/v4/f9/27/0b/f9270b80-9a2f-f7cc-a4e2-2f77372ede3c/093624927594.jpg/600x600bb.jpg"
+  },
+  {
+    "title": "The Middle",
+    "artist": "Jimmy Eat World",
+    "categories": ["Rock", "Rock 10s"],
+    "snippet": "/songs/rock/jimmy_eat_world_the_middle_live.mp3",
+    "cover": "https://is1-ssl.mzstatic.com/image/thumb/Music122/v4/00/5a/5f/005a5f5a-5e6a-8e41-fc71-009bf75e6e72/842108089668.jpg/600x600bb.jpg"
+  },
+  {
+    "title": "Boyfriend",
+    "artist": "Justin Bieber",
+    "categories": ["Pop", "Pop 10s"],
+    "snippet": "/songs/pop/justin_bieber_boyfriend.mp3",
+    "cover": "https://is1-ssl.mzstatic.com/image/thumb/Music126/v4/73/08/1a/73081a96-0f7c-b5f8-2757-5c17fb714323/12UMGIM31899.rgb.jpg/600x600bb.jpg"
+  },
+  {
+    "title": "SexyBack (feat. Timbaland)",
+    "artist": "Justin Timberlake",
+    "categories": ["Pop", "Pop 00s"],
+    "snippet": "/songs/pop/justin_timberlake_sexyback_feat_timbaland.mp3",
+    "cover": "https://is1-ssl.mzstatic.com/image/thumb/Music125/v4/4c/44/30/4c4430dd-150b-d393-ec70-4894975f4b16/888880422095.jpg/600x600bb.jpg"
+  },
+  {
+    "title": "Way Down We Go",
+    "artist": "KALEO",
+    "categories": ["Pop", "Pop 10s"],
+    "snippet": "/songs/rock/kaleo_way_down_we_go.mp3",
+    "cover": "https://is1-ssl.mzstatic.com/image/thumb/Music125/v4/74/fb/5e/74fb5e22-3a1b-4468-dc14-e097dc635e44/075679911506.jpg/600x600bb.jpg"
+  },
+  {
+    "title": "Die Young",
+    "artist": "Kesha",
+    "categories": ["Pop", "Pop 10s"],
+    "snippet": "/songs/pop/kesha_die_young.mp3",
+    "cover": "https://is1-ssl.mzstatic.com/image/thumb/Music221/v4/52/e4/44/52e44453-abd4-6a0d-195e-7e339dea4525/886443748880.jpg/600x600bb.jpg"
+  },
+  {
+    "title": "TiK ToK",
+    "artist": "Kesha",
+    "categories": ["Pop", "Pop 00s"],
+    "snippet": "/songs/pop/kesha_tik_tok.mp3",
+    "cover": "https://is1-ssl.mzstatic.com/image/thumb/Music221/v4/92/d2/a7/92d2a780-3aa9-8b58-b753-62e4175dd2ec/884977451856.jpg/600x600bb.jpg"
+  },
+  {
+    "title": "Sex On Fire",
+    "artist": "Kings of Leon",
+    "categories": ["Rock", "Rock 00s"],
+    "snippet": "/songs/rock/kings_of_leon_sex_on_fire.mp3",
+    "cover": "https://is1-ssl.mzstatic.com/image/thumb/Features125/v4/74/25/4c/74254c8b-e03d-44e8-304d-4cde508b8cfb/dj.swemfdrr.jpg/600x600bb.jpg"
+  },
+  {
+    "title": "Use Somebody",
+    "artist": "Kings of Leon",
+    "categories": ["Rock", "Rock 00s"],
+    "snippet": "/songs/rock/kings_of_leon_use_somebody.mp3",
+    "cover": "https://is1-ssl.mzstatic.com/image/thumb/Features125/v4/74/25/4c/74254c8b-e03d-44e8-304d-4cde508b8cfb/dj.swemfdrr.jpg/600x600bb.jpg"
+  },
+  {
+    "title": "Stole the Show (feat. Parson James)",
+    "artist": "Kygo",
+    "categories": ["Pop", "Pop 10s"],
+    "snippet": "/songs/pop/kygo_stole_the_show_feat_parson_james.mp3",
+    "cover": "https://is1-ssl.mzstatic.com/image/thumb/Music116/v4/b5/69/ad/b569ad82-3ac0-54a8-bafc-baf349491541/0617465690853.jpg/600x600bb.jpg"
+  },
+  {
+    "title": "Diet Mountain Dew",
+    "artist": "Lana Del Rey",
+    "categories": ["Pop", "Pop 10s"],
+    "snippet": "/songs/rock/lana_del_rey_diet_mountain_dew.mp3",
+    "cover": "https://is1-ssl.mzstatic.com/image/thumb/Music115/v4/5f/d9/63/5fd96387-45fa-6b94-afd8-7b2c4a24a93b/11UMGIM38959.rgb.jpg/600x600bb.jpg"
+  },
+  {
+    "title": "Last Resort",
+    "artist": "Papa Roach",
+    "categories": ["Rock", "Rock 00s"],
+    "snippet": "/songs/rock/papa_roach_last_resort.mp3",
+    "cover": "https://is1-ssl.mzstatic.com/image/thumb/Music211/v4/c2/c6/81/c2c6818b-0b09-9378-caf3-608cc6fe36d7/19UM1IM12014.rgb.jpg/600x600bb.jpg"
+  },
+  {
+    "title": "Drop the World (feat. Eminem)",
+    "artist": "Lil Wayne",
+    "categories": ["Rap", "Rap 00s"],
+    "snippet": "/songs/rap/lil_wayne_drop_the_world_feat_eminem.mp3",
+    "cover": "https://is1-ssl.mzstatic.com/image/thumb/Music112/v4/d1/0d/df/d10ddf6f-274c-82da-7682-d967a7605e49/09UMGIM43997.rgb.jpg/600x600bb.jpg"
+  },
+  {
+    "title": "Sweet Home Alabama",
+    "artist": "Lynyrd Skynyrd",
+    "categories": ["Rock", "Rock 70s"],
+    "snippet": "/songs/rock/lynyrd_skynyrd_sweet_home_alabama.mp3",
+    "cover": "https://is1-ssl.mzstatic.com/image/thumb/Music211/v4/c2/d6/41/c2d64132-6a94-38ea-3309-3326f4680169/14UMGIM00873.rgb.jpg/600x600bb.jpg"
+  },
+  {
+    "title": "Bubblegum Bitch",
+    "artist": "Marina",
+    "categories": ["Pop", "Pop 20s"],
+    "snippet": "/songs/pop/leana_mask_bubblegum_bitch.mp3",
+    "cover": "https://is1-ssl.mzstatic.com/image/thumb/Music116/v4/a1/66/cb/a166cb1e-64b5-c1e5-8664-47755c1ae2d7/26027.jpg/600x600bb.jpg"
+  },
+  {
+    "title": "Let Me Love You",
+    "artist": "Mario",
+    "categories": ["Pop", "Pop 00s"],
+    "snippet": "/songs/pop/mario_let_me_love_you.mp3",
+    "cover": "https://is1-ssl.mzstatic.com/image/thumb/Music112/v4/6b/77/72/6b777276-1f3d-8ecf-d9d2-06733e3d7dd3/828766188523.jpg/600x600bb.jpg"
+  },
+  {
+    "title": "Marshmello & Anne-Marie",
+    "artist": "Friends",
+    "categories": ["Pop", "Pop 10s"],
+    "snippet": "/songs/pop/ssstas_marshmello_anne_marie_friends_remix.mp3",
+    "cover": "https://is1-ssl.mzstatic.com/image/thumb/Music125/v4/43/4d/a2/434da25b-fa20-9454-96c7-c23f236f3876/0.jpg/600x600bb.jpg"
+  },
+  {
+    "title": "Dreams and Nightmares",
+    "artist": "Meek Mill",
+    "categories": ["Rap", "Rap 10s"],
+    "snippet": "/songs/rap/meek_mill_dreams_and_nightmares.mp3",
+    "cover": "https://is1-ssl.mzstatic.com/image/thumb/Music124/v4/12/8b/ce/128bce9f-0da5-3506-2b53-08bc5d7664c5/093624947172.jpg/600x600bb.jpg"
+  },
+  {
+    "title": "Sweet Caroline",
+    "artist": "Neil Diamond",
+    "categories": ["Pop", "Pop 60s"],
+    "snippet": "/songs/pop/neil_diamond_sweet_caroline_single_version.mp3",
+    "cover": "https://is1-ssl.mzstatic.com/image/thumb/Music221/v4/ef/46/dc/ef46dc23-467a-7a23-aefb-c3baf4ccdbbc/14UMGIM25084.rgb.jpg/600x600bb.jpg"
+  },
+  {
+    "title": "Bye Bye Bye",
+    "artist": "*NSYNC",
+    "categories": ["Pop", "Pop 00s"],
+    "snippet": "/songs/pop/nsync_bye_bye_bye.mp3",
+    "cover": "https://is1-ssl.mzstatic.com/image/thumb/Music115/v4/36/22/d6/3622d665-873c-57b8-392b-971292e6086f/012414170224.jpg/600x600bb.jpg"
+  },
+  {
+    "title": "Numb / Encore",
+    "artist": "JAY-Z & LINKIN PARK",
+    "categories": ["Rock", "Rock 00s"],
+    "snippet": "/songs/rock/linkin_park_numb.mp3",
+    "cover": "https://is1-ssl.mzstatic.com/image/thumb/Music115/v4/13/44/05/134405bd-9e27-a678-8953-b5f724201f95/093624948988.jpg/600x600bb.jpg"
+  },
+  {
+    "title": "King for a Day",
+    "artist": "Green Day",
+    "categories": ["Rock", "Rock 90s"],
+    "snippet": "/songs/rock/green_day_king_for_a_day.mp3",
+    "cover": "https://is1-ssl.mzstatic.com/image/thumb/Music125/v4/a0/16/bf/a016bf34-4050-16d6-778b-9eb5af5e5d4c/093624915690.jpg/600x600bb.jpg"
+  },
+  {
+    "title": "Where Is My Mind? (2007 Remaster)",
+    "artist": "Pixies",
+    "categories": ["Rock", "Rock 80s"],
+    "snippet": "/songs/rock/pixies_where_is_my_mind_2007_remaster.mp3",
+    "cover": "https://is1-ssl.mzstatic.com/image/thumb/Music116/v4/68/b7/c0/68b7c018-dc15-f44a-2611-be10237fc9a5/652637080308.png/600x600bb.jpg"
+  },
+  {
+    "title": "This Could Be Us",
+    "artist": "Rae Sremmurd",
+    "categories": ["Rap", "Rap 10s"],
+    "snippet": "/songs/rap/rae_sremmurd_this_could_be_us.mp3",
+    "cover": "https://is1-ssl.mzstatic.com/image/thumb/Music112/v4/1e/dc/fd/1edcfd04-d486-b8e5-15fe-83ddbad59759/14UMGIM58447.rgb.jpg/600x600bb.jpg"
+  },
+  {
+    "title": "Some Nights",
+    "artist": "Fun.",
+    "categories": ["Rock", "Rock 10s"],
+    "snippet": "/songs/rock/fun_some_nights.mp3",
+    "cover": "https://is1-ssl.mzstatic.com/image/thumb/Music125/v4/43/99/62/43996219-f524-b168-461e-233d3005a4a6/075679954497.jpg/600x600bb.jpg"
+  },
+  {
+    "title": "Wannabe",
+    "artist": "Spice Girls",
+    "categories": ["Pop", "Pop 90s"],
+    "snippet": "/songs/pop/spice_girls_wannabe.mp3",
+    "cover": "https://is1-ssl.mzstatic.com/image/thumb/Music115/v4/e1/92/8f/e1928fcb-0204-ca19-597a-6edaf8e6ebc8/21UMGIM16233.rgb.jpg/600x600bb.jpg"
+  },
+  {
+    "title": "Stubborn Love",
+    "artist": "The Lumineers",
+    "categories": ["Rock", "Rock 10s"],
+    "snippet": "/songs/pop/the_lumineers_stubborn_love.mp3",
+    "cover": "https://is1-ssl.mzstatic.com/image/thumb/Music221/v4/ee/5b/95/ee5b95dc-4086-4e71-98c9-07f9dde84375/18513.jpg/600x600bb.jpg"
+  },
+  {
+    "title": "California Dreamin'",
+    "artist": "The Mamas & The Papas",
+    "categories": ["Rock", "Rock 10s"],
+    "snippet": "/songs/rock/the_mamas_the_papas_california_dreamin_live.mp3",
+    "cover": "https://is1-ssl.mzstatic.com/image/thumb/Music/8f/88/74/mzi.rvuonofp.jpg/600x600bb.jpg"
+  },
+  {
+    "title": "Breakeven (Falling to Pieces)",
+    "artist": "The Script",
+    "categories": ["Pop", "Pop 00s"],
+    "snippet": "/songs/pop/the_script_breakeven_falling_to_pieces.mp3",
+    "cover": "https://is1-ssl.mzstatic.com/image/thumb/Features114/v4/2d/c6/72/2dc6728e-fe24-c7b3-970c-a24d8af1e4b6/dj.tjxgsvhv.jpg/600x600bb.jpg"
+  },
+  {
+    "title": "The Man Who Can't Be Moved",
+    "artist": "The Script",
+    "categories": ["Pop", "Pop 00s"],
+    "snippet": "/songs/pop/the_script_the_man_who_can_t_be_moved.mp3",
+    "cover": "https://is1-ssl.mzstatic.com/image/thumb/Features114/v4/2d/c6/72/2dc6728e-fe24-c7b3-970c-a24d8af1e4b6/dj.tjxgsvhv.jpg/600x600bb.jpg"
+  },
+  {
+    "title": "Dancing In the Moonlight",
+    "artist": "Toploader",
+    "categories": ["Pop", "Pop 00s"],
+    "snippet": "/songs/pop/toploader_dancing_in_the_moonlight_2001_remix.mp3",
+    "cover": "https://is1-ssl.mzstatic.com/image/thumb/Music124/v4/59/d4/19/59d4199b-816a-2615-c77c-1a857db9a0a4/mzi.lsmwduhu.jpg/600x600bb.jpg"
   }
 ]
 

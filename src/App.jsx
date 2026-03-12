@@ -524,6 +524,32 @@ const manualDaily = {
       categories: ["rap"],
       dailyCategory: "Rap",
     },
+  ],
+  "2026-03-13": [
+    {
+      title: "SexyBack (feat. Timbaland)",
+      artist: "Justin Timberlake",
+      cover: "https://is1-ssl.mzstatic.com/image/thumb/Music125/v4/4c/44/30/4c4430dd-150b-d393-ec70-4894975f4b16/888880422095.jpg/600x600bb.jpg",
+      snippet: "/songs/pop/justin_timberlake_sexyback_feat_timbaland.mp3",
+      categories: ["pop"],
+      dailyCategory: "Pop",
+    },
+    {
+      title: "You're Gonna Go Far, Kid",
+      artist: "The Offspring",
+      cover: "/songs/covers/risefall.jpg",
+      snippet: "/songs/rock/far_kid.mp3",
+      categories: ["rock"],
+      dailyCategory: "Rock",
+    },
+    {
+      title: "Numb / Encore",
+      artist: "JAY-Z & LINKIN PARK",
+      cover: "https://is1-ssl.mzstatic.com/image/thumb/Music115/v4/13/44/05/134405bd-9e27-a678-8953-b5f724201f95/093624948988.jpg/600x600bb.jpg",
+      snippet: "/songs/rock/linkin_park_numb.mp3",
+      categories: ["rap"],
+      dailyCategory: "Rap",
+    },
   ]
 };
 
