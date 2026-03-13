@@ -550,6 +550,32 @@ const manualDaily = {
       categories: ["rap"],
       dailyCategory: "Rap",
     },
+  ],
+  "2026-03-14": [
+    {
+      title: "S&M",
+      artist: "Rihanna",
+      cover: "/songs/covers/loud.jpg",
+      snippet: "/songs/pop/sm.mp3",
+      categories: ["pop"],
+      dailyCategory: "Pop",
+    },
+    {
+      title: "California Dreamin'",
+      artist: "The Mamas & The Papas",
+      cover: "https://is1-ssl.mzstatic.com/image/thumb/Music/8f/88/74/mzi.rvuonofp.jpg/600x600bb.jpg",
+      snippet: "/songs/rock/the_mamas_the_papas_california_dreamin_live.mp3",
+      categories: ["rock"],
+      dailyCategory: "Rock",
+    },
+    {
+      title: "Low (feat. T-Pain)",
+      artist: "Flo Rida", 
+      cover: "/songs/covers/mail.jpg",
+      snippet: "/songs/rap/low.mp3",
+      categories: ["rap"],
+      dailyCategory: "Rap",
+    },
   ]
 };
 
@@ -655,6 +681,8 @@ export default function App() {
   const [volume, setVolume] = useState(1);
   const [lastSnippetIndex, setLastSnippetIndex] = useState(-1); // ostatni próg
 const [hasPlayedCurrentLevel, setHasPlayedCurrentLevel] = useState(false); // czy odtworzono już ten poziom
+const [fullCurrentTime, setFullCurrentTime] = useState(0);
+const [fullDuration, setFullDuration] = useState(0);
 
   const audioRef = useRef(null);
   const intervalRef = useRef(null);
@@ -690,6 +718,9 @@ const [hasPlayedCurrentLevel, setHasPlayedCurrentLevel] = useState(false); // cz
     const song = list[idx];
     setCurrentSong(song);
     setSnippetIndex(0);
+    setCurrentTime(0);          // ✅ reset paska
+    setLastSnippetIndex(-1);    // ✅ reset logiki progów
+    setHasPlayedCurrentLevel(false);
     setIsCorrect(false);
     setGameOver(false);
     setIsPlaying(false);
@@ -739,22 +770,20 @@ const [hasPlayedCurrentLevel, setHasPlayedCurrentLevel] = useState(false); // cz
     setNoDaily(false);
   };
 
-  const playSnippet = () => {
+ const playSnippet = () => {
   if (!currentSong) return;
   const level = LEVELS[snippetIndex];
   const audio = audioRef.current;
 
-  let startTime = 0;
+  let startTime = currentTime; // <-- KLUCZOWA ZMIANA
 
   if (snippetIndex !== lastSnippetIndex) {
-    // nowy próg → start od końca poprzedniego progu
-    const prevLevelTime = lastSnippetIndex >= 0 ? LEVELS[lastSnippetIndex].time : 0;
-    startTime = prevLevelTime; 
-    setHasPlayedCurrentLevel(true); // pierwsze odtworzenie tego progu
+    // nowy próg → kontynuuj od aktualnego czasu zamiast od końca poprzedniego
+    setHasPlayedCurrentLevel(true);
   } else {
     // ten sam próg → od początku
     startTime = 0;
-    setHasPlayedCurrentLevel(false); 
+    setHasPlayedCurrentLevel(false);
   }
 
   audio.currentTime = startTime;
@@ -762,25 +791,25 @@ const [hasPlayedCurrentLevel, setHasPlayedCurrentLevel] = useState(false); // cz
   setIsPlaying(true);
   setCurrentTime(startTime);
 
-  // timeout do końca bieżącego poziomu
   const remainingTime = level.time - startTime;
+
   timeoutRef.current = setTimeout(() => stopSnippet(), remainingTime * 1000);
   intervalRef.current = setInterval(() => setCurrentTime(t => t + 0.1), 100);
 
-  setLastSnippetIndex(snippetIndex); // pamiętaj aktualny próg
+  setLastSnippetIndex(snippetIndex);
 };
 
  const stopSnippet = () => {
   if (!audioRef.current) return;
+
   audioRef.current.pause();
   setIsPlaying(false);
   clearTimers();
 
-  // poprawka wizualna: jeśli skończyliśmy próg, ustaw currentTime = czas poziomu
-  if (snippetIndex >= 0 && snippetIndex < LEVELS.length) {
-    const level = LEVELS[snippetIndex];
-    setCurrentTime(level.time);
-  }
+  const level = LEVELS[snippetIndex];
+
+  // ustawiamy tylko jeśli faktycznie dotarliśmy do końca progu
+  setCurrentTime(prev => Math.max(prev, level.time));
 };
 
   const handleGuess = () => {
@@ -801,15 +830,29 @@ const [hasPlayedCurrentLevel, setHasPlayedCurrentLevel] = useState(false); // cz
   };
 
   const skipToNext = () => {
-  stopSnippet();
-  if (snippetIndex < LEVELS.length - 1) {
-    setSnippetIndex(i => i + 1);
-    // przy przejściu do następnego poziomu zawsze uznajemy, że jeszcze nie graliśmy tego progu
-    setHasPlayedCurrentLevel(false);
-  } else {
+  if (snippetIndex >= LEVELS.length - 1) {
+    stopSnippet();
     setGameOver(true);
     finishGame(currentSong, "fail");
+    return;
   }
+
+  const nextIndex = snippetIndex + 1;
+  setSnippetIndex(nextIndex);
+
+  const nextLevel = LEVELS[nextIndex];
+
+  if (isPlaying) {
+    clearTimeout(timeoutRef.current);
+
+    const remainingTime = nextLevel.time - currentTime;
+
+    timeoutRef.current = setTimeout(() => {
+      stopSnippet();
+    }, remainingTime * 1000);
+  }
+
+  setHasPlayedCurrentLevel(false);
 };
 
   const giveUp = () => {
@@ -837,6 +880,9 @@ const [hasPlayedCurrentLevel, setHasPlayedCurrentLevel] = useState(false); // cz
       setDailyIndex(next);
       setCurrentSong(dailySongs[next]);
       setSnippetIndex(0);
+      setCurrentTime(0);          // ✅ reset paska
+      setLastSnippetIndex(-1);
+      setHasPlayedCurrentLevel(false);
       setIsCorrect(false);
       setGameOver(false);
       setWrongAnswers([]);
@@ -896,6 +942,12 @@ const [hasPlayedCurrentLevel, setHasPlayedCurrentLevel] = useState(false); // cz
             {...{ currentSong, snippetIndex, displayedTime, LEVELS, audioRef, isPlaying, playSnippet, stopSnippet, skipToNext, giveUp, wrongAnswers, isCorrect, gameOver, userGuess, setUserGuess, handleGuess, isFullPlaying, playFullSong, stopFullSong, startNewSong: mode === "daily" ? nextDailySong : () => startNewSong(), stats }}
             volume={volume}
             setVolume={setVolume}
+            currentTime={currentTime}
+            hasPlayedCurrentLevel={hasPlayedCurrentLevel}
+            fullCurrentTime={fullCurrentTime}
+            setFullCurrentTime={setFullCurrentTime}
+            fullDuration={fullDuration}
+            setFullDuration={setFullDuration}
 />
           )}
         </>
@@ -904,10 +956,83 @@ const [hasPlayedCurrentLevel, setHasPlayedCurrentLevel] = useState(false); // cz
   );
 }
 
-function GameView({ title, onBack, currentSong, snippetIndex, displayedTime, LEVELS, audioRef, isPlaying, playSnippet, stopSnippet, skipToNext, giveUp, wrongAnswers, isCorrect, gameOver, userGuess, setUserGuess, handleGuess, isFullPlaying, playFullSong, stopFullSong, startNewSong, stats, volume, setVolume}) {
+function TimelineBar({ LEVELS, currentTime }) {
+
+  const MAX_TIME = LEVELS[LEVELS.length - 1].time;
+  const progress = Math.min(currentTime / MAX_TIME, 1) * 100;
+
+  return (
+    <div style={{ width: 420, margin: "18px auto 28px auto" }}>
+
+      <div
+        style={{
+          position: "relative",
+          height: 14,
+          background: "#1e1e1e",
+          borderRadius: 10,
+          overflow: "hidden",
+          boxShadow: "inset 0 0 6px rgba(0,0,0,0.6)"
+        }}
+      >
+
+        {/* progress */}
+        <div
+          style={{
+            width: `${progress}%`,
+            height: "100%",
+            background: "linear-gradient(90deg,#666,#999)",
+            transition: "width 0.05s linear"
+          }}
+        />
+
+        {/* markers */}
+        {LEVELS.map((lvl, i) => {
+          const pos = (lvl.time / MAX_TIME) * 100;
+
+          return (
+            <div
+              key={i}
+              style={{
+                position: "absolute",
+                left: `${pos}%`,
+                top: 0,
+                bottom: 0,
+                width: 2,
+                background: "#2f2f2f"
+              }}
+            />
+          );
+        })}
+
+      </div>
+
+    </div>
+  );
+}
+function GameView({ title, onBack, currentSong, snippetIndex, displayedTime, LEVELS, audioRef, isPlaying, playSnippet, stopSnippet, skipToNext, giveUp, wrongAnswers, isCorrect, gameOver, userGuess, setUserGuess, handleGuess, isFullPlaying, playFullSong, stopFullSong, startNewSong, stats, volume, setVolume,currentTime,hasPlayedCurrentLevel,fullCurrentTime,setFullCurrentTime,fullDuration,setFullDuration}) {
+  const seekFullSong = (time) => {
+  if (!audioRef.current) return;
+  audioRef.current.currentTime = time;
+  setFullCurrentTime(time);
+};
+
+const formatTime = (time) => {
+  const m = Math.floor(time / 60);
+  const s = Math.floor(time % 60);
+  return `${m}:${s.toString().padStart(2,"0")}`;
+};
   return (
     <>
-      <audio ref={audioRef} src={currentSong.snippet} />
+      <audio
+  ref={audioRef}
+  src={currentSong.snippet}
+  onLoadedMetadata={(e) => setFullDuration(e.target.duration)}
+  onTimeUpdate={(e) => {
+    if (isFullPlaying) {
+      setFullCurrentTime(e.target.currentTime);
+    }
+  }}
+/>
 
       <button
         onClick={onBack}
@@ -933,10 +1058,36 @@ function GameView({ title, onBack, currentSong, snippetIndex, displayedTime, LEV
           <h3>
             Fragment: <strong>{LEVELS[snippetIndex].label}</strong>
           </h3>
-          <p>
-            ⏱ {displayedTime.toFixed(1)}s / {LEVELS[snippetIndex].displayTime}s
-          </p>
+ <div style={{ marginBottom: 10 }}>
+  <TimelineBar
+    LEVELS={LEVELS}
+    currentTime={currentTime}
+  />
+  <div
+  style={{
+    display: "flex",
+    justifyContent: "center",
+    alignItems: "center",
+    gap: 8,
+    marginTop: 10,
+    fontSize: "1rem",
+    fontWeight: "600",
+    letterSpacing: "0.5px"
+  }}
+>
+  <span style={{ color: "#aaa" }}>⏱</span>
 
+  <span style={{ color: "#ffffff" }}>
+    {displayedTime.toFixed(1)}
+  </span>
+
+  <span style={{ color: "#666" }}>/</span>
+
+  <span style={{ color: "#4caf50" }}>
+    {LEVELS[snippetIndex].displayTime}s
+  </span>
+</div>
+</div>
           <div style={{ display: "flex", gap: 10, justifyContent: "center", marginBottom: 35 }}>
             <button style={btnDark} onClick={isPlaying ? stopSnippet : playSnippet}>
               {isPlaying ? "⏹ Stop" : "▶️ Play"}
@@ -1062,25 +1213,61 @@ function GameView({ title, onBack, currentSong, snippetIndex, displayedTime, LEV
           <GuessChart stats={stats} currentLevel={isCorrect ? LEVELS[snippetIndex].label : "fail"} />
 
           <div style={{ marginTop: 25 }}>
-            <button style={{ ...btnDark, marginRight: 10 }} onClick={isFullPlaying ? stopFullSong : playFullSong}>
-              {isFullPlaying ? "⏹ Stop Full" : "▶️ Play Full"}
-            </button>
 
-            <button
-              onClick={startNewSong}
-              style={{
-                background: "#fff",
-                color: "#000",
-                padding: "12px 30px",
-                borderRadius: 10,
-                fontWeight: "bold",
-                border: "none",
-                cursor: "pointer"
-              }}
-            >
-              Next Song →
-            </button>
-          </div>
+  <button
+    style={{ ...btnDark, marginRight: 10 }}
+    onClick={isFullPlaying ? stopFullSong : playFullSong}
+  >
+    {isFullPlaying ? "⏹ Stop Full" : "▶️ Play Full"}
+  </button>
+
+  {isFullPlaying && (
+    <div style={{ width: 420, margin: "20px auto" }}>
+
+      <div style={{
+        display: "flex",
+        justifyContent: "space-between",
+        fontSize: 12,
+        color: "#aaa"
+      }}>
+        <span>{formatTime(fullCurrentTime)}</span>
+        <span>{formatTime(fullDuration)}</span>
+      </div>
+
+      <input
+        type="range"
+        min="0"
+        max={fullDuration || 0}
+        step="0.1"
+        value={fullCurrentTime}
+        onChange={(e) => seekFullSong(parseFloat(e.target.value))}
+        style={{
+          width: "100%",
+          marginTop: 5,
+          accentColor: "#4caf50",
+          cursor: "pointer"
+        }}
+      />
+
+    </div>
+  )}
+
+  <button
+    onClick={startNewSong}
+    style={{
+      background: "#fff",
+      color: "#000",
+      padding: "12px 30px",
+      borderRadius: 10,
+      fontWeight: "bold",
+      border: "none",
+      cursor: "pointer"
+    }}
+  >
+    Next Song →
+  </button>
+
+</div>
         </div>
       )}
     </>
