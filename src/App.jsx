@@ -576,6 +576,32 @@ const manualDaily = {
       categories: ["rap"],
       dailyCategory: "Rap",
     },
+  ],
+  "2026-03-15": [
+    {
+      title: "Vampire",
+      artist: "Olivia Rodrigo",
+      cover: "/songs/covers/guts.jpg",
+      snippet: "/songs/pop/vampire.mp3",
+      categories: ["pop"],
+      dailyCategory: "Pop",
+    },
+    {
+      title: "Dreams",
+      artist: "Fleetwood Mac",
+      cover: "/songs/covers/rumours.jpg",
+      snippet: "/songs/rock/dreams.mp3",
+      categories: ["rock"],
+      dailyCategory: "Rock",
+    },
+    {
+      title: "Money Trees (feat. Jay Rock)",
+      artist: "Kendrick Lamar",
+      cover: "/songs/covers/gkmd.jpg",
+      snippet: "/songs/rap/money_trees.mp3",
+      categories: ["rap"],
+      dailyCategory: "Rap",
+    },
   ]
 };
 
@@ -718,6 +744,9 @@ const [fullDuration, setFullDuration] = useState(0);
     const song = list[idx];
     setCurrentSong(song);
     setSnippetIndex(0);
+    setFullCurrentTime(0);
+    setFullDuration(0);
+    setIsFullPlaying(false);
     setCurrentTime(0);          // ✅ reset paska
     setLastSnippetIndex(-1);    // ✅ reset logiki progów
     setHasPlayedCurrentLevel(false);
@@ -880,6 +909,9 @@ const [fullDuration, setFullDuration] = useState(0);
       setDailyIndex(next);
       setCurrentSong(dailySongs[next]);
       setSnippetIndex(0);
+      setFullCurrentTime(0);
+      setFullDuration(0);
+      setIsFullPlaying(false);
       setCurrentTime(0);          // ✅ reset paska
       setLastSnippetIndex(-1);
       setHasPlayedCurrentLevel(false);
@@ -1212,7 +1244,7 @@ const formatTime = (time) => {
 
           <GuessChart stats={stats} currentLevel={isCorrect ? LEVELS[snippetIndex].label : "fail"} />
 
-          <div style={{ marginTop: 25 }}>
+      <div style={{ marginTop: 25 }}>
 
   <button
     style={{ ...btnDark, marginRight: 10 }}
@@ -1221,6 +1253,7 @@ const formatTime = (time) => {
     {isFullPlaying ? "⏹ Stop Full" : "▶️ Play Full"}
   </button>
 
+  {/* SEEK BAR */}
   {isFullPlaying && (
     <div style={{ width: 420, margin: "20px auto" }}>
 
@@ -1248,6 +1281,46 @@ const formatTime = (time) => {
           cursor: "pointer"
         }}
       />
+
+      {/* 🔊 SUWAK GŁOŚNOŚCI */}
+      <div style={{
+        display: "flex",
+        alignItems: "center",
+        justifyContent: "center",
+        gap: 10,
+        marginTop: 10
+      }}>
+
+        <span style={{ color: "#aaa" }}>🔊</span>
+
+        <input
+          type="range"
+          min="0"
+          max="1"
+          step="0.01"
+          value={volume}
+          onChange={(e) => {
+            const v = parseFloat(e.target.value);
+            setVolume(v);
+            if (audioRef.current) audioRef.current.volume = v;
+          }}
+          style={{
+            width: 160,
+            accentColor: "#4caf50",
+            cursor: "pointer"
+          }}
+        />
+
+        <span style={{
+          width: 35,
+          textAlign: "right",
+          color: "#4caf50",
+          fontWeight: "bold"
+        }}>
+          {Math.round(volume * 100)}%
+        </span>
+
+      </div>
 
     </div>
   )}
