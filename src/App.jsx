@@ -602,6 +602,32 @@ const manualDaily = {
       categories: ["rap"],
       dailyCategory: "Rap",
     },
+  ],
+  "2026-03-16": [
+    {
+      title: "Narcotic",
+      artist: "Liquido",
+      cover: "https://is1-ssl.mzstatic.com/image/thumb/Music116/v4/9f/b9/7b/9fb97b71-aa99-2d0a-cb53-69443c427bd7/859784003444_cover.jpg/600x600bb.jpg",
+      snippet: "/songs/pop/bryce_savage_narcotic.mp3",
+      categories: ["pop"],
+      dailyCategory: "Pop",
+    },
+    {
+      title: "Ruby",
+      artist: "Kaiser Chiefs",
+      cover: "https://is1-ssl.mzstatic.com/image/thumb/Music128/v4/c5/e6/83/c5e6833f-f0c8-a2e1-13b2-ba7e9a170eb5/00602547151865.rgb.jpg/600x600bb.jpg",
+      snippet: "/songs/rock/kaiser_chiefs_ruby.mp3",
+      categories: ["rock"],
+      dailyCategory: "Rock",
+    },
+    {
+      title: "Empire State Of Mind (feat. Alicia Keys)",
+      artist: "JAŸ-Z",
+      cover: "https://is1-ssl.mzstatic.com/image/thumb/Music115/v4/17/4a/a7/174aa7ea-0116-6240-1187-1efb51552833/00602527586502.rgb.jpg/600x600bb.jpg",
+      snippet: "/songs/rap/ja_z_empire_state_of_mind_feat_alicia_keys.mp3",
+      categories: ["rap"],
+      dailyCategory: "Rap",
+    },
   ]
 };
 
