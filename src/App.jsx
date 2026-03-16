@@ -628,6 +628,32 @@ const manualDaily = {
       categories: ["rap"],
       dailyCategory: "Rap",
     },
+  ],
+  "2026-03-17": [
+    {
+      title: "Best Day of My Life",
+      artist: "American Authors",
+      cover: "https://is1-ssl.mzstatic.com/image/thumb/Music125/v4/fe/6c/79/fe6c7944-593e-43b8-5ca2-3ca61cdbd393/14UMGIM01329.rgb.jpg/600x600bb.jpg",
+      snippet: "/songs/rock/american_authors_best_day_of_my_life_acoustic.mp3",
+      categories: ["pop"],
+      dailyCategory: "Pop",
+    },
+    {
+      title: "Beautiful Day",
+      artist: "U2",
+      cover: "/songs/covers/cantleave.jpg",
+      snippet: "/songs/rock/beautiful_day.mp3",
+      categories: ["rock"],
+      dailyCategory: "Rock",
+    },
+    {
+      title: "It Was A Good Day",
+      artist: "Ice Cube",
+      cover: "https://is1-ssl.mzstatic.com/image/thumb/Music116/v4/69/2f/1a/692f1a70-dc15-3a30-6a33-84623a9c49b8/23UM1IM17850.rgb.jpg/600x600bb.jpg",
+      snippet: "/songs/rap/ice_cube_it_was_a_good_day.mp3",
+      categories: ["rap"],
+      dailyCategory: "Rap",
+    },
   ]
 };
 
