@@ -654,6 +654,32 @@ const manualDaily = {
       categories: ["rap"],
       dailyCategory: "Rap",
     },
+  ],
+  "2026-03-18": [
+    {
+      title: "Where Is The Love",
+      artist: "Black Eyed Peas", 
+      cover: "/songs/covers/elephunk.jpg",
+      snippet: "/songs/pop/where_love.mp3",
+      categories: ["pop"],
+      dailyCategory: "Pop",
+    },
+    {
+      title: "Still Waiting",
+      artist: "Sum 41",
+      cover: "/songs/covers/cantleave.jpg",
+      snippet: "/songs/rock/beautiful_day.mp3",
+      categories: ["rock"],
+      dailyCategory: "Rock",
+    },
+    {
+      title: "WAIT FOR U (feat. Drake & Tems)",
+      artist: "Future",
+      cover: "https://is1-ssl.mzstatic.com/image/thumb/Music122/v4/c8/4c/fa/c84cfa03-1916-89f1-5362-03425fbe2ff9/196589073709.jpg/600x600bb.jpg",
+      snippet: "/songs/rap/future_wait_for_u_feat_drake_tems.mp3",
+      categories: ["rap"],
+      dailyCategory: "Rap",
+    },
   ]
 };
 
