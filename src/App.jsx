@@ -667,8 +667,8 @@ const manualDaily = {
     {
       title: "Still Waiting",
       artist: "Sum 41",
-      cover: "/songs/covers/cantleave.jpg",
-      snippet: "/songs/rock/beautiful_day.mp3",
+      cover: "https://is1-ssl.mzstatic.com/image/thumb/Music112/v4/59/bb/db/59bbdb07-a7f5-0d57-1277-86cda40ac95e/So_Tuff_So_Cute_EDCLV22.png/600x600bb.jpg",
+      snippet: "/songs/pop/sum_41_still_waiting_mixed.mp3",
       categories: ["rock"],
       dailyCategory: "Rock",
     },
