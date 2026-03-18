@@ -549,10 +549,17 @@
     "cover": "https://is1-ssl.mzstatic.com/image/thumb/Music116/v4/a1/66/cb/a166cb1e-64b5-c1e5-8664-47755c1ae2d7/26027.jpg/600x600bb.jpg"
   },
    {
-    "title": "Marshmello & Anne-Marie",
-    "artist": "Friends",
+    "title": "Friends",
+    "artist": "Marshmello & Anne-Marie",
     "categories": ["Pop", "Pop 10s"],
     "snippet": "/songs/pop/ssstas_marshmello_anne_marie_friends_remix.mp3",
     "cover": "https://is1-ssl.mzstatic.com/image/thumb/Music125/v4/43/4d/a2/434da25b-fa20-9454-96c7-c23f236f3876/0.jpg/600x600bb.jpg"
+  },
+   {
+    "title": "Supalonely",
+    "artist": "BENEE",
+    "categories": ["Pop", "Pop 20s"],
+    "snippet": "/songs/pop/party_tyme_karaoke_supalonely_made_popular_by_benee_ft_gus_dapperton_karaoke_version.mp3",
+    "cover": "https://is1-ssl.mzstatic.com/image/thumb/Music125/v4/8c/0f/4b/8c0f4bb4-3ebe-1531-84c4-f9d3c2f7d0ee/21UM1IM26263.rgb.jpg/600x600bb.jpg"
   }
 ]

@@ -680,6 +680,32 @@ const manualDaily = {
       categories: ["rap"],
       dailyCategory: "Rap",
     },
+  ],
+  "2026-03-19": [
+    {
+      title: "Friends",
+      artist: "Marshmello & Anne-Marie",
+      cover: "https://is1-ssl.mzstatic.com/image/thumb/Music125/v4/43/4d/a2/434da25b-fa20-9454-96c7-c23f236f3876/0.jpg/600x600bb.jpg",
+      snippet: "/songs/pop/ssstas_marshmello_anne_marie_friends_remix.mp3",
+      categories: ["pop"],
+      dailyCategory: "Pop",
+    },
+    {
+      title: "Smooth Operator",
+      artist: "Sade",
+      cover: "https://is1-ssl.mzstatic.com/image/thumb/Music115/v4/4d/d5/a1/4dd5a1b7-7134-f0ec-b55c-54ac47cc88a5/886448655886.jpg/600x600bb.jpg",
+      snippet: "/songs/pop/sade_smooth_operator.mp3",
+      categories: ["rock"],
+      dailyCategory: "Rock",
+    },
+    {
+      title: "Man's Not Hot",
+      artist: "Big Shaq",
+      cover: "https://is1-ssl.mzstatic.com/image/thumb/Music115/v4/4a/54/3e/4a543e0a-fdda-4d89-4dc0-b67c7743c18f/00602567083108.rgb.jpg/600x600bb.jpg",
+      snippet: "/songs/rap/big_shaq_man_s_not_hot.mp3",
+      categories: ["rap"],
+      dailyCategory: "Rap",
+    },
   ]
 };
 
