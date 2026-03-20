@@ -706,6 +706,32 @@ const manualDaily = {
       categories: ["rap"],
       dailyCategory: "Rap",
     },
+  ],
+  "2026-03-20": [
+    {
+      title: "Break Free (feat. Zedd)",
+      artist: "Ariana Grande",
+      cover: "/songs/covers/everything.jpg",
+      snippet: "/songs/pop/break_free.mp3",
+      categories: ["pop"],
+      dailyCategory: "Pop",
+    },
+    {
+      title: "Wonderful Tonight",
+      artist: "Eric Clapton",
+      cover: "https://is1-ssl.mzstatic.com/image/thumb/Music115/v4/2b/55/08/2b550878-8bad-b40f-9a58-d63aca53c824/00602498206034.rgb.jpg/600x600bb.jpg",
+      snippet: "/songs/rock/eric_clapton_wonderful_tonight.mp3",
+      categories: ["rock"],
+      dailyCategory: "Rock",
+    },
+    {
+      title: "Like Jennie",
+      artist: "Jennie",
+      cover: "/songs/covers/ruby.jpg",
+      snippet: "/songs/pop/jennie.mp3",
+      categories: ["rap"],
+      dailyCategory: "Rap",
+    },
   ]
 };
 
