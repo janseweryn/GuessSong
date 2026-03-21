@@ -732,6 +732,32 @@ const manualDaily = {
       categories: ["rap"],
       dailyCategory: "Rap",
     },
+  ],
+  "2026-03-21": [
+    {
+      title: "Rasputin",
+      artist: "Boney M.",
+      cover: "https://is1-ssl.mzstatic.com/image/thumb/Music115/v4/b7/86/45/b786452a-a723-eaed-8170-cdc261367eb7/886443575578.jpg/600x600bb.jpg",
+      snippet: "/songs/pop/boney_m_rasputin.mp3",
+      categories: ["pop"],
+      dailyCategory: "Pop",
+    },
+    {
+      title: "To Hell and Back",
+      artist: "Sabaton",
+      cover: "https://is1-ssl.mzstatic.com/image/thumb/Music124/v4/21/b8/41/21b84170-87e6-d667-599a-c8a6ab0a9f8b/cover.jpg/600x600bb.jpg",
+      snippet: "/songs/rock/sabaton_to_hell_and_back.mp3",
+      categories: ["rock"],
+      dailyCategory: "Rock",
+    },
+    {
+      title: "Ice Ice Baby",
+      artist: "Vanilla Ice",
+      cover: "https://is1-ssl.mzstatic.com/image/thumb/Music221/v4/a1/6f/fb/a16ffb26-747f-5509-1233-2e472c293a89/13UABIM50850.rgb.jpg/600x600bb.jpg",
+      snippet: "/songs/rap/vanilla_ice_ice_ice_baby.mp3",
+      categories: ["rap"],
+      dailyCategory: "Rap",
+    },
   ]
 };
 
