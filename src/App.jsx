@@ -758,6 +758,32 @@ const manualDaily = {
       categories: ["rap"],
       dailyCategory: "Rap",
     },
+  ],
+   "2026-03-22": [
+    {
+      title: "Guess featuring Billie Eilish",
+      artist: "Charli xcx & Billie Eilish",
+      cover: "/songs/covers/brat2.jpg",
+      snippet: "/songs/pop/guess.mp3",
+      categories: ["pop"],
+      dailyCategory: "Pop",
+    },
+    {
+      title: "Hurricane",
+      artist: "Bob Dylan",
+      cover: "https://is1-ssl.mzstatic.com/image/thumb/Music114/v4/60/27/eb/6027eba8-bb22-7c2c-576c-21ffb345ebad/mzi.beramgst.jpg/600x600bb.jpg",
+      snippet: "/songs/rock/bob_dylan_hurricane.mp3",
+      categories: ["rock"],
+      dailyCategory: "Rock",
+    },
+    {
+      title: "Kokain",
+      artist: "RAF Camora & Bonez MC",
+      cover: "/songs/covers/palmen.jpg",
+      snippet: "/songs/rap/kokain.mp3",
+      categories: ["rap"],
+      dailyCategory: "Rap",
+    },
   ]
 };
 
