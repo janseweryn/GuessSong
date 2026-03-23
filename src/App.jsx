@@ -784,6 +784,32 @@ const manualDaily = {
       categories: ["rap"],
       dailyCategory: "Rap",
     },
+  ],
+  "2026-03-24": [
+    {
+      title: "Rather Be (feat. Jess Glynne)",
+      artist: "Clean Bandit",
+      cover: "https://is1-ssl.mzstatic.com/image/thumb/Music125/v4/19/e0/1b/19e01b5f-0fd5-85f1-f347-461d4130309a/825646029594.jpg/600x600bb.jpg",
+      snippet: "/songs/pop/clean_bandit_rather_be_feat_jess_glynne.mp3",
+      categories: ["pop"],
+      dailyCategory: "Pop",
+    },
+    {
+      title: "People Are Strange",
+      artist: "The Doors",
+      cover: "/songs/covers/strange.jpg",
+      snippet: "/songs/rock/strange_people.mp3",
+      categories: ["rock"],
+      dailyCategory: "Rock",
+    },
+    {
+      title: "Subway Sexists",
+      artist: "Yung Spinach Cumshot",
+      cover: "/songs/covers/szpinak.jpg",
+      snippet: "/songs/rap/Subway_Sexists.mp3",
+      categories: ["rap"],
+      dailyCategory: "Rap",
+    },
   ]
 };
 
