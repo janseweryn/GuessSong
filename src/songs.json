@@ -13957,6 +13957,20 @@
     "categories": ["Rap", "Rap 20s"],
     "snippet": "/songs/rap/Subway_Sexists.mp3",
     "cover": "/songs/covers/szpinak.jpg"
+  },
+   {
+    "title": "The Passenger",
+    "artist": "Iggy Pop",
+    "categories": ["Rock", "Rock 70s"],
+    "snippet": "/songs/rock/iggy_pop_the_passenger.mp3",
+    "cover": "https://is1-ssl.mzstatic.com/image/thumb/Music124/v4/fb/2c/56/fb2c56ca-05ad-f73f-a1b7-9917081db1b9/17UMGIM08423.rgb.jpg/600x600bb.jpg"
+  },
+  {
+    "title": "Jocelyn Flores",
+    "artist": "XXXTENTACION",
+    "categories": ["Rap", "Rap 10s"],
+    "snippet": "/songs/pop/lrn_slime_shiloh_dynasty_jocelyn_flores.mp3",
+    "cover": "/songs/covers/17.jpg"
   }
 ]
 

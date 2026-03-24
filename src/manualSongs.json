@@ -568,5 +568,12 @@
     "categories": ["Rap", "Rap 20s"],
     "snippet": "/songs/rap/Subway_Sexists.mp3",
     "cover": "/songs/covers/szpinak.jpg"
+  },
+  {
+    "title": "Jocelyn Flores",
+    "artist": "XXXTENTACION",
+    "categories": ["Rap", "Rap 10s"],
+    "snippet": "/songs/pop/lrn_slime_shiloh_dynasty_jocelyn_flores.mp3",
+    "cover": "/songs/covers/17.jpg"
   }
 ]

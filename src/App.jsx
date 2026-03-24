@@ -810,6 +810,32 @@ const manualDaily = {
       categories: ["rap"],
       dailyCategory: "Rap",
     },
+  ],
+  "2026-03-25": [
+    {
+      title: "Rude Boy",
+      artist: "Rihanna",
+      cover: "/songs/covers/rated.jpg",
+      snippet: "/songs/pop/rude_boy.mp3",
+      categories: ["pop"],
+      dailyCategory: "Pop",
+    },
+    {
+      title: "The Passenger",
+      artist: "Iggy Pop",
+      cover: "https://is1-ssl.mzstatic.com/image/thumb/Music124/v4/fb/2c/56/fb2c56ca-05ad-f73f-a1b7-9917081db1b9/17UMGIM08423.rgb.jpg/600x600bb.jpg",
+      snippet: "/songs/rock/iggy_pop_the_passenger.mp3",
+      categories: ["rock"],
+      dailyCategory: "Rock",
+    },
+    {
+      title: "Jocelyn Flores",
+      artist: "XXXTENTACION",
+      cover: "/songs/covers/17.jpg",
+      snippet: "/songs/pop/lrn_slime_shiloh_dynasty_jocelyn_flores.mp3",
+      categories: ["rap"],
+      dailyCategory: "Rap",
+    },
   ]
 };
 
