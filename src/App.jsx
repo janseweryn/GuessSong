@@ -836,6 +836,32 @@ const manualDaily = {
       categories: ["rap"],
       dailyCategory: "Rap",
     },
+  ],
+  "2026-03-27": [
+    {
+      title: "Oops!…I Did It Again",
+      artist: "Britney Spears",
+      cover: "/songs/covers/oops.jpg",
+      snippet: "/songs/pop/oops_again.mp3",
+      categories: ["pop"],
+      dailyCategory: "Pop",
+    },
+    {
+      title: "Kryptonite",
+      artist: "3 Doors Down",
+      cover: "https://is1-ssl.mzstatic.com/image/thumb/Music125/v4/61/2a/58/612a58ca-af10-cc8f-07ef-b3368ebc9564/07UMGIM12238.rgb.jpg/600x600bb.jpg",
+      snippet: "/songs/rock/3_doors_down_kryptonite.mp3",
+      categories: ["rock"],
+      dailyCategory: "Rock",
+    },
+    {
+      title: "Smack That (feat. Eminem)",
+      artist: "Akon featuring Eminem",
+      cover: "https://is1-ssl.mzstatic.com/image/thumb/Music221/v4/b7/88/33/b78833e4-30eb-739b-d5de-09d2d7db84b3/06UMGIM19420.rgb.jpg/600x600bb.jpg",
+      snippet: "/songs/rap/akon_featuring_eminem_smack_that_feat_eminem.mp3",
+      categories: ["rap"],
+      dailyCategory: "Rap",
+    },
   ]
 };
 
