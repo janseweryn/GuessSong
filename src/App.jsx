@@ -862,6 +862,32 @@ const manualDaily = {
       categories: ["rap"],
       dailyCategory: "Rap",
     },
+  ],
+  "2026-03-28": [
+    {
+      title: "Worth It (feat. Kid Ink)",
+      artist: "Fifth Harmony",
+      cover: "https://is1-ssl.mzstatic.com/image/thumb/Music125/v4/98/e0/57/98e0573f-52c5-b8bf-f2cf-6246d055c60d/dj.kmbgqmzy.jpg/600x600bb.jpg",
+      snippet: "/songs/pop/fifth_harmony_worth_it_feat_kid_ink.mp3",
+      categories: ["pop"],
+      dailyCategory: "Pop",
+    },
+    {
+      title: "Still Loving You",
+      artist: "Scorpions",
+      cover: "https://is1-ssl.mzstatic.com/image/thumb/Music124/v4/8d/a4/f9/8da4f95f-4162-9d31-7131-fe49337a1689/00731453478626.rgb.jpg/600x600bb.jpg",
+      snippet: "/songs/rock/scorpions_no_one_like_you.mp3",
+      categories: ["rock"],
+      dailyCategory: "Rock",
+    },
+    {
+      title: "Feather (feat. Cise Starr & Akin)",
+      artist: "Nujabes",
+      cover: "https://is1-ssl.mzstatic.com/image/thumb/Music125/v4/ad/18/6b/ad186b39-cd19-fa4d-abe0-bf6860cd8d9d/POCS-30003_jkt.jpg/600x600bb.jpg",
+      snippet: "/songs/rap/nujabes_feather_feat_cise_starr_akin.mp3",
+      categories: ["rap"],
+      dailyCategory: "Rap",
+    },
   ]
 };
 
