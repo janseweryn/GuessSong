@@ -888,6 +888,32 @@ const manualDaily = {
       categories: ["rap"],
       dailyCategory: "Rap",
     },
+  ],
+   "2026-03-29": [
+    {
+      title: "Pink Pony Club",
+      artist: "Chappell Roan",
+      cover: "/songs/covers/princess.jpg",
+      snippet: "/songs/pop/pink_pony.mp3",
+      categories: ["pop"],
+      dailyCategory: "Pop",
+    },
+    {
+      title: "Like a Stone",
+      artist: "Audioslave",
+      cover: "https://is1-ssl.mzstatic.com/image/thumb/Features115/v4/9c/b6/c2/9cb6c246-3626-7789-26a9-79b787e5668d/dj.owymmnty.jpg/600x600bb.jpg",
+      snippet: "/songs/rock/audioslave_like_a_stone.mp3",
+      categories: ["rock"],
+      dailyCategory: "Rock",
+    },
+    {
+      title: "Fancy (feat. Charli XCX)",
+      artist: "Iggy Azalea",
+      cover: "https://is1-ssl.mzstatic.com/image/thumb/Music112/v4/32/64/0d/32640dc0-879a-2771-cfe7-91ea4568436a/14UMGIM08058.rgb.jpg/600x600bb.jpg",
+      snippet: "/songs/rap/iggy_azalea_fancy_feat_charli_xcx.mp3",
+      categories: ["rap"],
+      dailyCategory: "Rap",
+    },
   ]
 };
 

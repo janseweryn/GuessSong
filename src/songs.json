@@ -13971,6 +13971,20 @@
     "categories": ["Rap", "Rap 10s"],
     "snippet": "/songs/pop/lrn_slime_shiloh_dynasty_jocelyn_flores.mp3",
     "cover": "/songs/covers/17.jpg"
+  },
+  {
+    "title": "Like a Stone",
+    "artist": "Audioslave",
+    "categories": ["Rock", "Rock 00s"],
+    "snippet": "/songs/rock/audioslave_like_a_stone.mp3",
+    "cover": "https://is1-ssl.mzstatic.com/image/thumb/Features115/v4/9c/b6/c2/9cb6c246-3626-7789-26a9-79b787e5668d/dj.owymmnty.jpg/600x600bb.jpg"
+  },
+  {
+    "title": "Fancy (feat. Charli XCX)",
+    "artist": "Iggy Azalea",
+    "categories": ["Rap", "Rap 10s"],
+    "snippet": "/songs/rap/iggy_azalea_fancy_feat_charli_xcx.mp3",
+    "cover": "https://is1-ssl.mzstatic.com/image/thumb/Music112/v4/32/64/0d/32640dc0-879a-2771-cfe7-91ea4568436a/14UMGIM08058.rgb.jpg/600x600bb.jpg"
   }
 ]
 
