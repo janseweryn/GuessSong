@@ -914,6 +914,32 @@ const manualDaily = {
       categories: ["rap"],
       dailyCategory: "Rap",
     },
+  ],
+  "2026-03-30": [
+    {
+      title: "Manchild",
+      artist: "Sabrina Carpenter",
+      cover: "/songs/covers/mansbest.jpg",
+      snippet: "/songs/pop/manchild.mp3",
+      categories: ["pop"],
+      dailyCategory: "Pop",
+    },
+    {
+      title: "Fear Of The Dark",
+      artist: "Iron Maiden", 
+      cover: "/songs/covers/feardark.jpg",
+      snippet: "/songs/rock/fear_dark.mp3",
+      categories: ["rock"],
+      dailyCategory: "Rock",
+    },
+    {
+      title: "Helicopter",
+      artist: "A$AP Rocky",
+      cover: "/songs/covers/dontdumb.jpg",
+      snippet: "/songs/rap/goodie_mob_cell_therapy.mp3",
+      categories: ["rap"],
+      dailyCategory: "Rap",
+    },
   ]
 };
 
