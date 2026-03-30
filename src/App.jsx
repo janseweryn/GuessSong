@@ -940,6 +940,32 @@ const manualDaily = {
       categories: ["rap"],
       dailyCategory: "Rap",
     },
+  ],
+   "2026-03-31": [
+    {
+      title: "Sweden",
+      artist: "C418",
+      cover: "https://is1-ssl.mzstatic.com/image/thumb/Music115/v4/08/11/31/08113125-d66e-1f90-65d9-08e28000495c/859705593825_cover.jpg/600x600bb.jpg",
+      snippet: "/songs/pop/c418_sweden.mp3",
+      categories: ["pop"],
+      dailyCategory: "Pop",
+    },
+    {
+      title: "The Winner Takes It All",
+      artist: "Abba", 
+      cover: "/songs/covers/trouper.jpg",
+      snippet: "/songs/pop/winner.mp3",
+      categories: ["rock"],
+      dailyCategory: "Rock",
+    },
+    {
+      title: "Poland",
+      artist: "Lil Yachty",
+      cover: "/songs/covers/pzpn.jpg",
+      snippet: "/songs/rap/poland.mp3",
+      categories: ["rap"],
+      dailyCategory: "Rap",
+    },
   ]
 };
 
