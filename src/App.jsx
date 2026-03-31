@@ -966,6 +966,32 @@ const manualDaily = {
       categories: ["rap"],
       dailyCategory: "Rap",
     },
+  ],
+  "2026-04-01": [
+    {
+      title: "Pop Out",
+      artist: "Playboi Carti",
+      cover: "/songs/covers/music.jpg",
+      snippet: "/songs/pop/the_weeknd_playboi_carti_timeless.mp3",
+      categories: ["pop"],
+      dailyCategory: "Pop",
+    },
+    {
+      title: "Rock That Body",
+      artist: "Black Eyed Peas",
+      cover: "/songs/covers/end.jpg",
+      snippet: "/songs/pop/rock_body.mp3",
+      categories: ["rock"],
+      dailyCategory: "Rock",
+    },
+    {
+      title: "Rapapara",
+      artist: "Łydka Grubasa",
+      cover: "https://is1-ssl.mzstatic.com/image/thumb/Music211/v4/64/04/ed/6404edeb-6540-b9b1-8175-1c5bd9b0a99e/cover.jpg/600x600bb.jpg",
+      snippet: "/songs/Polskie/lydka_grubasa_rapapara.mp3",
+      categories: ["rap"],
+      dailyCategory: "Rap",
+    },
   ]
 };
 
