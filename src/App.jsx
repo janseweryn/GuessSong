@@ -992,7 +992,33 @@ const manualDaily = {
       categories: ["rap"],
       dailyCategory: "Rap",
     },
-  ]
+  ],
+  "2026-04-02": [
+    {
+      title: "Alors on danse",
+      artist: "Stromae",
+      cover: "https://is1-ssl.mzstatic.com/image/thumb/Music122/v4/a8/69/90/a869906a-dd48-b772-785b-871459b36df2/10UMGIM03438.rgb.jpg/600x600bb.jpg",
+      snippet: "/songs/pop/stromae_alors_on_danse.mp3",
+      categories: ["pop"],
+      dailyCategory: "Pop",
+    },
+    {
+      title: "Hoppípolla",
+      artist: "Sigur Rós",
+      cover: "https://is1-ssl.mzstatic.com/image/thumb/Music114/v4/ce/3e/b8/ce3eb805-fb13-0200-5856-081ed0014e13/190296926952.jpg/600x600bb.jpg",
+      snippet: "/songs/rock/sigur_ros_hopp_polla.mp3",
+      categories: ["rock"],
+      dailyCategory: "Rock",
+    },
+    {
+      title: "Right Round (feat. Ke$ha)",
+      artist: "Flo Rida",
+      cover: "https://is1-ssl.mzstatic.com/image/thumb/Music124/v4/4e/62/be/4e62be48-6e99-1dbe-622d-8ac2cf92467a/mzi.sngplwsl.jpg/600x600bb.jpg",
+      snippet: "/songs/rap/flo_rida_right_round_feat_ke_ha.mp3",
+      categories: ["rap"],
+      dailyCategory: "Rap",
+    },
+  ],
 };
 
 const LEVELS = [
