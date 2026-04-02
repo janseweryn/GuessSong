@@ -1019,6 +1019,32 @@ const manualDaily = {
       dailyCategory: "Rap",
     },
   ],
+  "2026-04-03": [
+    {
+      title: "Happy",
+      artist: "Pharrell Williams",
+      cover: "https://is1-ssl.mzstatic.com/image/thumb/Music221/v4/76/ff/5e/76ff5ee0-7ab4-2ac2-2598-486a9ccc06e1/886444516877.jpg/600x600bb.jpg",
+      snippet: "/songs/pop/pharrell_williams_happy_from_despicable_me_2.mp3",
+      categories: ["pop"],
+      dailyCategory: "Pop",
+    },
+    {
+      title: "Shiny Happy People",
+      artist: "R.E.M.",
+      cover: "https://is1-ssl.mzstatic.com/image/thumb/Music125/v4/05/ae/86/05ae8650-7bce-2377-8959-78ea033a99d9/00888072013711.rgb.jpg/600x600bb.jpg",
+      snippet: "/songs/rock/r_e_m_shiny_happy_people.mp3",
+      categories: ["rock"],
+      dailyCategory: "Rock",
+    },
+    {
+      title: "Wow.",
+      artist: "Post Malone",
+      cover: "https://is1-ssl.mzstatic.com/image/thumb/Music115/v4/6c/13/27/6c13279a-399b-2631-3cb2-6233a91d7a53/19UMGIM78325.rgb.jpg/600x600bb.jpg",
+      snippet: "/songs/rap/post_malone_wow.mp3",
+      categories: ["rap"],
+      dailyCategory: "Rap",
+    },
+  ],
 };
 
 const LEVELS = [
