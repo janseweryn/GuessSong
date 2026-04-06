@@ -1123,6 +1123,32 @@ const manualDaily = {
       dailyCategory: "Rap",
     },
   ],
+  "2026-04-07": [
+    {
+      title: "I Love it (feat. Charli XCX)",
+      artist: "Icona Pop",
+      cover: "/songs/covers/loveit.jpg",
+      snippet: "/songs/pop/i_love_it.mp3",
+      categories: ["pop"],
+      dailyCategory: "Pop",
+    },
+    {
+      title: "Last Nite",
+      artist: "The Strokes",
+      cover: "https://is1-ssl.mzstatic.com/image/thumb/Features115/v4/ea/04/d4/ea04d45d-6f5d-ede6-fb64-71f3e6a6e62f/dj.ojkzzidd.jpg/600x600bb.jpg",
+      snippet: "/songs/rock/the_strokes_last_nite.mp3",
+      categories: ["rock"],
+      dailyCategory: "Rock",
+    },
+    {
+      title: "Panda",
+      artist: "Desiigner",
+      cover: "https://is1-ssl.mzstatic.com/image/thumb/Music122/v4/a1/f1/f9/a1f1f914-6e61-21eb-d787-2d4020654aab/16UMGIM11380.rgb.jpg/600x600bb.jpg",
+      snippet: "/songs/rap/desiigner_panda.mp3",
+      categories: ["rap"],
+      dailyCategory: "Rap",
+    },
+  ],
 };
 
 const LEVELS = [
