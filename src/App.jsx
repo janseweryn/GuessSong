@@ -1169,7 +1169,7 @@ const manualDaily = {
     {
       title: "The Spins",
       artist: "Mac Miller",
-      cover: "https://is1-ssl.mzstatic.com/image/thumb/Music126/v4/fa/86/c6/fa86c648-146e-02a0-09f5-166dfb07b076/Long_Story_Short_Apple.png/600x600bb.jpg",
+      cover: "/songs/covers/kids.jpg",
       snippet: "/songs/pop/mac_miller_the_spins_ben_gerrans_remix_mixed.mp3",
       categories: ["rap"],
       dailyCategory: "Rap",
