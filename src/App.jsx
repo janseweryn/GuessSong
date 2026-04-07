@@ -1149,6 +1149,32 @@ const manualDaily = {
       dailyCategory: "Rap",
     },
   ],
+  "2026-04-08": [
+    {
+      title: "Back To Black",
+      artist: "Amy Winehouse",
+      cover: "https://is1-ssl.mzstatic.com/image/thumb/Music128/v4/cd/6c/11/cd6c11b3-6300-0a29-d211-855847ed2c8c/00602547505040.rgb.jpg/600x600bb.jpg",
+      snippet: "/songs/pop/amy_winehouse_back_to_black_original_demo.mp3",
+      categories: ["pop"],
+      dailyCategory: "Pop",
+    },
+    {
+      title: "Where Is My Mind?",
+      artist: "Pixies",
+      cover: "https://is1-ssl.mzstatic.com/image/thumb/Music116/v4/68/b7/c0/68b7c018-dc15-f44a-2611-be10237fc9a5/652637080308.png/600x600bb.jpg",
+      snippet: "/songs/rock/pixies_where_is_my_mind_2007_remaster.mp3",
+      categories: ["rock"],
+      dailyCategory: "Rock",
+    },
+    {
+      title: "The Spins",
+      artist: "Mac Miller",
+      cover: "https://is1-ssl.mzstatic.com/image/thumb/Music126/v4/fa/86/c6/fa86c648-146e-02a0-09f5-166dfb07b076/Long_Story_Short_Apple.png/600x600bb.jpg",
+      snippet: "/songs/pop/mac_miller_the_spins_ben_gerrans_remix_mixed.mp3",
+      categories: ["rap"],
+      dailyCategory: "Rap",
+    },
+  ],
 };
 
 const LEVELS = [
