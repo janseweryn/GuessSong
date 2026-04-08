@@ -1175,6 +1175,32 @@ const manualDaily = {
       dailyCategory: "Rap",
     },
   ],
+  "2026-04-09": [
+    {
+      title: "On My Mind",
+      artist: "Ellie Goulding",
+      cover: "https://is1-ssl.mzstatic.com/image/thumb/Music116/v4/c4/5f/26/c45f26ac-1bd4-1481-ce51-8a4c10bcd757/15UMGIM48135.rgb.jpg/600x600bb.jpg",
+      snippet: "/songs/pop/ellie_goulding_on_my_mind.mp3",
+      categories: ["pop"],
+      dailyCategory: "Pop",
+    },
+    {
+      title: "I Can't Dance",
+      artist: "Genesis",
+      cover: "https://is1-ssl.mzstatic.com/image/thumb/Music/2f/5e/61/mzi.fornxdla.jpg/600x600bb.jpg",
+      snippet: "/songs/rock/genesis_i_can_t_dance.mp3",
+      categories: ["rock"],
+      dailyCategory: "Rock",
+    },
+    {
+      title: "Remember the Name (feat. Styles of Beyond)",
+      artist: "Fort Minor",
+      cover: "https://is1-ssl.mzstatic.com/image/thumb/Music124/v4/ab/03/ab/ab03ab77-c4f1-d740-8561-3cb3042b61c4/093624906988.jpg/600x600bb.jpg",
+      snippet: "/songs/rap/fort_minor_remember_the_name_feat_styles_of_beyond.mp3",
+      categories: ["rap"],
+      dailyCategory: "Rap",
+    },
+  ],
 };
 
 const LEVELS = [
