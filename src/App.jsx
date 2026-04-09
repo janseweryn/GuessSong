@@ -1201,6 +1201,32 @@ const manualDaily = {
       dailyCategory: "Rap",
     },
   ],
+  "2026-04-10": [
+    {
+      title: "Lover Girl",
+      artist: "Laufey",
+      cover: "/songs/covers/mattertime.jpg",
+      snippet: "/songs/pop/lover_girl.mp3",
+      categories: ["pop"],
+      dailyCategory: "Pop",
+    },
+    {
+      title: "Every Breath You Take",
+      artist: "The Police",
+      cover: "https://is1-ssl.mzstatic.com/image/thumb/Music211/v4/42/b7/db/42b7dbe1-d13f-c600-5b78-daa57c5d0f08/06UMGIM50761.rgb.jpg/600x600bb.jpg",
+      snippet: "/songs/rock/the_police_every_breath_you_take.mp3",
+      categories: ["rock"],
+      dailyCategory: "Rock",
+    },
+    {
+      title: "Hotline Bling",
+      artist: "Drake",
+      cover: "https://is1-ssl.mzstatic.com/image/thumb/Music115/v4/f2/0d/8b/f20d8bff-a927-ae98-6784-20a1f51cb23e/16UMGIM27642.rgb.jpg/600x600bb.jpg",
+      snippet: "/songs/rap/drake_hotline_bling.mp3",
+      categories: ["rap"],
+      dailyCategory: "Rap",
+    },
+  ],
 };
 
 const LEVELS = [
