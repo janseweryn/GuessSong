@@ -1227,6 +1227,32 @@ const manualDaily = {
       dailyCategory: "Rap",
     },
   ],
+  "2026-04-11": [
+    {
+      title: "Thunder",
+      artist: "Imagine Dragons",
+      cover: "https://is1-ssl.mzstatic.com/image/thumb/Music126/v4/11/7a/b8/117ab805-6811-8929-18b9-0fad7baf0c25/17UMGIM98210.rgb.jpg/600x600bb.jpg",
+      snippet: "/songs/rock/imagine_dragons_thunder.mp3",
+      categories: ["pop"],
+      dailyCategory: "Pop",
+    },
+    {
+      title: "This Must Be the Place (Naive Melody)",
+      artist: "Talking Heads",
+      cover: "https://is1-ssl.mzstatic.com/image/thumb/Music/y2004/m08/d17/h21/s06.xwrnkppg.jpg/600x600bb.jpg",
+      snippet: "/songs/rock/talking_heads_this_must_be_the_place_naive_melody.mp3",
+      categories: ["rock"],
+      dailyCategory: "Rock",
+    },
+    {
+      title: "Mockingbird",
+      artist: "Eminem",
+      cover: "/songs/covers/encore.jpg",
+      snippet: "/songs/rap/bird.mp3",
+      categories: ["rap"],
+      dailyCategory: "Rap",
+    },
+  ],
 };
 
 const LEVELS = [
