@@ -1253,6 +1253,32 @@ const manualDaily = {
       dailyCategory: "Rap",
     },
   ],
+  "2026-04-12": [
+    {
+      title: "Hearthstone Main Theme",
+      artist: "Geek Music",
+      cover: "/songs/covers/hs.jpg",
+      snippet: "/songs/pop/lucasgitanofamily_hearthstone_main_theme_from_heroes_of_warcraft_flamenco_guitar.mp3",
+      categories: ["pop"],
+      dailyCategory: "Pop",
+    },
+    {
+      title: "Sultans of Swing",
+      artist: "Dire Straits",
+      cover: "https://is1-ssl.mzstatic.com/image/thumb/Music/47/c3/21/mzi.ciyzkqao.jpg/600x600bb.jpg",
+      snippet: "/songs/rock/dire_straits_sultans_of_swing.mp3",
+      categories: ["rock"],
+      dailyCategory: "Rock",
+    },
+    {
+      title: "Doo Wop (That Thing)",
+      artist: "Lauryn Hill",
+      cover: "https://is1-ssl.mzstatic.com/image/thumb/Music125/v4/09/6b/55/096b55c4-ee8f-23bd-df8f-0ca0821f3028/886446727189.jpg/600x600bb.jpg",
+      snippet:  "/songs/pop/lauryn_hill_doo_wop_that_thing.mp3",
+      categories: ["rap"],
+      dailyCategory: "Rap",
+    },
+  ],
 };
 
 const LEVELS = [
