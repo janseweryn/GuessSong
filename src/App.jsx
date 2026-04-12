@@ -1279,6 +1279,32 @@ const manualDaily = {
       dailyCategory: "Rap",
     },
   ],
+  "2026-04-13": [
+    {
+      title: "Torn",
+      artist: "Natalie Imbruglia",
+      cover: "https://is1-ssl.mzstatic.com/image/thumb/Music125/v4/11/5d/f1/115df15e-e05f-b0f1-ae66-3ad2c5e969b4/mzi.ihaejhxb.jpg/600x600bb.jpg",
+      snippet: "/songs/pop/natalie_imbruglia_torn.mp3",
+      categories: ["pop"],
+      dailyCategory: "Pop",
+    },
+    {
+      title: "Heart-Shaped Box",
+      artist: "Nirvana",
+      cover: "/songs/covers/utero.jpg",
+      snippet: "/songs/rock/heart_box.mp3",
+      categories: ["rock"],
+      dailyCategory: "Rock",
+    },
+    {
+      title: "I'll Be Missing You (feat. Faith Evans, 112)",
+      artist: "Puff Daddy & Faith Evans",
+      cover: "https://is1-ssl.mzstatic.com/image/thumb/Music125/v4/09/6b/55/096b55c4-ee8f-23bd-df8f-0ca0821f3028/886446727189.jpg/600x600bb.jpg",
+      snippet:  "/songs/rap/puff_daddy_faith_evans_i_ll_be_missing_you_feat_faith_evans_112.mp3",
+      categories: ["rap"],
+      dailyCategory: "Rap",
+    },
+  ],
 };
 
 const LEVELS = [
