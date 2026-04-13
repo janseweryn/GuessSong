@@ -1305,6 +1305,32 @@ const manualDaily = {
       dailyCategory: "Rap",
     },
   ],
+  "2026-04-14": [
+    {
+      title: "Please Please Please",
+      artist: "Sabrina Carpenter",
+      cover: "/songs/covers/short_sweet.jpg",
+      snippet: "/songs/pop/ppp.mp3",
+      categories: ["pop"],
+      dailyCategory: "Pop",
+    },
+    {
+      title: "Rhiannon",
+      artist: "Fleetwood Mac",
+      cover: "/songs/covers/fleetwood.jpg",
+      snippet: "/songs/rock/rhiannon.mp3",
+      categories: ["rock"],
+      dailyCategory: "Rock",
+    },
+    {
+      title: "Rockstar",
+      artist: "Lisa",
+      cover: "/songs/covers/alterego.jpg",
+      snippet:  "/songs/pop/rockstar_l.mp3",
+      categories: ["rap"],
+      dailyCategory: "Rap",
+    },
+  ],
 };
 
 const LEVELS = [
