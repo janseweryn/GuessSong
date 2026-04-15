@@ -1356,6 +1356,32 @@ const manualDaily = {
       categories: ["rap"],
       dailyCategory: "Rap",
     },
+  ],
+  "2026-04-16": [
+    {
+      title: "Bubblegum Bitch",
+      artist: "Marina",
+      cover: "https://is1-ssl.mzstatic.com/image/thumb/Music116/v4/a1/66/cb/a166cb1e-64b5-c1e5-8664-47755c1ae2d7/26027.jpg/600x600bb.jpg",
+      snippet: "/songs/pop/leana_mask_bubblegum_bitch.mp3",
+      categories: ["pop"],
+      dailyCategory: "Pop",
+    },
+    {
+      title: "Day Of The Dead",
+      artist: "Hollywood Undead",
+      cover: "/songs/covers/daydead.jpg",
+      snippet: "/songs/rock/day_dead.mp3",
+      categories: ["rock"],
+      dailyCategory: "Rock",
+    },
+    {
+      title: "Drop It Like It's Hot (feat. Pharrell Williams)",
+      artist: "Snoop Dogg",
+      cover: "https://is1-ssl.mzstatic.com/image/thumb/Music124/v4/a3/75/27/a3752707-e88a-cf93-423f-c6134156962a/00075021034518.rgb.jpg/600x600bb.jpg",
+      snippet:  "/songs/rap/snoop_dogg_drop_it_like_it_s_hot_feat_pharrell_williams.mp3",
+      categories: ["rap"],
+      dailyCategory: "Rap",
+    },
   ]
 };
 
