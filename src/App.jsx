@@ -1382,6 +1382,32 @@ const manualDaily = {
       categories: ["rap"],
       dailyCategory: "Rap",
     },
+  ],
+  "2026-04-17": [
+    {
+      title: "Drop Dead",
+      artist: "Olivia Rodrigo",
+      cover: "/songs/covers/Olivia_Rodrigo_-_Drop_Dead",
+      snippet: "/songs/pop/Olivia_Rodrigo_drop_dead",
+      categories: ["pop"],
+      dailyCategory: "Pop",
+    },
+    {
+      title: "Here Comes The Sun",
+      artist: "The Beatles",
+      cover: "/songs/covers/abbey.jpg",
+      snippet: "/songs/rock/here_comes_sun.mp3",
+      categories: ["rock"],
+      dailyCategory: "Rock",
+    },
+    {
+      title: "ROCKSTAR (feat. Roddy Ricch)",
+      artist: "DaBaby",
+      cover: "https://is1-ssl.mzstatic.com/image/thumb/Music124/v4/1b/63/04/1b630400-490e-245b-a26f-0120f6f253c8/20UMGIM28168.rgb.jpg/600x600bb.jpg",
+      snippet:  "/songs/rap/dababy_rockstar_feat_roddy_ricch.mp3",
+      categories: ["rap"],
+      dailyCategory: "Rap",
+    },
   ]
 };
 
