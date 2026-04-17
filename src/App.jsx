@@ -1408,7 +1408,33 @@ const manualDaily = {
       categories: ["rap"],
       dailyCategory: "Rap",
     },
-  ]
+  ],
+  "2026-04-18": [
+    {
+      title: "High Hopes",
+      artist: "Panic! At the Disco",
+      cover: "https://is1-ssl.mzstatic.com/image/thumb/Music125/v4/3b/92/c7/3b92c7e4-92eb-dd0f-68d5-b8b5bd357ec6/075679875136.jpg/600x600bb.jpg",
+      snippet: "/songs/rock/panic_at_the_disco_high_hopes.mp3",
+      categories: ["pop"],
+      dailyCategory: "Pop",
+    },
+    {
+      title: "High Hopes",
+      artist: "Pink Floyd",
+      cover: "https://is1-ssl.mzstatic.com/image/thumb/Music221/v4/f7/47/bf/f747bf4c-6a88-c26f-9545-f0ffed0b8992/886445627572.jpg/600x600bb.jpg",
+      snippet: "/songs/rock/pink_floyd_high_hopes.mp3",
+      categories: ["rock"],
+      dailyCategory: "Rock",
+    },
+    {
+      title: "Hope",
+      artist: "XXXTENTACION",
+      cover: "https://is1-ssl.mzstatic.com/image/thumb/Music115/v4/9f/ed/83/9fed8304-a865-af85-8d99-6d063cd60c93/dj.ipmigxtf.jpg/600x600bb.jpg",
+      snippet:  "/songs/pop/xxxtentacion_bad.mp3",
+      categories: ["rap"],
+      dailyCategory: "Rap",
+    },
+  ],
 };
 
 const LEVELS = [
