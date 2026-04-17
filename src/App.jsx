@@ -1387,8 +1387,8 @@ const manualDaily = {
     {
       title: "Drop Dead",
       artist: "Olivia Rodrigo",
-      cover: "/songs/covers/Olivia_Rodrigo_-_Drop_Dead",
-      snippet: "/songs/pop/Olivia_Rodrigo_drop_dead",
+      cover: "/songs/covers/Drop_Dead.png",
+      snippet: "/songs/pop/Olivia_Rodrigo_drop_dead.mp3",
       categories: ["pop"],
       dailyCategory: "Pop",
     },
