@@ -12951,7 +12951,7 @@
     "cover": "https://is1-ssl.mzstatic.com/image/thumb/Music122/v4/84/6d/92/846d926b-8290-3855-b32b-dd903cc9b1ad/13UMGIM26867.rgb.jpg/600x600bb.jpg"
   },
   {
-    "title": "Just a Lil Bit (Mixed)",
+    "title": "Just a Lil Bit",
     "artist": "50 Cent",
     "categories": ["Rap", "Rap 20s"],
     "snippet": "/songs/rap/50_cent_just_a_lil_bit_mixed.mp3",
@@ -14013,6 +14013,349 @@
     "categories": ["Rap", "Rap 90s"],
     "snippet": "/songs/rap/puff_daddy_faith_evans_i_ll_be_missing_you_feat_faith_evans_112.mp3",
     "cover": "https://is1-ssl.mzstatic.com/image/thumb/Music125/v4/db/2c/2d/db2c2dc7-18cd-f64e-3580-52eae12bccc0/dj.izjbcsws.jpg/600x600bb.jpg"
+  },
+  {
+    "title": "3005",
+    "artist": "Childish Gambino",
+    "categories": ["Rap", "Rap 10s"],
+    "snippet": "/songs/rap/childish_gambino_v_3005.mp3",
+    "cover": "https://is1-ssl.mzstatic.com/image/thumb/Music221/v4/6b/59/46/6b5946b3-821b-32d1-8586-1b12b3c9d3ed/0044003173453_Cover.jpg/600x600bb.jpg"
+  },
+  {
+    "title": "Drowning (feat. Kodak Black)",
+    "artist": "A Boogie wit da Hoodie",
+    "categories": ["Rap", "Rap 10s"],
+    "snippet": "/songs/rap/a_boogie_wit_da_hoodie_drowning_feat_kodak_black.mp3",
+    "cover": "https://is1-ssl.mzstatic.com/image/thumb/Music124/v4/59/a9/f1/59a9f19a-cc4b-dca9-44c5-5de8368d1d1b/075679887757.jpg/600x600bb.jpg"
+  },
+  {
+    "title": "Around the World (La La La La La)",
+    "artist": "A Touch of Class",
+    "categories": ["Pop", "Pop 00s"],
+    "snippet": "/songs/pop/a_touch_of_class_around_the_world_la_la_la_la_la_radio_version.mp3",
+    "cover": "https://is1-ssl.mzstatic.com/image/thumb/Music115/v4/c2/a2/38/c2a2384d-8c55-8180-53ed-88b152f82db4/743217932756.jpg/600x600bb.jpg"
+  },
+  {
+    "title": "Shape of My Heart",
+    "artist": "Backstreet Boys",
+    "categories": ["Pop", "Pop 00s"],
+    "snippet": "/songs/pop/backstreet_boys_shape_of_my_heart.mp3",
+    "cover": "https://is1-ssl.mzstatic.com/image/thumb/Music125/v4/d1/04/3f/d1043ff2-73b8-e7c5-3ed8-ae9b768bb24f/012414174321.jpg/600x600bb.jpg"
+  },
+  {
+    "title": "Bored",
+    "artist": "Billie Eilish",
+    "categories": ["Pop", "Pop 10s"],
+    "snippet": "/songs/rock/billie_eilish_bored.mp3",
+    "cover": "https://is1-ssl.mzstatic.com/image/thumb/Music116/v4/85/be/22/85be22e4-b915-5318-847b-cc438fa8e535/17UMGIM86543.rgb.jpg/600x600bb.jpg"
+  },
+  {
+    "title": "Break from Toronto",
+    "artist": "PARTYNEXTDOOR",
+    "categories": ["Rap", "Rap 10s"],
+    "snippet": "/songs/pop/partynextdoor_break_from_toronto.mp3",
+    "cover": "https://is1-ssl.mzstatic.com/image/thumb/Music113/v4/c6/28/9e/c6289ee5-b2f4-3255-f030-235c080a9112/27280.jpg/600x600bb.jpg"
+  },
+  {
+    "title": "Cigarette Daydreams",
+    "artist": "Cage the Elephant",
+    "categories": ["Rock", "Rock 10s"],
+    "snippet": "/songs/rock/cage_the_elephant_cigarette_daydreams.mp3",
+    "cover": "https://is1-ssl.mzstatic.com/image/thumb/Music221/v4/02/d2/e2/02d2e290-82c9-bcf4-73fa-4cd06f65f4b9/886444143073.jpg/600x600bb.jpg"
+  },
+  {
+    "title": "Come a Little Closer",
+    "artist": "Cage the Elephant",
+    "categories": ["Rock", "Rock 10s"],
+    "snippet": "/songs/rock/cage_the_elephant_come_a_little_closer.mp3",
+    "cover": "https://is1-ssl.mzstatic.com/image/thumb/Music221/v4/02/d2/e2/02d2e290-82c9-bcf4-73fa-4cd06f65f4b9/886444143073.jpg/600x600bb.jpg"
+  },
+  {
+    "title": "Under Control (feat. Hurts)",
+    "artist": "Calvin Harris & Alesso",
+    "categories": ["Pop", "Pop 10s"],
+    "snippet": "/songs/pop/calvin_harris_alesso_under_control_feat_hurts.mp3",
+    "cover": "https://is1-ssl.mzstatic.com/image/thumb/Music125/v4/5b/9a/52/5b9a52f0-ae0f-9236-8cf7-b5c1531cc179/886444257138.jpg/600x600bb.jpg"
+  },
+  {
+    "title": "Domino",
+    "artist": "Jessie J",
+    "categories": ["Pop", "Pop 10s"],
+    "snippet": "/songs/pop/jessie_j_domino.mp3",
+    "cover": "https://is1-ssl.mzstatic.com/image/thumb/Music221/v4/a5/be/7c/a5be7cb9-b8f8-6b33-70cb-8b41bf1c11f7/11UMGIM04475.rgb.jpg/600x600bb.jpg"
+  },
+  {
+    "title": "Trophies (feat. Drake)",
+    "artist": "Young Money",
+    "categories": ["Rap", "Rap 10s"],
+    "snippet": "/songs/rap/young_money_trophies_feat_drake.mp3",
+    "cover": "https://is1-ssl.mzstatic.com/image/thumb/Music122/v4/9c/f2/b3/9cf2b35c-e0fd-820b-b72e-f7cdbbe788f3/14UMGIM06974.rgb.jpg/600x600bb.jpg"
+  },
+  {
+    "title": "Everybody Talks",
+    "artist": "Neon Trees",
+    "categories": ["Rock", "Rock 20s"],
+    "snippet": "/songs/rock/neon_trees_everybody_talks_revisited_version.mp3",
+    "cover": "https://is1-ssl.mzstatic.com/image/thumb/Music116/v4/fa/7f/08/fa7f0869-abe8-492c-1fe1-f35b32ed257f/21UM1IM44333.rgb.jpg/600x600bb.jpg"
+  },
+  {
+    "title": "My Songs Know What You Did In The Dark (Light Em Up)",
+    "artist": "Fall Out Boy",
+    "categories": ["Rock", "Rock 10s"],
+    "snippet": "/songs/rock/fall_out_boy_my_songs_know_what_you_did_in_the_dark_light_em_up.mp3",
+    "cover": "https://is1-ssl.mzstatic.com/image/thumb/Music115/v4/3c/55/ac/3c55acb6-3c72-b7a8-2b86-d8f028da3756/13UMGIM27299.rgb.jpg/600x600bb.jpg"
+  },
+  {
+    "title": "Out of My League",
+    "artist": "Fitz and The Tantrums",
+    "categories": ["Rock", "Rock 10s"],
+    "snippet": "/songs/rock/fitz_and_the_tantrums_out_of_my_league.mp3",
+    "cover": "https://is1-ssl.mzstatic.com/image/thumb/Music115/v4/be/7d/64/be7d6440-4b7e-a3d3-3985-2fabf57f6705/075679954695.jpg/600x600bb.jpg"
+  },
+  {
+    "title": "Freaks",
+    "artist": "Surf Curse",
+    "categories": ["Rock", "Rock 10s"],
+    "snippet": "/songs/rock/surf_curse_freaks.mp3",
+    "cover": "https://is1-ssl.mzstatic.com/image/thumb/Music115/v4/ec/cb/b3/eccbb387-6215-299f-a753-9e24faaea3de/075679780850.jpg/600x600bb.jpg"
+  },
+  {
+    "title": "Hold On, We're Going Home (feat. Majid Jordan)",
+    "artist": "Drake",
+    "categories": ["Rap", "Rap 10s"],
+    "snippet": "/songs/rap/drake_hold_on_we_re_going_home_feat_majid_jordan.mp3",
+    "cover": "https://is1-ssl.mzstatic.com/image/thumb/Music115/v4/51/61/f3/5161f3c4-2292-f035-eb68-6f95bbc9edd6/00602537542338.rgb.jpg/600x600bb.jpg"
+  },
+  {
+    "title": "Tonight Tonight",
+    "artist": "Hot Chelle Rae",
+    "categories": ["Pop", "Pop 10s"],
+    "snippet": "/songs/pop/hot_chelle_rae_tonight_tonight.mp3",
+    "cover": "https://is1-ssl.mzstatic.com/image/thumb/Music125/v4/16/db/cf/16dbcff3-eb1f-8343-48a8-f436416d3b84/mzi.zqgbfdox.jpg/600x600bb.jpg"
+  },
+  {
+    "title": "How Long Will I Love You",
+    "artist": "Ellie Goulding",
+    "categories": ["Pop", "Pop 10s"],
+    "snippet": "/songs/pop/ellie_goulding_how_long_will_i_love_you_bonus_track.mp3",
+    "cover": "https://is1-ssl.mzstatic.com/image/thumb/Music125/v4/99/48/f6/9948f600-7cfb-1c09-b8f7-b390557f0e30/13UAAIM44623.rgb.jpg/600x600bb.jpg"
+  },
+  {
+    "title": "Dernière danse",
+    "artist": "Indila",
+    "categories": ["Pop", "Pop 10s"],
+    "snippet": "/songs/pop/indila_derni_re_danse.mp3",
+    "cover": "https://is1-ssl.mzstatic.com/image/thumb/Music116/v4/49/58/30/49583018-308b-431d-c691-4a28e78be8cd/14UMGIM01109.rgb.jpg/600x600bb.jpg"
+  },
+  {
+    "title": "All I Want Is You (feat. J.Cole)",
+    "artist": "Miguel",
+    "categories": ["Pop", "Pop 10s"],
+    "snippet": "/songs/pop/miguel_all_i_want_is_you_feat_j_cole.mp3",
+    "cover": "https://is1-ssl.mzstatic.com/image/thumb/Music/bf/86/ba/mzi.rpgkclds.jpg/600x600bb.jpg"
+  },
+  {
+    "title": "All I Want Is You (feat. J.Cole)",
+    "artist": "Miguel",
+    "categories": ["Pop", "Pop 10s"],
+    "snippet": "/songs/pop/miguel_all_i_want_is_you_feat_j_cole.mp3",
+    "cover": "https://is1-ssl.mzstatic.com/image/thumb/Music/bf/86/ba/mzi.rpgkclds.jpg/600x600bb.jpg"
+  },
+  {
+    "title": "Power Trip (feat. Miguel)",
+    "artist": "J. Cole",
+    "categories": ["Rap", "Rap 10s"],
+    "snippet": "/songs/rap/j_cole_power_trip_feat_miguel.mp3",
+    "cover": "https://is1-ssl.mzstatic.com/image/thumb/Music124/v4/da/52/41/da52415b-d0ac-d61f-422c-e84bf5ef8162/20UMGIM66000.rgb.jpg/600x600bb.jpg"
+  },
+  {
+    "title": "She Knows (feat. Amber Coffman & Cults)",
+    "artist": "J. Cole",
+    "categories": ["Rap", "Rap 10s"],
+    "snippet": "/songs/rap/j_cole_she_knows_feat_amber_coffman_cults.mp3",
+    "cover": "https://is1-ssl.mzstatic.com/image/thumb/Music124/v4/da/52/41/da52415b-d0ac-d61f-422c-e84bf5ef8162/20UMGIM66000.rgb.jpg/600x600bb.jpg"
+  },
+  {
+    "title": "Infinity",
+    "artist": "Jaymes Young",
+    "categories": ["Pop", "Pop 10s"],
+    "snippet": "/songs/rock/jaymes_young_infinity.mp3",
+    "cover": "https://is1-ssl.mzstatic.com/image/thumb/Music114/v4/fb/bf/6d/fbbf6d06-9a6c-9c49-c313-aed403613252/075679900180.jpg/600x600bb.jpg"
+  },
+  {
+    "title": "Price Tag (feat. B.o.B)",
+    "artist": "Jessie J",
+    "categories": ["Pop", "Pop 10s"],
+    "snippet": "/songs/pop/jessie_j_price_tag_feat_b_o_b.mp3",
+    "cover": "https://is1-ssl.mzstatic.com/image/thumb/Music221/v4/a5/be/7c/a5be7cb9-b8f8-6b33-70cb-8b41bf1c11f7/11UMGIM04475.rgb.jpg/600x600bb.jpg"
+  },
+  {
+    "title": "Mirrors",
+    "artist": "Justin Timberlake",
+    "categories": ["Pop", "Pop 10s"],
+    "snippet": "/songs/pop/justin_timberlake_mirrors.mp3",
+    "cover": "https://is1-ssl.mzstatic.com/image/thumb/Music125/v4/53/74/c9/5374c99e-cff1-61a6-ca0f-fa1219d050a0/886443854406.jpg/600x600bb.jpg"
+  },
+  {
+    "title": "All I Want",
+    "artist": "Kodaline",
+    "categories": ["Rock", "Rock 10s"],
+    "snippet": "/songs/rock/kodaline_all_i_want.mp3",
+    "cover": "https://is1-ssl.mzstatic.com/image/thumb/Music114/v4/90/07/87/90078751-1dbb-3e85-50f0-d8b40e5655aa/886443897267.jpg/600x600bb.jpg"
+  },
+  {
+    "title": "6 Foot 7 Foot (feat. Cory Gunz)",
+    "artist": "Lil Wayne",
+    "categories": ["Rap", "Rap 10s"],
+    "snippet": "/songs/rap/lil_wayne_6_foot_7_foot_feat_cory_gunz.mp3",
+    "cover": "https://is1-ssl.mzstatic.com/image/thumb/Music116/v4/17/2d/c9/172dc94f-65f7-c8bd-5e62-1930d5015942/11UMGIM26414.rgb.jpg/600x600bb.jpg"
+  },
+  {
+    "title": "Party Rock Anthem (feat. Lauren Bennett & GoonRock)",
+    "artist": "LMFAO",
+    "categories": ["Pop", "Pop 10s"],
+    "snippet": "/songs/pop/lmfao_party_rock_anthem_feat_lauren_bennett_goonrock.mp3",
+    "cover": "https://is1-ssl.mzstatic.com/image/thumb/Music116/v4/21/d9/07/21d9076e-a52c-4f94-5176-011a9ec878e7/11UMGIM14032.rgb.jpg/600x600bb.jpg"
+  },
+  {
+    "title": "Sexy and I Know It",
+    "artist": "LMFAO",
+    "categories": ["Pop", "Pop 10s"],
+    "snippet": "/songs/pop/lmfao_sexy_and_i_know_it.mp3",
+    "cover": "https://is1-ssl.mzstatic.com/image/thumb/Music116/v4/21/d9/07/21d9076e-a52c-4f94-5176-011a9ec878e7/11UMGIM14032.rgb.jpg/600x600bb.jpg"
+  },
+  {
+    "title": "I Follow Rivers",
+    "artist": "Lykke Li",
+    "categories": ["Pop", "Pop 10s"],
+    "snippet": "/songs/rock/lykke_li_i_follow_rivers_the_magician_remix.mp3",
+    "cover": "https://is1-ssl.mzstatic.com/image/thumb/Music125/v4/80/7f/4f/807f4f23-2fe7-f6db-f7d2-472c9886be12/mzi.yhjhcfsx.jpg/600x600bb.jpg"
+  },
+  {
+    "title": "Classic",
+    "artist": "MKTO",
+    "categories": ["Pop", "Pop 10s"],
+    "snippet": "/songs/pop/mkto_classic.mp3",
+    "cover": "https://is1-ssl.mzstatic.com/image/thumb/Music126/v4/0d/0e/e1/0d0ee1be-55c6-c16d-7752-6688f17e3ca5/886444426886.jpg/600x600bb.jpg"
+  },
+  {
+    "title": "Ride Wit Me (feat. City Spud)",
+    "artist": "Nelly featuring City Spud",
+    "categories": ["Rap", "Rap 00s"],
+    "snippet": "/songs/rap/nelly_featuring_city_spud_ride_wit_me_feat_city_spud.mp3",
+    "cover": "https://is1-ssl.mzstatic.com/image/thumb/Music126/v4/86/ea/41/86ea41d4-5d1f-b342-da08-dd43294d8fad/06UMGIM14203.rgb.jpg/600x600bb.jpg"
+  },
+  {
+    "title": "Slow Hands",
+    "artist": "Niall Horan",
+    "categories": ["Pop", "Pop 10s"],
+    "snippet": "/songs/pop/niall_horan_slow_hands.mp3",
+    "cover": "https://is1-ssl.mzstatic.com/image/thumb/Music114/v4/08/10/95/08109549-84e9-cbf5-db6e-cc5a67240845/17UMGIM94431.rgb.jpg/600x600bb.jpg"
+  },
+  {
+    "title": "It's Gonna Be Me",
+    "artist": "*NSYNC",
+    "categories": ["Pop", "Pop 00s"],
+    "snippet": "/songs/pop/nsync_it_s_gonna_be_me.mp3",
+    "cover": "https://is1-ssl.mzstatic.com/image/thumb/Music115/v4/36/22/d6/3622d665-873c-57b8-392b-971292e6086f/012414170224.jpg/600x600bb.jpg"
+  },
+  {
+    "title": "I Lived",
+    "artist": "OneRepublic",
+    "categories": ["Pop", "Pop 10s"],
+    "snippet": "/songs/pop/onerepublic_i_lived.mp3",
+    "cover": "https://is1-ssl.mzstatic.com/image/thumb/Music126/v4/25/46/a7/2546a71a-b2bb-b4c9-4c52-a4daa3ae23ca/13UMGIM15076.rgb.jpg/600x600bb.jpg"
+  },
+  {
+    "title": "Right Now",
+    "artist": "One Direction",
+    "categories": ["Pop", "Pop 10s"],
+    "snippet": "/songs/pop/one_direction_right_now.mp3",
+    "cover": "https://is1-ssl.mzstatic.com/image/thumb/Features125/v4/66/75/88/6675882c-3685-2b6b-f9de-c6d3e06602b5/dj.fuklqvvg.jpg/600x600bb.jpg"
+  },
+  {
+    "title": "Like a Tattoo",
+    "artist": "Sade",
+    "categories": ["Pop", "Pop 20s"],
+    "snippet": "/songs/pop/skep_sade_like_a_tattoo_skep_s_jungle_edit.mp3",
+    "cover": "https://is1-ssl.mzstatic.com/image/thumb/Music211/v4/fd/66/7c/fd667c1b-d3cc-f3e6-2e1e-13ed5131883e/271179.jpg/600x600bb.jpg"
+  },
+  {
+    "title": "Lay Me Down",
+    "artist": "Sam Smith",
+    "categories": ["Pop", "Pop 20s"],
+    "snippet": "/songs/pop/sam_smith_lay_me_down_bbc_proms_at_the_royal_albert_hall.mp3",
+    "cover": "https://is1-ssl.mzstatic.com/image/thumb/Music211/v4/a2/5c/4d/a25c4d3b-1ee2-8097-1b27-28cf9d3261d7/24UM1IM09185.rgb.jpg/600x600bb.jpg"
+  },
+  {
+    "title": "It Wasn't Me (feat. Ricardo Ducent)",
+    "artist": "Shaggy",
+    "categories": ["Rap", "Rap 00s"],
+    "snippet": "/songs/pop/shaggy_it_wasn_t_me_feat_ricardo_ducent.mp3",
+    "cover": "https://is1-ssl.mzstatic.com/image/thumb/Music211/v4/5b/78/c0/5b78c053-c5d5-5414-6d95-2a9ab3d3c7a6/06UMGIM55575.rgb.jpg/600x600bb.jpg"
+  },
+  {
+    "title": "Mo Bamba",
+    "artist": "Schek Wes",
+    "categories": ["Rap", "Rap 10s"],
+    "snippet": "/songs/pop/blkd_out_mo_bamba.mp3",
+    "cover": "https://is1-ssl.mzstatic.com/image/thumb/Music118/v4/3a/29/12/3a2912d6-e230-bd23-718f-f67e4323cb71/artwork.jpg/600x600bb.jpg"
+  },
+  {
+    "title": "Papaoutai",
+    "artist": "Stromae",
+    "categories": ["Pop", "Pop 20s"],
+    "snippet": "/songs/pop/souled_out_papaoutai_afro_soul.mp3",
+    "cover": "https://is1-ssl.mzstatic.com/image/thumb/Music211/v4/37/9d/f3/379df395-48d6-f41a-f929-28e4050f5c7e/8721465519846.png/600x600bb.jpg"
+  },
+  {
+    "title": "Hangover (feat. Flo Rida)",
+    "artist": "Taio Cruz",
+    "categories": ["Pop", "Pop 10s"],
+    "snippet": "/songs/pop/taio_cruz_hangover_feat_flo_rida.mp3",
+    "cover": "https://is1-ssl.mzstatic.com/image/thumb/Music124/v4/2e/fa/e2/2efae20b-7287-f437-f453-40ee0fd597f6/00602527869728.rgb.jpg/600x600bb.jpg"
+  },
+  {
+    "title": "Lonely Boy",
+    "artist": "The Black Keys",
+    "categories": ["Rock", "Rock 10s"],
+    "snippet": "/songs/rock/the_black_keys_lonely_boy.mp3",
+    "cover": "https://is1-ssl.mzstatic.com/image/thumb/Music115/v4/55/39/ca/5539caf8-333e-5ad2-06ca-eaf5d84cd264/mzm.nmxwulyo.jpg/600x600bb.jpg"
+  },
+  {
+    "title": "Money",
+    "artist": "The Drums",
+    "categories": ["Rock", "Rock 10s"],
+    "snippet": "/songs/rock/the_drums_money.mp3",
+    "cover": "https://is1-ssl.mzstatic.com/image/thumb/Music125/v4/c3/06/d0/c306d060-8f16-f74d-7772-02079fd1280b/21UMGIM82481.rgb.jpg/600x600bb.jpg"
+  },
+  {
+    "title": "Glad You Came",
+    "artist": "The Wanted",
+    "categories": ["Pop", "Pop 10s"],
+    "snippet": "/songs/pop/the_wanted_glad_you_came.mp3",
+    "cover": "https://is1-ssl.mzstatic.com/image/thumb/Music115/v4/6a/ca/bd/6acabd76-3a7a-78dd-c896-c102736fc634/00602537528097.rgb.jpg/600x600bb.jpg"
+  },
+  {
+    "title": "Rack City",
+    "artist": "Tyga",
+    "categories": ["Rap", "Rap 10s"],
+    "snippet": "/songs/rap/tyga_rack_city.mp3",
+    "cover": "https://is1-ssl.mzstatic.com/image/thumb/Music112/v4/94/c4/82/94c48246-9657-b3fa-c24b-98196381705c/12UMGIM06552.rgb.jpg/600x600bb.jpg"
+  },
+  {
+    "title": "Teenage Dirtbag",
+    "artist": "Wheatus",
+    "categories": ["Rock", "Rock 00s"],
+    "snippet": "/songs/rock/wheatus_teenage_dirtbag.mp3",
+    "cover": "https://is1-ssl.mzstatic.com/image/thumb/Music221/v4/3b/60/46/3b604692-e7e2-f35f-01e2-4dd66e4eaf63/074648514922.jpg/600x600bb.jpg"
+  },
+  {
+    "title": "Murder On My Mind",
+    "artist": "YNW Melly",
+    "categories": ["Pop", "Pop 20s"],
+    "snippet": "/songs/pop/rampage_murder_on_my_mind_rampage_remix.mp3",
+    "cover": "https://is1-ssl.mzstatic.com/image/thumb/Music211/v4/03/48/00/034800a1-fe7f-7a16-f794-7de90b5446e9/artwork.jpg/600x600bb.jpg"
   }
 ]
 

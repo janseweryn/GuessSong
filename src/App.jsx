@@ -1435,6 +1435,32 @@ const manualDaily = {
       dailyCategory: "Rap",
     },
   ],
+  "2026-04-19": [
+    {
+      title: "Vogue",
+      artist: "Madonna",
+      cover: "/songs/covers/imma.jpg",
+      snippet: "/songs/pop/vogue.mp3",
+      categories: ["pop"],
+      dailyCategory: "Pop",
+    },
+    {
+      title: "London Calling",
+      artist: "The Clash",
+      cover: "https://is1-ssl.mzstatic.com/image/thumb/Music125/v4/45/d7/17/45d71740-b204-de23-3f9e-f2f823296f1d/886443520721.jpg/600x600bb.jpg",
+      snippet: "/songs/rock/the_clash_london_calling.mp3",
+      categories: ["rock"],
+      dailyCategory: "Rock",
+    },
+    {
+      title: "Drowning (feat. Kodak Black)",
+      artist: "A Boogie wit da Hoodie",
+      cover: "https://is1-ssl.mzstatic.com/image/thumb/Music124/v4/59/a9/f1/59a9f19a-cc4b-dca9-44c5-5de8368d1d1b/075679887757.jpg/600x600bb.jpg",
+      snippet:  "/songs/rap/a_boogie_wit_da_hoodie_drowning_feat_kodak_black.mp3",
+      categories: ["rap"],
+      dailyCategory: "Rap",
+    },
+  ],
 };
 
 const LEVELS = [
