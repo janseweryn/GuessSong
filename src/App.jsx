@@ -1461,6 +1461,32 @@ const manualDaily = {
       dailyCategory: "Rap",
     },
   ],
+  "2026-04-20": [
+    {
+      title: "When The Party's Over",
+      artist: "Billie Eilish",
+      cover: "/songs/covers/when_we_all_fall.jpg",
+      snippet: "/songs/pop/when_partys.mp3",
+      categories: ["pop"],
+      dailyCategory: "Pop",
+    },
+    {
+      title: "Coming Undone",
+      artist: "Korn",
+      cover: "https://is1-ssl.mzstatic.com/image/thumb/Music126/v4/05/87/ad/0587ad45-51e5-f00c-48a4-941452a65d85/5054526859951.jpg/600x600bb.jpg",
+      snippet: "/songs/rock/korn_coming_undone.mp3",
+      categories: ["rock"],
+      dailyCategory: "Rock",
+    },
+    {
+      title: "Creepin'",
+      artist: "Metro Boomin, The Weeknd & 21 Savage",
+      cover: "/songs/covers/heroes.jpg",
+      snippet:  "/songs/rap/creepin.mp3",
+      categories: ["rap"],
+      dailyCategory: "Rap",
+    },
+  ],
 };
 
 const LEVELS = [
