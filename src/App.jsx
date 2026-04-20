@@ -1487,6 +1487,32 @@ const manualDaily = {
       dailyCategory: "Rap",
     },
   ],
+  "2026-04-21": [
+    {
+      title: "Never Gonna Give You Up",
+      artist: "Rick Astley",
+      cover: "https://is1-ssl.mzstatic.com/image/thumb/Music122/v4/de/eb/63/deeb63c1-7bc0-9153-cfa3-fd9e4929aacf/4050538826562.jpg/600x600bb.jpg",
+      snippet: "/songs/pop/rick_astley_never_gonna_give_you_up_2022_remaster.mp3",
+      categories: ["pop"],
+      dailyCategory: "Pop",
+    },
+    {
+      title: "Take Me Out",
+      artist: "Franz Ferdinand",
+      cover: "https://is1-ssl.mzstatic.com/image/thumb/Music112/v4/83/c6/54/83c6541f-3b90-b46a-b46a-17bf8fd9af16/5034202113645.png/600x600bb.jpg",
+      snippet: "/songs/pop/franz_ferdinand_take_me_out.mp3",
+      categories: ["rock"],
+      dailyCategory: "Rock",
+    },
+    {
+      title: "Houdini",
+      artist: "Eminem",
+      cover: "/songs/covers/dead_slim.jpg",
+      snippet:  "/songs/rap/houdini_e.mp3",
+      categories: ["rap"],
+      dailyCategory: "Rap",
+    },
+  ],
 };
 
 const LEVELS = [
