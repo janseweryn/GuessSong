@@ -1513,6 +1513,32 @@ const manualDaily = {
       dailyCategory: "Rap",
     },
   ],
+  "2026-04-22": [
+    {
+      title: "Locked Out of Heaven",
+      artist: "Bruno Mars",
+      cover: "https://is1-ssl.mzstatic.com/image/thumb/Music115/v4/e0/a4/7c/e0a47c6f-005a-9f9f-ce29-8e858e2bcfcb/075679957283.jpg/600x600bb.jpg",
+      snippet: "/songs/pop/bruno_mars_locked_out_of_heaven.mp3",
+      categories: ["pop"],
+      dailyCategory: "Pop",
+    },
+    {
+      title: "Cigarette Daydreams",
+      artist: "Cage the Elephant",
+      cover: "https://is1-ssl.mzstatic.com/image/thumb/Music221/v4/02/d2/e2/02d2e290-82c9-bcf4-73fa-4cd06f65f4b9/886444143073.jpg/600x600bb.jpg",
+      snippet: "/songs/rock/cage_the_elephant_cigarette_daydreams.mp3",
+      categories: ["rock"],
+      dailyCategory: "Rock",
+    },
+    {
+      title: "Anxiety",
+      artist: "Doechii",
+      cover: "https://is1-ssl.mzstatic.com/image/thumb/Music211/v4/ad/65/7d/ad657de9-2dab-d086-84c3-e6b8363b984e/25UMGIM39878.rgb.jpg/600x600bb.jpg",
+      snippet:  "/songs/rap/doechii_anxiety.mp3",
+      categories: ["rap"],
+      dailyCategory: "Rap",
+    },
+  ],
 };
 
 const LEVELS = [
