@@ -582,5 +582,75 @@
     "categories": ["Pop", "Pop 20s"],
     "snippet": "/songs/pop/lucasgitanofamily_hearthstone_main_theme_from_heroes_of_warcraft_flamenco_guitar.mp3",
     "cover": "/songs/covers/hs.jpg"
+  },
+  {
+    "title": "3005",
+    "artist": "Childish Gambino",
+    "categories": ["Rap", "Rap 10s"],
+    "snippet": "/songs/rap/childish_gambino_v_3005.mp3",
+    "cover": "https://is1-ssl.mzstatic.com/image/thumb/Music221/v4/6b/59/46/6b5946b3-821b-32d1-8586-1b12b3c9d3ed/0044003173453_Cover.jpg/600x600bb.jpg"
+  },
+  {
+    "title": "Like a Tattoo",
+    "artist": "Sade",
+    "categories": ["Pop", "Pop 20s"],
+    "snippet": "/songs/pop/skep_sade_like_a_tattoo_skep_s_jungle_edit.mp3",
+    "cover": "https://is1-ssl.mzstatic.com/image/thumb/Music211/v4/fd/66/7c/fd667c1b-d3cc-f3e6-2e1e-13ed5131883e/271179.jpg/600x600bb.jpg"
+  },
+  {
+    "title": "Papaoutai",
+    "artist": "Stromae",
+    "categories": ["Pop", "Pop 20s"],
+    "snippet": "/songs/pop/souled_out_papaoutai_afro_soul.mp3",
+    "cover": "https://is1-ssl.mzstatic.com/image/thumb/Music211/v4/37/9d/f3/379df395-48d6-f41a-f929-28e4050f5c7e/8721465519846.png/600x600bb.jpg"
+  },
+   {
+    "title": "Murder On My Mind",
+    "artist": "YNW Melly",
+    "categories": ["Pop", "Pop 20s"],
+    "snippet": "/songs/pop/rampage_murder_on_my_mind_rampage_remix.mp3",
+    "cover": "https://is1-ssl.mzstatic.com/image/thumb/Music211/v4/03/48/00/034800a1-fe7f-7a16-f794-7de90b5446e9/artwork.jpg/600x600bb.jpg"
+  },
+  {
+    "title": "Bandycka Jazda",
+    "artist": "Fagata",
+    "categories": ["Rap", "Rap 20s"],
+    "snippet": "/songs/Polskie/roadtofreedom_fagata_bandycka_jazda_ale_to_cover_w_stylu_lat_50.mp3",
+    "cover": "https://is1-ssl.mzstatic.com/image/thumb/Music221/v4/f8/14/48/f814481e-d8b7-bf76-d23c-7508fe22ba4d/artwork.jpg/600x600bb.jpg"
+  },
+   {
+    "title": "Gdzie Jest Biały Węgorz? (Zejście)",
+    "artist": "Cypis",
+    "categories": ["Pop", "Pop 20s"],
+    "snippet": "/songs/Polskie/maromaro1337_gdzie_jest_bialy_wegorz_zejscie.mp3",
+    "cover": "https://is1-ssl.mzstatic.com/image/thumb/Music113/v4/64/7d/f9/647df901-b022-87cf-c933-8d770d1ff4dd/cover.jpg/600x600bb.jpg"
+  },
+  {
+    "title": "1 Moment",
+    "artist": "K2 & Buka",
+    "categories": ["Rap", "Rap 20s"],
+    "snippet": "/songs/Polskie/robin_m_moment_feat_dantae_the_kid.mp3",
+    "cover": "https://is1-ssl.mzstatic.com/image/thumb/Music125/v4/00/9f/40/009f4027-bd52-212f-186a-82a172a444b7/cover.jpg/600x600bb.jpg"
+  },
+   {
+    "title": "Papierosy",
+    "artist": "ReTo",
+    "categories": ["Polskie Rap", "Polskie Rap 10s"],
+    "snippet": "/songs/Polskie/reto_papierosy_rmx.mp3",
+    "cover": "https://is1-ssl.mzstatic.com/image/thumb/Music118/v4/ed/f3/8f/edf38f00-9bd9-a11b-d1f4-b65cdf4ea154/9788380860285.jpg/600x600bb.jpg"
+  },
+   {
+    "title": "Agnieszka już tutaj dawno nie mieszka",
+    "artist": "ŁZY",
+    "categories": ["Polskie Rock", "Polskie Rock 20s"],
+    "snippet": "/songs/Polskie/lzy_adam_konkol_agnieszka.mp3",
+    "cover": "https://is1-ssl.mzstatic.com/image/thumb/Music116/v4/c4/73/30/c4733087-df5e-8ea2-92ae-afa3e228711d/5054197705205.jpg/600x600bb.jpg"
+  },
+   {
+    "title": "Fiji",
+    "artist": "Taco Hemingway",
+    "categories": ["Polskie Rap", "Polskie Rap 20s"],
+    "snippet": "/songs/Polskie/taco_hemingway_dawid_podsiadlo_atutowy_cale_lata.mp3",
+    "cover": "https://is1-ssl.mzstatic.com/image/thumb/Music116/v4/05/33/76/053376f7-8f6f-5540-80f2-6be9bee5697a/23UM1IM07279.rgb.jpg/600x600bb.jpg"
   }
 ]

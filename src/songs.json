@@ -14363,6 +14363,335 @@
     "categories": ["Pop", "Pop 20s"],
     "snippet": "/songs/pop/Olivia_Rodrigo_drop_dead.mp3",
     "cover": "/songs/covers/Drop_Dead.png"
+  },
+  {
+    "title": "Millie Walky",
+    "artist": "bambi",
+    "categories": ["Polskie Rap", "Polskie Rap 20s"],
+    "snippet": "/songs/Polskie/bambi_millie_walky.mp3",
+    "cover": "https://is1-ssl.mzstatic.com/image/thumb/Music116/v4/2c/31/a4/2c31a4d1-f027-4811-d613-a52357789d7d/23UMGIM46342.rgb.jpg/600x600bb.jpg"
+  },
+  {
+    "title": "Za ostatni grosz",
+    "artist": "Budka Suflera",
+    "categories": ["Polskie Rock", "Polskie Rock 80s"],
+    "snippet": "/songs/Polskie/budka_suflera_za_ostatni_grosz.mp3",
+    "cover": "https://is1-ssl.mzstatic.com/image/thumb/Music124/v4/55/6e/fa/556efa5c-8632-8b19-61ad-8843281f8b36/cover.jpg/600x600bb.jpg"
+  },
+  {
+    "title": "Kocham wolność",
+    "artist": "Chłopcy Z Placu Broni",
+    "categories": ["Polskie Pop", "Polskie Pop 10s"],
+    "snippet": "/songs/Polskie/chlopcy_z_placu_broni_kocham_wolnosc.mp3",
+    "cover": "https://is1-ssl.mzstatic.com/image/thumb/Music113/v4/25/6d/a8/256da8c7-0889-e96a-6eae-38f777be95d8/cover.jpg/600x600bb.jpg"
+  },
+  {
+    "title": "W Dobrą Stronę",
+    "artist": "Dawid Podsiadło",
+    "categories": ["Polskie Pop", "Polskie Pop 10s"],
+    "snippet": "/songs/Polskie/dawid_podsiadlo_w_dobra_strone.mp3",
+    "cover": "https://is1-ssl.mzstatic.com/image/thumb/Music62/v4/42/81/d2/4281d29b-fab8-7c9f-9b8c-d66c520a35be/886446164717.jpg/600x600bb.jpg"
+  },
+  {
+    "title": "Małomiasteczkowy",
+    "artist": "Dawid Podsiadło",
+    "categories": ["Polskie Pop", "Polskie Pop 10s"],
+    "snippet": "/songs/Polskie/dawid_podsiadlo_malomiasteczkowy.mp3",
+    "cover": "https://is1-ssl.mzstatic.com/image/thumb/Music124/v4/c4/39/39/c439392a-19b2-1e0d-d5c7-68f88b766aa9/886447293713.jpg/600x600bb.jpg"
+  },
+  {
+    "title": "My Słowianie",
+    "artist": "Cleo & Donatan",
+    "categories": ["Polskie Pop", "Polskie Pop 10s"],
+    "snippet": "/songs/Polskie/cleo_donatan_my_slowianie.mp3",
+    "cover": "https://is1-ssl.mzstatic.com/image/thumb/Music4/v4/3d/db/7f/3ddb7fad-d6f4-dfa2-97e5-64ef7a8235ea/5901720418746.jpg/600x600bb.jpg"
+  },
+  {
+    "title": "To nie ja",
+    "artist": "Edyta Gorniak",
+    "categories": ["Polskie Pop", "Polskie Pop 90s"],
+    "snippet": "/songs/Polskie/edyta_gorniak_to_nie_ja_2020_remaster.mp3",
+    "cover": "https://is1-ssl.mzstatic.com/image/thumb/Music124/v4/c7/c9/a7/c7c9a781-4db6-d548-b670-ae3bccab7918/190295221539.jpg/600x600bb.jpg"
+  },
+  {
+    "title": "Kamien Z Napisem Love",
+    "artist": "Enej",
+    "categories": ["Polskie Pop", "Polskie Pop 10s"],
+    "snippet": "/songs/Polskie/enej_kamien_z_napisem_love.mp3",
+    "cover": "https://is1-ssl.mzstatic.com/image/thumb/Music221/v4/48/9c/7a/489c7a56-1c8e-fb00-3f72-c5a94e7ec301/24UMGIM82478.rgb.jpg/600x600bb.jpg"
+  },
+  {
+    "title": "Bandycka Jazda",
+    "artist": "Fagata",
+    "categories": ["Rap", "Rap 20s"],
+    "snippet": "/songs/Polskie/roadtofreedom_fagata_bandycka_jazda_ale_to_cover_w_stylu_lat_50.mp3",
+    "cover": "https://is1-ssl.mzstatic.com/image/thumb/Music221/v4/f8/14/48/f814481e-d8b7-bf76-d23c-7508fe22ba4d/artwork.jpg/600x600bb.jpg"
+  },
+  {
+    "title": "Gdzie Jest Biały Węgorz? (Zejście)",
+    "artist": "Cypis",
+    "categories": ["Pop", "Pop 20s"],
+    "snippet": "/songs/Polskie/maromaro1337_gdzie_jest_bialy_wegorz_zejscie.mp3",
+    "cover": "https://is1-ssl.mzstatic.com/image/thumb/Music113/v4/64/7d/f9/647df901-b022-87cf-c933-8d770d1ff4dd/cover.jpg/600x600bb.jpg"
+  },
+  {
+    "title": "Ściernisko ",
+    "artist": "GOLEC UORKIESTRA",
+    "categories": ["Polskie Pop", "Polskie Pop 10s"],
+    "snippet": "/songs/Polskie/golec_uorkiestra_deemz_sciernisko_remix.mp3",
+    "cover": "https://is1-ssl.mzstatic.com/image/thumb/Music221/v4/0d/c0/18/0dc018a7-3030-6e1a-427a-550b19819576/0000463841288.jpg/600x600bb.jpg"
+  },
+  {
+    "title": "Teksański",
+    "artist": "Hey",
+    "categories": ["Polskie Rock", "Polskie Rock 10s"],
+    "snippet": "/songs/Polskie/hey_teksanski.mp3",
+    "cover": "https://is1-ssl.mzstatic.com/image/thumb/Music5/v4/5f/92/7e/5f927ef0-f182-3746-cdab-e6104df55608/602547377401.jpg/600x600bb.jpg"
+  },
+  {
+    "title": "I Ciebie też, bardzo (feat. Daria Zawiałow, Dawid Podsiadło & Vito Bambino)",
+    "artist": "Męskie Granie Orkiestra 2021",
+    "categories": ["Polskie Pop", "Polskie Pop 20s"],
+    "snippet": "/songs/Polskie/meskie_granie_orkiestra_2021_i_ciebie_tez_bardzo_feat_daria_zawialow_dawid_podsiadlo_vito_bambino.mp3",
+    "cover": "https://is1-ssl.mzstatic.com/image/thumb/Music211/v4/10/73/0b/10730ba9-2cf6-383c-fb37-2acdc92b8b97/886449410415.jpg/600x600bb.jpg"
+  },
+  {
+    "title": "Nadzieja",
+    "artist": "IRA",
+    "categories": ["Rock", "Rock 90s"],
+    "snippet": "/songs/Polskie/ira_nadzieja.mp3",
+    "cover": "https://is1-ssl.mzstatic.com/image/thumb/Music115/v4/90/10/7a/90107a66-ec24-968a-a275-8eaf4cefd974/5908279345356.jpg/600x600bb.jpg"
+  },
+  {
+    "title": "Gladiator",
+    "artist": "Jann",
+    "categories": ["Pop", "Pop 20s"],
+    "snippet": "/songs/Polskie/jann_gladiator.mp3",
+    "cover": "https://is1-ssl.mzstatic.com/image/thumb/Music211/v4/1f/e9/70/1fe97016-08eb-84b7-7812-c2a2c8f6f4f0/cover.jpg/600x600bb.jpg"
+  },
+  {
+    "title": "Jol mjyszkum na wsi",
+    "artist": "Karolina Trela",
+    "categories": ["Pop", "Pop 20s"],
+    "snippet": "/songs/Polskie/karolina_trela_jol_mjyszkum_na_wsi.mp3",
+    "cover": "https://is1-ssl.mzstatic.com/image/thumb/Music116/v4/5d/3e/c6/5d3ec638-8998-d9cc-492b-92a768a79b45/197189123122.jpg/600x600bb.jpg"
+  },
+  {
+    "title": "1 Moment",
+    "artist": "K2 & Buka",
+    "categories": ["Rap", "Rap 20s"],
+    "snippet": "/songs/Polskie/robin_m_moment_feat_dantae_the_kid.mp3",
+    "cover": "https://is1-ssl.mzstatic.com/image/thumb/Music125/v4/00/9f/40/009f4027-bd52-212f-186a-82a172a444b7/cover.jpg/600x600bb.jpg"
+  },
+  {
+    "title": "Chwile jak Te",
+    "artist": "Kamil Bednarek",
+    "categories": ["Polskie Pop", "Polskie Pop 10s"],
+    "snippet": "/songs/Polskie/kamil_bednarek_chwile_jak_te.mp3",
+    "cover": "https://is1-ssl.mzstatic.com/image/thumb/Music126/v4/60/f9/73/60f973d3-abf8-29cc-9176-1502a71fb4aa/5902898405279.jpg/600x600bb.jpg"
+  },
+  {
+    "title": "Zabiorę Cię",
+    "artist": "Kancelarya",
+    "categories": ["Polskie Rock", "Polskie Rock 00s"],
+    "snippet": "/songs/Polskie/kancelarya_zabiore_cie.mp3",
+    "cover": "https://is1-ssl.mzstatic.com/image/thumb/Music/be/06/57/mzi.boxtpkld.jpg/600x600bb.jpg"
+  },
+  {
+    "title": "Ko-Ko Euro Spoko",
+    "artist": "Jarzebina",
+    "categories": ["Polskie Pop", "Polskie Pop 10s"],
+    "snippet": "/songs/Polskie/jarzebina_ko_ko_euro_spoko.mp3",
+    "cover": "https://is1-ssl.mzstatic.com/image/thumb/Music/v4/e7/ee/56/e7ee5674-2e93-b219-1b95-bdbc0099564c/cover.jpg/600x600bb.jpg"
+  },
+  {
+    "title": "Kocham cię jak irlandię",
+    "artist": "Kobranocka",
+    "categories": ["Polskie Rock", "Polskie Rock 00s"],
+    "snippet": "/songs/Polskie/kobranocka_kocham_cie_jak_irlandie.mp3",
+    "cover": "https://is1-ssl.mzstatic.com/image/thumb/Music124/v4/a0/02/b5/a002b51d-eb75-3bce-b0a8-0084a2c7d048/cover.jpg/600x600bb.jpg"
+  },
+  {
+    "title": "Kocham Cię Kochanie Moje",
+    "artist": "Maanam",
+    "categories": ["Polskie Rock", "Polskie Rock 90s"],
+    "snippet": "/songs/Polskie/maanam_kocham_cie_kochanie_moje.mp3",
+    "cover": "https://is1-ssl.mzstatic.com/image/thumb/Music125/v4/bb/51/61/bb516108-e110-8b1c-5c19-d71268bb6f73/842474116555.jpg/600x600bb.jpg"
+  },
+  {
+    "title": "Słodkiego, miłego życia",
+    "artist": "Kombi",
+    "categories": ["Polskie Rock", "Polskie Rock 00s"],
+    "snippet": "/songs/Polskie/kombi_slodkiego_milego_zycia.mp3",
+    "cover": "https://is1-ssl.mzstatic.com/image/thumb/Music114/v4/14/26/d9/1426d9de-75d3-4ddc-067e-85be91bcd606/cover.jpg/600x600bb.jpg"
+  },
+  {
+    "title": "Pokolenie",
+    "artist": "Kombii",
+    "categories": ["Polskie Rock", "Polskie Rock 00s"],
+    "snippet": "/songs/Polskie/kombii_pokolenie.mp3",
+    "cover": "https://is1-ssl.mzstatic.com/image/thumb/Music124/v4/11/1d/7d/111d7d8a-72fe-6b9e-116f-b8dd0139abb8/00602498690055.rgb.jpg/600x600bb.jpg"
+  },
+  {
+    "title": "Hej Wy",
+    "artist": "Kortez",
+    "categories": ["Pop", "Pop 10s"],
+    "snippet": "/songs/Polskie/kortez_hej_wy.mp3",
+    "cover": "https://is1-ssl.mzstatic.com/image/thumb/Music128/v4/61/33/e9/6133e99d-1d9d-12a1-d3a1-34932f1fa8f7/0000436384644.jpg/600x600bb.jpg"
+  },
+  {
+    "title": "Szklana Pogoda",
+    "artist": "Lombard",
+    "categories": ["Rock", "Rock 00s"],
+    "snippet": "/songs/Polskie/lombard_szklana_pogoda_live.mp3",
+    "cover": "https://is1-ssl.mzstatic.com/image/thumb/Music3/v4/89/df/59/89df59e2-f1a1-9a0e-96bd-06e5402c26ae/5901720439956.jpg/600x600bb.jpg"
+  },
+  {
+    "title": "Szare Miraze",
+    "artist": "Maanam",
+    "categories": ["Polskie Rock", "Polskie Rock 80s"],
+    "snippet": "/songs/Polskie/maanam_szare_miraze_remastered.mp3",
+    "cover": "https://is1-ssl.mzstatic.com/image/thumb/Music6/v4/1d/b8/ab/1db8abf9-fae1-b1ae-39c7-28367c563564/5099909579156_1500x1500_300dpi.jpg/600x600bb.jpg"
+  },
+  {
+    "title": "Zero Calorie Cookie",
+    "artist": "Marie",
+    "categories": ["Pop", "Pop 20s"],
+    "snippet": "/songs/Polskie/marie_zero_calorie_cookie.mp3",
+    "cover": "https://is1-ssl.mzstatic.com/image/thumb/Music116/v4/fc/a5/8d/fca58d99-da48-4b82-54d1-a7cb16858b06/cover.jpg/600x600bb.jpg"
+  },
+  {
+    "title": "Miłość w Zakopanem",
+    "artist": "Sławomir",
+    "categories": ["Pop", "Pop 10s"],
+    "snippet": "/songs/Polskie/slawomir_milosc_w_zakopanem.mp3",
+    "cover": "https://is1-ssl.mzstatic.com/image/thumb/Music124/v4/b5/f7/c4/b5f7c4fa-5802-9fb5-17a8-85c5da39849a/Slawomir_-_The_greatest_hist_COVER.jpg/600x600bb.jpg"
+  },
+  {
+    "title": "Chyba że z Tobą",
+    "artist": "MODELKI & Vłodarski",
+    "categories": ["Pop", "Pop 20s"],
+    "snippet": "/songs/Polskie/modelki_vlodarski_chyba_ze_z_toba.mp3",
+    "cover": "https://is1-ssl.mzstatic.com/image/thumb/Music211/v4/e0/c0/1f/e0c01f0d-debc-7aa1-2b5f-baecb2129320/24UMGIM35032.rgb.jpg/600x600bb.jpg"
+  },
+  {
+    "title": "Z twarzą Marilyn Monroe",
+    "artist": "Myslovitz",
+    "categories": ["Polskie Pop", "Polskie Pop 90s"],
+    "snippet": "/songs/Polskie/myslovitz_z_twarza_marilyn_monroe.mp3",
+    "cover": "https://is1-ssl.mzstatic.com/image/thumb/Music113/v4/45/73/03/457303ed-d756-277f-312f-073a34a7086b/886448459835.jpg/600x600bb.jpg"
+  },
+  {
+    "title": "Początek (feat. Dawid Podsiadło, Kortez & Krzysztof Zalewski)",
+    "artist": "Męskie Granie Orkiestra 2018",
+    "categories": ["Polskie Pop", "Polskie Pop 10s"],
+    "snippet": "/songs/Polskie/meskie_granie_orkiestra_2018_poczatek_feat_dawid_podsiadlo_kortez_krzysztof_zalewski.mp3",
+    "cover": "https://is1-ssl.mzstatic.com/image/thumb/Music124/v4/f5/97/59/f59759ba-fced-7d89-e7c7-b636d7742afb/192562613818.png/600x600bb.jpg"
+  },
+  {
+    "title": "Supermoce (feat. IGO, Mrozu & Vito Bambino)",
+    "artist": "Męskie Granie Orkiestra 2023",
+    "categories": ["Polskie Pop", "Polskie Pop 20s"],
+    "snippet": "/songs/Polskie/meskie_granie_orkiestra_2023_supermoce_feat_igo_mrozu_vito_bambino.mp3",
+    "cover": "https://is1-ssl.mzstatic.com/image/thumb/Music116/v4/db/9e/a5/db9ea575-3c47-5749-63e9-16f542044533/23UMGIM52630.rgb.jpg/600x600bb.jpg"
+  },
+  {
+    "title": "Weź Nie Pytaj",
+    "artist": "Paweł Domagała",
+    "categories": ["Polskie Pop", "Polskie Pop 10s"],
+    "snippet": "/songs/Polskie/pawel_domagala_wez_nie_pytaj.mp3",
+    "cover": "https://is1-ssl.mzstatic.com/image/thumb/Music116/v4/0e/59/61/0e596129-6887-04e8-1b7c-a3139f4ecc10/5902643882140.jpg/600x600bb.jpg"
+  },
+  {
+    "title": "Kołysanka dla nieznajomej",
+    "artist": "Perfect",
+    "categories": ["Polskie Rock", "Polskie Rock 00s"],
+    "snippet": "/songs/Polskie/perfect_kolysanka_dla_nieznajomej.mp3",
+    "cover": "https://is1-ssl.mzstatic.com/image/thumb/Music113/v4/3f/29/72/3f29720e-4a13-cd99-d2ad-58cef2e1b88c/cover.jpg/600x600bb.jpg"
+  },
+  {
+    "title": "Niewiele Ci Mogę Dać",
+    "artist": "Perfect",
+    "categories": ["Polskie Rock", "Polskie Rock 00s"],
+    "snippet": "/songs/Polskie/perfect_niewiele_ci_moge_dac.mp3",
+    "cover": "https://is1-ssl.mzstatic.com/image/thumb/Music211/v4/48/b0/1c/48b01cd6-061c-e2c5-db8c-404e19c1571b/5907812247973.jpg/600x600bb.jpg"
+  },
+  {
+    "title": "BUBBLETEA",
+    "artist": "Quebonafide, Duit & Daria Zawiałow",
+    "categories": ["Polskie Rap", "Polskie Rap 20s"],
+    "snippet": "/songs/Polskie/quebonafide_duit_daria_zawialow_bubbletea.mp3",
+    "cover": "https://is1-ssl.mzstatic.com/image/thumb/Music112/v4/a8/22/21/a8222198-553e-b187-6bd5-e3e596fe1984/5902898171617.jpg/600x600bb.jpg"
+  },
+  {
+    "title": "Tak Blisko",
+    "artist": "Rafał Brzozowski",
+    "categories": ["Polskie Pop", "Polskie Pop 10s"],
+    "snippet": "/songs/Polskie/rafal_brzozowski_tak_blisko_latin_version.mp3",
+    "cover": "https://is1-ssl.mzstatic.com/image/thumb/Music128/v4/87/a5/a9/87a5a968-0cda-8465-29a4-aed8ebfad585/00602557290806.rgb.jpg/600x600bb.jpg"
+  },
+  {
+    "title": "Papierosy",
+    "artist": "ReTo",
+    "categories": ["Polskie Rap", "Polskie Rap 10s"],
+    "snippet": "/songs/Polskie/reto_papierosy_rmx.mp3",
+    "cover": "https://is1-ssl.mzstatic.com/image/thumb/Music118/v4/ed/f3/8f/edf38f00-9bd9-a11b-d1f4-b65cdf4ea154/9788380860285.jpg/600x600bb.jpg"
+  },
+  {
+    "title": "Richter",
+    "artist": "Oberschlesien",
+    "categories": ["POlskie Rock", "Polskie Rock 10s"],
+    "snippet": "/songs/Polskie/max_richter_louisa_fuller_natalia_bonner_john_metcalfe_philip_sheppard_chris_worsey_on_the_nature_of_daylight.mp3",
+    "cover": "https://is1-ssl.mzstatic.com/image/thumb/Music115/v4/58/ec/d7/58ecd75d-8df8-c05f-5e1a-b144292c6493/17UM1IM64259.rgb.jpg/600x600bb.jpg"
+  },
+  {
+    "title": "Ona By Tak Chciała",
+    "artist": "Ronnie Ferrari",
+    "categories": ["Pop", "Pop 10s"],
+    "snippet": "/songs/Polskie/ronnie_ferrari_ona_by_tak_chciala_clean_version.mp3",
+    "cover": "https://is1-ssl.mzstatic.com/image/thumb/Music124/v4/ec/a0/c5/eca0c5b9-6fbc-1490-9ff9-88f372e37427/Ronnie_Ferrari_-_Ona_By_Tak_Chcia_a_Clean_Version_COVER.jpg/600x600bb.jpg"
+  },
+  {
+    "title": "Cześć, jak się masz?",
+    "artist": "Sobel & sanah",
+    "categories": ["Polskie Pop", "Polskie Pop 20s"],
+    "snippet": "/songs/Polskie/sobel_sanah_czesc_jak_sie_masz.mp3",
+    "cover": "https://is1-ssl.mzstatic.com/image/thumb/Music115/v4/41/56/08/415608cb-3a97-3ed5-a1ec-d89cc2f96b32/21UM1IM26540.rgb.jpg/600x600bb.jpg"
+  },
+  {
+    "title": "Chłopaki Nie Płaczą",
+    "artist": "T.Love",
+    "categories": ["Polskie Rock", "Polskie Rock 90s"],
+    "snippet": "/songs/Polskie/t_love_chlopaki_nie_placza.mp3",
+    "cover": "https://is1-ssl.mzstatic.com/image/thumb/Music116/v4/86/c4/7f/86c47fe5-95bf-6de1-a0a5-6bafc5bb7f65/724382169352.jpg/600x600bb.jpg"
+  },
+  {
+    "title": "Fiji",
+    "artist": "Taco Hemingway",
+    "categories": ["Polskie Rap", "Polskie Rap 20s"],
+    "snippet": "/songs/Polskie/taco_hemingway_dawid_podsiadlo_atutowy_cale_lata.mp3",
+    "cover": "https://is1-ssl.mzstatic.com/image/thumb/Music116/v4/05/33/76/053376f7-8f6f-5540-80f2-6be9bee5697a/23UM1IM07279.rgb.jpg/600x600bb.jpg"
+  },
+  {
+    "title": "Marmur",
+    "artist": "Taco Hemingway",
+    "categories": ["Rap", "Rap 10s"],
+    "snippet": "/songs/Polskie/taco_hemingway_marmur.mp3",
+    "cover": "https://is1-ssl.mzstatic.com/image/thumb/Music116/v4/a6/7b/38/a67b380e-d5c7-27ca-a560-3360b427f3d3/23UMGIM90046.rgb.jpg/600x600bb.jpg"
+  },
+  {
+    "title": "Zegarmistrz Światła",
+    "artist": "Tadeusz Wozniak",
+    "categories": ["Polskie Pop", "Polskie Pop 70s"],
+    "snippet": "/songs/Polskie/tadeusz_wozniak_zegarmistrz_swiatla.mp3",
+    "cover": "https://is1-ssl.mzstatic.com/image/thumb/Music123/v4/ce/ab/8b/ceab8b5c-6c60-0866-0b11-b50138ad20f4/190296864957.jpg/600x600bb.jpg"
+  },
+  {
+    "title": "Agnieszka już tutaj dawno nie mieszka",
+    "artist": "ŁZY",
+    "categories": ["Polskie Rock", "Polskie Rock 20s"],
+    "snippet": "/songs/Polskie/lzy_adam_konkol_agnieszka.mp3",
+    "cover": "https://is1-ssl.mzstatic.com/image/thumb/Music116/v4/c4/73/30/c4733087-df5e-8ea2-92ae-afa3e228711d/5054197705205.jpg/600x600bb.jpg"
   }
 ]
 
