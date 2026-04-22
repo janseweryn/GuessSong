@@ -1539,6 +1539,32 @@ const manualDaily = {
       dailyCategory: "Rap",
     },
   ],
+  "2026-04-23": [
+    {
+      title: "Daddy Cool",
+      artist: "Boney M.",
+      cover: "https://is1-ssl.mzstatic.com/image/thumb/Music4/v4/aa/23/e3/aa23e3a1-de3e-5aa7-870b-a1403afb2b10/886444503273.jpg/600x600bb.jpg",
+      snippet: "/songs/pop/boney_m_daddy_cool.mp3",
+      categories: ["pop"],
+      dailyCategory: "Pop",
+    },
+    {
+      title: "Zazdrość",
+      artist: "Hey",
+      cover: "https://is1-ssl.mzstatic.com/image/thumb/Music5/v4/5f/92/7e/5f927ef0-f182-3746-cdab-e6104df55608/602547377401.jpg/600x600bb.jpg",
+      snippet: "/songs/Polskie/hey_zazdrosc.mp3",
+      categories: ["rock"],
+      dailyCategory: "Rock",
+    },
+    {
+      title: "Praise The Lord (Da Shine) [feat. Skepta]",
+      artist: "A$AP Rocky",
+      cover: "https://is1-ssl.mzstatic.com/image/thumb/Music115/v4/d3/91/9c/d3919c54-3426-07a2-91a4-b4e46b2a8d34/886447076453.jpg/600x600bb.jpg",
+      snippet:  "/songs/rap/a_ap_rocky_praise_the_lord_da_shine_feat_skepta.mp3",
+      categories: ["rap"],
+      dailyCategory: "Rap",
+    },
+  ],
 };
 
 const LEVELS = [

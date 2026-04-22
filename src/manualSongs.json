@@ -652,5 +652,12 @@
     "categories": ["Polskie Rap", "Polskie Rap 20s"],
     "snippet": "/songs/Polskie/taco_hemingway_dawid_podsiadlo_atutowy_cale_lata.mp3",
     "cover": "https://is1-ssl.mzstatic.com/image/thumb/Music116/v4/05/33/76/053376f7-8f6f-5540-80f2-6be9bee5697a/23UM1IM07279.rgb.jpg/600x600bb.jpg"
+  },
+  {
+    "title": "Praise The Lord (Da Shine) [feat. Skepta]",
+    "artist": "A$AP Rocky",
+    "categories": ["Rap", "Rap 10s"],
+    "snippet": "/songs/rap/a_ap_rocky_praise_the_lord_da_shine_feat_skepta.mp3",
+    "cover": "https://is1-ssl.mzstatic.com/image/thumb/Music115/v4/d3/91/9c/d3919c54-3426-07a2-91a4-b4e46b2a8d34/886447076453.jpg/600x600bb.jpg"
   }
 ]
