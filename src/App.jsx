@@ -1565,6 +1565,32 @@ const manualDaily = {
       dailyCategory: "Rap",
     },
   ],
+  "2026-04-24": [
+    {
+      title: "Pompeii",
+      artist: "Bastille",
+      cover: "https://is1-ssl.mzstatic.com/image/thumb/Music115/v4/e6/d8/61/e6d86177-ae8c-e84e-dfcc-0042687066ed/13UAAIM41955.rgb.jpg/600x600bb.jpg",
+      snippet: "/songs/rock/bastille_pompeii.mp3",
+      categories: ["pop"],
+      dailyCategory: "Pop",
+    },
+    {
+      title: "Song 2",
+      artist: "Blur",
+      cover: "https://is1-ssl.mzstatic.com/image/thumb/Music211/v4/19/c2/31/19c2313f-9f18-a923-e10f-150c73f4f3ef/5059460328020.jpg/600x600bb.jpg",
+      snippet: "/songs/rock/blur_song_2.mp3",
+      categories: ["rock"],
+      dailyCategory: "Rock",
+    },
+    {
+      title: "Mo Bamba",
+      artist: "Schek Wes",
+      cover: "https://is1-ssl.mzstatic.com/image/thumb/Music118/v4/3a/29/12/3a2912d6-e230-bd23-718f-f67e4323cb71/artwork.jpg/600x600bb.jpg",
+      snippet:  "/songs/pop/blkd_out_mo_bamba.mp3",
+      categories: ["rap"],
+      dailyCategory: "Rap",
+    },
+  ],
 };
 
 const LEVELS = [
