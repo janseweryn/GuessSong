@@ -7397,7 +7397,7 @@
     "cover": "https://is1-ssl.mzstatic.com/image/thumb/Music124/v4/8d/76/23/8d76234b-5101-fa9b-58b3-5e17645d5b05/00602527744209.rgb.jpg/600x600bb.jpg"
   },
   {
-    "title": "Nights",
+    "title": "Pink + White",
     "artist": "Frank Ocean",
     "categories": ["Pop", "Pop 10s","Rap", "Rap 10s"],
     "snippet": "/songs/pop/frank_ocean_white_feat_john_mayer.mp3",
@@ -12610,7 +12610,7 @@
   {
     "title": "Pompeii",
     "artist": "Bastille",
-    "categories": ["Rock", "Rock 10s"],
+    "categories": ["Pop", "Pop 10s"],
     "snippet": "/songs/rock/bastille_pompeii.mp3",
     "cover": "https://is1-ssl.mzstatic.com/image/thumb/Music115/v4/e6/d8/61/e6d86177-ae8c-e84e-dfcc-0042687066ed/13UAAIM41955.rgb.jpg/600x600bb.jpg"
   },
@@ -14692,6 +14692,34 @@
     "categories": ["Polskie Rock", "Polskie Rock 20s"],
     "snippet": "/songs/Polskie/lzy_adam_konkol_agnieszka.mp3",
     "cover": "https://is1-ssl.mzstatic.com/image/thumb/Music116/v4/c4/73/30/c4733087-df5e-8ea2-92ae-afa3e228711d/5054197705205.jpg/600x600bb.jpg"
+  },
+  {
+    "title": "I Just Might",
+    "artist": "Bruno Mars",
+    "categories": ["Pop", "Pop 20s"],
+    "snippet": "/songs/pop/bruno_mars_i_just_might.mp3",
+    "cover": "https://is1-ssl.mzstatic.com/image/thumb/Music211/v4/ed/46/bf/ed46bf4e-7cb9-965a-54f3-03059977fe6c/075679589293.jpg/600x600bb.jpg"
+  },
+  {
+    "title": "Risk It All",
+    "artist": "Bruno Mars",
+    "categories": ["Pop", "Pop 20s"],
+    "snippet": "/songs/pop/bruno_mars_risk_it_all.mp3",
+    "cover": "https://is1-ssl.mzstatic.com/image/thumb/Music211/v4/ed/46/bf/ed46bf4e-7cb9-965a-54f3-03059977fe6c/075679589293.jpg/600x600bb.jpg"
+  },
+  {
+    "title": "Aperture",
+    "artist": "Harry Styles",
+    "categories": ["Pop", "Pop 20s"],
+    "snippet": "/songs/pop/harry_styles_aperture.mp3",
+    "cover": "https://is1-ssl.mzstatic.com/image/thumb/Music221/v4/07/41/6a/07416a78-38b9-2d47-7ce8-8a52a44c510f/196874010112.jpg/600x600bb.jpg"
+  },
+  {
+    "title": "Sign of the Times",
+    "artist": "Harry Styles",
+    "categories": ["Pop", "Pop 10s"],
+    "snippet": "/songs/pop/harry_styles_sign_of_the_times.mp3",
+    "cover": "https://is1-ssl.mzstatic.com/image/thumb/Music124/v4/3d/5e/aa/3d5eaaa3-9a86-c264-5cd5-7fac83f99a59/886446451978.jpg/600x600bb.jpg"
   }
 ]
 

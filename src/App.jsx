@@ -1591,6 +1591,32 @@ const manualDaily = {
       dailyCategory: "Rap",
     },
   ],
+   "2026-04-25": [
+    {
+      title: "Sign of the Times",
+      artist: "Harry Styles",
+      cover: "https://is1-ssl.mzstatic.com/image/thumb/Music124/v4/3d/5e/aa/3d5eaaa3-9a86-c264-5cd5-7fac83f99a59/886446451978.jpg/600x600bb.jpg",
+      snippet: "/songs/pop/harry_styles_sign_of_the_times.mp3",
+      categories: ["pop"],
+      dailyCategory: "Pop",
+    },
+    {
+      title: "Fat Lip",
+      artist: "Sum 41",
+      cover: "https://is1-ssl.mzstatic.com/image/thumb/Music211/v4/59/17/4d/59174d33-7211-9fb1-5952-5895c94e06d4/09UMGIM03043.rgb.jpg/600x600bb.jpg",
+      snippet: "/songs/rock/sum_41_fat_lip.mp3",
+      categories: ["rock"],
+      dailyCategory: "Rock",
+    },
+    {
+      title: "Antidote",
+      artist: "Travis Scott",
+      cover: "/songs/covers/rodeo.png",
+      snippet:  "/songs/rap/antidote.mp3",
+      categories: ["rap"],
+      dailyCategory: "Rap",
+    },
+  ],
 };
 
 const LEVELS = [
