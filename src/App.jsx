@@ -1617,6 +1617,32 @@ const manualDaily = {
       dailyCategory: "Rap",
     },
   ],
+   "2026-04-26": [
+    {
+      title: "Hall of Fame (feat. will.i.am)",
+      artist: "The Script",
+      cover: "/songs/covers/3deluxe.jpg",
+      snippet: "/songs/pop/hall_fame.mp3",
+      categories: ["pop"],
+      dailyCategory: "Pop",
+    },
+    {
+      title: "Black Dog",
+      artist: "Led Zeppelin", 
+      cover: "/songs/covers/zeppelin4.jpg",
+      snippet: "/songs/rock/black_dog.mp3",
+      categories: ["rock"],
+      dailyCategory: "Rock",
+    },
+    {
+      title: "Swimming Pools (Drank)",
+      artist: "Kendrick Lamar",
+      cover: "/songs/covers/gkmd.jpg",
+      snippet:  "/songs/rap/swimming_pools.mp3",
+      categories: ["rap"],
+      dailyCategory: "Rap",
+    },
+  ],
 };
 
 const LEVELS = [
