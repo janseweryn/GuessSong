@@ -1643,6 +1643,32 @@ const manualDaily = {
       dailyCategory: "Rap",
     },
   ],
+  "2026-04-27": [
+    {
+      title: "So Easy (To Fall In Love)",
+      artist: "Olivia Dean",
+      cover: "https://is1-ssl.mzstatic.com/image/thumb/Music221/v4/08/e2/21/08e22164-7c0b-1522-818f-e0e74f62dc49/25UMGIM69703.rgb.jpg/600x600bb.jpg",
+      snippet: "/songs/pop/olivia_dean_so_easy_to_fall_in_love.mp3",
+      categories: ["pop"],
+      dailyCategory: "Pop",
+    },
+    {
+      title: "Money",
+      artist: "Pink Floyd", 
+      cover: "/songs/covers/darkside.jpg",
+      snippet: "/songs/rock/money.mp3",
+      categories: ["rock"],
+      dailyCategory: "Rock",
+    },
+    {
+      title: "Ciągle tutaj jestem (diss na raka)",
+      artist: "Bedoes 2115, Maja Mecan, Fundacja Cancer Fighters",
+      cover: "/songs/covers/rak.jpg",
+      snippet:  "/songs/Polskie/dawid_bischoff_jestem.mp3",
+      categories: ["rap"],
+      dailyCategory: "Rap",
+    },
+  ],
 };
 
 const LEVELS = [

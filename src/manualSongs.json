@@ -659,5 +659,12 @@
     "categories": ["Rap", "Rap 10s"],
     "snippet": "/songs/rap/a_ap_rocky_praise_the_lord_da_shine_feat_skepta.mp3",
     "cover": "https://is1-ssl.mzstatic.com/image/thumb/Music115/v4/d3/91/9c/d3919c54-3426-07a2-91a4-b4e46b2a8d34/886447076453.jpg/600x600bb.jpg"
+  },
+  {
+    "title": "Ciągle tutaj jestem (diss na raka)",
+    "artist": "Bedoes 2115, Maja Mecan, Fundacja Cancer Fighters",
+    "categories": ["Polskie Rap", "Polskie Rap 20s"],
+    "snippet": "/songs/Polskie/dawid_bischoff_jestem.mp3",
+    "cover": "/songs/covers/rak.jpg"
   }
 ]
