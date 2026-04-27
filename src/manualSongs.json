@@ -666,5 +666,19 @@
     "categories": ["Polskie Rap", "Polskie Rap 20s"],
     "snippet": "/songs/Polskie/dawid_bischoff_jestem.mp3",
     "cover": "/songs/covers/rak.jpg"
+  },
+  {
+    "title": "Nocturne in E-Flat Major, Op. 9 No. 2",
+    "artist": "Frederic Chopin",
+    "categories": ["Polskie Pop", "Polskie Pop 20s"],
+    "snippet": "/songs/Polskie/smile_melody_baby_music_chopin_chopin_nocturne_e_flat_major_op_9_no_2.mp3",
+    "cover": "https://is1-ssl.mzstatic.com/image/thumb/Music211/v4/54/e1/fc/54e1fc68-6c5a-ba29-fd7b-f43bc904b9f8/193017200447.jpg/600x600bb.jpg"
+  },
+  {
+    "title": "Beethoven",
+    "artist": "Kenndog",
+    "categories": ["Rap", "Rap 20s"],
+    "snippet": "/songs/rap/Kenndog_Beethoven.mp3",
+    "cover": "/songs/covers/beethoven.jpg"
   }
 ]
