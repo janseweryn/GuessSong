@@ -1674,7 +1674,7 @@ const manualDaily = {
       title: "Nocturne in E-Flat Major, Op. 9 No. 2",
       artist: "Frederic Chopin",
       cover: "https://is1-ssl.mzstatic.com/image/thumb/Music221/v4/08/e2/21/08e22164-7c0b-1522-818f-e0e74f62dc49/25UMGIM69703.rgb.jpg/600x600bb.jpg",
-      snippet: "/songs/covers/chopin.jpg",
+      snippet: "/songs/Polskie/smile_melody_baby_music_chopin_chopin_nocturne_e_flat_major_op_9_no_2.mp3",
       categories: ["pop"],
       dailyCategory: "Pop",
     },
