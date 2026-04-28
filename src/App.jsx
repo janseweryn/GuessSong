@@ -1695,6 +1695,32 @@ const manualDaily = {
       dailyCategory: "Rap",
     },
   ],
+  "2026-04-29": [
+    {
+      title: "Fancy",
+      artist: "Twice",
+      cover: "/songs/covers/fancytwice.jpg",
+      snippet: "/songs/pop/fancy.mp3",
+      categories: ["pop"],
+      dailyCategory: "Pop",
+    },
+    {
+      title: "Papercut",
+      artist: "Linkin Park",
+      cover: "/songs/covers/hybrid.jpg",
+      snippet: "/songs/rock/papercut.mp3",
+      categories: ["rock"],
+      dailyCategory: "Rock",
+    },
+    {
+      title: "Ridin' (feat. Krayzie Bone)",
+      artist: "Chamillionaire",
+      cover: "https://is1-ssl.mzstatic.com/image/thumb/Music112/v4/8b/d4/0f/8bd40f66-f9a7-963c-c327-79980e91445f/06UMGIM17125.rgb.jpg/600x600bb.jpg",
+      snippet: "/songs/rap/chamillionaire_ridin_feat_krayzie_bone.mp3",
+      categories: ["rap"],
+      dailyCategory: "Rap",
+    },
+  ],
 };
 
 const LEVELS = [
