@@ -5955,7 +5955,7 @@
     "cover": "https://is1-ssl.mzstatic.com/image/thumb/Music/d4/48/7e/mzi.mcaysnnz.jpg/600x600bb.jpg"
   },
   {
-    "title": "Wuthering Heights (2018 Remaster)",
+    "title": "Wuthering Heights",
     "artist": "Kate Bush",
     "categories": ["Pop", "Pop 80s"],
     "snippet": "/songs/pop/kate_bush_wuthering_heights_2018_remaster.mp3",
@@ -14727,6 +14727,13 @@
     "categories": ["Rap", "Rap 20s"],
     "snippet": "/songs/rap/Kenndog_Beethoven.mp3",
     "cover": "/songs/covers/beethoven.jpg"
+  },
+   {
+    "title": "Butterfly",
+    "artist": "Crazy Town",
+    "categories": ["Rock", "Rock 90s", "Rap", "Rap 90s"],
+    "snippet": "/songs/rock/crazy_town_butterfly.mp3",
+    "cover": "https://is1-ssl.mzstatic.com/image/thumb/Music125/v4/b8/5e/16/b85e1612-0b86-efe5-d6e2-a53a7244e558/mzi.xsnqpqgt.jpg/600x600bb.jpg"
   }
 ]
 

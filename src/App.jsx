@@ -1721,6 +1721,32 @@ const manualDaily = {
       dailyCategory: "Rap",
     },
   ],
+  "2026-04-30": [
+    {
+      title: "Wuthering Heights",
+      artist: "Kate Bush",
+      cover: "https://is1-ssl.mzstatic.com/image/thumb/Music126/v4/c4/64/67/c46467fc-099e-a2f0-d165-f684c12d7cf8/cover.jpg/600x600bb.jpg",
+      snippet: "/songs/pop/kate_bush_wuthering_heights_2018_remaster.mp3",
+      categories: ["pop"],
+      dailyCategory: "Pop",
+    },
+    {
+      title: "Dani California",
+      artist: "Red Hot Chili Peppers",  
+      cover: "/songs/covers/stadium.jpg",
+      snippet: "/songs/rock/dani.mp3",
+      categories: ["rock"],
+      dailyCategory: "Rock",
+    },
+    {
+      title: "Butterfly",
+      artist: "Crazy Town",
+      cover: "https://is1-ssl.mzstatic.com/image/thumb/Music125/v4/b8/5e/16/b85e1612-0b86-efe5-d6e2-a53a7244e558/mzi.xsnqpqgt.jpg/600x600bb.jpg",
+      snippet: "/songs/rock/crazy_town_butterfly.mp3",
+      categories: ["rap"],
+      dailyCategory: "Rap",
+    },
+  ],
 };
 
 const LEVELS = [
