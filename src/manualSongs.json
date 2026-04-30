@@ -680,5 +680,12 @@
     "categories": ["Rap", "Rap 20s"],
     "snippet": "/songs/rap/Kenndog_Beethoven.mp3",
     "cover": "/songs/covers/beethoven.jpg"
+  },
+  {
+   "title": "Love the Way You Lie (feat. Rihanna)",
+    "artist": "Eminem",  
+    "categories": ["Rap", "Rap 10s"],
+    "snippet": "/songs/rap/love_way.mp3",
+    "cover": "/songs/covers/recovery.jpg"
   }
 ]

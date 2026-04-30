@@ -1747,6 +1747,32 @@ const manualDaily = {
       dailyCategory: "Rap",
     },
   ],
+  "2026-05-01": [
+    {
+      title: "Disturbia",
+      artist: "Rihanna",
+      cover: "/songs/covers/goodgirl.jpg",
+      snippet: "/songs/pop/disturbia.mp3",
+      categories: ["pop"],
+      dailyCategory: "Pop",
+    },
+    {
+      title: "Holiday",
+      artist: "Green Day",
+      cover: "/songs/covers/idiot.jpg",
+      snippet: "/songs/rock/holiday.mp3",
+      categories: ["rock"],
+      dailyCategory: "Rock",
+    },
+    {
+      title: "Love the Way You Lie (feat. Rihanna)",
+      artist: "Eminem",
+      cover: "/songs/covers/recovery.jpg",
+      snippet: "/songs/rap/love_way.mp3",
+      categories: ["rap"],
+      dailyCategory: "Rap",
+    },
+  ],
 };
 
 const LEVELS = [
