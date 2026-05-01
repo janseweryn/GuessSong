@@ -1773,6 +1773,32 @@ const manualDaily = {
       dailyCategory: "Rap",
     },
   ],
+   "2026-05-02": [
+    {
+      title: "Gimme! Gimme! Gimme! (A Man After Midnight)",
+      artist: "Abba",
+      cover: "/songs/covers/voulez.jpg",
+      snippet: "/songs/pop/gimme.mp3",
+      categories: ["pop"],
+      dailyCategory: "Pop",
+    },
+    {
+      title: "Wind of Change",
+      artist: "Scorpions",
+      cover: "https://is1-ssl.mzstatic.com/image/thumb/Music124/v4/65/29/ca/6529cad4-827a-8aa5-ebbc-f9de2ea33af2/00602567825265.rgb.jpg/600x600bb.jpg",
+      snippet: "/songs/rock/scorpions_wind_of_change.mp3",
+      categories: ["rock"],
+      dailyCategory: "Rock",
+    },
+    {
+      title: "Drama",
+      artist: "Aespa",
+      cover: "/songs/covers/drama.jpg",
+      snippet: "/songs/pop/drama.mp3",
+      categories: ["rap"],
+      dailyCategory: "Rap",
+    },
+  ],
 };
 
 const LEVELS = [
