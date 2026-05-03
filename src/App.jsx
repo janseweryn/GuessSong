@@ -1799,7 +1799,7 @@ const manualDaily = {
       dailyCategory: "Rap",
     },
   ],
-  "2026-05-03": [
+  "2026-05-04": [
     {
       title: "The Fate Of Ophelia",
       artist: "Taylor Swift", 
