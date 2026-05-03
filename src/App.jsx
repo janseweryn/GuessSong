@@ -1799,6 +1799,32 @@ const manualDaily = {
       dailyCategory: "Rap",
     },
   ],
+  "2026-05-03": [
+    {
+      title: "The Fate Of Ophelia",
+      artist: "Taylor Swift", 
+      cover: "/songs/covers/showgirl.jpg",
+      snippet: "/songs/pop/ophelia.mp3",
+      categories: ["pop"],
+      dailyCategory: "Pop",
+    },
+    {
+      title: "Psychosocial",
+      artist: "Slipknot",
+      cover: "https://is1-ssl.mzstatic.com/image/thumb/Music115/v4/1c/bf/46/1cbf46b8-c549-f3f2-010c-06d6e7627115/016861752200.jpg/600x600bb.jpg",
+      snippet: "/songs/rock/slipknot_psychosocial.mp3",
+      categories: ["rock"],
+      dailyCategory: "Rock",
+    },
+    {
+      title: "Rolex",
+      artist: "Ayo & Teo",
+      cover: "https://is1-ssl.mzstatic.com/image/thumb/Music115/v4/04/57/2b/04572be8-c471-9f50-4a20-a8f4b10a80dc/886446429465.jpg/600x600bb.jpg",
+      snippet: "/songs/rap/ayo_teo_rolex.mp3",
+      categories: ["rap"],
+      dailyCategory: "Rap",
+    },
+  ],
 };
 
 const LEVELS = [
