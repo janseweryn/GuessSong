@@ -1825,6 +1825,32 @@ const manualDaily = {
       dailyCategory: "Rap",
     },
   ],
+  "2026-05-05": [
+    {
+      title: "Stressed Out",
+      artist: "Twenty One Pilots",  
+      cover: "/songs/covers/blurry.jpg",
+      snippet: "/songs/pop/stressed.mp3",
+      categories: ["pop"],
+      dailyCategory: "Pop",
+    },
+    {
+      title: "Please Please Please Let Me Get What I Want",
+      artist: "The Smiths",
+      cover: "https://is1-ssl.mzstatic.com/image/thumb/Music115/v4/fb/73/d5/fb73d503-8e0a-c17f-7f34-ac5a566a192d/825646642847.jpg/600x600bb.jpg",
+      snippet: "/songs/rock/the_smiths_please_please_please_let_me_get_what_i_want.mp3",
+      categories: ["rock"],
+      dailyCategory: "Rock",
+    },
+    {
+      title: "THATS WHAT I WANT",
+      artist: "Lil Nas X",
+      cover: "https://is1-ssl.mzstatic.com/image/thumb/Music115/v4/4b/42/21/4b422136-2cfd-222c-ca7c-7573bf23139c/886449537204.jpg/600x600bb.jpg",
+      snippet: "/songs/pop/lil_nas_x_thats_what_i_want.mp3",
+      categories: ["rap"],
+      dailyCategory: "Rap",
+    },
+  ],
 };
 
 const LEVELS = [
