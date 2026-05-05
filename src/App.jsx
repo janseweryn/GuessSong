@@ -1851,6 +1851,32 @@ const manualDaily = {
       dailyCategory: "Rap",
     },
   ],
+   "2026-05-06": [
+    {
+      title: "Gangnam Style",
+      artist: "PSY",  
+      cover: "https://is1-ssl.mzstatic.com/image/thumb/Music115/v4/7c/52/87/7c5287bc-818f-55ed-e607-08b052963632/12UMGIM50914.rgb.jpg/600x600bb.jpg",
+      snippet: "/songs/pop/psy_gangnam_style.mp3",
+      categories: ["pop"],
+      dailyCategory: "Pop",
+    },
+    {
+      title: "Shoot to Thrill",
+      artist: "AC/DC",
+      cover: "/songs/covers/backblack.jpg",
+      snippet: "/songs/rock/shoot_thrill.mp3",
+      categories: ["rock"],
+      dailyCategory: "Rock",
+    },
+    {
+      title: "Wild Thoughts (feat. Rihanna & Bryson Tiller)",
+      artist: "DJ Khaled",
+      cover: "https://is1-ssl.mzstatic.com/image/thumb/Music124/v4/42/7c/23/427c23ba-78dc-5a27-78c4-1a0e5f0e40da/886446557731.jpg/600x600bb.jpg",
+      snippet: "/songs/rap/dj_khaled_wild_thoughts_feat_rihanna_bryson_tiller.mp3",
+      categories: ["rap"],
+      dailyCategory: "Rap",
+    },
+  ],
 };
 
 const LEVELS = [
