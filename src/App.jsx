@@ -1877,6 +1877,32 @@ const manualDaily = {
       dailyCategory: "Rap",
     },
   ],
+   "2026-05-07": [
+    {
+      title: "Don't Let Me Down (feat. Daya)",
+      artist: "The Chainsmokers",
+      cover: "https://is1-ssl.mzstatic.com/image/thumb/Music20/v4/40/1d/0a/401d0a4f-6afe-1548-f4c8-6e8de3ff1e2b/886446009742.jpg/600x600bb.jpg",
+      snippet: "/songs/pop/the_chainsmokers_don_t_let_me_down_feat_daya_illenium_remix.mp3",
+      categories: ["pop"],
+      dailyCategory: "Pop",
+    },
+    {
+      title: "Borderline",
+      artist: "Tame Impala", 
+      cover: "/songs/covers/slowrush.jpg",
+      snippet: "/songs/pop/borderline.mp3",
+      categories: ["rock"],
+      dailyCategory: "Rock",
+    },
+    {
+      title: "All Girls Are the Same",
+      artist: "Juice WRLD",
+      cover: "https://is1-ssl.mzstatic.com/image/thumb/Music115/v4/07/2b/a4/072ba4fa-7f4c-f478-6f22-13f9e62ac1be/21UMGIM53733.rgb.jpg/600x600bb.jpg",
+      snippet: "/songs/rap/juice_wrld_all_girls_are_the_same.mp3",
+      categories: ["rap"],
+      dailyCategory: "Rap",
+    },
+  ],
 };
 
 const LEVELS = [
