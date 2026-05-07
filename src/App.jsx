@@ -1903,6 +1903,32 @@ const manualDaily = {
       dailyCategory: "Rap",
     },
   ],
+  "2026-05-08": [
+    {
+      title: "Shooting Stars",
+      artist: "Bag Raiders",
+      cover: "https://is1-ssl.mzstatic.com/image/thumb/Music115/v4/16/1a/e7/161ae7fa-026b-453a-e443-626924179812/00602527174396.rgb.jpg/600x600bb.jpg",
+      snippet: "/songs/rock/bag_raiders_shooting_stars.mp3",
+      categories: ["pop"],
+      dailyCategory: "Pop",
+    },
+    {
+      title: "Hail to the King",
+      artist: "Avenged Sevenfold",
+      cover: "https://is1-ssl.mzstatic.com/image/thumb/Music115/v4/c3/8f/cb/c38fcb39-bbca-3e38-4b5d-1add583d2e92/093624942214.jpg/600x600bb.jpg",
+      snippet: "/songs/rock/avenged_sevenfold_hail_to_the_king.mp3",
+      categories: ["rock"],
+      dailyCategory: "Rock",
+    },
+    {
+      title: "Homecoming (feat. Chris Martin)",
+      artist: "Kanye West", 
+      cover: "/songs/covers/graduation.jpg",
+      snippet: "/songs/rap/homecoming.mp3",
+      categories: ["rap"],
+      dailyCategory: "Rap",
+    },
+  ],
 };
 
 const LEVELS = [
