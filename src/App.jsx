@@ -1929,6 +1929,32 @@ const manualDaily = {
       dailyCategory: "Rap",
     },
   ],
+  "2026-05-09": [
+    {
+      title: "Stronger (What Doesn't Kill You)",
+      artist:"Kelly Clarkson",
+      cover: "https://is1-ssl.mzstatic.com/image/thumb/Music/68/81/4f/mzi.wrtaopaz.jpg/600x600bb.jpg",
+      snippet: "/songs/pop/kelly_clarkson_stronger_what_doesn_t_kill_you.mp3",
+      categories: ["pop"],
+      dailyCategory: "Pop",
+    },
+    {
+      title: "Hail to the King",
+      artist: "Avenged Sevenfold",
+      cover: "https://is1-ssl.mzstatic.com/image/thumb/Music115/v4/c3/8f/cb/c38fcb39-bbca-3e38-4b5d-1add583d2e92/093624942214.jpg/600x600bb.jpg",
+      snippet: "/songs/rock/avenged_sevenfold_hail_to_the_king.mp3",
+      categories: ["rock"],
+      dailyCategory: "Rock",
+    },
+    {
+      title: "Homecoming (feat. Chris Martin)",
+      artist: "Kanye West", 
+      cover: "/songs/covers/graduation.jpg",
+      snippet: "/songs/rap/homecoming.mp3",
+      categories: ["rap"],
+      dailyCategory: "Rap",
+    },
+  ],
 };
 
 const LEVELS = [
