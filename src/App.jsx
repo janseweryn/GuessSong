@@ -1955,6 +1955,32 @@ const manualDaily = {
       dailyCategory: "Rap",
     },
   ],
+  "2026-05-10": [
+    {
+      title: "Image",
+      artist: "Magdalena Bay",
+      cover: "/songs/covers/imaginal.jpg",
+      snippet: "/songs/pop/image.mp3",
+      categories: ["pop"],
+      dailyCategory: "Pop",
+    },
+    {
+      title: "Barracuda",
+      artist: "Heart",
+      cover: "https://is1-ssl.mzstatic.com/image/thumb/Music115/v4/1b/83/f2/1b83f233-20c6-c876-ab7a-15757ad397b1/074643479929.jpg/600x600bb.jpg",
+      snippet: "/songs/rock/heart_barracuda.mp3",
+      categories: ["rock"],
+      dailyCategory: "Rock",
+    },
+    {
+      title: "Sugar On My Tongue",
+      artist: "Tyler, The Creator", 
+      cover: "/songs/covers/tapglass.jpg",
+      snippet: "/songs/rap/sugar_tongue.mp3",
+      categories: ["rap"],
+      dailyCategory: "Rap",
+    },
+  ],
 };
 
 const LEVELS = [
