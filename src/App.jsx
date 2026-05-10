@@ -2000,7 +2000,7 @@ const manualDaily = {
     },
     {
       title: "Timber",
-      artist: "Pitbull & Ke$ha", 
+      artist: "Pitbull & Kesha", 
       cover: "/songs/covers/globalwarn.jpg",
       snippet: "/songs/pop/timber.mp3",
       categories: ["rap"],
