@@ -1981,6 +1981,32 @@ const manualDaily = {
       dailyCategory: "Rap",
     },
   ],
+  "2026-05-11": [
+    {
+      title: "Make You Mine",
+      artist: "Madison Beer",
+      cover: "/songs/covers/makemine.png",
+      snippet: "/songs/pop/make_mine.mp3",
+      categories: ["pop"],
+      dailyCategory: "Pop",
+    },
+    {
+      title: "You Can Call Me Al",
+      artist: "Paul Simon",
+      cover: "https://is1-ssl.mzstatic.com/image/thumb/Music125/v4/92/0c/8c/920c8c14-cf08-a973-e4c1-8792f1e9183c/886443445680.jpg/600x600bb.jpg",
+      snippet: "/songs/pop/paul_simon_you_can_call_me_al.mp3",
+      categories: ["rock"],
+      dailyCategory: "Rock",
+    },
+    {
+      title: "Timber",
+      artist: "Pitbull & Ke$ha", 
+      cover: "/songs/covers/globalwarn.jpg",
+      snippet: "/songs/pop/timber.mp3",
+      categories: ["rap"],
+      dailyCategory: "Rap",
+    },
+  ],
 };
 
 const LEVELS = [
