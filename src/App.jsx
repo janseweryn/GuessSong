@@ -2007,6 +2007,32 @@ const manualDaily = {
       dailyCategory: "Rap",
     },
   ],
+  "2026-05-12": [
+    {
+      title: "Tattoo",
+      artist: "Loreen",
+      cover: "https://is1-ssl.mzstatic.com/image/thumb/Music126/v4/50/32/fd/5032fddc-e486-956d-a503-7ec6d17af848/22UM1IM46463.rgb.jpg/600x600bb.jpg",
+      snippet: "/songs/pop/loreen_tattoo.mp3",
+      categories: ["pop"],
+      dailyCategory: "Pop",
+    },
+    {
+      title: "Hard Rock Hallelujah",
+      artist: "Lordi",
+      cover: "https://is1-ssl.mzstatic.com/image/thumb/Music/c7/6a/a5/mzi.kzwrzrrs.jpg/600x600bb.jpg",
+      snippet: "/songs/pop/lordi_hard_rock_hallelujah.mp3",
+      categories: ["rock"],
+      dailyCategory: "Rock",
+    },
+    {
+      title: "Soldi",
+      artist: "Mahmood",
+      cover: "https://is1-ssl.mzstatic.com/image/thumb/Music124/v4/a5/6c/d4/a56cd43e-ffbd-68ab-6b12-12fcd85e5106/00602577534782.rgb.jpg/600x600bb.jpg",
+      snippet: "/songs/pop/mahmood_soldi.mp3",
+      categories: ["rap"],
+      dailyCategory: "Rap",
+    },
+  ],
 };
 
 const LEVELS = [
