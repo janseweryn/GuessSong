@@ -2033,6 +2033,32 @@ const manualDaily = {
       dailyCategory: "Rap",
     },
   ],
+  "2026-05-13": [
+    {
+      title: "This Is For",
+      artist: "Twice",
+      cover: "/songs/covers/thisfor.jpg",
+      snippet: "/songs/pop/this_for.mp3",
+      categories: ["pop"],
+      dailyCategory: "Pop",
+    },
+    {
+      title: "Crushcrushcrush",
+      artist: "Paramore",
+      cover: "https://is1-ssl.mzstatic.com/image/thumb/Music125/v4/9a/3a/26/9a3a2608-29a7-5585-f990-cdfeb10b7394/075679955005.jpg/600x600bb.jpg",
+      snippet: "/songs/rock/paramore_crushcrushcrush.mp3",
+      categories: ["rock"],
+      dailyCategory: "Rock",
+    },
+    {
+      title: "MOVE LIKE THAT (MOMO)",
+      artist: "Twice", 
+      cover: "/songs/covers/momo.jpg",
+      snippet: "/songs/pop/move_that.mp3",
+      categories: ["rap"],
+      dailyCategory: "Rap",
+    },
+  ],
 };
 
 const LEVELS = [
