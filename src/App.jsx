@@ -2059,6 +2059,32 @@ const manualDaily = {
       dailyCategory: "Rap",
     },
   ],
+  "2026-05-14": [
+    {
+      title: "Satellite",
+      artist: "Lena",
+      cover: "/songs/covers/lena.jpg",
+      snippet: "/songs/pop/Satellite_Lena.mp3",
+      categories: ["pop"],
+      dailyCategory: "Pop",
+    },
+    {
+      title: "I Wanna Be Your Slave",
+      artist: "Maneskin",
+      cover: "/songs/covers/slave.jpg",
+      snippet: "/songs/pop/chris_brown_i_wanna_be.mp3",
+      categories: ["rock"],
+      dailyCategory: "Rock",
+    },
+    {
+      title:  "Cha Cha Cha",
+      artist: "Käärijä",
+      cover: "https://is1-ssl.mzstatic.com/image/thumb/Music123/v4/3c/df/e9/3cdfe9ff-b790-8be5-fae7-a3c9812f79a1/5054197498510.jpg/600x600bb.jpg",
+      snippet: "/songs/rap/k_rij_cha_cha_cha.mp3",
+      categories: ["rap"],
+      dailyCategory: "Rap",
+    },
+  ],
 };
 
 const LEVELS = [
