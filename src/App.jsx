@@ -2163,6 +2163,32 @@ const manualDaily = {
       dailyCategory: "Rap",
     },
   ],
+  "2026-05-18": [
+    {
+      title: "Rude",
+      artist: "MAGIC!",
+      cover:  "https://is1-ssl.mzstatic.com/image/thumb/Music115/v4/2a/46/74/2a4674c2-889f-4f6b-e4e9-b3693f8ee962/886444607650.jpg/600x600bb.jpg",
+      snippet: "/songs/pop/magic_rude.mp3",
+      categories: ["pop"],
+      dailyCategory: "Pop",
+    },
+    {
+      title: "Vienna",
+      artist: "Billy Joel",
+      cover: "/songs/covers/stranger.jpg",
+      snippet: "/songs/rock/vienna.mp3",
+      categories: ["rock"],
+      dailyCategory: "Rock",
+    },
+    {
+      title: "Ambitionz Az A Ridah",
+      artist: "2Pac",
+      cover: "https://is1-ssl.mzstatic.com/image/thumb/Music115/v4/55/e5/7c/55e57cf2-8325-a088-7d54-3aeedad1143f/21UM1IM16263.rgb.jpg/600x600bb.jpg",
+      snippet: "/songs/rap/2pac_ambitionz_az_a_ridah.mp3",
+      categories: ["rap"],
+      dailyCategory: "Rap",
+    },
+  ],
 };
 
 const LEVELS = [
