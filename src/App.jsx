@@ -2189,6 +2189,32 @@ const manualDaily = {
       dailyCategory: "Rap",
     },
   ],
+  "2026-05-19": [
+    {
+      title: "We Are Young (feat. Janelle Monáe)",
+      artist: "Fun.",
+      cover:  "https://is1-ssl.mzstatic.com/image/thumb/Features115/v4/b2/df/a3/b2dfa32c-ea54-7983-0da1-6964e60a1bd7/dj.aqphuayl.jpg/600x600bb.jpg",
+      snippet: "/songs/rock/fun_we_are_young_feat_janelle_mon_e.mp3",
+      categories: ["pop"],
+      dailyCategory: "Pop",
+    },
+    {
+      title: "The Reason",
+      artist: "Hoobastank",
+      cover: "https://is1-ssl.mzstatic.com/image/thumb/Music115/v4/17/00/ae/1700ae0f-ba70-bf48-df89-12ab614c83f2/10UMGIM21716.rgb.jpg/600x600bb.jpg",
+      snippet: "/songs/rock/hoobastank_the_reason.mp3",
+      categories: ["rock"],
+      dailyCategory: "Rock",
+    },
+    {
+      title: "The Spins",
+      artist: "Mac Miller",
+      cover: "https://is1-ssl.mzstatic.com/image/thumb/Music126/v4/fa/86/c6/fa86c648-146e-02a0-09f5-166dfb07b076/Long_Story_Short_Apple.png/600x600bb.jpg",
+      snippet: "/songs/pop/mac_miller_the_spins_ben_gerrans_remix_mixed.mp3",
+      categories: ["rap"],
+      dailyCategory: "Rap",
+    },
+  ],
 };
 
 const LEVELS = [
