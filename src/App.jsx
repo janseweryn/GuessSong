@@ -2215,6 +2215,32 @@ const manualDaily = {
       dailyCategory: "Rap",
     },
   ],
+   "2026-05-20": [
+    {
+      title: "Birds of a Feather",
+      artist: "Billie Eilish",
+      cover:  "/songs/covers/hit_me_hard.jpg",
+      snippet: "/songs/pop/birds_of_a_feather.mp3",
+      categories: ["pop"],
+      dailyCategory: "Pop",
+    },
+    {
+      title: "Just Can't Get Enough",
+      artist: "Depeche Mode", 
+      cover: "/songs/covers/speak.jpg",
+      snippet: "/songs/rock/just_get_enough.mp3",
+      categories: ["rock"],
+      dailyCategory: "Rock",
+    },
+    {
+      title: "See You Again (feat. Kali Uchis)",
+      artist: "Tyler, The Creator",
+      cover: "/songs/covers/flowerboy.jpg",
+      snippet: "/songs/pop/miley_cyrus_see_you_again.mp3",
+      categories: ["rap"],
+      dailyCategory: "Rap",
+    },
+  ],
 };
 
 const LEVELS = [
