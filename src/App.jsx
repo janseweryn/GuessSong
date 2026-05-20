@@ -2215,7 +2215,7 @@ const manualDaily = {
       dailyCategory: "Rap",
     },
   ],
-   "2026-05-20": [
+   "2026-05-21": [
     {
       title: "Birds of a Feather",
       artist: "Billie Eilish",
