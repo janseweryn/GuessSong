@@ -4946,7 +4946,7 @@
     "artist": "Twice",  
     "categories": ["Pop","Pop 20s","Rap", "Rap 00s"],
     "snippet": "/songs/pop/move_that.mp3",
-    "cover": "/songs/covers/a.jpg"
+    "cover": "/songs/covers/momo.jpg"
   },
    { 
    "title": "MOVE LIKE THAT (MOMO)",
@@ -6963,7 +6963,7 @@
     "cover": "https://is1-ssl.mzstatic.com/image/thumb/Music124/v4/c5/4b/ff/c54bffa0-2333-1a55-e67e-a9c640e06f6f/mzi.hwxgzhsl.jpg/600x600bb.jpg"
   },
   {
-    "title": "Can't Remember to Forget You (El Dorado World Tour Live)",
+    "title": "Can't Remember to Forget You",
     "artist": "Shakira",
     "categories": ["Pop", "Pop 10s"],
     "snippet": "/songs/pop/shakira_can_t_remember_to_forget_you_el_dorado_world_tour_live.mp3",
@@ -10223,13 +10223,6 @@
     "categories": ["Pop", "Pop 10s"],
     "snippet": "/songs/pop/mabel_don_t_call_me_up.mp3",
     "cover": "https://is1-ssl.mzstatic.com/image/thumb/Music112/v4/87/0c/2f/870c2f51-6495-ec45-b054-fb57f0177335/18UMGIM59599.rgb.jpg/600x600bb.jpg"
-  },
-  {
-    "title": "Fly (feat. Leah Culver)",
-    "artist": "Marshmello",
-    "categories": ["Pop", "Pop 10s"],
-    "snippet": "/songs/pop/marshmello_fly_feat_leah_culver.mp3",
-    "cover": "https://is1-ssl.mzstatic.com/image/thumb/Music125/v4/d8/a4/a6/d8a4a6ab-5f87-9b78-2a68-946bca50b3db/859725647980_cover.jpg/600x600bb.jpg"
   },
   {
     "title": "Going Bad (feat. Drake)",
@@ -14734,6 +14727,230 @@
     "categories": ["Rock", "Rock 90s", "Rap", "Rap 90s"],
     "snippet": "/songs/rock/crazy_town_butterfly.mp3",
     "cover": "https://is1-ssl.mzstatic.com/image/thumb/Music125/v4/b8/5e/16/b85e1612-0b86-efe5-d6e2-a53a7244e558/mzi.xsnqpqgt.jpg/600x600bb.jpg"
+  },
+  {
+    "title": "UP - Karina Solo",
+    "artist": "Aespa",
+    "categories": ["Pop", "Pop 20s"],
+    "snippet": "/songs/pop/forrest_frank_connor_price_up.mp3",
+    "cover": "/songs/covers/karina.jpg"
+  },
+   {
+    "title": "Break On Through (To the Other Side)",
+    "artist": "The Doors",
+    "categories": ["Rock", "Rock 60s"],
+    "snippet": "/songs/rock/the_doors_break_on_through_to_the_other_side.mp3",
+    "cover": "https://is1-ssl.mzstatic.com/image/thumb/Music127/v4/a7/80/55/a7805555-1908-0e3c-7d69-978ef827a694/603497866212.jpg/600x600bb.jpg"
+  },
+  {
+    "title": "Kitty (MOMO)",
+    "artist": "MISAMO",
+    "categories": ["Pop", "Pop 20s"],
+    "snippet": "/songs/pop/misamo_kitty_momo.mp3",
+    "cover": "https://is1-ssl.mzstatic.com/image/thumb/Music221/v4/5b/04/f4/5b04f4a5-cd9d-c82c-2594-6ea28eed92c5/5026854408385.jpg/600x600bb.jpg"
+  },
+  {
+    "title": "Love Her Madly",
+    "artist": "The Doors",
+    "categories": ["Rock", "Rock 70s"],
+    "snippet": "/songs/rock/the_doors_love_her_madly.mp3",
+    "cover": "https://is1-ssl.mzstatic.com/image/thumb/Features115/v4/03/c6/2d/03c62d8a-487f-78c3-8416-488cfac664eb/dj.sboowgda.jpg/600x600bb.jpg"
+  },
+  {
+    "title": "Riders On the Storm (feat. The Doors)",
+    "artist": "Snoop Dogg",
+    "categories": ["Rap", "Rap 00s"],
+    "snippet": "/songs/rap/snoop_dogg_riders_on_the_storm_feat_the_doors_fredwreck_remix.mp3",
+    "cover": "https://is1-ssl.mzstatic.com/image/thumb/Music115/v4/c4/3e/7e/c43e7ec5-9817-c0df-daad-486656999318/00602517264922.rgb.jpg/600x600bb.jpg"
+  },
+  {
+    "title": "Roadhouse Blues",
+    "artist": "The Doors",
+    "categories": ["Rock", "Rock 70s"],
+    "snippet": "/songs/rock/the_doors_roadhouse_blues.mp3",
+    "cover": "https://is1-ssl.mzstatic.com/image/thumb/Music124/v4/53/d5/ac/53d5acd3-b589-caa8-dec1-76b1995b0890/603497845538.jpg/600x600bb.jpg"
+  },
+  {
+    "title": "Soul Kitchen",
+    "artist": "The Doors",
+    "categories": ["Rock", "Rock 60s"],
+    "snippet": "/songs/rock/the_doors_soul_kitchen.mp3",
+    "cover": "https://is1-ssl.mzstatic.com/image/thumb/Features115/v4/03/c6/2d/03c62d8a-487f-78c3-8416-488cfac664eb/dj.sboowgda.jpg/600x600bb.jpg"
+  },
+   {
+    "title": "You Can Call Me Al",
+    "artist": "Paul Simon",
+    "categories": ["Pop", "Pop 80s"],
+    "snippet": "/songs/pop/paul_simon_you_can_call_me_al.mp3",
+    "cover": "https://is1-ssl.mzstatic.com/image/thumb/Music125/v4/92/0c/8c/920c8c14-cf08-a973-e4c1-8792f1e9183c/886443445680.jpg/600x600bb.jpg"
+  },
+   {
+    "title": "We Are Young (feat. Janelle Monáe)",
+    "artist": "Fun.",
+    "categories": ["Rock", "Rock 10s"],
+    "snippet": "/songs/rock/fun_we_are_young_feat_janelle_mon_e.mp3",
+    "cover": "https://is1-ssl.mzstatic.com/image/thumb/Features115/v4/b2/df/a3/b2dfa32c-ea54-7983-0da1-6964e60a1bd7/dj.aqphuayl.jpg/600x600bb.jpg"
+  },
+    {
+    "title": "Skóra (Acoustic)",
+    "artist": "Aya Rl",
+    "categories": ["Polskie Rock", "Polskie Rock 90s"],
+    "snippet": "/songs/Polskie/aya_rl_skora_acoustic.mp3",
+    "cover": "https://is1-ssl.mzstatic.com/image/thumb/Music123/v4/fa/41/8c/fa418ced-f7f8-b986-a2cf-01fb7e307627/5903600162664.jpg/600x600bb.jpg"
+  },
+  {
+    "title": "Jej portret",
+    "artist": "Bogusław Mec",
+    "categories": ["Polskie Pop", "Polskie Pop 70s"],
+    "snippet": "/songs/Polskie/boguslaw_mec_jej_portret.mp3",
+    "cover": "https://is1-ssl.mzstatic.com/image/thumb/Music124/v4/87/de/97/87de972e-16ee-3f09-b6fe-352020ec6bd5/cover.jpg/600x600bb.jpg"
+  },
+  {
+    "title": "Modlitwa",
+    "artist": "Breakout",
+    "categories": ["Polskie Pop", "Polskie Pop 70s"],
+    "snippet": "/songs/Polskie/breakout_modlitwa.mp3",
+    "cover": "https://is1-ssl.mzstatic.com/image/thumb/Music114/v4/7a/36/99/7a36993f-cf3f-f2b3-1080-34f1260755d9/825646920129.jpg/600x600bb.jpg"
+  },
+  {
+    "title": "To co czujesz, to co wiesz",
+    "artist": "Brygada Kryzys",
+    "categories": ["Polskie Rock", "Polskie Rock 00s"],
+    "snippet": "/songs/Polskie/brygada_kryzys_to_co_czujesz_to_co_wiesz.mp3",
+    "cover": "https://is1-ssl.mzstatic.com/image/thumb/Music113/v4/7b/34/b5/7b34b50f-4459-61ab-eac0-dc7c9ff9a5d0/cover.jpg/600x600bb.jpg"
+  },
+  {
+    "title": "Czas Nas Uczy Pogody",
+    "artist": "Grażyna Łobaszewska",
+    "categories": ["Polskie Pop", "Polskie Pop 10s"],
+    "snippet": "/songs/Polskie/grazyna_lobaszewska_czas_nas_uczy_pogody.mp3",
+    "cover": "https://is1-ssl.mzstatic.com/image/thumb/Music221/v4/5c/11/99/5c119925-d7b7-ee55-3ce2-8a27d6975165/5907812249182.jpg/600x600bb.jpg"
+  },
+  {
+    "title": "Dziwny jest ten świat",
+    "artist": "Niemen",
+    "categories": ["Polskie Rock", "Polskie Rock 20s"],
+    "snippet": "/songs/Polskie/niemen_dziwny_jest_ten_swiat_1967.mp3",
+    "cover": "https://is1-ssl.mzstatic.com/image/thumb/Music221/v4/1e/87/64/1e87645c-24a0-fcd0-9c10-cc04b7c86756/5907812242916.jpg/600x600bb.jpg"
+  },
+  {
+    "title": "Sen o Warszawie",
+    "artist": "Czesław Niemen",
+    "categories": ["Polskie Pop", "Polskie Pop 10s"],
+    "snippet": "/songs/Polskie/czeslaw_niemen_sen_o_warszawie.mp3",
+    "cover": "https://is1-ssl.mzstatic.com/image/thumb/Music211/v4/fd/14/36/fd1436be-d804-eb05-0bd1-d0396bf511b9/5907812248840.jpg/600x600bb.jpg"
+  },
+  {
+    "title": "Życie, Kocham Cię Nad Życie",
+    "artist": "Edyta Geppert",
+    "categories": ["Polskie Pop", "Polskie Pop 10s"],
+    "snippet": "/songs/Polskie/edyta_geppert_zycie_kocham_cie_nad_zycie.mp3",
+    "cover": "https://is1-ssl.mzstatic.com/image/thumb/Music221/v4/93/66/96/936696f1-07f7-890c-e7e7-23b1369c7c8f/3616552006147.jpg/600x600bb.jpg"
+  },
+  {
+    "title": "Ślady (feat. Chilly Gonzales, Justyna Święs)",
+    "artist": "Fisz Emade Tworzywo",
+    "categories": ["Polskie Rap", "Polskie Rap 10s"],
+    "snippet": "/songs/Polskie/fisz_emade_tworzywo_slady_feat_chilly_gonzales_justyna_swies.mp3",
+    "cover": "https://is1-ssl.mzstatic.com/image/thumb/Music124/v4/a2/df/87/a2df87fa-0e08-c355-5062-0abc3aa1815b/mamut_front_1500px.jpg/600x600bb.jpg"
+  },
+  {
+    "title": "Bracka",
+    "artist": "Grzegorz Turnau",
+    "categories": ["Polskie Pop", "Polskie Pop 90s"],
+    "snippet": "/songs/Polskie/grzegorz_turnau_bracka.mp3",
+    "cover": "https://is1-ssl.mzstatic.com/image/thumb/Music/v4/ce/1f/cb/ce1fcb2b-8349-43a1-0d9a-a289fea62455/5099991924858.jpg/600x600bb.jpg"
+  },
+  {
+    "title": "Syn okiennika",
+    "artist": "Kacperczyk & Artur Rojek",
+    "categories": ["Polskie Rap", "Polskie Rap 20s"],
+    "snippet": "/songs/Polskie/kacperczyk_artur_rojek_syn_okiennika.mp3",
+    "cover": "https://is1-ssl.mzstatic.com/image/thumb/Music221/v4/e6/0f/7d/e60f7d7e-4ab2-277c-97ca-b6f1b6d90f3f/5902659803498.jpg/600x600bb.jpg"
+  },
+  {
+    "title": "Niebo Było Różowe",
+    "artist": "Kaśka Sochacka",
+    "categories": ["Polskie Pop", "Polskie Pop 20s"],
+    "snippet": "/songs/Polskie/kaska_sochacka_niebo_bylo_rozowe.mp3",
+    "cover": "https://is1-ssl.mzstatic.com/image/thumb/Music116/v4/eb/e7/58/ebe75870-a207-991d-aaba-d34606a3c98f/5907437030394.jpg/600x600bb.jpg"
+  },
+  {
+    "title": "Na Zakręcie",
+    "artist": "Krystyna Janda",
+    "categories": ["Polskie Pop", "Polskie Pop 10s"],
+    "snippet": "/songs/Polskie/krystyna_janda_na_zakrecie.mp3",
+    "cover": "https://is1-ssl.mzstatic.com/image/thumb/Music211/v4/3c/6a/b9/3c6ab9da-75be-55b8-c91b-60b0a8cb8649/5907812247089.jpg/600x600bb.jpg"
+  },
+  {
+    "title": "Jesteś Lekiem Na Całe Zło",
+    "artist": "Krystyna Prońko",
+    "categories": ["Polskie Pop", "Polskie Pop 00s"],
+    "snippet": "/songs/Polskie/krystyna_pronko_jestes_lekiem_na_cale_zlo_1994.mp3",
+    "cover": "https://is1-ssl.mzstatic.com/image/thumb/Music113/v4/f9/58/61/f95861f8-33a5-7356-df59-b134db5ea552/Osobista_kolekcja_2.jpg/600x600bb.jpg"
+  },
+  {
+    "title": "Hydropiekłowstąpienie",
+    "artist": "Lao Che",
+    "categories": ["Polskie Rock", "Polskie Rock 00s"],
+    "snippet": "/songs/Polskie/lao_che_hydropieklowstapienie_1.mp3",
+    "cover": "https://is1-ssl.mzstatic.com/image/thumb/Music113/v4/bf/b2/e1/bfb2e12c-1070-1385-740e-1914efd05a67/cover0000370.jpg/600x600bb.jpg"
+  },
+  {
+    "title": "Dni, ktorych nie znamy",
+    "artist": "Marek Grechuta i Anawa",
+    "categories": ["Polskie Pop", "Polskie Pop 10s"],
+    "snippet": "/songs/Polskie/marek_grechuta_i_anawa_dni_ktorych_nie_znamy.mp3",
+    "cover": "https://is1-ssl.mzstatic.com/image/thumb/Music/v4/55/d3/48/55d348e2-27a5-5de6-8355-b2f580a6dbd0/5903111720230_cover.jpg/600x600bb.jpg"
+  },
+  {
+    "title": "W domach z betonu",
+    "artist": "Martyna Jakubowicz",
+    "categories": ["Polskie Pop", "Polskie Pop 10s"],
+    "snippet": "/songs/Polskie/martyna_jakubowicz_w_domach_z_betonu.mp3",
+    "cover": "https://is1-ssl.mzstatic.com/image/thumb/Music211/v4/fd/14/36/fd1436be-d804-eb05-0bd1-d0396bf511b9/5907812248840.jpg/600x600bb.jpg"
+  },
+  {
+    "title": "Tolerancja",
+    "artist": "Stanisław Soyka",
+    "categories": ["Polskie Pop", "Polskie Pop 90s"],
+    "snippet": "/songs/Polskie/stanislaw_soyka_tolerancja.mp3",
+    "cover": "https://is1-ssl.mzstatic.com/image/thumb/Music19/v4/72/b6/be/72b6be56-35c6-1b39-632b-10b00e781b5d/190295880644.jpg/600x600bb.jpg"
+  },
+  {
+    "title": "Trudno Nie Wierzyc W Nic",
+    "artist": "Raz Dwa Trzy",
+    "categories": ["Polskie Pop", "Polskie Pop 00s"],
+    "snippet": "/songs/Polskie/raz_dwa_trzy_trudno_nie_wierzyc_w_nic.mp3",
+    "cover": "https://is1-ssl.mzstatic.com/image/thumb/Music124/v4/58/c1/ca/58c1ca0e-8620-8fed-01d5-b2a852ed5ab3/5907476693598_1448.jpg/600x600bb.jpg"
+  },
+  {
+    "title": "Zacznij od Bacha",
+    "artist": "Zbigniew Wodecki",
+    "categories": ["Polskie Pop", "Polskie Pop 00s"],
+    "snippet": "/songs/Polskie/zbigniew_wodecki_zacznij_od_bacha.mp3",
+    "cover": "https://is1-ssl.mzstatic.com/image/thumb/Music123/v4/88/a8/22/88a822ec-009a-5888-63b4-6fb96ec70cda/cover.jpg/600x600bb.jpg"
+  },
+  {
+    "title": "Lubię wracać tam gdzie byłem",
+    "artist": "Zbigniew Wodecki",
+    "categories": ["Polskie Pop", "Polskie Pop 00s"],
+    "snippet": "/songs/Polskie/zbigniew_wodecki_lubie_wracac_tam_gdzie_bylem.mp3",
+    "cover": "https://is1-ssl.mzstatic.com/image/thumb/Music113/v4/2b/c7/b8/2bc7b8e3-2e3d-7845-be63-56e7e82214cc/cover.jpg/600x600bb.jpg"
+  },
+  {
+    "title": "Sen O Dolinie",
+    "artist": "Budka Suflera",
+    "categories": ["Polskie Rock", "Polskie Rock 90s"],
+    "snippet": "/songs/Polskie/budka_suflera_sen_o_dolinie.mp3",
+    "cover": "https://is1-ssl.mzstatic.com/image/thumb/Music113/v4/05/48/42/05484251-0aed-b4f8-a428-3dc3d0e661ae/Budka_Suflera_-_Underground_COVER.png/600x600bb.jpg"
+  },
+  {
+    "title": "Znowu Mam Bana",
+    "artist": "Blowek ",
+    "categories": ["Polskie Pop", "Polskie Pop 10s"],
+    "snippet": "/songs/Polskie/znowu_mam_bana.mp3",
+    "cover": "https://is1-ssl.mzstatic.com/image/thumb/Music113/v4/05/48/42/05484251-0aed-b4f8-a428-3dc3d0e661ae/Budka_Suflera_-_Underground_COVER.png/600x600bb.jpg"
   }
 ]
 

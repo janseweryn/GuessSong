@@ -722,5 +722,12 @@
     "categories": ["Rock", "Rock 20s"],
     "snippet": "/songs/rock/m_neskin_zitti_e_buoni_eurovision_version.mp3",
     "cover": "https://is1-ssl.mzstatic.com/image/thumb/Music124/v4/5e/76/14/5e761416-1c55-1b56-e8c3-177fb475bef2/886449160334.jpg/600x600bb.jpg"
+  },
+    {
+    "title": "Znowu Mam Bana",
+    "artist": "Blowek ",
+    "categories": ["Polskie Pop", "Polskie Pop 10s"],
+    "snippet": "/songs/Polskie/znowu_mam_bana.mp3",
+    "cover": "https://is1-ssl.mzstatic.com/image/thumb/Music113/v4/05/48/42/05484251-0aed-b4f8-a428-3dc3d0e661ae/Budka_Suflera_-_Underground_COVER.png/600x600bb.jpg"
   }
 ]
