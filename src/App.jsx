@@ -2267,6 +2267,32 @@ const manualDaily = {
       dailyCategory: "Rap",
     },
   ],
+  "2026-05-23": [
+    {
+      title: "Dernière danse",
+      artist: "Indila",
+      cover:  "https://is1-ssl.mzstatic.com/image/thumb/Music116/v4/49/58/30/49583018-308b-431d-c691-4a28e78be8cd/14UMGIM01109.rgb.jpg/600x600bb.jpg",
+      snippet: "/songs/pop/indila_derni_re_danse.mp3",
+      categories: ["pop"],
+      dailyCategory: "Pop",
+    },
+    {
+      title: "Listen To Your Heart",
+      artist: "Roxette",
+      cover: "https://is1-ssl.mzstatic.com/image/thumb/Music221/v4/c5/0f/58/c50f58cd-b6d8-3e90-d3a6-dbd17977597a/5021732590466.jpg/600x600bb.jpg",
+      snippet: "/songs/pop/roxette_listen_to_your_heart.mp3",
+      categories: ["rock"],
+      dailyCategory: "Rock",
+    },
+    {
+      title: "After the Storm (feat. Tyler, The Creator & Bootsy Collins)",
+      artist: "Kali Uchis",
+      cover: "https://is1-ssl.mzstatic.com/image/thumb/Music126/v4/de/e1/8b/dee18be4-276a-1e90-7aec-883c91a5a43e/17UM1IM08185.rgb.jpg/600x600bb.jpg",
+      snippet: "/songs/pop/kali_uchis_after_the_storm_feat_tyler_the_creator_bootsy_collins2.mp3",
+      categories: ["rap"],
+      dailyCategory: "Rap",
+    },
+  ],
 };
 
 const LEVELS = [
