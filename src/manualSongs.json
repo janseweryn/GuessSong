@@ -729,5 +729,12 @@
     "categories": ["Polskie Pop", "Polskie Pop 10s"],
     "snippet": "/songs/Polskie/znowu_mam_bana.mp3",
     "cover": "https://is1-ssl.mzstatic.com/image/thumb/Music113/v4/05/48/42/05484251-0aed-b4f8-a428-3dc3d0e661ae/Budka_Suflera_-_Underground_COVER.png/600x600bb.jpg"
+  },
+  {
+    "title": "The Cure",
+    "artist": "Olivia Rodrigo",
+    "categories": ["Pop", "Pop 20s"],
+    "snippet": "/songs/pop/Olivia_Rodrigo_the_cure.mp3",
+    "cover": "/songs/covers/cure.png"
   }
 ]

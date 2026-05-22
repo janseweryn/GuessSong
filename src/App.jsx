@@ -2241,6 +2241,32 @@ const manualDaily = {
       dailyCategory: "Rap",
     },
   ],
+  "2026-05-22": [
+    {
+      title: "The Cure",
+      artist: "Olivia Rodrigo",
+      cover:  "/songs/covers/cure.png",
+      snippet: "/songs/pop/Olivia_Rodrigo_the_cure.mp3",
+      categories: ["pop"],
+      dailyCategory: "Pop",
+    },
+    {
+      title: "Just Like Heaven",
+      artist: "The Cure", 
+      cover: "/songs/covers/kissme.jpg",
+      snippet: "/songs/rock/just_like_heaven.mp3",
+      categories: ["rock"],
+      dailyCategory: "Rock",
+    },
+    {
+      title: "Sucker For Pain (with Logic, Ty Dolla $ign & X Ambassadors)",
+      artist: "Lil Wayne, Wiz Khalifa & Imagine Dragons",
+      cover: "https://is1-ssl.mzstatic.com/image/thumb/Music125/v4/ea/7b/3a/ea7b3a69-b589-603a-037c-b161f328afb1/075679910462.jpg/600x600bb.jpg",
+      snippet: "/songs/rap/lil_wayne_wiz_khalifa_imagine_dragons_sucker_for_pain_with_logic_ty_dolla_ign_x_ambassadors.mp3",
+      categories: ["rap"],
+      dailyCategory: "Rap",
+    },
+  ],
 };
 
 const LEVELS = [
