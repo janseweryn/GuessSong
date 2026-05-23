@@ -2293,6 +2293,32 @@ const manualDaily = {
       dailyCategory: "Rap",
     },
   ],
+  "2026-05-24": [
+    {
+      title: "Super Trouper",
+      artist: "Abba",
+      cover:  "/songs/covers/trouper.jpg",
+      snippet: "/songs/pop/trouper.mp3",
+      categories: ["pop"],
+      dailyCategory: "Pop",
+    },
+    {
+      title: "Some Nights",
+      artist: "Fun.",
+      cover: "https://is1-ssl.mzstatic.com/image/thumb/Music125/v4/43/99/62/43996219-f524-b168-461e-233d3005a4a6/075679954497.jpg/600x600bb.jpg",
+      snippet: "/songs/rock/fun_some_nights.mp3",
+      categories: ["rock"],
+      dailyCategory: "Rock",
+    },
+    {
+      title: "Sundrees",
+      artist:"A$ap Rocky",
+      cover:"/songs/covers/sundress.jpg",
+      snippet: "/songs/rap/sundress.mp3",
+      categories: ["rap"],
+      dailyCategory: "Rap",
+    },
+  ],
 };
 
 const LEVELS = [
