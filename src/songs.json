@@ -7915,7 +7915,7 @@
     "cover": "https://is1-ssl.mzstatic.com/image/thumb/Music126/v4/50/32/fd/5032fddc-e486-956d-a503-7ec6d17af848/22UM1IM46463.rgb.jpg/600x600bb.jpg"
   },
   {
-    "title": "Accordion (Four Tet Remix - Instrumental)",
+    "title": "Accordion",
     "artist": "Madvillain",
     "categories": ["Rap", "Rap 00s"],
     "snippet": "/songs/rap/madvillain_accordion_four_tet_remix_instrumental.mp3",
@@ -14951,6 +14951,20 @@
     "categories": ["Polskie Pop", "Polskie Pop 10s"],
     "snippet": "/songs/Polskie/znowu_mam_bana.mp3",
     "cover": "https://is1-ssl.mzstatic.com/image/thumb/Music113/v4/05/48/42/05484251-0aed-b4f8-a428-3dc3d0e661ae/Budka_Suflera_-_Underground_COVER.png/600x600bb.jpg"
+  },
+  {
+    "title": "After the Storm (feat. Tyler, The Creator & Bootsy Collins)",
+    "artist": "Kali Uchis",
+    "categories": ["Pop", "Pop 10s"],
+    "snippet": "/songs/pop/kali_uchis_after_the_storm_feat_tyler_the_creator_bootsy_collins2.mp3",
+    "cover": "https://is1-ssl.mzstatic.com/image/thumb/Music126/v4/de/e1/8b/dee18be4-276a-1e90-7aec-883c91a5a43e/17UM1IM08185.rgb.jpg/600x600bb.jpg"
+  },
+  {
+    "title": "I Was Made for Lovin' You",
+    "artist": "Kiss",
+    "categories": ["Rock", "Rock 70s"],
+    "snippet": "/songs/rock/kiss_i_was_made_for_lovin_you.mp3",
+    "cover": "https://is1-ssl.mzstatic.com/image/thumb/Music221/v4/a3/30/54/a33054b1-d501-b7ea-5eb3-3ed36201c4ba/06UMGIM15802.rgb.jpg/600x600bb.jpg"
   }
 ]
 

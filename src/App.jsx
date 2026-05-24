@@ -2319,6 +2319,32 @@ const manualDaily = {
       dailyCategory: "Rap",
     },
   ],
+  "2026-05-25": [
+    {
+      title: "Despacito",
+      artist: "Luis Fonsi & Daddy Yankee",
+      cover:  "https://is1-ssl.mzstatic.com/image/thumb/Music211/v4/e2/ef/f0/e2eff0bc-c51d-7de5-9280-6891ddcee71b/18UMGIM85289.rgb.jpg/600x600bb.jpg",
+      snippet: "/songs/pop/luis_fonsi_daddy_yankee_despacito_feat_justin_bieber_remix.mp3",
+      categories: ["pop"],
+      dailyCategory: "Pop",
+    },
+    {
+      title: "I Was Made for Lovin' You",
+      artist: "Kiss",
+      cover: "https://is1-ssl.mzstatic.com/image/thumb/Music221/v4/a3/30/54/a33054b1-d501-b7ea-5eb3-3ed36201c4ba/06UMGIM15802.rgb.jpg/600x600bb.jpg",
+      snippet: "/songs/rock/kiss_i_was_made_for_lovin_you.mp3",
+      categories: ["rock"],
+      dailyCategory: "Rock",
+    },
+    {
+      title: "In My Feelings",
+      artist: "Drake",
+      cover: "https://is1-ssl.mzstatic.com/image/thumb/Music115/v4/bb/6d/8f/bb6d8f67-6d04-10b5-dd62-eb5809ac54fc/00602567879152.rgb.jpg/600x600bb.jpg",
+      snippet: "/songs/rap/drake_in_my_feelings.mp3",
+      categories: ["rap"],
+      dailyCategory: "Rap",
+    },
+  ],
 };
 
 const LEVELS = [
