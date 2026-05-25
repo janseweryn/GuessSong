@@ -2345,6 +2345,32 @@ const manualDaily = {
       dailyCategory: "Rap",
     },
   ],
+  "2026-05-26": [
+    {
+      title: "Ain't Your Mama",
+      artist: "Jennifer Lopez",
+      cover:  "https://is1-ssl.mzstatic.com/image/thumb/Music125/v4/25/be/1a/25be1a95-0bad-0ed5-e2bc-ae0046d52c8e/886445849073.jpg/600x600bb.jpg",
+      snippet: "/songs/pop/jennifer_lopez_ain_t_your_mama.mp3",
+      categories: ["pop"],
+      dailyCategory: "Pop",
+    },
+    {
+      title: "Mama, I'm Coming Home",
+      artist: "Ozzy Osbourne",
+      cover: "https://is1-ssl.mzstatic.com/image/thumb/Music115/v4/8e/ef/44/8eef4402-508e-860e-a3c0-9be46cf2379e/696998524828.jpg/600x600bb.jpg",
+      snippet: "/songs/rock/ozzy_osbourne_mama_i_m_coming_home.mp3",
+      categories: ["rock"],
+      dailyCategory: "Rock",
+    },
+    {
+      title: "Dear Mama",
+      artist: "2Pac",
+      cover: "https://is1-ssl.mzstatic.com/image/thumb/Music124/v4/72/00/89/720089d8-c063-a323-e0cc-de921e50b968/00602527051789.rgb.jpg/600x600bb.jpg",
+      snippet: "/songs/rap/2pac_dear_mama.mp3",
+      categories: ["rap"],
+      dailyCategory: "Rap",
+    },
+  ],
 };
 
 const LEVELS = [
