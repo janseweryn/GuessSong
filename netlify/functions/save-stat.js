@@ -1,6 +1,6 @@
 const { createClient } = require('@supabase/supabase-js');
 
-// Te dane Netlify samo pobierze z "Environment variables", które dodałeś w panelu
+// Te dane Netlify samo pobierze z "Environment variables", które w panelu
 const supabase = createClient(
   process.env.SUPABASE_URL,
   process.env.SUPABASE_KEY

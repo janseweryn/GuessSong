@@ -2371,6 +2371,32 @@ const manualDaily = {
       dailyCategory: "Rap",
     },
   ],
+  "2026-05-27": [
+    {
+      title: "Rasputin",
+      artist: "Boney M.",
+      cover:  "https://is1-ssl.mzstatic.com/image/thumb/Music115/v4/b7/86/45/b786452a-a723-eaed-8170-cdc261367eb7/886443575578.jpg/600x600bb.jpg",
+      snippet: "/songs/pop/boney_m_rasputin.mp3",
+      categories: ["pop"],
+      dailyCategory: "Pop",
+    },
+    {
+      title: "Angie",
+      artist: "The Rolling Stones", 
+      cover: "/songs/covers/goats.jpg", 
+      snippet: "/songs/rock/angie.mp3",
+      categories: ["rock"],
+      dailyCategory: "Rock",
+    },
+    {
+      title: "Juicy",
+      artist: "The Notorious B.I.G.",
+      cover: "https://is1-ssl.mzstatic.com/image/thumb/Features115/v4/08/66/e3/0866e3ef-c111-c0a2-f18e-a10035a5bb07/dj.hpsoegav.jpg/600x600bb.jpg",
+      snippet: "/songs/rap/the_notorious_b_i_g_juicy.mp3",
+      categories: ["rap"],
+      dailyCategory: "Rap",
+    },
+  ],
 };
 
 const LEVELS = [

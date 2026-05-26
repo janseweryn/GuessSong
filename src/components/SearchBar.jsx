@@ -5,10 +5,10 @@ const SearchBar = ({ onSelectSong }) => {
   const [query, setQuery] = useState("");
   const [suggestions, setSuggestions] = useState([]);
   const [loading, setLoading] = useState(false);
-  const [locked, setLocked] = useState(false); // ⬅️ NOWE: blokada listy po wyborze
+  const [locked, setLocked] = useState(false); //  blokada listy po wyborze
 
   useEffect(() => {
-    if (locked) return;              // ⬅️ jeśli wybrano utwór, NIE pobieramy listy
+    if (locked) return;              // jeśli wybrano utwór, NIE pobieramy listy
     if (query.length < 3) {
       setSuggestions([]);
       return;
@@ -56,7 +56,7 @@ const SearchBar = ({ onSelectSong }) => {
   const handleSelect = (t, a) => {
     setQuery(`${t} - ${a}`);
     setSuggestions([]);
-    setLocked(true);          // ⬅️ BLOKUJEMY listę na stałe
+    setLocked(true);          // BLOKUJEMY listę na stałe
     onSelectSong?.(t, a);
   };
 
@@ -70,7 +70,7 @@ const SearchBar = ({ onSelectSong }) => {
           value={query}
           onChange={e => {
             setQuery(e.target.value);
-            setLocked(false); // ⬅️ zaczynam pisać → lista może wrócić
+            setLocked(false); //  zaczynam pisać → lista może wrócić
           }}
           placeholder="Wpisz tytuł lub artystę..."
         />
