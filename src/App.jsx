@@ -2397,6 +2397,32 @@ const manualDaily = {
       dailyCategory: "Rap",
     },
   ],
+  "2026-05-28": [
+    {
+      title: "Mr. Saxobeat",
+      artist: "Alexandra Stan",
+      cover:  "https://is1-ssl.mzstatic.com/image/thumb/Music126/v4/90/91/83/909183ff-bc63-8cfc-4f0f-ac742912286c/0617465300950.jpg/600x600bb.jpg",
+      snippet: "/songs/pop/alexandra_stan_mr_saxobeat_radio_edit.mp3",
+      categories: ["pop"],
+      dailyCategory: "Pop",
+    },
+    {
+      title: "Everlong",
+      artist: "Foo Fighters",
+      cover: "https://is1-ssl.mzstatic.com/image/thumb/Music221/v4/68/f5/86/68f586ca-a375-9965-a864-9e227e77ef5b/884977570328.jpg/600x600bb.jpg",
+      snippet: "/songs/rock/foo_fighters_everlong.mp3",
+      categories: ["rock"],
+      dailyCategory: "Rock",
+    },
+    {
+      title: "Lollipop (feat. Static Major)",
+      artist: "Lil Wayne",
+      cover: "https://is1-ssl.mzstatic.com/image/thumb/Music116/v4/ad/59/2b/ad592bdf-0fd7-857f-3ca5-12f1d4861e3e/08UMGIM15512.rgb.jpg/600x600bb.jpg",
+      snippet: "/songs/rap/lil_wayne_lollipop_feat_static_major.mp3",
+      categories: ["rap"],
+      dailyCategory: "Rap",
+    },
+  ],
 };
 
 const LEVELS = [
