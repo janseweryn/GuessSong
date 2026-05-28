@@ -2423,6 +2423,32 @@ const manualDaily = {
       dailyCategory: "Rap",
     },
   ],
+  "2026-05-29": [
+    {
+      title: "7 rings",
+      artist: "Ariana Grande",
+      cover:  "/songs/covers/thanku.jpg",
+      snippet: "/songs/pop/7rings.mp3",
+      categories: ["pop"],
+      dailyCategory: "Pop",
+    },
+    {
+      title: "Dirty Old Town",
+      artist: "The Pogues",
+      cover: "https://is1-ssl.mzstatic.com/image/thumb/Music/01/f0/52/mzi.gtcocruw.jpg/600x600bb.jpg",
+      snippet: "/songs/rock/the_pogues_dirty_old_town.mp3",
+      categories: ["rock"],
+      dailyCategory: "Rock",
+    },
+    {
+      title: "Armageddon",
+      artist: "Aespa",
+      cover: "/songs/covers/arma.jpg",
+      snippet: "/songs/pop/armageddon.mp3",
+      categories: ["rap"],
+      dailyCategory: "Rap",
+    },
+  ],
 };
 
 const LEVELS = [
