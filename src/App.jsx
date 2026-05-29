@@ -2449,6 +2449,32 @@ const manualDaily = {
       dailyCategory: "Rap",
     },
   ],
+  "2026-05-30": [
+    {
+      title: "Whiplash",
+      artist: "Aespa",
+      cover:  "/songs/covers/whiplash.jpg",
+      snippet: "/songs/pop/whiplash.mp3",
+      categories: ["pop"],
+      dailyCategory: "Pop",
+    },
+    {
+      title: "Fade To Black",
+      artist: "Metallica",  
+      cover: "/songs/covers/lighting.jpg",
+      snippet: "/songs/rock/fade_black.mp3",
+      categories: ["rock"],
+      dailyCategory: "Rock",
+    },
+    {
+      title: "Metallica 808",
+      artist: "TACONAFIDE, Quebonafide & Taco Hemingway",
+      cover: "https://is1-ssl.mzstatic.com/image/thumb/Music126/v4/4d/bc/56/4dbc56e0-bce7-a1db-ae86-9c774ea4cb36/23UMGIM28916.rgb.jpg/600x600bb.jpg",
+      snippet: "/songs/Polskie/taconafide_quebonafide_taco_hemingway_metallica_808.mp3",
+      categories: ["rap"],
+      dailyCategory: "Rap",
+    },
+  ],
 };
 
 const LEVELS = [
