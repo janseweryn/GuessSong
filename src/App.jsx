@@ -2475,6 +2475,32 @@ const manualDaily = {
       dailyCategory: "Rap",
     },
   ],
+  "2026-05-31": [
+    {
+      title: "Last Friday Night (T.G.I.F.)",
+      artist: "Katy Perry",
+      cover:  "/songs/covers/teenagedream.jpg",
+      snippet: "/songs/pop/last_friday.mp3",
+      categories: ["pop"],
+      dailyCategory: "Pop",
+    },
+     {
+      title: "Child In Time",
+      artist: "Deep Purple", 
+      cover: "https://is1-ssl.mzstatic.com/image/thumb/Music/70/0e/2f/mzi.gdbiuzww.jpg/600x600bb.jpg",
+      snippet: "/songs/rock/deep_purple_child_in_time_live.mp3",
+      categories: ["rock"],
+      dailyCategory: "Rock",
+    },
+    {
+      title: "Starships",
+      artist: "Nicki Minaj",
+      cover: "https://is1-ssl.mzstatic.com/image/thumb/Music126/v4/a5/c4/90/a5c490a1-d914-9943-7e02-32f8320e5840/12UMGIM12516.rgb.jpg/600x600bb.jpg",
+      snippet: "/songs/rap/nicki_minaj_starships.mp3",
+      categories: ["rap"],
+      dailyCategory: "Rap",
+    },
+  ],
 };
 
 const LEVELS = [
