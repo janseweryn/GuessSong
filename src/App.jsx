@@ -2501,6 +2501,32 @@ const manualDaily = {
       dailyCategory: "Rap",
     },
   ],
+  "2026-06-01": [
+    {
+      title: "Don't You Worry Child (feat. John Martin)",
+      artist: "Swedish House Mafia",
+      cover:  "https://is1-ssl.mzstatic.com/image/thumb/Music124/v4/6a/30/7d/6a307d9d-2d13-999a-3b9c-03221087f845/15UMGIM27846.rgb.jpg/600x600bb.jpg",
+      snippet: "/songs/pop/swedish_house_mafia_don_t_you_worry_child_feat_john_martin.mp3",
+      categories: ["pop"],
+      dailyCategory: "Pop",
+    },
+     {
+      title: "Kayleigh",
+      artist: "Marillion",
+      cover: "https://is1-ssl.mzstatic.com/image/thumb/Music115/v4/56/df/5b/56df5b1a-4414-eaee-555a-c2d5f1ef3acf/190295818630.jpg/600x600bb.jpg",
+      snippet: "/songs/rock/marillion_kayleigh_2017_remastered_version.mp3",
+      categories: ["rock"],
+      dailyCategory: "Rock",
+    },
+    {
+      title: "Day 'N' Nite",
+      artist: "Kid Cudi",
+      cover: "https://is1-ssl.mzstatic.com/image/thumb/Music221/v4/36/78/1e/36781ee4-be7e-1c54-5a4a-a262faa3a245/09UMGIM33419.rgb.jpg/600x600bb.jpg",
+      snippet: "/songs/rap/kid_cudi_day_n_nite_nightmare.mp3",
+      categories: ["rap"],
+      dailyCategory: "Rap",
+    },
+  ],
 };
 
 const LEVELS = [
