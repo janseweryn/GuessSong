@@ -2527,6 +2527,32 @@ const manualDaily = {
       dailyCategory: "Rap",
     },
   ],
+  "2026-06-03": [
+    {
+      title: "Hard Times",
+      artist: "Paramore",
+      cover:  "/songs/covers/laughter.jpg",
+      snippet: "/songs/pop/hard_times.mp3",
+      categories: ["pop"],
+      dailyCategory: "Pop",
+    },
+     {
+      title: "Behind Blue Eyes",
+      artist: "Limp Bizkit", 
+      cover: "/songs/covers/results.jpg",
+      snippet: "/songs/rock/behind_eyes.mp3",
+      categories: ["rock"],
+      dailyCategory: "Rock",
+    },
+    {
+      title: "Impact (feat. xaviersobased)",
+      artist: "Nettspend",
+      cover: "/songs/covers/xd.jpg",
+      snippet: "/songs/rap/NETTSPEND_impact.mp3",
+      categories: ["rap"],
+      dailyCategory: "Rap",
+    },
+  ],
 };
 
 const LEVELS = [
