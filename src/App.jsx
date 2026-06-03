@@ -2553,6 +2553,32 @@ const manualDaily = {
       dailyCategory: "Rap",
     },
   ],
+  "2026-06-04": [
+    {
+      title: "What Was That",
+      artist: "Lorde",
+      cover:  "/songs/covers/virgin.jpg",
+      snippet: "/songs/pop/what_was_that.mp3",
+      categories: ["pop"],
+      dailyCategory: "Pop",
+    },
+     {
+      title: "I Bet You Look Good On the Dancefloor",
+      artist: "Arctic Monkeys",
+      cover: "/songs/covers/peoplesay.jpg",
+      snippet: "/songs/rock/good_dancefloor.mp3",
+      categories: ["rock"],
+      dailyCategory: "Rock",
+    },
+    {
+      title: "Take A Look Around",
+      artist: "Limp Bizkit",
+      cover: "/songs/covers/chocolate.jpg",
+      snippet: "/songs/rock/take_look.mp3",
+      categories: ["rap"],
+      dailyCategory: "Rap",
+    },
+  ],
 };
 
 const LEVELS = [
