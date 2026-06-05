@@ -2579,6 +2579,32 @@ const manualDaily = {
       dailyCategory: "Rap",
     },
   ],
+   "2026-06-06": [
+    {
+      title: "10:35",
+      artist: "Tiësto & Tate McRae",
+      cover:  "/songs/covers/drive.jpg",
+      snippet: "/songs/pop/1035.mp3",
+      categories: ["pop"],
+      dailyCategory: "Pop",
+    },
+     {
+      title: "Run To The Hills",
+      artist: "Iron Maiden", 
+      cover: "/songs/covers/numberbeast.jpg",
+      snippet:  "/songs/rock/run_hills.mp3",
+      categories: ["rock"],
+      dailyCategory: "Rock",
+    },
+    {
+      title: "White Ferrari",
+      artist: "Frank Ocean",
+      cover: "https://is1-ssl.mzstatic.com/image/thumb/Music115/v4/bb/45/68/bb4568f3-68cd-619d-fbcb-4e179916545d/BlondCover-Final.jpg/600x600bb.jpg",
+      snippet: "/songs/pop/frank_ocean_white_ferrari.mp3",
+      categories: ["rap"],
+      dailyCategory: "Rap",
+    },
+  ],
 };
 
 const LEVELS = [
