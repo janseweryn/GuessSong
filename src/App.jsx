@@ -2605,6 +2605,32 @@ const manualDaily = {
       dailyCategory: "Rap",
     },
   ],
+  "2026-06-07": [
+    {
+      title: "Bags",
+      artist: "Clairo",
+      cover:  "/songs/covers/immunity.jpg",
+      snippet: "/songs/pop/bags.mp3",
+      categories: ["pop"],
+      dailyCategory: "Pop",
+    },
+     {
+      title: "Fields of Gold",
+      artist: "Sting",
+      cover: "https://is1-ssl.mzstatic.com/image/thumb/Music221/v4/59/ac/f4/59acf4db-0ea8-a8e5-5607-01e931bb2d58/06UMGIM49867.rgb.jpg/600x600bb.jpg",
+      snippet:  "/songs/rock/sting_fields_of_gold.mp3",
+      categories: ["rock"],
+      dailyCategory: "Rock",
+    },
+    {
+      title: "I'll Be Missing You (feat. Faith Evans, 112)",
+      artist: "Puff Daddy & Faith Evans",
+      cover: "https://is1-ssl.mzstatic.com/image/thumb/Music125/v4/db/2c/2d/db2c2dc7-18cd-f64e-3580-52eae12bccc0/dj.izjbcsws.jpg/600x600bb.jpg",
+      snippet: "/songs/rap/puff_daddy_faith_evans_i_ll_be_missing_you_feat_faith_evans_112.mp3",
+      categories: ["rap"],
+      dailyCategory: "Rap",
+    },
+  ],
 };
 
 const LEVELS = [
