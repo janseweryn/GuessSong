@@ -743,5 +743,12 @@
       "categories": ["Rap", "Rap 20s"],
       "snippet": "/songs/rap/NETTSPEND_impact.mp3",
       "cover": "/songs/covers/xd.jpg"
-    }
+    },
+    {
+    "title": "Goat",
+    "artist": "Lil Tjay",
+    "categories": ["Rap", "Rap 20s"],
+    "snippet": "/songs/rap/lil_tjay_6lack_calling_my_phone.mp3",
+    "cover": "https://is1-ssl.mzstatic.com/image/thumb/Music125/v4/be/0c/64/be0c6448-b0fc-a1eb-3e33-4456d58d33de/886449049059.jpg/600x600bb.jpg"
+  }
 ]

@@ -2631,6 +2631,32 @@ const manualDaily = {
       dailyCategory: "Rap",
     },
   ],
+   "2026-06-08": [
+    {
+      title: "FATTY BOOM BOOM",
+      artist: "Die Antwoord",
+      cover:  "https://is1-ssl.mzstatic.com/image/thumb/Music115/v4/c3/7d/96/c37d967b-031a-980a-137d-c53ff075972c/20CRGIM20692.rgb.jpg/600x600bb.jpg",
+      snippet: "/songs/rap/die_antwoord_fatty_boom_boom_instrumental.mp3",
+      categories: ["pop"],
+      dailyCategory: "Pop",
+    },
+     {
+      title: "Schism",
+      artist: "Tool",
+      cover: "/songs/covers/lateralus.jpg",
+      snippet:  "/songs/rock/schism.mp3",
+      categories: ["rock"],
+      dailyCategory: "Rock",
+    },
+    {
+      title: "Goat",
+      artist: "Lil Tjay",
+      cover: "https://is1-ssl.mzstatic.com/image/thumb/Music125/v4/be/0c/64/be0c6448-b0fc-a1eb-3e33-4456d58d33de/886449049059.jpg/600x600bb.jpg",
+      snippet: "/songs/rap/lil_tjay_6lack_calling_my_phone.mp3",
+      categories: ["rap"],
+      dailyCategory: "Rap",
+    },
+  ],
 };
 
 const LEVELS = [
