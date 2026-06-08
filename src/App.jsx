@@ -2657,6 +2657,32 @@ const manualDaily = {
       dailyCategory: "Rap",
     },
   ],
+  "2026-06-09": [
+    {
+      title: "Habits (Stay High)",
+      artist: "Tove Lo",
+      cover:  "https://is1-ssl.mzstatic.com/image/thumb/Music115/v4/b9/2d/20/b92d205d-f9fc-13cc-c714-14aed93081b4/15UMGIM46170.rgb.jpg/600x600bb.jpg",
+      snippet: "/songs/rock/tove_lo_habits_stay_high.mp3",
+      categories: ["pop"],
+      dailyCategory: "Pop",
+    },
+     {
+      title: "Like a Stone",
+      artist: "Audioslave",
+      cover: "https://is1-ssl.mzstatic.com/image/thumb/Features115/v4/9c/b6/c2/9cb6c246-3626-7789-26a9-79b787e5668d/dj.owymmnty.jpg/600x600bb.jpg",
+      snippet:  "/songs/rock/audioslave_like_a_stone.mp3",
+      categories: ["rock"],
+      dailyCategory: "Rock",
+    },
+    {
+      title: "The Real Slim Shady",
+      artist: "Eminem", 
+      cover: "/songs/covers/marshall.jpg",
+      snippet: "/songs/rap/real_slim.mp3",
+      categories: ["rap"],
+      dailyCategory: "Rap",
+    },
+  ],
 };
 
 const LEVELS = [
