@@ -2683,6 +2683,32 @@ const manualDaily = {
       dailyCategory: "Rap",
     },
   ],
+  "2026-06-10": [
+    {
+      title: "Hello",
+      artist: "Adele",
+      cover:  "https://is1-ssl.mzstatic.com/image/thumb/Music116/v4/08/8c/24/088c2405-2e33-801b-5c38-e967f2c01e69/191404113974.png/600x600bb.jpg",
+      snippet: "/songs/pop/adele_hello.mp3",
+      categories: ["pop"],
+      dailyCategory: "Pop",
+    },
+     {
+      title: "My Way",
+      artist: "Limp Bizkit",
+      cover: "/songs/rock/my_way.mp3",
+      snippet:  "/songs/covers/chocolate.jpg",
+      categories: ["rock"],
+      dailyCategory: "Rock",
+    },
+    {
+      title: "Bandycka Jazda",
+      artist: "Fagata",
+      cover: "https://is1-ssl.mzstatic.com/image/thumb/Music221/v4/f8/14/48/f814481e-d8b7-bf76-d23c-7508fe22ba4d/artwork.jpg/600x600bb.jpg",
+      snippet: "/songs/Polskie/roadtofreedom_fagata_bandycka_jazda_ale_to_cover_w_stylu_lat_50.mp3",
+      categories: ["rap"],
+      dailyCategory: "Rap",
+    },
+  ],
 };
 
 const LEVELS = [
