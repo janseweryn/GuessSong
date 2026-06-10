@@ -2709,6 +2709,32 @@ const manualDaily = {
       dailyCategory: "Rap",
     },
   ],
+  "2026-06-11": [
+    {
+      title: "Waka Waka (This Time for Africa)",
+      artist: "Shakira",
+      cover:  "https://is1-ssl.mzstatic.com/image/thumb/Music124/v4/3e/3a/73/3e3a73da-e19e-b26c-ec19-9da6a5da93fa/mzi.ixhiugev.jpg/600x600bb.jpg",
+      snippet: "/songs/pop/shakira_waka_waka_this_time_for_africa_the_official_2010_fifa_world_cup_tm_song_feat_freshlyground_single.mp3",
+      categories: ["pop"],
+      dailyCategory: "Pop",
+    },
+     {
+      title: "We Are the Champions",
+      artist: "Queen",
+      cover: "/songs/covers/news.jpg",
+      snippet:  "/songs/rock/champions.mp3",
+      categories: ["rock"],
+      dailyCategory: "Rock",
+    },
+    {
+      title: "We Are One (Ole Ola) [The Official 2014 FIFA World Cup Song] [feat. Jennifer Lopez & Cláudia Leitte]",
+      artist: "Pitbull",
+      cover: "https://is1-ssl.mzstatic.com/image/thumb/Music4/v4/9d/30/bd/9d30bdd8-fa07-5193-3163-804fb2ae5305/886444556958.jpg/600x600bb.jpg",
+      snippet: "/songs/pop/pitbull_we_are_one_ole_ola_the_official_2014_fifa_world_cup_song_feat_jennifer_lopez_cl_udia_leitte_olodum_mix.mp3",
+      categories: ["rap"],
+      dailyCategory: "Rap",
+    },
+  ],
 };
 
 const LEVELS = [
