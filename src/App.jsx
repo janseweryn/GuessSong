@@ -2735,6 +2735,32 @@ const manualDaily = {
       dailyCategory: "Rap",
     },
   ],
+  "2026-06-12": [
+    {
+      title: "stupid song",
+      artist: "Olivia Rodrigo",
+      cover:  "/songs/covers/Olivia_Rodrigo_-_You_Seem_Pretty_Sad_for_a_Girl_So_in_Love.jpg",
+      snippet: "/songs/pop/stupid_song_olivka.mp3",
+      categories: ["pop"],
+      dailyCategory: "Pop",
+    },
+     {
+      title: "my way",
+      artist: "Olivia Rodrigo",
+      cover: "/songs/covers/Olivia_Rodrigo_-_You_Seem_Pretty_Sad_for_a_Girl_So_in_Love.jpg",
+      snippet: "/songs/pop/my_way_olivia.mp3",
+      categories: ["rock"],
+      dailyCategory: "Rock",
+    },
+    {
+      title: "Best Day of My Life",
+      artist: "American Authors",
+      cover: "https://is1-ssl.mzstatic.com/image/thumb/Music125/v4/fe/6c/79/fe6c7944-593e-43b8-5ca2-3ca61cdbd393/14UMGIM01329.rgb.jpg/600x600bb.jpg",
+      snippet: "/songs/rock/american_authors_best_day_of_my_life_acoustic.mp3",
+      categories: ["rap"],
+      dailyCategory: "Rap",
+    },
+  ],
 };
 
 const LEVELS = [

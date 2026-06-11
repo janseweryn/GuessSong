@@ -750,5 +750,19 @@
     "categories": ["Rap", "Rap 20s"],
     "snippet": "/songs/rap/lil_tjay_6lack_calling_my_phone.mp3",
     "cover": "https://is1-ssl.mzstatic.com/image/thumb/Music125/v4/be/0c/64/be0c6448-b0fc-a1eb-3e33-4456d58d33de/886449049059.jpg/600x600bb.jpg"
+  },
+  {
+    "title": "stupid song",
+    "artist": "Olivia Rodrigo",
+    "categories": ["Pop", "Pop 20s"],
+    "snippet": "/songs/pop/stupid_song_olivka.mp3",
+    "cover": "/songs/covers/Olivia_Rodrigo_-_You_Seem_Pretty_Sad_for_a_Girl_So_in_Love.jpg"
+  },
+  {
+    "title": "my way",
+    "artist": "Olivia Rodrigo",
+    "categories": ["Pop", "Pop 20s"],
+    "snippet": "/songs/pop/my_way_olivia.mp3",
+    "cover": "/songs/covers/Olivia_Rodrigo_-_You_Seem_Pretty_Sad_for_a_Girl_So_in_Love.jpg"
   }
 ]
