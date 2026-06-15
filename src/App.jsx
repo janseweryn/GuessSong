@@ -2839,6 +2839,32 @@ const manualDaily = {
       dailyCategory: "Rap",
     },
   ],
+  "2026-06-16": [
+    {
+      title: "Cool for the Summer",
+      artist:  "Demi Lovato",
+      cover:  "https://is1-ssl.mzstatic.com/image/thumb/Music115/v4/ea/08/9e/ea089eb7-9e3c-a442-8656-7cac2da0309f/00050087335120.rgb.jpg/600x600bb.jpg",
+      snippet: "/songs/pop/demi_lovato_cool_for_the_summer.mp3",
+      categories: ["pop"],
+      dailyCategory: "Pop",
+    },
+     {
+      title: "Sir Duke",
+      artist: "Stevie Wonder",
+      cover: "https://is1-ssl.mzstatic.com/image/thumb/Music118/v4/eb/1f/12/eb1f12ec-474c-63aa-43af-09282f423b9d/00602537004737.rgb.jpg/600x600bb.jpg",
+      snippet: "/songs/pop/stevie_wonder_sir_duke.mp3",
+      categories: ["rock"],
+      dailyCategory: "Rock",
+    },
+    {
+      title: "1-800-273-8255 (feat. Alessia Cara & Khalid)",
+      artist: "Logic",
+      cover: "https://is1-ssl.mzstatic.com/image/thumb/Music112/v4/84/71/13/8471139e-5f02-b603-a462-9a8a62f14af4/17UMGIM87027.rgb.jpg/600x600bb.jpg",
+      snippet: "/songs/rap/logic_1_800_273_8255_feat_alessia_cara_khalid.mp3",
+      categories: ["rap"],
+      dailyCategory: "Rap",
+    },
+  ],
 };
 
 const LEVELS = [
