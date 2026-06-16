@@ -2865,6 +2865,32 @@ const manualDaily = {
       dailyCategory: "Rap",
     },
   ],
+   "2026-06-17": [
+    {
+      title: "Another Love",
+      artist:  "Tom Odell",
+      cover:  "/songs/covers/longway.jpg",
+      snippet: "/songs/pop/tom_odell_ti_sto_another_love_ti_sto_remix.mp3",
+      categories: ["pop"],
+      dailyCategory: "Pop",
+    },
+     {
+      title: "In the Shadows",
+      artist: "The Rasmus",
+      cover: "https://is1-ssl.mzstatic.com/image/thumb/Music113/v4/46/f0/9d/46f09d24-2f25-876c-af34-8fa3e22827bf/cover.jpg/600x600bb.jpg",
+      snippet: "/songs/pop/the_rasmus_lost_frequencies_in_the_shadows_lost_frequencies_remake.mp3",
+      categories: ["rock"],
+      dailyCategory: "Rock",
+    },
+    {
+      title: "Airplanes (feat. Hayley Williams)",
+      artist: "B.o.B feat. Hayley Williams",
+      cover: "https://is1-ssl.mzstatic.com/image/thumb/Music115/v4/bc/f8/ed/bcf8ed12-42b0-b50f-9dab-e9124d26137a/mzi.rklkakdk.jpg/600x600bb.jpg",
+      snippet: "/songs/rap/b_o_b_feat_hayley_williams_airplanes_feat_hayley_williams.mp3",
+      categories: ["rap"],
+      dailyCategory: "Rap",
+    },
+  ],
 };
 
 const LEVELS = [
