@@ -2891,6 +2891,32 @@ const manualDaily = {
       dailyCategory: "Rap",
     },
   ],
+    "2026-06-18": [
+    {
+      title: "Perfect Places",
+      artist:  "Lorde",
+      cover:  "/songs/covers/melodrama.jpg",
+      snippet: "/songs/pop/perfect_places.mp3",
+      categories: ["pop"],
+      dailyCategory: "Pop",
+    },
+     {
+      title: "Sweet Caroline",
+      artist: "Neil Diamond",
+      cover: "https://is1-ssl.mzstatic.com/image/thumb/Music221/v4/ef/46/dc/ef46dc23-467a-7a23-aefb-c3baf4ccdbbc/14UMGIM25084.rgb.jpg/600x600bb.jpg",
+      snippet: "/songs/pop/neil_diamond_sweet_caroline_single_version.mp3",
+      categories: ["rock"],
+      dailyCategory: "Rock",
+    },
+    {
+      title: "Sound of da Police",
+      artist: "KRS-One",
+      cover: "https://is1-ssl.mzstatic.com/image/thumb/Music124/v4/8e/38/c8/8e38c8c0-b0de-82c3-87a5-1e4c23fa4963/dj.ryotsuac.jpg/600x600bb.jpg",
+      snippet: "/songs/rap/krs_one_sound_of_da_police.mp3",
+      categories: ["rap"],
+      dailyCategory: "Rap",
+    },
+  ],
 };
 
 const LEVELS = [
