@@ -2917,6 +2917,32 @@ const manualDaily = {
       dailyCategory: "Rap",
     },
   ],
+   "2026-06-19": [
+    {
+      title: "Youngblood",
+      artist:  "5 Seconds of Summer",
+      cover:  "https://is1-ssl.mzstatic.com/image/thumb/Music126/v4/dc/98/51/dc9851bd-9521-6fcb-c4b7-499f23b05498/18UMGIM09114.rgb.jpg/600x600bb.jpg",
+      snippet: "/songs/pop/5_seconds_of_summer_youngblood.mp3",
+      categories: ["pop"],
+      dailyCategory: "Pop",
+    },
+     {
+      title: "Hold the Line",
+      artist: "Toto",
+      cover: "https://is1-ssl.mzstatic.com/image/thumb/Music125/v4/a1/a9/ea/a1a9eaef-2d81-c2c6-9a03-82c3cbc9e598/074643531726.jpg/600x600bb.jpg",
+      snippet: "/songs/rock/toto_hold_the_line.mp3",
+      categories: ["rock"],
+      dailyCategory: "Rock",
+    },
+    {
+      title: "Rather Lie (feat. The Weeknd)",
+      artist: "Playboi Carti",
+      cover: "https://is1-ssl.mzstatic.com/image/thumb/Music115/v4/2a/aa/b4/2aaab42a-a4cb-a600-4a25-d78961495960/18UMGIM17204.rgb.jpg/600x600bb.jpg",
+      snippet: "/songs/pop/the_weeknd_try_me.mp3",
+      categories: ["rap"],
+      dailyCategory: "Rap",
+    },
+  ],
 };
 
 const LEVELS = [
