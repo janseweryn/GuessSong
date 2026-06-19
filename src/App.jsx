@@ -2943,6 +2943,32 @@ const manualDaily = {
       dailyCategory: "Rap",
     },
   ],
+  "2026-06-20": [
+    {
+      title: "S&M",
+      artist:  "Rihanna",
+      cover:  "/songs/covers/loud.jpg",
+      snippet: "/songs/pop/sm.mp3",
+      categories: ["pop"],
+      dailyCategory: "Pop",
+    },
+     {
+      title: "Lullaby",
+      artist: "The Cure",
+      cover: "/songs/covers/disint.jpg",
+      snippet: "/songs/rock/lullaby.mp3",
+      categories: ["rock"],
+      dailyCategory: "Rock",
+    },
+    {
+      title: "Jump Around",
+      artist: "House of Pain",
+      cover: "https://is1-ssl.mzstatic.com/image/thumb/Music221/v4/c5/b7/2f/c5b72ff4-d593-ed4c-f7ed-080fb4d224aa/081227911560.png/600x600bb.jpg",
+      snippet: "/songs/rap/house_of_pain_jump_around_pete_rock_remix.mp3",
+      categories: ["rap"],
+      dailyCategory: "Rap",
+    },
+  ],
 };
 
 const LEVELS = [
