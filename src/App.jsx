@@ -2969,6 +2969,32 @@ const manualDaily = {
       dailyCategory: "Rap",
     },
   ],
+  "2026-06-21": [
+    {
+      title: "Wake Me Up Before You Go-Go",
+      artist:  "Wham!",
+      cover:  "https://is1-ssl.mzstatic.com/image/thumb/Music115/v4/ee/49/ac/ee49accc-78bd-bcdb-1aff-c40c1ac3ccc4/074643959520.jpg/600x600bb.jpg",
+      snippet: "/songs/pop/wham_wake_me_up_before_you_go_go.mp3",
+      categories: ["pop"],
+      dailyCategory: "Pop",
+    },
+     {
+      title: "I Write Sins Not Tragedies",
+      artist: "Panic! At the Disco",
+      cover: "https://is1-ssl.mzstatic.com/image/thumb/Music211/v4/cb/a8/ee/cba8ee59-48f6-13f5-6c26-fbb1790a1d04/5059460399082.jpg/600x600bb.jpg",
+      snippet: "/songs/rock/panic_at_the_disco_i_write_sins_not_tragedies.mp3",
+      categories: ["rock"],
+      dailyCategory: "Rock",
+    },
+    {
+      title: "Roses",
+      artist: "Outkast",
+      cover: "https://is1-ssl.mzstatic.com/image/thumb/Music221/v4/71/ae/6a/71ae6a46-99a6-e9d8-d7f3-41c0f2df45c4/196872579123.jpg/600x600bb.jpg",
+      snippet: "/songs/rap/outkast_roses.mp3",
+      categories: ["rap"],
+      dailyCategory: "Rap",
+    },
+  ],
 };
 
 const LEVELS = [
