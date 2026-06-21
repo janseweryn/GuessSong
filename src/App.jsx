@@ -2995,6 +2995,32 @@ const manualDaily = {
       dailyCategory: "Rap",
     },
   ],
+   "2026-06-22": [
+    {
+      title: "Symphony (feat. Zara Larsson)",
+      artist:  "Clean Bandit", 
+      cover:  "/songs/covers/symphony.jpg",
+      snippet: "/songs/pop/symphony.mp3",
+      categories: ["pop"],
+      dailyCategory: "Pop",
+    },
+     {
+      title: "Jessie's Girl",
+      artist: "Rick Springfield",
+      cover: "https://is1-ssl.mzstatic.com/image/thumb/Music113/v4/52/1e/e8/521ee88b-8fcc-0d53-345d-3b82d910a554/828768486726.jpg/600x600bb.jpg",
+      snippet: "/songs/rock/rick_springfield_jessie_s_girl.mp3",
+      categories: ["rock"],
+      dailyCategory: "Rock",
+    },
+    {
+      title: "Gettin' Jiggy Wit It",
+      artist: "Will Smith",
+      cover: "https://is1-ssl.mzstatic.com/image/thumb/Music115/v4/96/47/9d/96479d49-1ccd-ea1a-7bee-6750a73f363f/mzi.haxmzhnz.jpg/600x600bb.jpg",
+      snippet: "/songs/rap/will_smith_gettin_jiggy_wit_it.mp3",
+      categories: ["rap"],
+      dailyCategory: "Rap",
+    },
+  ],
 };
 
 const LEVELS = [
