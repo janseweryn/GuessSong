@@ -3021,6 +3021,33 @@ const manualDaily = {
       dailyCategory: "Rap",
     },
   ],
+  "2026-06-23": [
+    {
+      title: "Daddy Cool",
+      artist:  "Boney M.",
+      cover:  "https://is1-ssl.mzstatic.com/image/thumb/Music4/v4/aa/23/e3/aa23e3a1-de3e-5aa7-870b-a1403afb2b10/886444503273.jpg/600x600bb.jpg",
+      snippet: "/songs/pop/boney_m_daddy_cool.mp3",
+      categories: ["pop"],
+      dailyCategory: "Pop",
+    },
+     {
+      title: "Last Resort",
+      artist: "Papa Roach",
+      cover: "https://is1-ssl.mzstatic.com/image/thumb/Music211/v4/c2/c6/81/c2c6818b-0b09-9378-caf3-608cc6fe36d7/19UM1IM12014.rgb.jpg/600x600bb.jpg",
+      snippet: "/songs/rock/papa_roach_last_resort.mp3",
+      categories: ["rock"],
+      dailyCategory: "Rock",
+    },
+    {
+      title: "Father Stretch My Hands, Pt. 1",
+      artist: "Kanye West", 
+      cover: "/songs/covers/pablo.jpg",
+      snippet: "/songs/rap/father_strech.mp3",
+      categories: ["rap"],
+      dailyCategory: "Rap",
+    },
+  ],
+  
 };
 
 const LEVELS = [
