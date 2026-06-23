@@ -3047,7 +3047,32 @@ const manualDaily = {
       dailyCategory: "Rap",
     },
   ],
-  
+  "2026-06-24": [
+    {
+      title: "Cold Heart (PNAU Remix)",
+      artist:  "Elton John & Dua Lipa",
+      cover:  "/songs/covers/coldheart.jpg",
+      snippet: "/songs/pop/cold_heart.mp3",
+      categories: ["pop"],
+      dailyCategory: "Pop",
+    },
+     {
+      title: "Johnny B. Goode",
+      artist: "Chuck Berry",
+      cover: "https://is1-ssl.mzstatic.com/image/thumb/Music122/v4/67/c8/33/67c83356-08b8-e3c0-34cd-ee084db91f59/06UMGIM60693.rgb.jpg/600x600bb.jpg",
+      snippet: "/songs/pop/chuck_berry_johnny_b_goode.mp3",
+      categories: ["rock"],
+      dailyCategory: "Rock",
+    },
+    {
+      title: "My Name Is",
+      artist: "Eminem",
+      cover:  "/songs/covers/slim_shady.jpg",
+      snippet: "/songs/rap/my_name.mp3",
+      categories: ["rap"],
+      dailyCategory: "Rap",
+    },
+  ],
 };
 
 const LEVELS = [
