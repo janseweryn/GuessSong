@@ -3073,6 +3073,32 @@ const manualDaily = {
       dailyCategory: "Rap",
     },
   ],
+  "2026-06-25": [
+    {
+      title: "Maps",
+      artist:  "Maroon 5",
+      cover:  "https://is1-ssl.mzstatic.com/image/thumb/Music112/v4/0d/f0/8b/0df08b64-3743-4ae0-f3cc-1314716d841d/14UMGIM31675.rgb.jpg/600x600bb.jpg",
+      snippet: "/songs/pop/maroon_5_maps.mp3",
+      categories: ["pop"],
+      dailyCategory: "Pop",
+    },
+     {
+      title: "Ironic",
+      artist: "Alanis Morissette",
+      cover: "https://is1-ssl.mzstatic.com/image/thumb/Features124/v4/5f/3b/ca/5f3bca60-024c-d4aa-d638-6d58e7e81461/mza_1406686761081396977.jpg/600x600bb.jpg",
+      snippet: "/songs/rock/alanis_morissette_ironic.mp3",
+      categories: ["rock"],
+      dailyCategory: "Rock",
+    },
+    {
+      title: "INDUSTRY BABY",
+      artist: "Lil Nas X & Jack Harlow",
+      cover:  "https://is1-ssl.mzstatic.com/image/thumb/Music115/v4/4d/f2/df/4df2dfcc-a2a5-de63-9885-cd77efa6d26c/886449661831.jpg/600x600bb.jpg",
+      snippet: "/songs/rap/lil_nas_x_jack_harlow_industry_baby.mp3",
+      categories: ["rap"],
+      dailyCategory: "Rap",
+    },
+  ],
 };
 
 const LEVELS = [
