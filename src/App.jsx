@@ -3099,6 +3099,32 @@ const manualDaily = {
       dailyCategory: "Rap",
     },
   ],
+   "2026-06-26": [
+    {
+      title: "Girl On Fire",
+      artist:  "Alicia Keys",
+      cover:  "https://is1-ssl.mzstatic.com/image/thumb/Music125/v4/a7/66/bd/a766bd53-e015-62e7-fbbc-ab7dd628a989/886443653634.jpg/600x600bb.jpg",
+      snippet:"/songs/pop/alicia_keys_girl_on_fire.mp3",
+      categories: ["pop"],
+      dailyCategory: "Pop",
+    },
+     {
+      title: "Shiny Happy People",
+      artist: "R.E.M.",
+      cover: "https://is1-ssl.mzstatic.com/image/thumb/Music125/v4/05/ae/86/05ae8650-7bce-2377-8959-78ea033a99d9/00888072013711.rgb.jpg/600x600bb.jpg",
+      snippet: "/songs/rock/r_e_m_shiny_happy_people.mp3",
+      categories: ["rock"],
+      dailyCategory: "Rock",
+    },
+    {
+      title: "goosebumps",
+      artist: "Travis Scott",
+      cover:  "https://is1-ssl.mzstatic.com/image/thumb/Music114/v4/b8/e5/27/b8e527c8-aaf4-c7b7-5562-c479458ed7d9/886446092645.jpg/600x600bb.jpg",
+      snippet: "/songs/rap/travis_scott_goosebumps.mp3",
+      categories: ["rap"],
+      dailyCategory: "Rap",
+    },
+  ],
 };
 
 const LEVELS = [
