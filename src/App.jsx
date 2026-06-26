@@ -3125,6 +3125,32 @@ const manualDaily = {
       dailyCategory: "Rap",
     },
   ],
+   "2026-06-27": [
+    {
+      title: "Flowers",
+      artist:  "Miley Cyrus",
+      cover:  "https://is1-ssl.mzstatic.com/image/thumb/Music126/v4/8c/67/ff/8c67ff91-31c3-3fef-1884-ce3ec89f3af4/196589946874.jpg/600x600bb.jpg",
+      snippet: "/songs/pop/miley_cyrus_flowers.mp3",
+      categories: ["pop"],
+      dailyCategory: "Pop",
+    },
+     {
+      title: "Nemo",
+      artist: "Nightwish",
+      cover: "a",
+      snippet: "/songs/rock/malcolm_todd_nemo.mp3",
+      categories: ["rock"],
+      dailyCategory: "Rock",
+    },
+    {
+      title: "WAP (feat. Megan Thee Stallion)",
+      artist: "Cardi B",
+      cover:  "https://is1-ssl.mzstatic.com/image/thumb/Music124/v4/ec/f5/45/ecf545c0-24bd-90de-7639-3069e648c51d/075679804938.jpg/600x600bb.jpg",
+      snippet: "/songs/rap/cardi_b_wap_feat_megan_thee_stallion.mp3",
+      categories: ["rap"],
+      dailyCategory: "Rap",
+    },
+  ],
 };
 
 const LEVELS = [
