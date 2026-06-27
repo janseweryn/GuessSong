@@ -3151,6 +3151,32 @@ const manualDaily = {
       dailyCategory: "Rap",
     },
   ],
+  "2026-06-28": [
+    {
+      title: "Work from Home (feat. Ty Dolla $ign)",
+      artist:  "Fifth Harmony",
+      cover:  "https://is1-ssl.mzstatic.com/image/thumb/Music115/v4/5e/35/68/5e3568b7-3e08-cdac-d0d9-122fc0429f08/886445883091.jpg/600x600bb.jpg",
+      snippet: "/songs/pop/fifth_harmony_work_from_home_feat_ty_dolla_ign.mp3",
+      categories: ["pop"],
+      dailyCategory: "Pop",
+    },
+     {
+      title: "Gimme Chocolate!!",
+      artist: "Babymetal", 
+      cover: "/songs/covers/babymetal.jpg",
+      snippet: "/songs/rock/chocolate.mp3",
+      categories: ["rock"],
+      dailyCategory: "Rock",
+    },
+    {
+      title: "Just a Lil Bit",
+      artist: "50 Cent",
+      cover:  "https://is1-ssl.mzstatic.com/image/thumb/Music116/v4/df/10/7c/df107c5d-0a02-8122-f554-7da8b746ef9c/4ad62e53-745e-4db3-94d5-1f7ee80e8bb9.png/600x600bb.jpg",
+      snippet: "/songs/rap/50_cent_just_a_lil_bit_mixed.mp3",
+      categories: ["rap"],
+      dailyCategory: "Rap",
+    },
+  ],
 };
 
 const LEVELS = [
