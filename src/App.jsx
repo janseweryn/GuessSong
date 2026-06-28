@@ -3177,6 +3177,32 @@ const manualDaily = {
       dailyCategory: "Rap",
     },
   ],
+  "2026-06-29": [
+    {
+      title: "Hot N Cold",
+      artist:  "Katy Perry",
+      cover: "/songs/covers/oneboys.jpg",
+      snippet: "/songs/pop/hot_cold.mp3",
+      categories: ["pop"],
+      dailyCategory: "Pop",
+    },
+     {
+      title: "Gimme Chocolate!!",
+      artist: "Babymetal", 
+      cover: "/songs/covers/babymetal.jpg",
+      snippet: "/songs/rock/chocolate.mp3",
+      categories: ["rock"],
+      dailyCategory: "Rock",
+    },
+    {
+      title: "Hot In Here",
+      artist: "Nelly",
+      cover:  "a",
+      snippet: "/songs/pop/rascal_flatts_hot_in_here.mp3",
+      categories: ["rap"],
+      dailyCategory: "Rap",
+    },
+  ],
 };
 
 const LEVELS = [
