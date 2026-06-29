@@ -3203,6 +3203,32 @@ const manualDaily = {
       dailyCategory: "Rap",
     },
   ],
+  "2026-06-30": [
+    {
+      title: "I Ain't Worried",
+      artist:  "OneRepublic",
+      cover: "https://is1-ssl.mzstatic.com/image/thumb/Music122/v4/e6/14/14/e6141444-6597-4c3a-7ad1-86304528acf4/22UMGIM45569.rgb.jpg/600x600bb.jpg",
+      snippet: "/songs/pop/onerepublic_i_ain_t_worried.mp3",
+      categories: ["pop"],
+      dailyCategory: "Pop",
+    },
+     {
+      title: "Rock And Roll",
+      artist: "Led Zeppelin",  
+      cover: "/songs/covers/zeppelin4.jpg",
+      snippet: "/songs/rock/rock_roll.mp3",
+      categories: ["rock"],
+      dailyCategory: "Rock",
+    },
+    {
+      title: "No Role Modelz",
+      artist: "J. Cole",
+      cover:  "https://is1-ssl.mzstatic.com/image/thumb/Music116/v4/ee/28/67/ee286794-6c33-a8c2-5c37-c04f1cb5e8a6/21UM1IM54415.rgb.jpg/600x600bb.jpg",
+      snippet: "/songs/rap/j_cole_no_role_modelz.mp3",
+      categories: ["rap"],
+      dailyCategory: "Rap",
+    },
+  ],
 };
 
 const LEVELS = [
