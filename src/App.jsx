@@ -3229,6 +3229,32 @@ const manualDaily = {
       dailyCategory: "Rap",
     },
   ],
+   "2026-07-01": [
+    {
+      title: "Wannabe",
+      artist:  "Spice Girls",
+      cover: "https://is1-ssl.mzstatic.com/image/thumb/Music115/v4/e1/92/8f/e1928fcb-0204-ca19-597a-6edaf8e6ebc8/21UMGIM16233.rgb.jpg/600x600bb.jpg",
+      snippet: "/songs/pop/spice_girls_wannabe.mp3",
+      categories: ["pop"],
+      dailyCategory: "Pop",
+    },
+     {
+      title: "Norwegian Wood (This Bird Has Flown)",
+      artist: "The Beatles", 
+      cover: "/songs/covers/wood.png",
+      snippet: "/songs/rock/norwegian_wood.mp3",
+      categories: ["rock"],
+      dailyCategory: "Rock",
+    },
+    {
+      title: "N.Y. State of Mind",
+      artist: "Nas",
+      cover:  "https://is1-ssl.mzstatic.com/image/thumb/Music125/v4/b9/eb/cc/b9ebccbc-5ba4-2cdb-5332-b065739abd9a/886444567619.jpg/600x600bb.jpg",
+      snippet: "/songs/rap/nas_n_y_state_of_mind.mp3",
+      categories: ["rap"],
+      dailyCategory: "Rap",
+    },
+  ],
 };
 
 const LEVELS = [
