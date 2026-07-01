@@ -3255,6 +3255,32 @@ const manualDaily = {
       dailyCategory: "Rap",
     },
   ],
+  "2026-07-02": [
+    {
+      title: "Drive By",
+      artist:  "Train",
+      cover: "https://is1-ssl.mzstatic.com/image/thumb/Music124/v4/08/a0/0e/08a00ef4-fa4d-8338-77cf-b6d82f66e4f4/886443385948.jpg/600x600bb.jpg",
+      snippet: "/songs/pop/train_drive_by.mp3",
+      categories: ["pop"],
+      dailyCategory: "Pop",
+    },
+     {
+      title: "Piano Man",
+      artist: "Billy Joel",  
+      cover: "/songs/covers/piano.jpg",
+      snippet: "/songs/rock/piano_man.mp3",
+      categories: ["rock"],
+      dailyCategory: "Rock",
+    },
+    {
+      title: "Ni**as in Paris",
+      artist: "Kanye West & JAY-Z",  
+      cover:  "/songs/covers/watchthrone.jpg",
+      snippet: "/songs/rap/niggas.mp3",
+      categories: ["rap"],
+      dailyCategory: "Rap",
+    },
+  ],
 };
 
 const LEVELS = [
