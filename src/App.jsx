@@ -3281,6 +3281,32 @@ const manualDaily = {
       dailyCategory: "Rap",
     },
   ],
+  "2026-07-03": [
+     {
+      title: "The Cure",
+      artist: "Olivia Rodrigo",
+      cover:  "/songs/covers/cure.png",
+      snippet: "/songs/pop/Olivia_Rodrigo_the_cure.mp3",
+      categories: ["pop"],
+      dailyCategory: "Pop",
+    },
+     {
+      title: "Everlong",
+      artist: "Foo Fighters",
+      cover: "https://is1-ssl.mzstatic.com/image/thumb/Music221/v4/68/f5/86/68f586ca-a375-9965-a864-9e227e77ef5b/884977570328.jpg/600x600bb.jpg",
+      snippet: "/songs/rock/foo_fighters_everlong.mp3",
+      categories: ["rock"],
+      dailyCategory: "Rock",
+    },
+    {
+      title: "Stargazing",
+      artist: "Travis Scott",
+      cover: "/songs/covers/astro.jpg",
+      snippet: "/songs/rap/stargazing.mp3",
+      categories: ["rap"],
+      dailyCategory: "Rap",
+    },
+  ],
 };
 
 const LEVELS = [
