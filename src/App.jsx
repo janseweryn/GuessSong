@@ -3307,6 +3307,58 @@ const manualDaily = {
       dailyCategory: "Rap",
     },
   ],
+  "2026-07-04": [
+    {
+      title: "Fame Is A Gun",
+      artist: "Addison Rae",
+      cover: "/songs/covers/addison.jpg",
+      snippet: "/songs/pop/fame_gun.mp3",
+      categories: ["pop"],
+      dailyCategory: "Pop",
+    },
+     {
+      title: "Walk",
+      artist: "Pantera",
+      cover: "https://is1-ssl.mzstatic.com/image/thumb/Music/v4/c0/4c/ef/c04cef86-b722-22d3-761d-e8375dcaaa9f/603497931897.jpg/600x600bb.jpg",
+      snippet: "/songs/rock/pantera_walk_cervical_edit.mp3",
+      categories: ["rock"],
+      dailyCategory: "Rock",
+    },
+    {
+      title: "Like Jennie",
+      artist: "Jennie",
+      cover: "/songs/covers/ruby.jpg",
+      snippet: "/songs/pop/jennie.mp3",
+      categories: ["rap"],
+      dailyCategory: "Rap",
+    },
+  ],
+  "2026-07-05": [
+    {
+      title: "Illegal",
+      artist: "PinkPantheress",
+      cover: "/songs/covers/fancy.jpg",
+      snippet: "/songs/pop/illegal.mp3",
+      categories: ["pop"],
+      dailyCategory: "Pop",
+    },
+     {
+      title: "This Charming Man",
+      artist: "The Smiths",
+      cover: "/songs/covers/smiths.jpg",
+      snippet: "/songs/rock/charming_man.mp3",
+      categories: ["rock"],
+      dailyCategory: "Rock",
+    },
+    {
+      title: "Anxiety",
+      artist: "Doechii",
+      cover: "https://is1-ssl.mzstatic.com/image/thumb/Music211/v4/ad/65/7d/ad657de9-2dab-d086-84c3-e6b8363b984e/25UMGIM39878.rgb.jpg/600x600bb.jpg",
+      snippet:  "/songs/rap/doechii_anxiety.mp3",
+      categories: ["rap"],
+      dailyCategory: "Rap",
+    },
+  ],
 };
 
 const LEVELS = [
