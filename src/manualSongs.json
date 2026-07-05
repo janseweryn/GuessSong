@@ -764,5 +764,12 @@
     "categories": ["Pop", "Pop 20s"],
     "snippet": "/songs/pop/my_way_olivia.mp3",
     "cover": "/songs/covers/Olivia_Rodrigo_-_You_Seem_Pretty_Sad_for_a_Girl_So_in_Love.jpg"
-  }
+  },
+  {
+      "title": "Jeremy Sochan",
+      "artist": "Oki",
+       "categories": ["Polskie Rap", "Polskie Rap 20s"],
+      "snippet":  "/songs/Polskie/OKI_JEREMYSOCHAN.mp3",
+       "cover": "a"
+    }
 ]

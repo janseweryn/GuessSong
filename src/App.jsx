@@ -3359,6 +3359,32 @@ const manualDaily = {
       dailyCategory: "Rap",
     },
   ],
+   "2026-07-06": [
+    {
+      title: "Lush Life",
+      artist: "Zara Larsson",
+      cover: "/songs/covers/sogood.jpg",
+      snippet: "/songs/pop/lush_life.mp3",
+      categories: ["pop"],
+      dailyCategory: "Pop",
+    },
+     {
+      title: "Red Right Hand",
+      artist: "Nick Cave & The Bad Seeds",
+      cover: "https://is1-ssl.mzstatic.com/image/thumb/Music118/v4/7b/c4/a9/7bc4a9bb-7061-1b0c-6da7-2f75185b0285/5099909572058.jpg/600x600bb.jpg",
+      snippet: "/songs/rock/nick_cave_the_bad_seeds_red_right_hand_2011_remaster.mp3",
+      categories: ["rock"],
+      dailyCategory: "Rock",
+    },
+    {
+      title: "Jeremy Sochan",
+      artist: "Oki",
+      cover: "a",
+      snippet:  "/songs/Polskie/OKI_JEREMYSOCHAN.mp3",
+      categories: ["rap"],
+      dailyCategory: "Rap",
+    },
+  ],
 };
 
 const LEVELS = [
