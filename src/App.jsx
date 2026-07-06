@@ -3385,6 +3385,32 @@ const manualDaily = {
       dailyCategory: "Rap",
     },
   ],
+  "2026-07-07": [
+    {
+      title: "I Love You I'm Sorry",
+      artist: "Gracie Abrams",
+      cover: "/songs/covers/secretus.jpg",
+      snippet: "/songs/pop/love_you_sorry.mp3",
+      categories: ["pop"],
+      dailyCategory: "Pop",
+    },
+     {
+      title: "Kashmir",
+      artist: "Led Zeppelin",
+      cover: "/songs/covers/physical.jpg",
+      snippet: "/songs/rock/kashmir.mp3",
+      categories: ["rock"],
+      dailyCategory: "Rock",
+    },
+    {
+      title: "Panda",
+      artist: "Desiigner",
+      cover: "https://is1-ssl.mzstatic.com/image/thumb/Music122/v4/a1/f1/f9/a1f1f914-6e61-21eb-d787-2d4020654aab/16UMGIM11380.rgb.jpg/600x600bb.jpg",
+      snippet:  "/songs/rap/desiigner_panda.mp3",
+      categories: ["rap"],
+      dailyCategory: "Rap",
+    },
+  ],
 };
 
 const LEVELS = [
