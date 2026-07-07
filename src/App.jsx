@@ -3411,6 +3411,32 @@ const manualDaily = {
       dailyCategory: "Rap",
     },
   ],
+   "2026-07-08": [
+    {
+      title: "Upside Down",
+      artist: "Diana Ross",
+      cover: "https://is1-ssl.mzstatic.com/image/thumb/Music124/v4/4b/68/94/4b68944b-e875-5729-e97f-c781fc9e0c1e/06UMGIM11291.rgb.jpg/600x600bb.jpg",
+      snippet: "/songs/pop/diana_ross_upside_down.mp3",
+      categories: ["pop"],
+      dailyCategory: "Pop",
+    },
+     {
+      title: "I-E-A-I-A-I-O",
+      artist: "System Of A Down",
+      cover: "/songs/covers/steal.jpg",
+      snippet: "/songs/rock/ieio.mp3",
+      categories: ["rock"],
+      dailyCategory: "Rock",
+    },
+    {
+      title: "Shut Down",
+      artist: "Blackpink",
+      cover: "/songs/covers/bornpink.jpg",
+      snippet:  "/songs/pop/shut_down.mp3",
+      categories: ["rap"],
+      dailyCategory: "Rap",
+    },
+  ],
 };
 
 const LEVELS = [
