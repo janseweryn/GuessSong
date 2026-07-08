@@ -3437,6 +3437,32 @@ const manualDaily = {
       dailyCategory: "Rap",
     },
   ],
+  "2026-07-09": [
+    {
+      title: "Like a G6",
+      artist: "Far East Movement, The Cataracs & Dev",
+      cover: "https://is1-ssl.mzstatic.com/image/thumb/Music122/v4/5f/69/26/5f6926ea-5a7f-17d9-25ce-dbcddfbc14d8/10UMGIM25431.rgb.jpg/600x600bb.jpg",
+      snippet: "/songs/pop/far_east_movement_the_cataracs_dev_like_a_g6.mp3",
+      categories: ["pop"],
+      dailyCategory: "Pop",
+    },
+     {
+      title: "Rosanna",
+      artist: "Toto",
+      cover: "https://is1-ssl.mzstatic.com/image/thumb/Music115/v4/69/ce/d2/69ced240-07a7-2a04-bbab-2afbacf30809/074643772822.jpg/600x600bb.jpg",
+      snippet: "/songs/rock/toto_rosanna.mp3",
+      categories: ["rock"],
+      dailyCategory: "Rock",
+    },
+    {
+      title: "Houdini",
+      artist: "Eminem", 
+      cover: "/songs/covers/dead_slim.jpg",
+      snippet:  "/songs/rap/houdini_e.mp3",
+      categories: ["rap"],
+      dailyCategory: "Rap",
+    },
+  ],
 };
 
 const LEVELS = [
