@@ -3541,6 +3541,32 @@ const manualDaily = {
       dailyCategory: "Rap",
     },
   ],
+  "2026-07-13": [
+    {
+      title: "Sign of the Times",
+      artist: "Harry Styles",
+      cover: "https://is1-ssl.mzstatic.com/image/thumb/Music124/v4/3d/5e/aa/3d5eaaa3-9a86-c264-5cd5-7fac83f99a59/886446451978.jpg/600x600bb.jpg",
+      snippet: "/songs/pop/harry_styles_sign_of_the_times.mp3",
+      categories: ["pop"],
+      dailyCategory: "Pop",
+    },
+    {
+      title: "Soul Kitchen",
+      artist: "The Doors",
+      cover: "https://is1-ssl.mzstatic.com/image/thumb/Features115/v4/03/c6/2d/03c62d8a-487f-78c3-8416-488cfac664eb/dj.sboowgda.jpg/600x600bb.jpg",
+      snippet: "/songs/rock/the_doors_soul_kitchen.mp3",
+      categories: ["rock"],
+      dailyCategory: "Rock",
+    },
+    {
+      title: "ROCKSTAR (feat. Roddy Ricch)",
+      artist: "DaBaby",
+      cover: "https://is1-ssl.mzstatic.com/image/thumb/Music124/v4/1b/63/04/1b630400-490e-245b-a26f-0120f6f253c8/20UMGIM28168.rgb.jpg/600x600bb.jpg",
+      snippet:  "/songs/rap/dababy_rockstar_feat_roddy_ricch.mp3",
+      categories: ["rap"],
+      dailyCategory: "Rap",
+    },
+  ],
 };
 
 const LEVELS = [
