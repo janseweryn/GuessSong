@@ -3567,6 +3567,32 @@ const manualDaily = {
       dailyCategory: "Rap",
     },
   ],
+  "2026-07-14": [
+    {
+      title: "Manchild",
+      artist: "Sabrina Carpenter",
+      cover: "/songs/covers/mansbest.jpg",
+      snippet: "/songs/pop/manchild.mp3",
+      categories: ["pop"],
+      dailyCategory: "Pop",
+    },
+    {
+      title: "Smooth Operator",
+      artist: "Sade",
+      cover: "https://is1-ssl.mzstatic.com/image/thumb/Music115/v4/4d/d5/a1/4dd5a1b7-7134-f0ec-b55c-54ac47cc88a5/886448655886.jpg/600x600bb.jpg",
+      snippet: "/songs/pop/sade_smooth_operator.mp3",
+      categories: ["rock"],
+      dailyCategory: "Rock",
+    },
+    {
+      title: "Sundrees",
+      artist:"A$ap Rocky",
+      cover:"/songs/covers/sundress.jpg",
+      snippet: "/songs/rap/sundress.mp3",
+      categories: ["rap"],
+      dailyCategory: "Rap",
+    },
+  ],
 };
 
 const LEVELS = [
