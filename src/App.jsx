@@ -3593,6 +3593,32 @@ const manualDaily = {
       dailyCategory: "Rap",
     },
   ],
+   "2026-07-15": [
+     {
+      title: "Fancy",
+      artist: "Twice",
+      cover: "/songs/covers/fancytwice.jpg",
+      snippet: "/songs/pop/fancy.mp3",
+      categories: ["pop"],
+      dailyCategory: "Pop",
+    },
+    {
+      title: "Dear Maria, Count Me In",
+      artist: "All Time Low",
+      cover: "https://is1-ssl.mzstatic.com/image/thumb/Music/7a/ac/cc/mzi.igvemwis.jpg/600x600bb.jpg",
+      snippet: "/songs/rock/all_time_low_dear_maria_count_me_in.mp3",
+      categories: ["rock"],
+      dailyCategory: "Rock",
+    },
+    {
+      title: "Doo Wop (That Thing)",
+      artist: "Lauryn Hill",
+      cover: "https://is1-ssl.mzstatic.com/image/thumb/Music125/v4/09/6b/55/096b55c4-ee8f-23bd-df8f-0ca0821f3028/886446727189.jpg/600x600bb.jpg",
+      snippet:  "/songs/pop/lauryn_hill_doo_wop_that_thing.mp3",
+      categories: ["rap"],
+      dailyCategory: "Rap",
+    },
+  ],
 };
 
 const LEVELS = [
