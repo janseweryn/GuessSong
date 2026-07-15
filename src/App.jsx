@@ -3619,6 +3619,32 @@ const manualDaily = {
       dailyCategory: "Rap",
     },
   ],
+   "2026-07-16": [
+     {
+      title: "Alors on danse",
+      artist: "Stromae",
+      cover: "https://is1-ssl.mzstatic.com/image/thumb/Music122/v4/a8/69/90/a869906a-dd48-b772-785b-871459b36df2/10UMGIM03438.rgb.jpg/600x600bb.jpg",
+      snippet: "/songs/pop/stromae_alors_on_danse.mp3",
+      categories: ["pop"],
+      dailyCategory: "Pop",
+    },
+    {
+      title: "Where Is My Mind?",
+      artist: "Pixies",
+      cover: "https://is1-ssl.mzstatic.com/image/thumb/Music116/v4/68/b7/c0/68b7c018-dc15-f44a-2611-be10237fc9a5/652637080308.png/600x600bb.jpg",
+      snippet: "/songs/rock/pixies_where_is_my_mind_2007_remaster.mp3",
+      categories: ["rock"],
+      dailyCategory: "Rock",
+    },
+    {
+      title: "Sugar On My Tongue",
+      artist: "Tyler, The Creator", 
+      cover: "/songs/covers/tapglass.jpg",
+      snippet: "/songs/rap/sugar_tongue.mp3",
+      categories: ["rap"],
+      dailyCategory: "Rap",
+    },
+  ],
 };
 
 const LEVELS = [
