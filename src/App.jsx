@@ -3645,6 +3645,32 @@ const manualDaily = {
       dailyCategory: "Rap",
     },
   ],
+  "2026-07-17": [
+     {
+      title: "...Baby One More Time",
+      artist: "Britney Spears",
+      cover: "/songs/covers/moretime.jpg",
+      snippet: "/songs/pop/baby_more_time.mp3",
+      categories: ["pop"],
+      dailyCategory: "Pop",
+    },
+    {
+      title: "Fear Of The Dark",
+      artist: "Iron Maiden", 
+      cover: "/songs/covers/feardark.jpg",
+      snippet: "/songs/rock/fear_dark.mp3",
+      categories: ["rock"],
+      dailyCategory: "Rock",
+    },
+    {
+      title: "Fancy (feat. Charli XCX)",
+      artist: "Iggy Azalea",
+      cover: "https://is1-ssl.mzstatic.com/image/thumb/Music112/v4/32/64/0d/32640dc0-879a-2771-cfe7-91ea4568436a/14UMGIM08058.rgb.jpg/600x600bb.jpg",
+      snippet: "/songs/rap/iggy_azalea_fancy_feat_charli_xcx.mp3",
+      categories: ["rap"],
+      dailyCategory: "Rap",
+    },
+  ],
 };
 
 const LEVELS = [
