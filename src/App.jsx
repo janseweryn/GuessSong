@@ -3671,6 +3671,58 @@ const manualDaily = {
       dailyCategory: "Rap",
     },
   ],
+  "2026-07-18": [
+     {
+      title: "Falling Behind",
+      artist: "Laufey",
+      cover: "/songs/covers/everythinglive.jpg",
+      snippet: "/songs/pop/falling_behind.mp3",
+      categories: ["pop"],
+      dailyCategory: "Pop",
+    },
+    {
+      title: "Child In Time",
+      artist: "Deep Purple", 
+      cover: "https://is1-ssl.mzstatic.com/image/thumb/Music/70/0e/2f/mzi.gdbiuzww.jpg/600x600bb.jpg",
+      snippet: "/songs/rock/deep_purple_child_in_time_live.mp3",
+      categories: ["rock"],
+      dailyCategory: "Rock",
+    },
+    {
+      title: "Water",
+      artist: "Tyla",
+      cover: "https://is1-ssl.mzstatic.com/image/thumb/Music126/v4/1e/c9/5b/1ec95bbc-a56f-cbef-070c-ddec9f4fdd3c/196871296205.jpg/600x600bb.jpg",
+      snippet: "/songs/pop/tyla_water.mp3",
+      categories: ["rap"],
+      dailyCategory: "Rap",
+    },
+  ],
+  "2026-07-19": [
+     {
+      title: "Narcotic",
+      artist: "Liquido",
+      cover: "https://is1-ssl.mzstatic.com/image/thumb/Music116/v4/9f/b9/7b/9fb97b71-aa99-2d0a-cb53-69443c427bd7/859784003444_cover.jpg/600x600bb.jpg",
+      snippet: "/songs/pop/bryce_savage_narcotic.mp3",
+      categories: ["pop"],
+      dailyCategory: "Pop",
+    },
+    {
+      title: "To Hell and Back",
+      artist: "Sabaton",
+      cover: "https://is1-ssl.mzstatic.com/image/thumb/Music124/v4/21/b8/41/21b84170-87e6-d667-599a-c8a6ab0a9f8b/cover.jpg/600x600bb.jpg",
+      snippet: "/songs/rock/sabaton_to_hell_and_back.mp3",
+      categories: ["rock"],
+      dailyCategory: "Rock",
+    },
+    {
+      title: "I'll Be Missing You (feat. Faith Evans, 112)",
+      artist: "Puff Daddy & Faith Evans",
+      cover: "https://is1-ssl.mzstatic.com/image/thumb/Music125/v4/09/6b/55/096b55c4-ee8f-23bd-df8f-0ca0821f3028/886446727189.jpg/600x600bb.jpg",
+      snippet:  "/songs/rap/puff_daddy_faith_evans_i_ll_be_missing_you_feat_faith_evans_112.mp3",
+      categories: ["rap"],
+      dailyCategory: "Rap",
+    },
+  ],
 };
 
 const LEVELS = [
