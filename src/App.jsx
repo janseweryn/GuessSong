@@ -3723,6 +3723,32 @@ const manualDaily = {
       dailyCategory: "Rap",
     },
   ],
+  "2026-07-20": [
+     {
+      title: "Sofia",
+      artist: "Alvaro Soler",
+      cover: "https://is1-ssl.mzstatic.com/image/thumb/Music114/v4/05/d7/e1/05d7e189-c4d5-331f-0327-da3add4bae06/16UMGIM14728.rgb.jpg/600x600bb.jpg",
+      snippet: "/songs/pop/alvaro_soler_sofia.mp3",
+      categories: ["pop"],
+      dailyCategory: "Pop",
+    },
+    {
+      title: "Cigarette Daydreams",
+      artist: "Cage the Elephant",
+      cover: "https://is1-ssl.mzstatic.com/image/thumb/Music221/v4/02/d2/e2/02d2e290-82c9-bcf4-73fa-4cd06f65f4b9/886444143073.jpg/600x600bb.jpg",
+      snippet: "/songs/rock/cage_the_elephant_cigarette_daydreams.mp3",
+      categories: ["rock"],
+      dailyCategory: "Rock",
+    },
+    {
+      title: "Remember the Name (feat. Styles of Beyond)",
+      artist: "Fort Minor",
+      cover: "https://is1-ssl.mzstatic.com/image/thumb/Music124/v4/ab/03/ab/ab03ab77-c4f1-d740-8561-3cb3042b61c4/093624906988.jpg/600x600bb.jpg",
+      snippet: "/songs/rap/fort_minor_remember_the_name_feat_styles_of_beyond.mp3",
+      categories: ["rap"],
+      dailyCategory: "Rap",
+    },
+  ],
 };
 
 const LEVELS = [
