@@ -3775,6 +3775,32 @@ const manualDaily = {
       dailyCategory: "Rap",
     },
   ],
+   "2026-07-23": [
+     {
+      title: "Everything I Wanted",
+      artist: "Billie Eilish",
+      cover: "/songs/covers/everythingwanted.jpg",
+      snippet: "/songs/pop/everything_wanted.mp3",
+      categories: ["pop"],
+      dailyCategory: "Pop",
+    },
+     {
+      title: "Sweet Dreams (Are Made of This)",
+      artist: "Eurythmics",
+      cover: "https://is1-ssl.mzstatic.com/image/thumb/Features125/v4/ad/d3/3d/add33dea-0a4d-9509-643b-939ba6735733/dj.vpugapfp.jpg/600x600bb.jpg",
+      snippet: "/songs/pop/eurythmics_sweet_dreams_are_made_of_this.mp3",
+      categories: ["rock"],
+      dailyCategory: "Rock",
+    },
+    {
+      title: "Lemonade (feat. NAV)",
+      artist: "Internet Money, Gunna & Don Toliver",
+      cover: "https://is1-ssl.mzstatic.com/image/thumb/Music126/v4/6f/6e/5f/6f6e5f75-7a2c-91c0-6ecc-5ed0c93e89e1/842812133862.jpg/600x600bb.jpg",
+      snippet: "/songs/rap/internet_money_gunna_don_toliver_lemonade_feat_nav.mp3",
+      categories: ["rap"],
+      dailyCategory: "Rap",
+    },
+  ],
 };
 
 const LEVELS = [
