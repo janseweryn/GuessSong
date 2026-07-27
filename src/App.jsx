@@ -3905,6 +3905,32 @@ const manualDaily = {
       dailyCategory: "Rap",
     },
   ],
+  "2026-07-28": [
+     {
+      title: "Friends",
+      artist: "Marshmello & Anne-Marie",
+      cover: "https://is1-ssl.mzstatic.com/image/thumb/Music125/v4/43/4d/a2/434da25b-fa20-9454-96c7-c23f236f3876/0.jpg/600x600bb.jpg",
+      snippet: "/songs/pop/ssstas_marshmello_anne_marie_friends_remix.mp3",
+      categories: ["pop"],
+      dailyCategory: "Pop",
+    },
+     {
+      title: "Hoppípolla",
+      artist: "Sigur Rós",
+      cover: "https://is1-ssl.mzstatic.com/image/thumb/Music114/v4/ce/3e/b8/ce3eb805-fb13-0200-5856-081ed0014e13/190296926952.jpg/600x600bb.jpg",
+      snippet: "/songs/rock/sigur_ros_hopp_polla.mp3",
+      categories: ["rock"],
+      dailyCategory: "Rock",
+    },
+   {
+      title: "Money Trees (feat. Jay Rock)",
+      artist: "Kendrick Lamar",
+      cover: "/songs/covers/gkmd.jpg",
+      snippet: "/songs/rap/money_trees.mp3",
+      categories: ["rap"],
+      dailyCategory: "Rap",
+    },
+  ],
 };
 
 const LEVELS = [
