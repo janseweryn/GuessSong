@@ -3931,6 +3931,32 @@ const manualDaily = {
       dailyCategory: "Rap",
     },
   ],
+  "2026-07-29": [
+     {
+      title: "Genie in a Bottle",
+      artist: "Christina Aguilera",
+      cover: "https://is1-ssl.mzstatic.com/image/thumb/Music125/v4/6b/25/9b/6b259bc3-3e53-4339-80b0-5b50131c8901/888880771674.jpg/600x600bb.jpg",
+      snippet: "/songs/pop/christina_aguilera_genie_in_a_bottle.mp3",
+      categories: ["pop"],
+      dailyCategory: "Pop",
+    },
+     {
+      title: "The Show Must Go On",
+      artist: "Queen", 
+      cover: "/songs/covers/innuendo.jpg",
+      snippet: "/songs/rock/show_must_go.mp3",
+      categories: ["rock"],
+      dailyCategory: "Rock",
+    },
+   {
+      title: "So Fresh, So Clean",
+      artist: "Outkast",
+      cover: "https://is1-ssl.mzstatic.com/image/thumb/Music114/v4/d6/21/fb/d621fbde-c099-6794-7102-2692f10c4dbb/886448814283.jpg/600x600bb.jpg",
+      snippet: "/songs/rap/outkast_so_fresh_so_clean_radio_mix.mp3",
+      categories: ["rap"],
+      dailyCategory: "Rap",
+    },
+  ],
 };
 
 const LEVELS = [
