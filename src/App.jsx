@@ -3957,6 +3957,32 @@ const manualDaily = {
       dailyCategory: "Rap",
     },
   ],
+   "2026-07-30": [
+     {
+      title: "stupid song",
+      artist: "Olivia Rodrigo",
+      cover:  "/songs/covers/Olivia_Rodrigo_-_You_Seem_Pretty_Sad_for_a_Girl_So_in_Love.jpg",
+      snippet: "/songs/pop/stupid_song_olivka.mp3",
+      categories: ["pop"],
+      dailyCategory: "Pop",
+    },
+     {
+      title: "Land of Confusion",
+      artist: "Genesis",
+      cover: "https://is1-ssl.mzstatic.com/image/thumb/Music115/v4/6c/44/66/6c446642-e67c-b19f-e8cb-e084eb549056/mzi.tbamlbgz.jpg/600x600bb.jpg",
+      snippet: "/songs/rock/genesis_land_of_confusion_2007_remaster.mp3",
+      categories: ["rock"],
+      dailyCategory: "Rock",
+    },
+   {
+      title: "It's Tricky",
+      artist: "Run-DMC",
+      cover: "https://is1-ssl.mzstatic.com/image/thumb/Music115/v4/00/3f/21/003f21c0-6bc3-dbed-7081-04ffaf172016/078221640824.jpg/600x600bb.jpg",
+      snippet: "/songs/rap/run_dmc_it_s_tricky.mp3",
+      categories: ["rap"],
+      dailyCategory: "Rap",
+    },
+  ],
 };
 
 const LEVELS = [
