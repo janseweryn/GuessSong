@@ -3983,6 +3983,32 @@ const manualDaily = {
       dailyCategory: "Rap",
     },
   ],
+   "2026-07-31": [
+     {
+      title: "One Last Time",
+      artist: "Ariana Grande",
+      cover:  "/songs/covers/everything.jpg",
+      snippet: "/songs/pop/one_last_time.mp3",
+      categories: ["pop"],
+      dailyCategory: "Pop",
+    },
+     {
+      title: "Nutshell",
+      artist: "Alice In Chains",
+      cover:  "https://is1-ssl.mzstatic.com/image/thumb/Music126/v4/bd/d6/37/bdd6373e-dc26-e86e-1d31-9bb1f7656968/5099747485527.jpg/600x600bb.jpg",
+      snippet: "/songs/rock/alice_in_chains_nutshell.mp3",
+      categories: ["rock"],
+      dailyCategory: "Rock",
+    },
+   {
+      title: "Fancy (feat. Charli XCX)",
+      artist: "Iggy Azalea",
+      cover: "https://is1-ssl.mzstatic.com/image/thumb/Music112/v4/32/64/0d/32640dc0-879a-2771-cfe7-91ea4568436a/14UMGIM08058.rgb.jpg/600x600bb.jpg",
+      snippet: "/songs/rap/iggy_azalea_fancy_feat_charli_xcx.mp3",
+      categories: ["rap"],
+      dailyCategory: "Rap",
+    },
+  ],
 };
 
 const LEVELS = [
