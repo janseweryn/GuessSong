@@ -4035,6 +4035,32 @@ const manualDaily = {
       dailyCategory: "Rap",
     },
   ],
+  "2026-08-02": [
+     {
+      title: "Photograph",
+      artist: "Ed Sheeran",
+      cover:  "https://is1-ssl.mzstatic.com/image/thumb/Music125/v4/2d/36/f9/2d36f9a7-2c3e-ce0f-7fb6-036feecb221f/825646974450.jpg/600x600bb.jpg",
+      snippet: "/songs/pop/ed_sheeran_photograph.mp3",
+      categories: ["pop"],
+      dailyCategory: "Pop",
+    },
+     {
+      title: "Rock & Roll Queen (Radio Edit)",
+      artist: "The Subways",
+      cover:  "https://is1-ssl.mzstatic.com/image/thumb/Music124/v4/77/1e/bb/771ebbef-8154-0099-6f75-798671d54961/4050538595840.jpg/600x600bb.jpg",
+      snippet: "/songs/rock/the_subways_rock_roll_queen_radio_edit.mp3",
+      categories: ["rock"],
+      dailyCategory: "Rock",
+    },
+   {
+      title: "What's Your Number? (feat. Tim Armstrong)",
+      artist: "Cypress Hill",
+      cover: "https://is1-ssl.mzstatic.com/image/thumb/Music211/v4/c1/3e/50/c13e5023-a4d9-7df5-8ed9-4ce6f0dafbf5/886444729420.jpg/600x600bb.jpg",
+      snippet: "/songs/rap/cypress_hill_what_s_your_number_feat_tim_armstrong.mp3",
+      categories: ["rap"],
+      dailyCategory: "Rap",
+    },
+  ],
 };
 
 const LEVELS = [

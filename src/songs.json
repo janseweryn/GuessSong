@@ -6123,7 +6123,7 @@
     "cover": "https://is1-ssl.mzstatic.com/image/thumb/Music115/v4/6c/44/66/6c446642-e67c-b19f-e8cb-e084eb549056/mzi.tbamlbgz.jpg/600x600bb.jpg"
   },
   {
-    "title": "Land of Confusion (2007 Remaster)",
+    "title": "Land of Confusion",
     "artist": "Genesis",
     "categories": ["Rock", "Rock 80s"],
     "snippet": "/songs/rock/genesis_land_of_confusion_2007_remaster.mp3",
@@ -15287,6 +15287,20 @@
     "categories": ["Rock", "Rock 60s"],
     "snippet": "/songs/rock/the_beatles_yellow_submarine.mp3",
     "cover": "https://is1-ssl.mzstatic.com/image/thumb/Music124/v4/b1/94/f3/b194f3c3-3bcf-62f6-a795-093a3d3c0407/00602567725640.rgb.jpg/600x600bb.jpg"
+  },
+  {
+    "title": "Rock & Roll Queen (Radio Edit)",
+    "artist": "The Subways",
+    "categories": ["Rock", "Rock 00s"],
+    "snippet": "/songs/rock/the_subways_rock_roll_queen_radio_edit.mp3",
+    "cover": "https://is1-ssl.mzstatic.com/image/thumb/Music124/v4/77/1e/bb/771ebbef-8154-0099-6f75-798671d54961/4050538595840.jpg/600x600bb.jpg"
+  },
+  {
+    "title": "What's Your Number? (feat. Tim Armstrong)",
+    "artist": "Cypress Hill",
+    "categories": ["Rap", "Rap 00s"],
+    "snippet": "/songs/rap/cypress_hill_what_s_your_number_feat_tim_armstrong.mp3",
+    "cover": "https://is1-ssl.mzstatic.com/image/thumb/Music211/v4/c1/3e/50/c13e5023-a4d9-7df5-8ed9-4ce6f0dafbf5/886444729420.jpg/600x600bb.jpg"
   }
 ]
 
