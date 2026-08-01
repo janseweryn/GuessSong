@@ -4009,6 +4009,32 @@ const manualDaily = {
       dailyCategory: "Rap",
     },
   ],
+   "2026-08-01": [
+     {
+      title: "LIKE THAT",
+      artist: "BABYMONSTER",
+      cover:  "https://is1-ssl.mzstatic.com/image/thumb/Music221/v4/fb/68/85/fb68856f-4965-5d30-78ea-fe6bb261f4ff/3000px.jpg/600x600bb.jpg",
+      snippet: "/songs/pop/babymonster_like_that.mp3",
+      categories: ["pop"],
+      dailyCategory: "Pop",
+    },
+     {
+      title: "The Middle",
+      artist: "Jimmy Eat World",
+      cover:  "https://is1-ssl.mzstatic.com/image/thumb/Music122/v4/00/5a/5f/005a5f5a-5e6a-8e41-fc71-009bf75e6e72/842108089668.jpg/600x600bb.jpg",
+      snippet: "/songs/rock/jimmy_eat_world_the_middle_live.mp3",
+      categories: ["rock"],
+      dailyCategory: "Rock",
+    },
+   {
+      title: "X Gon' Give It to Ya",
+      artist: "DMX",
+      cover: "https://is1-ssl.mzstatic.com/image/thumb/Music112/v4/7f/03/95/7f039588-d333-8dcb-cfe3-85d4646047e3/07UMGIM08038.rgb.jpg/600x600bb.jpg",
+      snippet: "/songs/rap/dmx_x_gon_give_it_to_ya.mp3",
+      categories: ["rap"],
+      dailyCategory: "Rap",
+    },
+  ],
 };
 
 const LEVELS = [
