@@ -771,5 +771,12 @@
        "categories": ["Polskie Rap", "Polskie Rap 20s"],
       "snippet":  "/songs/Polskie/OKI_JEREMYSOCHAN.mp3",
        "cover": "a"
-    }
+    },
+     {
+    "title": "I Love You",
+    "artist": "Fontaines D.C.",
+    "categories": ["Rap", "Rap 00s"],
+    "snippet": "/songs/rap/dru_hill_i_love_you.mp3",
+    "cover": "https://is1-ssl.mzstatic.com/image/thumb/Music113/v4/4c/7e/1b/4c7e1be2-0274-1aab-cb99-63e06a89586a/06UMGIM14172.rgb.jpg/600x600bb.jpg"
+  }
 ]
