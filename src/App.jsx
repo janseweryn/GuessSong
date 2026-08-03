@@ -4087,6 +4087,32 @@ const manualDaily = {
       dailyCategory: "Rap",
     },
   ],
+  "2026-08-04": [
+     {
+      title: "Save Your Tears",
+      artist: "The Weeknd",
+      cover:   "/songs/covers/afterhours.jpg",
+      snippet: "/songs/pop/save_tears.mp3",
+      categories: ["pop"],
+      dailyCategory: "Pop",
+    },
+     {
+      title: "Walking On Sunshine",
+      artist: "Katrina and the Waves",
+      cover:  "https://is1-ssl.mzstatic.com/image/thumb/Music124/v4/f6/b6/37/f6b6378c-9b34-72fb-9abe-4a6d6042ad53/13ULAIM49571.rgb.jpg/600x600bb.jpg",
+      snippet: "/songs/pop/katrina_and_the_waves_walking_on_sunshine.mp3",
+      categories: ["rock"],
+      dailyCategory: "Rock",
+    },
+   {
+      title: "Wake Up in the Sky",
+      artist: "Gucci Mane, Bruno Mars & Kodak Black",
+      cover: "https://is1-ssl.mzstatic.com/image/thumb/Music118/v4/79/25/9a/79259a8e-b09e-cf09-e2d2-1159956cf303/075679856241.jpg/600x600bb.jpg",
+      snippet: "/songs/rap/gucci_mane_bruno_mars_kodak_black_wake_up_in_the_sky.mp3",
+      categories: ["rap"],
+      dailyCategory: "Rap",
+    },
+  ],
 };
 
 const LEVELS = [
