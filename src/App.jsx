@@ -4139,6 +4139,32 @@ const manualDaily = {
       dailyCategory: "Rap",
     },
   ],
+  "2026-08-06": [
+    {
+      title: "Sports Car",
+      artist: "Tate McRae",
+      cover: "/songs/covers/so_close_to_what.jpg",
+      snippet: "/songs/pop/sports_car.mp3",
+      categories: ["pop"],
+      dailyCategory: "Pop",
+    },
+    {
+      title: "Wicked Game",
+      artist: "Chris Isaak",
+      cover: "https://is1-ssl.mzstatic.com/image/thumb/Music125/v4/d0/34/9b/d0349b33-35fb-8913-8755-08b6a1bdd382/21UMGIM47740.rgb.jpg/600x600bb.jpg",
+      snippet: "/songs/rock/chris_isaak_wicked_game.mp3",
+      categories: ["rock"],
+      dailyCategory: "Rock",
+    },
+    {
+      title: "Fight The Power",
+      artist: "Public Enemy",
+      cover: "/songs/covers/blackplanet.jpg",
+      snippet: "/songs/rap/fight_power.mp3",
+      categories: ["rap"],
+      dailyCategory: "Rap", 
+    },
+  ],
 };
 
 const LEVELS = [
