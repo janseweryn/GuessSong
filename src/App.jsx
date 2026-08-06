@@ -4165,6 +4165,32 @@ const manualDaily = {
       dailyCategory: "Rap", 
     },
   ],
+  "2026-08-07": [
+    {
+      title: "Upside Down",
+      artist: "Diana Ross",
+      cover: "https://is1-ssl.mzstatic.com/image/thumb/Music124/v4/4b/68/94/4b68944b-e875-5729-e97f-c781fc9e0c1e/06UMGIM11291.rgb.jpg/600x600bb.jpg",
+      snippet: "/songs/pop/diana_ross_upside_down.mp3",
+      categories: ["pop"],
+      dailyCategory: "Pop",
+    },
+    {
+      title: "I'm Gonna Be (500 Miles)",
+      artist: "The Proclaimers",
+      cover: "https://is1-ssl.mzstatic.com/image/thumb/Music125/v4/13/96/50/139650ee-571d-a428-9ea4-ca6cf2d0bbbd/094638392057.jpg/600x600bb.jpg",
+      snippet: "/songs/rock/the_proclaimers_i_m_gonna_be_500_miles.mp3",
+      categories: ["rock"],
+      dailyCategory: "Rock",
+    },
+     {
+      title: "Smack That (feat. Eminem)",
+      artist: "Akon featuring Eminem",
+      cover: "https://is1-ssl.mzstatic.com/image/thumb/Music221/v4/b7/88/33/b78833e4-30eb-739b-d5de-09d2d7db84b3/06UMGIM19420.rgb.jpg/600x600bb.jpg",
+      snippet: "/songs/rap/akon_featuring_eminem_smack_that_feat_eminem.mp3",
+      categories: ["rap"],
+      dailyCategory: "Rap",
+    },
+  ],
 };
 
 const LEVELS = [
