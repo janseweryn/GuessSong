@@ -4191,6 +4191,32 @@ const manualDaily = {
       dailyCategory: "Rap",
     },
   ],
+  "2026-08-08": [
+    {
+      title: "Stronger (What Doesn't Kill You)",
+      artist: "Kelly Clarkson",
+      cover: "https://is1-ssl.mzstatic.com/image/thumb/Music/68/81/4f/mzi.wrtaopaz.jpg/600x600bb.jpg",
+      snippet: "/songs/pop/kelly_clarkson_stronger_what_doesn_t_kill_you.mp3",
+      categories: ["pop"],
+      dailyCategory: "Pop",
+    },
+    {
+      title: "Everybody Wants to Rule the World",
+      artist: "Tears for Fears",
+      cover: "/songs/covers/bigchair.jpg",
+      snippet: "/songs/rock/rule_world.mp3",
+      categories: ["rock"],
+      dailyCategory: "Rock",
+    },
+     {
+      title: "Boombayah",
+      artist: "Blackpink",
+      cover: "/songs/covers/square1.jpg",
+      snippet: "/songs/pop/boombayah.mp3",
+      categories: ["rap"],
+      dailyCategory: "Rap",
+    },
+  ],
 };
 
 const LEVELS = [
