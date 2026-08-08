@@ -4217,6 +4217,58 @@ const manualDaily = {
       dailyCategory: "Rap",
     },
   ],
+  "2026-08-09": [
+      {
+      title: "Lover Girl",
+      artist: "Laufey",
+      cover: "/songs/covers/mattertime.jpg",
+      snippet: "/songs/pop/lover_girl.mp3",
+      categories: ["pop"],
+      dailyCategory: "Pop",
+    },
+    {
+      title: "Linger",
+      artist: "The Cranberries",
+      cover: "/songs/covers/everybodyelse.jpg",
+      snippet: "/songs/rock/linger.mp3",
+      categories: ["rock"],
+      dailyCategory: "Rock",
+    },
+      {
+      title: "Ridin' (feat. Krayzie Bone)",
+      artist: "Chamillionaire",
+      cover: "/songs/covers/soundrevenge.jpg",
+      snippet: "/songs/rap/ridin.mp3",
+      categories: ["rap"],
+      dailyCategory: "Rap", 
+    },
+  ],
+   "2026-08-10": [
+    {
+      title: "Tom's Diner (7\" A)",
+      artist: "Suzanne Vega & DNA",
+      cover: "https://is1-ssl.mzstatic.com/image/thumb/Music114/v4/df/a9/8c/dfa98c94-bbe5-99fb-e4e6-782c300823e8/00075021536326.rgb.jpg/600x600bb.jpg",
+      snippet: "/songs/rock/suzanne_vega_dna_tom_s_diner_7_a.mp3",
+      categories: ["pop"],
+      dailyCategory: "Pop",
+    },
+    {
+      title: "Still Loving You",
+      artist: "Scorpions",
+      cover: "https://is1-ssl.mzstatic.com/image/thumb/Music124/v4/8d/a4/f9/8da4f95f-4162-9d31-7131-fe49337a1689/00731453478626.rgb.jpg/600x600bb.jpg",
+      snippet: "/songs/rock/scorpions_no_one_like_you.mp3",
+      categories: ["rock"],
+      dailyCategory: "Rock",
+    },
+      {
+      title: "Subway Sexists",
+      artist: "Yung Spinach Cumshot",
+      cover: "/songs/covers/szpinak.jpg",
+      snippet: "/songs/rap/Subway_Sexists.mp3",
+      categories: ["rap"],
+      dailyCategory: "Rap",
+    },
+  ],
 };
 
 const LEVELS = [
