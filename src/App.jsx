@@ -4295,6 +4295,32 @@ const manualDaily = {
       dailyCategory: "Rap",
     },
   ],
+  "2026-08-12": [
+      {
+      title: "Material Girl",
+      artist: "Madonna",
+      cover: "/songs/covers/likevirgin.jpg",
+      snippet: "/songs/pop/material_girl.mp3",
+      categories: ["pop"],
+      dailyCategory: "Pop",
+    },
+    {
+      title: "September",
+      artist: "Earth, Wind & Fire",
+      cover: "https://is1-ssl.mzstatic.com/image/thumb/Music124/v4/ab/31/40/ab314083-718f-b292-2c3e-982c166257e0/mzi.ioethdgk.jpg/600x600bb.jpg",
+      snippet: "/songs/rock/earth_wind_fire_september_live.mp3",
+      categories: ["rock"],
+      dailyCategory: "Rock",
+    },
+    {
+      title: "Gucci Gang",
+      artist: "Lil Pump",
+      cover: "/songs/covers/pump.jpg",
+      snippet: "/songs/rap/gucci_gang.mp3",
+      categories: ["rap"],
+      dailyCategory: "Rap", 
+    },
+  ],
 };
 
 const LEVELS = [
