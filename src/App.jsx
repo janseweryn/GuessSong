@@ -4321,6 +4321,32 @@ const manualDaily = {
       dailyCategory: "Rap", 
     },
   ],
+   "2026-08-13": [
+      {
+      title: "Set Fire to the Rain",
+      artist: "Adele",
+      cover: "https://is1-ssl.mzstatic.com/image/thumb/Music116/v4/d8/e3/f9/d8e3f9ea-d6fe-9a1b-9f13-109983d3062e/191404113868.png/600x600bb.jpg",
+      snippet: "/songs/pop/adele_set_fire_to_the_rain.mp3",
+      categories: ["pop"],
+      dailyCategory: "Pop",
+    },
+    {
+      title: "This Must Be the Place (Naive Melody)",
+      artist: "Talking Heads",
+      cover: "https://is1-ssl.mzstatic.com/image/thumb/Music/y2004/m08/d17/h21/s06.xwrnkppg.jpg/600x600bb.jpg",
+      snippet: "/songs/rock/talking_heads_this_must_be_the_place_naive_melody.mp3",
+      categories: ["rock"],
+      dailyCategory: "Rock",
+    },
+    {
+      title: "Just a Lil Bit",
+      artist: "50 Cent",
+      cover: "https://is1-ssl.mzstatic.com/image/thumb/Music116/v4/df/10/7c/df107c5d-0a02-8122-f554-7da8b746ef9c/4ad62e53-745e-4db3-94d5-1f7ee80e8bb9.png/600x600bb.jpg",
+      snippet:  "/songs/rap/50_cent_just_a_lil_bit_mixed.mp3",
+      categories: ["rap"],
+      dailyCategory: "Rap",
+    },
+  ],
 };
 
 const LEVELS = [
