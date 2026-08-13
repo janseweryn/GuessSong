@@ -4347,6 +4347,32 @@ const manualDaily = {
       dailyCategory: "Rap",
     },
   ],
+  "2026-08-14": [
+      {
+      title: "Perfect Places",
+      artist:  "Lorde",
+      cover:  "/songs/covers/melodrama.jpg",
+      snippet: "/songs/pop/perfect_places.mp3",
+      categories: ["pop"],
+      dailyCategory: "Pop",
+    },
+    {
+      title: "Dirty Harry",
+      artist: "Gorillaz",  
+      cover: "/songs/covers/demon.jpg",
+      snippet: "/songs/rock/dirty_harry.mp3",
+      categories: ["rock"],
+      dailyCategory: "Rock",
+    },
+   {
+      title: "Bandyta",
+      artist: "Sobel",
+      cover: "/songs/covers/motyle.jpg",
+      snippet:  "/songs/Polskie/Sobel_Bandyta.mp3",
+      categories: ["rap"],
+      dailyCategory: "Rap",
+    },
+  ],
 };
 
 const LEVELS = [
