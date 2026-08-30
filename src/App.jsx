@@ -4789,6 +4789,32 @@ const manualDaily = {
       dailyCategory: "Rap",
     },
   ],
+  "2026-08-31": [
+      {
+      title: "Back To Black",
+      artist: "Amy Winehouse",
+      cover: "https://is1-ssl.mzstatic.com/image/thumb/Music128/v4/cd/6c/11/cd6c11b3-6300-0a29-d211-855847ed2c8c/00602547505040.rgb.jpg/600x600bb.jpg",
+      snippet: "/songs/pop/amy_winehouse_back_to_black_original_demo.mp3",
+      categories: ["pop"],
+      dailyCategory: "Pop",
+    },
+    {
+      title: "Welcome Home (Sanitariun)",
+      artist: "Metallica",
+      cover:"/songs/covers/puppets.jpg",
+      snippet: "/songs/pop/elevation_rhythm_seu_worship_welcome_home.mp3",
+      categories: ["rock"],
+      dailyCategory: "Rock",
+    },
+    {
+      title: "Homecoming (feat. Chris Martin)",
+      artist: "Kanye West", 
+      cover: "/songs/covers/graduation.jpg",
+      snippet: "/songs/rap/homecoming.mp3",
+      categories: ["rap"],
+      dailyCategory: "Rap",
+    },
+  ],
 };
 
 const LEVELS = [
