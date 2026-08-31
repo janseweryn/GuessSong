@@ -4815,6 +4815,32 @@ const manualDaily = {
       dailyCategory: "Rap",
     },
   ],
+  "2026-09-01": [
+      {
+      title: "Dai Dai",
+      artist: "Shakira & Burna Boy",
+      cover: "https://is1-ssl.mzstatic.com/image/thumb/Music221/v4/61/49/8d/61498ded-f0dc-227d-cd1d-2051b5d9f195/196874328590.jpg/600x600bb.jpg",
+      snippet: "/songs/pop/shakira_burna_boy_dai_dai.mp3",
+      categories: ["pop"],
+      dailyCategory: "Pop",
+    },
+    {
+      title: "Tears In Heaven",
+      artist: "Eric Clapton",
+      cover: "https://is1-ssl.mzstatic.com/image/thumb/Music122/v4/52/8b/d8/528bd887-f2c7-3e59-a100-b517e064d908/603497909032.jpg/600x600bb.jpg",
+      snippet: "/songs/rock/eric_clapton_tears_in_heaven_acoustic_live.mp3",
+      categories: ["rock"],
+      dailyCategory: "Rock",
+    },
+    {
+      title: "Heartbeat",
+      artist: "Childish Gambino",
+      cover: "https://is1-ssl.mzstatic.com/image/thumb/Music221/v4/8f/23/b8/8f23b822-dd02-573a-60d7-b20226819fd1/0892038002411_Cover.jpg/600x600bb.jpg",
+      snippet: "/songs/rap/childish_gambino_heartbeat.mp3",
+      categories: ["rap"],
+      dailyCategory: "Rap",
+    },
+  ],
 };
 
 const LEVELS = [

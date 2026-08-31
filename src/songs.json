@@ -15308,6 +15308,20 @@
     "categories": ["Rap", "Rap 00s"],
     "snippet": "/songs/rap/dru_hill_i_love_you.mp3",
     "cover": "https://is1-ssl.mzstatic.com/image/thumb/Music113/v4/4c/7e/1b/4c7e1be2-0274-1aab-cb99-63e06a89586a/06UMGIM14172.rgb.jpg/600x600bb.jpg"
+  },
+   {
+    "title": "Heartbeat",
+    "artist": "Childish Gambino",
+    "categories": ["Rap", "Rap 10s"],
+    "snippet": "/songs/rap/childish_gambino_heartbeat.mp3",
+    "cover": "https://is1-ssl.mzstatic.com/image/thumb/Music221/v4/8f/23/b8/8f23b822-dd02-573a-60d7-b20226819fd1/0892038002411_Cover.jpg/600x600bb.jpg"
+  },
+  {
+    "title": "Dai Dai",
+    "artist": "Shakira & Burna Boy",
+    "categories": ["Pop", "Pop 20s"],
+    "snippet": "/songs/pop/shakira_burna_boy_dai_dai.mp3",
+    "cover": "https://is1-ssl.mzstatic.com/image/thumb/Music221/v4/61/49/8d/61498ded-f0dc-227d-cd1d-2051b5d9f195/196874328590.jpg/600x600bb.jpg"
   }
 ]
 
