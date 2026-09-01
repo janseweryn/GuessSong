@@ -4841,6 +4841,32 @@ const manualDaily = {
       dailyCategory: "Rap",
     },
   ],
+   "2026-09-02": [
+      {
+      title: "Jolene",
+      artist: "Dolly Parton",
+      cover: "https://is1-ssl.mzstatic.com/image/thumb/Music124/v4/0b/f8/1e/0bf81e88-de6e-aba3-9fd4-e7407bfbcc31/886445438048.jpg/600x600bb.jpg",
+      snippet: "/songs/pop/dolly_parton_jolene.mp3",
+      categories: ["pop"],
+      dailyCategory: "Pop",
+    },
+    {
+      title: "Alone",
+      artist: "Heart",
+      cover: "https://is1-ssl.mzstatic.com/image/thumb/Music125/v4/2b/d4/d5/2bd4d595-6839-5d35-a601-a74045f1f7b1/00724352680351.rgb.jpg/600x600bb.jpg",
+      snippet: "/songs/rock/heart_alone.mp3",
+      categories: ["rock"],
+      dailyCategory: "Rock",
+    },
+    {
+      title: "Push It",
+      artist: "Salt-N-Pepa",
+      cover: "https://is1-ssl.mzstatic.com/image/thumb/Music/v4/71/14/f9/7114f9b5-630e-a488-8199-31658b70d1df/888003320291.jpg/600x600bb.jpg",
+      snippet: "/songs/pop/salt_n_pepa_push_it_re_recorded_remastered.mp3",
+      categories: ["rap"],
+      dailyCategory: "Rap",
+    },
+  ],
 };
 
 const LEVELS = [
