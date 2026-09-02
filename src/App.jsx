@@ -4867,6 +4867,32 @@ const manualDaily = {
       dailyCategory: "Rap",
     },
   ],
+  "2026-09-03": [
+      {
+      title: "Skyfall",
+      artist: "Adele",
+      cover: "https://is1-ssl.mzstatic.com/image/thumb/Music125/v4/b3/fe/cf/b3fecf76-0359-8e14-0651-4b101fc68a3f/886443673632.jpg/600x600bb.jpg",
+      snippet: "/songs/pop/adele_skyfall.mp3",
+      categories: ["pop"],
+      dailyCategory: "Pop",
+    },
+    {
+      title: "A Little Piece of Heaven",
+      artist: "Avenged Sevenfold",
+      cover: "https://is1-ssl.mzstatic.com/image/thumb/Music125/v4/c4/21/00/c42100f9-f329-aad4-7535-9055429efc3f/mzi.tbskuyey.jpg/600x600bb.jpg",
+      snippet: "/songs/rock/avenged_sevenfold_a_little_piece_of_heaven.mp3",
+      categories: ["rock"],
+      dailyCategory: "Rock",
+    },
+    {
+      title: "Seven",
+      artist: "Jung Kook & Latto",
+      cover: "https://is1-ssl.mzstatic.com/image/thumb/Music126/v4/a5/a6/56/a5a6561a-f570-2fb1-5a3a-95b150c18f18/196922550928_Cover.jpg/600x600bb.jpg",
+      snippet: "/songs/pop/jung_kook_latto_seven.mp3",
+      categories: ["rap"],
+      dailyCategory: "Rap",
+    },
+  ],
 };
 
 const LEVELS = [
