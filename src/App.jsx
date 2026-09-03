@@ -4893,6 +4893,32 @@ const manualDaily = {
       dailyCategory: "Rap",
     },
   ],
+  "2026-09-04": [
+      {
+      title: "Gabriela",
+      artist: "KATSEYE",
+      cover: "https://is1-ssl.mzstatic.com/image/thumb/Music211/v4/ad/92/ca/ad92ca90-90f5-eb46-7a56-e7b6b88584f7/25UMGIM37394.rgb.jpg/600x600bb.jpg",
+      snippet: "/songs/pop/katseye_gabriela.mp3",
+      categories: ["pop"],
+      dailyCategory: "Pop",
+    },
+    {
+      title: "Run To The Hills",
+      artist: "Iron Maiden",
+      cover: "/songs/covers/numberbeast.jpg",
+      snippet: "/songs/rock/run_hills.mp3",
+      categories: ["rock"],
+      dailyCategory: "Rock",
+    },
+    {
+      title: "Lalisa",
+      artist: "Lisa",
+      cover: "/songs/covers/lisa.jpg",
+      snippet: "/songs/pop/lalisa.mp3",
+      categories: ["rap"],
+      dailyCategory: "Rap",
+    },
+  ],
 };
 
 const LEVELS = [
