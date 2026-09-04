@@ -4919,6 +4919,32 @@ const manualDaily = {
       dailyCategory: "Rap",
     },
   ],
+  "2026-09-05": [
+      {
+      title: "Galway Girl",
+      artist: "Ed Sheeran",
+      cover: "https://is1-ssl.mzstatic.com/image/thumb/Music115/v4/15/e6/e8/15e6e8a4-4190-6a8b-86c3-ab4a51b88288/190295851286.jpg/600x600bb.jpg",
+      snippet: "/songs/pop/ed_sheeran_galway_girl.mp3",
+      categories: ["pop"],
+      dailyCategory: "Pop",
+    },
+    {
+      title: "Going To California",
+      artist: "Led Zeppelin",
+      cover: "/songs/covers/zeppelin4.jpg",
+      snippet: "/songs/rock/going_california.mp3",
+      categories: ["rock"],
+      dailyCategory: "Rock",
+    },
+    {
+      title: "N.Y. State of Mind",
+      artist: "Nas",
+      cover: "https://is1-ssl.mzstatic.com/image/thumb/Music125/v4/b9/eb/cc/b9ebccbc-5ba4-2cdb-5332-b065739abd9a/886444567619.jpg/600x600bb.jpg",
+      snippet: "/songs/rap/nas_n_y_state_of_mind.mp3",
+      categories: ["rap"],
+      dailyCategory: "Rap",
+    },
+  ],
 };
 
 const LEVELS = [
