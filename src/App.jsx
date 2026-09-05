@@ -4945,6 +4945,32 @@ const manualDaily = {
       dailyCategory: "Rap",
     },
   ],
+  "2026-09-06": [
+      {
+      title: "What About Us",
+      artist: "P!nk",
+      cover: "https://is1-ssl.mzstatic.com/image/thumb/Music115/v4/74/2e/ed/742eed1b-4dbf-f913-1458-2fffbd7d5ded/886446684499.jpg/600x600bb.jpg",
+      snippet: "/songs/pop/p_nk_what_about_us.mp3",
+      categories: ["pop"],
+      dailyCategory: "Pop",
+    },
+    {
+      title: "Gyöngyhajú lány",
+      artist: "Omega",
+      cover: "https://is1-ssl.mzstatic.com/image/thumb/Music125/v4/7d/a9/a5/7da9a5c5-06e2-98a6-2785-6528d60db086/mzi.odaxxecp.jpg/600x600bb.jpg",
+      snippet: "/songs/rock/omega_gy_ngyhaj_l_ny.mp3",
+      categories: ["rock"],
+      dailyCategory: "Rock",
+    },
+    {
+      title: "Roll Up",
+      artist: "Wiz Khalifa",
+      cover: "https://is1-ssl.mzstatic.com/image/thumb/Music114/v4/f9/94/a5/f994a581-9a92-93b8-545c-bff0cfc8bb21/mzi.aaflurfx.jpg/600x600bb.jpg",
+      snippet: "/songs/rap/wiz_khalifa_roll_up.mp3",
+      categories: ["rap"],
+      dailyCategory: "Rap",
+    },
+  ],
 };
 
 const LEVELS = [
