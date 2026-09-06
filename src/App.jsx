@@ -4971,6 +4971,32 @@ const manualDaily = {
       dailyCategory: "Rap",
     },
   ],
+  "2026-09-07": [
+      {
+      title: "Dusk Till Dawn (feat. Sia)",
+      artist: "ZAYN",
+      cover: "https://is1-ssl.mzstatic.com/image/thumb/Music124/v4/9d/25/4c/9d254c6f-1af8-c3e2-ff1a-f30ca2dbe45b/886446731896.jpg/600x600bb.jpg",
+      snippet: "/songs/pop/zayn_dusk_till_dawn_feat_sia.mp3",
+      categories: ["pop"],
+      dailyCategory: "Pop",
+    },
+    {
+      title: "Don't Speak",
+      artist: "No Doubt",
+      cover: "https://is1-ssl.mzstatic.com/image/thumb/Music115/v4/fe/0a/68/fe0a687a-537e-e902-0778-90465c118f77/00602547870575.rgb.jpg/600x600bb.jpg",
+      snippet: "/songs/pop/no_doubt_don_t_speak.mp3",
+      categories: ["rock"],
+      dailyCategory: "Rock",
+    },
+    {
+      title: "Helicopter",
+      artist: "A$AP Rocky",
+      cover: "/songs/covers/dontdumb.jpg",
+      snippet: "/songs/rap/goodie_mob_cell_therapy.mp3",
+      categories: ["rap"],
+      dailyCategory: "Rap",
+    },
+  ],
 };
 
 const LEVELS = [
