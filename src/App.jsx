@@ -4997,6 +4997,32 @@ const manualDaily = {
       dailyCategory: "Rap",
     },
   ],
+    "2026-09-08": [
+      {
+      title: "Fairytale",
+      artist: "Alexander Rybak",
+      cover: "https://is1-ssl.mzstatic.com/image/thumb/Music124/v4/d4/62/20/d4622093-950c-530e-3876-56beb320cddf/cover.jpg/600x600bb.jpg",
+      snippet: "/songs/pop/alexander_rybak_fairytale.mp3",
+      categories: ["pop"],
+      dailyCategory: "Pop",
+    },
+    {
+      title: "Helena",
+      artist: "My Chemical Romance",
+      cover: "https://is1-ssl.mzstatic.com/image/thumb/Music115/v4/42/58/f7/4258f7bb-eb5b-62b8-573d-6200df0fe3e1/093624917731.jpg/600x600bb.jpg",
+      snippet: "/songs/rock/my_chemical_romance_helena.mp3",
+      categories: ["rock"],
+      dailyCategory: "Rock",
+    },
+    {
+      title: "Congratulations (feat. Quavo)",
+      artist: "Post Malone",
+      cover: "https://is1-ssl.mzstatic.com/image/thumb/Music126/v4/31/57/de/3157dec9-5e26-40d1-d61c-bce30558752d/16UMGIM76041.rgb.jpg/600x600bb.jpg",
+      snippet: "/songs/rap/post_malone_congratulations_feat_quavo.mp3",
+      categories: ["rap"],
+      dailyCategory: "Rap",
+    },
+  ],
 };
 
 const LEVELS = [
