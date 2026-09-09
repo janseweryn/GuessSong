@@ -5023,6 +5023,32 @@ const manualDaily = {
       dailyCategory: "Rap",
     },
   ],
+  "2026-09-09": [
+      {
+      title: "Apologize (feat. OneRepublic)",
+      artist: "Timbaland",
+      cover: "https://is1-ssl.mzstatic.com/image/thumb/Music221/v4/a4/95/c0/a495c0cf-6e6a-7af5-308d-1cf8c9931fd6/07UMGIM03315.rgb.jpg/600x600bb.jpg",
+      snippet: "/songs/rap/timbaland_apologize_feat_onerepublic.mp3",
+      categories: ["pop"],
+      dailyCategory: "Pop",
+    },
+     {
+      title: "Intro",
+      artist: "The xx",
+      cover: "https://is1-ssl.mzstatic.com/image/thumb/Music221/v4/28/44/8e/28448e14-19be-438b-bc9b-8c1d3f68f578/609008295069.png/600x600bb.jpg",
+      snippet: "/songs/rock/the_xx_intro.mp3",
+      categories: ["pop"],
+      dailyCategory: "Pop",
+    },
+    {
+      title: "Best Friend",
+      artist: "Olivia & 50 Cent",
+      cover: "https://is1-ssl.mzstatic.com/image/thumb/Music124/v4/78/69/0f/78690fdf-909b-450e-77af-41084f671bd4/00602498528396.rgb.jpg/600x600bb.jpg",
+      snippet: "/songs/rap/olivia_50_cent_best_friend_remix.mp3",
+      categories: ["rap"],
+      dailyCategory: "Rap",
+    },
+  ],
 };
 
 const LEVELS = [
