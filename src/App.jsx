@@ -5023,7 +5023,7 @@ const manualDaily = {
       dailyCategory: "Rap",
     },
   ],
-  "2026-09-09": [
+  "2026-09-11": [
       {
       title: "Apologize (feat. OneRepublic)",
       artist: "Timbaland",
