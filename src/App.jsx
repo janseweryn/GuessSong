@@ -5049,6 +5049,32 @@ const manualDaily = {
       dailyCategory: "Rap",
     },
   ],
+  "2026-09-12": [
+    {
+      title: "Fame Is A Gun",
+      artist: "Addison Rae",
+      cover: "/songs/covers/addison.jpg",
+      snippet: "/songs/pop/fame_gun.mp3",
+      categories: ["pop"],
+      dailyCategory: "Pop",
+    },
+    {
+      title: "Shiny Happy People",
+      artist: "R.E.M.",
+      cover: "https://is1-ssl.mzstatic.com/image/thumb/Music125/v4/05/ae/86/05ae8650-7bce-2377-8959-78ea033a99d9/00888072013711.rgb.jpg/600x600bb.jpg",
+      snippet: "/songs/rock/r_e_m_shiny_happy_people.mp3",
+      categories: ["rock"],
+      dailyCategory: "Rock",
+    },
+    {
+      title: "Check the Rhime",
+      artist: "A Tribe Called Quest",
+      cover: "https://is1-ssl.mzstatic.com/image/thumb/Music115/v4/e0/14/c8/e014c80a-425b-e01a-1124-cee985bcb5e6/dj.qafpkddz.jpg/600x600bb.jpg",
+      snippet: "/songs/rap/a_tribe_called_quest_check_the_rhime.mp3",
+      categories: ["rap"],
+      dailyCategory: "Rap",
+    },
+  ],
 };
 
 const LEVELS = [
