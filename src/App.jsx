@@ -5231,6 +5231,32 @@ const manualDaily = {
       dailyCategory: "Rap",
     },
   ],
+  "2026-09-20": [
+    {
+      title: "Bad",
+      artist: "Michael Jackson", 
+      cover: "/songs/covers/bad.jpg",
+      snippet: "/songs/pop/bad.mp3",
+      categories: ["pop"],
+      dailyCategory: "Pop",
+    },
+    {
+      title: "Take On Me",
+      artist: "a-ha",
+      cover: "https://is1-ssl.mzstatic.com/image/thumb/Music124/v4/3e/0a/38/3e0a38d9-b138-429a-61e1-aeac2fad3263/mzi.iefykuuf.jpg/600x600bb.jpg",
+      snippet: "/songs/pop/a_ha_take_on_me.mp3",
+      categories: ["rock"],
+      dailyCategory: "Rock",
+    },
+    {
+      title: "Rapper's Delight",
+      artist: "The Sugarhill Gang",
+      cover: "https://is1-ssl.mzstatic.com/image/thumb/Music115/v4/08/59/3f/08593fb1-9fa6-3f9c-5753-f5eb6620b644/dj.jnqewlpv.jpg/600x600bb.jpg",
+      snippet: "/songs/rap/the_sugarhill_gang_rapper_s_delight.mp3",
+      categories: ["rap"],
+      dailyCategory: "Rap",
+    },
+  ],
 };
 
 const LEVELS = [
