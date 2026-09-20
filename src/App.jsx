@@ -5257,6 +5257,32 @@ const manualDaily = {
       dailyCategory: "Rap",
     },
   ],
+  "2026-09-21": [
+   {
+      title: "Worth It (feat. Kid Ink)",
+      artist: "Fifth Harmony",
+      cover: "https://is1-ssl.mzstatic.com/image/thumb/Music125/v4/98/e0/57/98e0573f-52c5-b8bf-f2cf-6246d055c60d/dj.kmbgqmzy.jpg/600x600bb.jpg",
+      snippet: "/songs/pop/fifth_harmony_worth_it_feat_kid_ink.mp3",
+      categories: ["pop"],
+      dailyCategory: "Pop",
+    },
+    {
+      title: "Rhiannon",
+      artist: "Fleetwood Mac",
+      cover: "/songs/covers/fleetwood.jpg",
+      snippet: "/songs/rock/rhiannon.mp3",
+      categories: ["rock"],
+      dailyCategory: "Rock",
+    },
+    {
+      title: "White Ferrari",
+      artist: "Frank Ocean",
+      cover: "https://is1-ssl.mzstatic.com/image/thumb/Music115/v4/bb/45/68/bb4568f3-68cd-619d-fbcb-4e179916545d/BlondCover-Final.jpg/600x600bb.jpg",
+      snippet: "/songs/pop/frank_ocean_white_ferrari.mp3",
+      categories: ["rap"],
+      dailyCategory: "Rap",
+    },
+  ],
 };
 
 const LEVELS = [
