@@ -5308,7 +5308,34 @@ const manualDaily = {
       categories: ["rap"],
       dailyCategory: "Rap",
     },
-  ]
+  ],
+   "2026-09-23": [
+    {
+      title: "Summer",
+      artist:  "Calvin Harris",
+      cover:  "/songs/covers/motion.jpg",
+      snippet: "/songs/pop/summer.mp3",
+      categories: ["pop"],
+      dailyCategory: "Pop",
+    },
+    {
+      title: "Red Right Hand",
+      artist: "Nick Cave & The Bad Seeds",
+      cover: "https://is1-ssl.mzstatic.com/image/thumb/Music118/v4/7b/c4/a9/7bc4a9bb-7061-1b0c-6da7-2f75185b0285/5099909572058.jpg/600x600bb.jpg",
+      snippet: "/songs/rock/nick_cave_the_bad_seeds_red_right_hand_2011_remaster.mp3",
+      categories: ["rock"],
+      dailyCategory: "Rock",
+    },
+    {
+      title: "Empire State Of Mind (feat. Alicia Keys)",
+      artist: "JAŸ-Z",
+      cover: "https://is1-ssl.mzstatic.com/image/thumb/Music115/v4/17/4a/a7/174aa7ea-0116-6240-1187-1efb51552833/00602527586502.rgb.jpg/600x600bb.jpg",
+      snippet: "/songs/rap/ja_z_empire_state_of_mind_feat_alicia_keys.mp3",
+      categories: ["rap"],
+      dailyCategory: "Rap",
+    },
+  ],
+
 };
 
 const LEVELS = [
