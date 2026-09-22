@@ -14757,8 +14757,8 @@
     "cover": "https://is1-ssl.mzstatic.com/image/thumb/Features115/v4/03/c6/2d/03c62d8a-487f-78c3-8416-488cfac664eb/dj.sboowgda.jpg/600x600bb.jpg"
   },
   {
-    "title": "Riders On the Storm (feat. The Doors)",
-    "artist": "Snoop Dogg",
+    "title": "Riders On the Storm",
+    "artist": "The Doors",
     "categories": ["Rap", "Rap 00s"],
     "snippet": "/songs/rap/snoop_dogg_riders_on_the_storm_feat_the_doors_fredwreck_remix.mp3",
     "cover": "https://is1-ssl.mzstatic.com/image/thumb/Music115/v4/c4/3e/7e/c43e7ec5-9817-c0df-daad-486656999318/00602517264922.rgb.jpg/600x600bb.jpg"
@@ -15322,6 +15322,188 @@
     "categories": ["Pop", "Pop 20s"],
     "snippet": "/songs/pop/shakira_burna_boy_dai_dai.mp3",
     "cover": "https://is1-ssl.mzstatic.com/image/thumb/Music221/v4/61/49/8d/61498ded-f0dc-227d-cd1d-2051b5d9f195/196874328590.jpg/600x600bb.jpg"
+  },
+  {
+    "title": "LEMONADE",
+    "artist": "aespa",
+    "categories": ["Pop", "Pop 20s"],
+    "snippet": "/songs/pop/aespa_lemonade.mp3",
+    "cover": "https://is1-ssl.mzstatic.com/image/thumb/Music221/v4/95/98/a0/9598a090-7948-5bf1-a6ac-7fde80d26874/888735955211_Cover.jpg/600x600bb.jpg"
+  },
+  {
+    "title": "bloodstream",
+    "artist": "Alyssa Grace",
+    "categories": ["Pop", "Pop 20s"],
+    "snippet": "/songs/pop/alyssa_grace_bloodstream.mp3",
+    "cover": "https://is1-ssl.mzstatic.com/image/thumb/Music221/v4/7f/a7/ef/7fa7ef61-6e22-f30f-441c-e89e7ff4a79a/093624817147.jpg/600x600bb.jpg"
+  },
+  {
+    "title": "hate that i made you love me",
+    "artist": "Ariana Grande",
+    "categories": ["Pop", "Pop 20s"],
+    "snippet": "/songs/pop/ariana_grande_hate_that_i_made_you_love_me.mp3",
+    "cover": "https://is1-ssl.mzstatic.com/image/thumb/Music211/v4/56/f4/96/56f49612-02dd-83f4-44fe-d2118cc70707/26UMGIM51129.rgb.jpg/600x600bb.jpg"
+  },
+  {
+    "title": "petal",
+    "artist": "Ariana Grande",
+    "categories": ["Pop", "Pop 20s"],
+    "snippet": "/songs/pop/ariana_grande_petal.mp3",
+    "cover": "https://is1-ssl.mzstatic.com/image/thumb/Music211/v4/56/f4/96/56f49612-02dd-83f4-44fe-d2118cc70707/26UMGIM51129.rgb.jpg/600x600bb.jpg"
+  },
+  {
+    "title": "SWIM",
+    "artist": "BTS",
+    "categories": ["Pop", "Pop 20s"],
+    "snippet": "/songs/pop/bts_swim.mp3",
+    "cover": "https://is1-ssl.mzstatic.com/image/thumb/Music221/v4/e0/a2/b4/e0a2b443-7969-b57a-a591-cb6172c10aa7/198704943959_Cover.jpg/600x600bb.jpg"
+  },
+  {
+    "title": "Redbone",
+    "artist": "Childish Gambino",
+    "categories": ["Rap", "Rap 10s"],
+    "snippet": "/songs/rap/childish_gambino_me_and_your_mama.mp3",
+    "cover": "https://is1-ssl.mzstatic.com/image/thumb/Music211/v4/f1/3c/d7/f13cd7ab-7319-028a-8807-5991d0b308d4/0044003187658_Cover.jpg/600x600bb.jpg"
+  },
+  {
+    "title": "Family Line",
+    "artist": "Conan Gray",
+    "categories": ["Pop", "Pop 20s"],
+    "snippet": "/songs/pop/conan_gray_family_line.mp3",
+    "cover": "https://is1-ssl.mzstatic.com/image/thumb/Music112/v4/cd/ea/7f/cdea7f8e-9d63-3d7f-e54b-4df8bc3520c0/22UMGIM49870.rgb.jpg/600x600bb.jpg"
+  },
+  {
+    "title": "Heather",
+    "artist": "Conan Gray",
+    "categories": ["Pop", "Pop 20s"],
+    "snippet": "/songs/pop/conan_gray_heather.mp3",
+    "cover": "https://is1-ssl.mzstatic.com/image/thumb/Music125/v4/18/08/a1/1808a1be-b5a9-5e69-583d-b8a357efd760/19UM1IM12338.rgb.jpg/600x600bb.jpg"
+  },
+  {
+    "title": "Maniac",
+    "artist": "Conan Gray",
+    "categories": ["Pop", "Pop 10s"],
+    "snippet": "/songs/pop/conan_gray_maniac.mp3",
+    "cover": "https://is1-ssl.mzstatic.com/image/thumb/Music114/v4/e5/43/73/e5437393-f818-e097-76b8-082631284a98/19UM1IM12339.rgb.jpg/600x600bb.jpg"
+  },
+  {
+    "title": "Choosin' Texas",
+    "artist": "Ella Langley",
+    "categories": ["Pop", "Pop 20s"],
+    "snippet": "/songs/pop/ella_langley_choosin_texas.mp3",
+    "cover": "https://is1-ssl.mzstatic.com/image/thumb/Music221/v4/e2/91/4d/e2914d0a-7f1d-f04c-fbf4-c50b38548838/196873638690.jpg/600x600bb.jpg"
+  },
+  {
+    "title": "Hit the Wall",
+    "artist": "Gracie Abrams",
+    "categories": ["Pop", "Pop 20s"],
+    "snippet": "/songs/pop/gracie_abrams_hit_the_wall.mp3",
+    "cover": "https://is1-ssl.mzstatic.com/image/thumb/Music221/v4/4f/13/47/4f1347cf-9564-e8b6-523a-386202f4d265/26UMGIM54147.rgb.jpg/600x600bb.jpg"
+  },
+  {
+    "title": "Look at My Life",
+    "artist": "Gracie Abrams",
+    "categories": ["Pop", "Pop 20s"],
+    "snippet": "/songs/pop/gracie_abrams_look_at_my_life.mp3",
+    "cover": "https://is1-ssl.mzstatic.com/image/thumb/Music221/v4/4f/13/47/4f1347cf-9564-e8b6-523a-386202f4d265/26UMGIM54147.rgb.jpg/600x600bb.jpg"
+  },
+  {
+    "title": "American Girls",
+    "artist": "Harry Styles",
+    "categories": ["Pop", "Pop 20s"],
+    "snippet": "/songs/pop/harry_styles_american_girls.mp3",
+    "cover": "https://is1-ssl.mzstatic.com/image/thumb/Music221/v4/07/41/6a/07416a78-38b9-2d47-7ce8-8a52a44c510f/196874010112.jpg/600x600bb.jpg"
+  },
+  {
+    "title": "Aperture",
+    "artist": "Harry Styles",
+    "categories": ["Pop", "Pop 20s"],
+    "snippet": "/songs/pop/harry_styles_aperture.mp3",
+    "cover": "https://is1-ssl.mzstatic.com/image/thumb/Music221/v4/07/41/6a/07416a78-38b9-2d47-7ce8-8a52a44c510f/196874010112.jpg/600x600bb.jpg"
+  },
+  {
+    "title": "Less than a Lover",
+    "artist": "JENNIE",
+    "categories": ["Pop", "Pop 20s"],
+    "snippet": "/songs/pop/jennie_less_than_a_lover.mp3",
+    "cover": "https://is1-ssl.mzstatic.com/image/thumb/Music211/v4/8d/ac/90/8dac9090-2a14-20d9-ed97-6a35ad299beb/196874620281.jpg/600x600bb.jpg"
+  },
+  {
+    "title": "BbY WOW",
+    "artist": "KAROL G, Judeline & rusowsky",
+    "categories": ["Pop", "Pop 20s"],
+    "snippet": "/songs/pop/karol_g_judeline_rusowsky_bby_wow.mp3",
+    "cover": "https://is1-ssl.mzstatic.com/image/thumb/Music221/v4/2b/66/b2/2b66b26c-ab23-faa1-c4ee-06fa2cce8f76/26UM1IM00558.rgb.jpg/600x600bb.jpg"
+  },
+  {
+    "title": "Animal",
+    "artist": "KATSEYE",
+    "categories": ["Pop", "Pop 20s"],
+    "snippet": "/songs/pop/katseye_animal.mp3",
+    "cover": "https://is1-ssl.mzstatic.com/image/thumb/Music211/v4/e2/28/92/e22892a7-fe88-72cf-ecba-691030dfcf7e/26UMGIM41151.rgb.jpg/600x600bb.jpg"
+  },
+  {
+    "title": "Earrings",
+    "artist": "Malcolm Todd",
+    "categories": ["Rock", "Rock 20s"],
+    "snippet": "/songs/rock/malcolm_todd_earrings.mp3",
+    "cover": "https://is1-ssl.mzstatic.com/image/thumb/Music221/v4/d0/06/1f/d0061f04-bcae-f9a1-8126-830c04fa32db/196871971188.jpg/600x600bb.jpg"
+  },
+  {
+    "title": "iPod Touch",
+    "artist": "Ninajirachi",
+    "categories": ["Pop", "Pop 20s"],
+    "snippet": "/songs/pop/ninajirachi_ipod_touch.mp3",
+    "cover": "https://is1-ssl.mzstatic.com/image/thumb/Music211/v4/51/41/9c/51419c3f-dce3-5072-eb94-fc453f6fdb87/199350974793.jpg/600x600bb.jpg"
+  },
+  {
+    "title": "serena joy",
+    "artist": "Olivia Rodrigo",
+    "categories": ["Pop", "Pop 20s"],
+    "snippet": "/songs/pop/olivia_rodrigo_serena_joy.mp3",
+    "cover": "https://is1-ssl.mzstatic.com/image/thumb/Music221/v4/74/88/51/748851f3-26da-36f5-65a3-d41fe0b292ec/26UM1IM06641.rgb.jpg/600x600bb.jpg"
+  },
+  {
+    "title": "what’s wrong with me",
+    "artist": "Olivia Rodrigo & Robert Smith",
+    "categories": ["Pop", "Pop 20s"],
+    "snippet": "/songs/pop/olivia_rodrigo_robert_smith_what_s_wrong_with_me.mp3",
+    "cover": "https://is1-ssl.mzstatic.com/image/thumb/Music221/v4/1d/1b/f9/1d1bf9b1-44c6-9a6c-6ffb-c158488c06ce/26UMGIM39303.rgb.jpg/600x600bb.jpg"
+  },
+  {
+    "title": "Love Me Not",
+    "artist": "Ravyn Lenae",
+    "categories": ["Pop", "Pop 20s"],
+    "snippet": "/songs/pop/ravyn_lenae_love_me_not.mp3",
+    "cover": "https://is1-ssl.mzstatic.com/image/thumb/Music211/v4/07/8c/6c/078c6c94-d38d-0451-d57b-23e957b569f8/075679660893.jpg/600x600bb.jpg"
+  },
+  {
+    "title": "Dai Dai",
+    "artist": "Shakira & Burna Boy",
+    "categories": ["Pop", "Pop 20s"],
+    "snippet": "/songs/pop/shakira_burna_boy_dai_dai.mp3",
+    "cover": "https://is1-ssl.mzstatic.com/image/thumb/Music221/v4/61/49/8d/61498ded-f0dc-227d-cd1d-2051b5d9f195/196874328590.jpg/600x600bb.jpg"
+  },
+  {
+    "title": "Oh Yeah",
+    "artist": "Steve Lacy",
+    "categories": ["Rock", "Rock 20s"],
+    "snippet": "/songs/rock/green_day_oh_yeah.mp3",
+    "cover": "https://is1-ssl.mzstatic.com/image/thumb/Music114/v4/d1/0d/a4/d10da4d8-cd8b-99ae-3064-7ff617cf1fd2/093624897613.jpg/600x600bb.jpg"
+  },
+  {
+    "title": "Self Aware",
+    "artist": "Temper City",
+    "categories": ["Rock", "Rock 20s"],
+    "snippet": "/songs/rock/temper_city_self_aware.mp3",
+    "cover": "https://is1-ssl.mzstatic.com/image/thumb/Music221/v4/ba/63/6e/ba636e4b-5c9a-e89c-87d3-1a9ab7773644/1084252.jpg/600x600bb.jpg"
+  },
+  {
+    "title": "MORE & MORE",
+    "artist": "TWICE",
+    "categories": ["Pop", "Pop 20s"],
+    "snippet": "/songs/pop/twice_more_more_english_version.mp3",
+    "cover": "https://is1-ssl.mzstatic.com/image/thumb/Music114/v4/89/ea/eb/89eaebc7-1bc1-545f-90df-99518c0986fa/192641548505_Cover.jpg/600x600bb.jpg"
   }
 ]
 
