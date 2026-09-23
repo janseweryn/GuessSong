@@ -785,22 +785,5 @@
     "categories": ["Pop", "Pop 20s"],
     "snippet": "/songs/pop/elevation_rhythm_seu_worship_welcome_home.mp3",
     "cover": "/songs/covers/puppets.jpg"
-  },
-  {
-    "title": "Oh Yeah",
-    "artist": "Steve Lacy",
-    "categories": ["Rock", "Rock 20s"],
-    "snippet": "/songs/rock/green_day_oh_yeah.mp3",
-    "cover": "https://is1-ssl.mzstatic.com/image/thumb/Music114/v4/d1/0d/a4/d10da4d8-cd8b-99ae-3064-7ff617cf1fd2/093624897613.jpg/600x600bb.jpg"
-  },
-  {
-    "title": "Intoxicated",
-    "artist": "Martin Solveig & Good Times Ahead",
-    "categories": [
-      "Pop",
-      "Pop 10s"
-    ],
-    "snippet": "/songs/pop/martin_solveig_good_times_ahead_intoxicated.mp3",
-    "cover": "https://is1-ssl.mzstatic.com/image/thumb/Music124/v4/f8/48/0a/f8480a9e-aff9-73ab-83bf-005a9c293e3c/075679917607.jpg/600x600bb.jpg"
   }
 ]
