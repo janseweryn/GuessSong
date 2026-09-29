@@ -5491,6 +5491,32 @@ const manualDaily = {
       dailyCategory: "Rap",
     },
   ],
+  "2026-09-30": [
+    {
+      title: "Starboy (feat. Daft Punk)",
+      artist: "The Weeknd",
+      cover: "/songs/covers/starboy.jpg",
+      snippet: "/songs/pop/starboy.mp3",
+      categories: ["pop"],
+      dailyCategory: "Pop",
+    },
+   {
+      title: "Wake Me Up When September Ends",
+      artist: "Green Day",
+      cover: "/songs/covers/idiot.jpg",
+      snippet: "/songs/rock/september_end.mp3",
+      categories: ["rock"],
+      dailyCategory: "Rock",
+    },
+    {
+      title: "Boy's a Liar",
+      artist: "PinkPantheress",
+      cover: "/songs/covers/heavenknow.jpg",
+      snippet: "/songs/pop/boys_liar.mp3",
+      categories: ["rap"],
+      dailyCategory: "Rap",
+    },
+  ],
 };
 
 const LEVELS = [
