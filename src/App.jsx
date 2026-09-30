@@ -5517,6 +5517,32 @@ const manualDaily = {
       dailyCategory: "Rap",
     },
   ],
+  "2026-10-01": [
+    {
+      title: "we fell in love in october",
+      artist: "girl in red",
+      cover: "https://is1-ssl.mzstatic.com/image/thumb/Music211/v4/08/dd/cd/08ddcdac-2d09-c7eb-d2ab-6b3849b04a02/5054526166202.jpg/600x600bb.jpg",
+      snippet: "/songs/rock/girl_in_red_we_fell_in_love_in_october.mp3",
+      categories: ["pop"],
+      dailyCategory: "Pop",
+    },
+   {
+      title: "Panama",
+      artist: "Van Halen",
+      cover: "https://is1-ssl.mzstatic.com/image/thumb/Music125/v4/79/98/f7/7998f761-20e0-aa8e-4fb2-190062af1638/603497894161.jpg/600x600bb.jpg",
+      snippet: "/songs/rock/van_halen_panama.mp3",
+      categories: ["rock"],
+      dailyCategory: "Rock",
+    },
+    {
+      title: "Straight Outta Compton",
+      artist: "N.W.A",
+      cover: "https://is1-ssl.mzstatic.com/image/thumb/Music113/v4/4c/b1/32/4cb13290-7d01-1949-57e9-a8a1874e60a2/19UMGIM79184.rgb.jpg/600x600bb.jpg",
+      snippet: "/songs/rap/n_w_a_straight_outta_compton.mp3",
+      categories: ["rap"],
+      dailyCategory: "Rap",
+    },
+  ],
 };
 
 const LEVELS = [

@@ -5251,7 +5251,7 @@
     "cover": "https://is1-ssl.mzstatic.com/image/thumb/Music221/v4/76/ff/5e/76ff5ee0-7ab4-2ac2-2598-486a9ccc06e1/886444516877.jpg/600x600bb.jpg"
   },
   {
-    "title": "Move Bitch (Original)",
+    "title": "Move Bitch",
     "artist": "Philthy Fingers",
     "categories": [
       "Pop",
@@ -8288,7 +8288,7 @@
   {
     "title": "Glory Box",
     "artist": "Portishead",
-    "categories": ["ROck", "Rock 90s"],
+    "categories": ["Rock", "Rock 90s"],
     "snippet": "/songs/pop/portishead_glory_box.mp3",
     "cover": "https://is1-ssl.mzstatic.com/image/thumb/Music115/v4/c1/71/93/c1719342-df7d-e9c5-c87c-53dae5afb289/00042282855329.rgb.jpg/600x600bb.jpg"
   },
@@ -15504,6 +15504,13 @@
     "categories": ["Pop", "Pop 20s"],
     "snippet": "/songs/pop/twice_more_more_english_version.mp3",
     "cover": "https://is1-ssl.mzstatic.com/image/thumb/Music114/v4/89/ea/eb/89eaebc7-1bc1-545f-90df-99518c0986fa/192641548505_Cover.jpg/600x600bb.jpg"
+  },
+  {
+    "title": "Straight Outta Compton",
+    "artist": "N.W.A",
+    "categories": ["Rap", "Rap 80s"],
+    "snippet": "/songs/rap/n_w_a_straight_outta_compton.mp3",
+    "cover": "https://is1-ssl.mzstatic.com/image/thumb/Music113/v4/4c/b1/32/4cb13290-7d01-1949-57e9-a8a1874e60a2/19UMGIM79184.rgb.jpg/600x600bb.jpg"
   }
 ]
 
