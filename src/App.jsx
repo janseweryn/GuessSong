@@ -5543,6 +5543,32 @@ const manualDaily = {
       dailyCategory: "Rap",
     },
   ],
+  "2026-10-02": [
+    {
+      title: "Somethin' Stupid",
+      artist: "Frank Sinatra & Nancy Sinatra",
+      cover: "https://is1-ssl.mzstatic.com/image/thumb/Music211/v4/3a/37/1a/3a371a7e-33fe-85db-0616-0c57ef26fb42/13UAEIM06265.rgb.jpg/600x600bb.jpg",
+      snippet: "/songs/pop/frank_sinatra_nancy_sinatra_somethin_stupid.mp3",
+      categories: ["pop"],
+      dailyCategory: "Pop",
+    },
+   {
+      title: "American Idiot",
+      artist: "Green Day", 
+      cover: "/songs/covers/idiot.jpg",
+      snippet: "/songs/rock/american_idiot.mp3",
+      categories: ["rock"],
+      dailyCategory: "Rock",
+    },
+    {
+      title: "Donald Trump",
+      artist: "Mac Miller",
+      cover: "https://is1-ssl.mzstatic.com/image/thumb/Music221/v4/7a/fa/81/7afa8155-fa6a-4f68-9459-455f0fd79784/881034789822.jpg/600x600bb.jpg",
+      snippet: "/songs/rap/mac_miller_donald_trump.mp3",
+      categories: ["rap"],
+      dailyCategory: "Rap",
+    },
+  ],
 };
 
 const LEVELS = [
