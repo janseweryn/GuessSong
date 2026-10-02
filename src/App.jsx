@@ -5569,6 +5569,32 @@ const manualDaily = {
       dailyCategory: "Rap",
     },
   ],
+   "2026-10-03": [
+    {
+      title: "How You Like That",
+      artist: "Blackpink",
+      cover: "/songs/covers/album.jpg",
+      snippet: "/songs/pop/how_you_like_that.mp3",
+      categories: ["pop"],
+      dailyCategory: "Pop",
+    },
+   {
+      title: "Down In a Hole",
+      artist: "Alice In Chains",
+      cover: "https://is1-ssl.mzstatic.com/image/thumb/Music112/v4/54/26/62/5426627b-4707-7867-acc0-ce616d250381/074645247526.jpg/600x600bb.jpg",
+      snippet: "/songs/rock/alice_in_chains_down_in_a_hole.mp3",
+      categories: ["rock"],
+      dailyCategory: "Rock",
+    },
+    {
+      title: "Patorekacja",
+      artist: "Mata",
+      cover: "/songs/covers/matczak.jpg",
+      snippet: "/songs/Polskie/Mata_Patoreakcja.mp3",
+      categories: ["rap"],
+      dailyCategory: "Rap",
+    },
+  ],
 };
 
 const LEVELS = [
