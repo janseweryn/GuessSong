@@ -5595,6 +5595,32 @@ const manualDaily = {
       dailyCategory: "Rap",
     },
   ],
+  "2026-10-04": [
+    {
+      title: "Say It Right",
+      artist: "Nelly Furtado",
+      cover: "https://is1-ssl.mzstatic.com/image/thumb/Music115/v4/20/f2/be/20f2be1f-716d-a2df-913e-1aff99c08619/06UMGIM31170.rgb.jpg/600x600bb.jpg",
+      snippet: "/songs/pop/nelly_furtado_say_it_right.mp3",
+      categories: ["pop"],
+      dailyCategory: "Pop",
+    },
+   {
+      title: "Man On the Moon",
+      artist: "R.E.M.",
+      cover: "https://is1-ssl.mzstatic.com/image/thumb/Music125/v4/05/ae/86/05ae8650-7bce-2377-8959-78ea033a99d9/00888072013711.rgb.jpg/600x600bb.jpg",
+      snippet: "/songs/rock/r_e_m_shiny_happy_people.mp3",
+      categories: ["rock"],
+      dailyCategory: "Rock",
+    },
+   {
+      title: "Mockingbird",
+      artist: "Eminem",
+      cover: "/songs/covers/encore.jpg",
+      snippet: "/songs/rap/bird.mp3",
+      categories: ["rap"],
+      dailyCategory: "Rap",
+    },
+  ],
 };
 
 const LEVELS = [
