@@ -5621,6 +5621,32 @@ const manualDaily = {
       dailyCategory: "Rap",
     },
   ],
+   "2026-10-05": [
+    {
+      title: "I Just Might",
+      artist: "Bruno Mars",
+      cover: "https://is1-ssl.mzstatic.com/image/thumb/Music211/v4/ed/46/bf/ed46bf4e-7cb9-965a-54f3-03059977fe6c/075679589293.jpg/600x600bb.jpg",
+      snippet: "/songs/pop/bruno_mars_i_just_might.mp3",
+      categories: ["pop"],
+      dailyCategory: "Pop",
+    },
+   {
+      title: "I Just Called to Say I Love You",
+      artist: "Stevie Wonder",
+      cover: "https://is1-ssl.mzstatic.com/image/thumb/Music115/v4/29/3a/92/293a9224-329d-3ede-ed4c-caba1c045e97/00602547215086.rgb.jpg/600x600bb.jpg",
+      snippet: "/songs/pop/stevie_wonder_i_just_called_to_say_i_love_you_single_version.mp3",
+      categories: ["rock"],
+      dailyCategory: "Rock",
+    },
+   {
+      title: "Nuthin’ But a \"G\" Thang",
+      artist: "Dr. Dre & Snoop Dogg",
+      cover: "https://is1-ssl.mzstatic.com/image/thumb/Music116/v4/59/5c/49/595c49ca-20af-1a27-3716-fe1fe481c45e/617513535860_cover.jpg/600x600bb.jpg",
+      snippet: "/songs/rap/dr_dre_snoop_dogg_nuthin_but_a_g_thang.mp3",
+      categories: ["rap"],
+      dailyCategory: "Rap",
+    },
+  ],
 };
 
 const LEVELS = [
