@@ -802,5 +802,12 @@
     ],
     "snippet": "/songs/pop/martin_solveig_good_times_ahead_intoxicated.mp3",
     "cover": "https://is1-ssl.mzstatic.com/image/thumb/Music124/v4/f8/48/0a/f8480a9e-aff9-73ab-83bf-005a9c293e3c/075679917607.jpg/600x600bb.jpg"
+  },
+  {
+    "title": "Animals",
+    "artist": "Architects",
+    "categories": ["Rock", "Rock 10s"],
+    "snippet": "/songs/rock/the_native_architects_animals.mp3",
+    "cover": "https://is1-ssl.mzstatic.com/image/thumb/Music5/v4/40/a0/9f/40a09f21-3e4f-afde-2ea1-b0aa80e1c0dd/859713648210_cover.tif/600x600bb.jpg"
   }
 ]

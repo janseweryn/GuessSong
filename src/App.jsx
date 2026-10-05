@@ -5647,6 +5647,32 @@ const manualDaily = {
       dailyCategory: "Rap",
     },
   ],
+   "2026-10-06": [
+    {
+      title: "We Are Young (feat. Janelle Monáe)",
+      artist: "Fun.",
+      cover:  "https://is1-ssl.mzstatic.com/image/thumb/Features115/v4/b2/df/a3/b2dfa32c-ea54-7983-0da1-6964e60a1bd7/dj.aqphuayl.jpg/600x600bb.jpg",
+      snippet: "/songs/rock/fun_we_are_young_feat_janelle_mon_e.mp3",
+      categories: ["pop"],
+      dailyCategory: "Pop",
+    },
+   {
+      title: "Animals",
+      artist: "Architects",
+      cover:  "https://is1-ssl.mzstatic.com/image/thumb/Music5/v4/40/a0/9f/40a09f21-3e4f-afde-2ea1-b0aa80e1c0dd/859713648210_cover.tif/600x600bb.jpg",
+      snippet: "/songs/rock/the_native_architects_animals.mp3",
+      categories: ["rock"],
+      dailyCategory: "Rock",
+    },
+   {
+      title: "Right Round (feat. Ke$ha)",
+      artist: "Flo Rida",
+      cover: "https://is1-ssl.mzstatic.com/image/thumb/Music124/v4/4e/62/be/4e62be48-6e99-1dbe-622d-8ac2cf92467a/mzi.sngplwsl.jpg/600x600bb.jpg",
+      snippet: "/songs/rap/flo_rida_right_round_feat_ke_ha.mp3",
+      categories: ["rap"],
+      dailyCategory: "Rap",
+    },
+  ],
 };
 
 const LEVELS = [
