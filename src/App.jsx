@@ -5673,6 +5673,32 @@ const manualDaily = {
       dailyCategory: "Rap",
     },
   ],
+  "2026-10-07": [
+    {
+      title: "Cardigan",
+      artist: "Taylor Swift", 
+      cover:  "/songs/covers/folklore.jpg",
+      snippet: "/songs/pop/cardigan.mp3",
+      categories: ["pop"],
+      dailyCategory: "Pop",
+    },
+   {
+      title: "I'm On Fire",
+      artist: "Bruce Springsteen",
+      cover:  "https://is1-ssl.mzstatic.com/image/thumb/Music5/v4/40/a0/9f/40a09f21-3e4f-afde-2ea1-b0aa80e1c0dd/859713648210_cover.tif/600x600bb.jpg",
+      snippet: "/songs/rock/the_native_architects_animals.mp3",
+      categories: ["rock"],
+      dailyCategory: "Rock",
+    },
+   {
+      title: "SHEESH",
+      artist: "BABYMONSTER",
+      cover: "https://is1-ssl.mzstatic.com/image/thumb/Music221/v4/fb/68/85/fb68856f-4965-5d30-78ea-fe6bb261f4ff/3000px.jpg/600x600bb.jpg",
+      snippet: "/songs/pop/babymonster_sheesh.mp3",
+      categories: ["rap"],
+      dailyCategory: "Rap",
+    },
+  ],
 };
 
 const LEVELS = [
