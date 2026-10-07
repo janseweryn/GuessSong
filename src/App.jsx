@@ -5699,6 +5699,32 @@ const manualDaily = {
       dailyCategory: "Rap",
     },
   ],
+   "2026-10-08": [
+     {
+      title: "Rude",
+      artist: "MAGIC!",
+      cover:  "https://is1-ssl.mzstatic.com/image/thumb/Music115/v4/2a/46/74/2a4674c2-889f-4f6b-e4e9-b3693f8ee962/886444607650.jpg/600x600bb.jpg",
+      snippet: "/songs/pop/magic_rude.mp3",
+      categories: ["pop"],
+      dailyCategory: "Pop",
+    },
+   {
+      title: "I'm On Fire",
+      artist: "Bruce Springsteen",
+      cover:  "https://is1-ssl.mzstatic.com/image/thumb/Music115/v4/32/72/68/327268ba-b9dd-b322-2a16-bdd0212df48c/074643865326.jpg/600x600bb.jpg",
+      snippet: "/songs/rock/bruce_springsteen_i_m_on_fire.mp3",
+      categories: ["rock"],
+      dailyCategory: "Rock",
+    },
+   {
+      title: "Lean Back",
+      artist: "Terror Squad",
+      cover: "https://is1-ssl.mzstatic.com/image/thumb/Music124/v4/59/6b/86/596b86a4-6dd1-70e3-5a57-4539c11a137a/00602498627518.rgb.jpg/600x600bb.jpg",
+      snippet: "/songs/rap/terror_squad_lean_back.mp3",
+      categories: ["rap"],
+      dailyCategory: "Rap",
+    },
+  ],
 };
 
 const LEVELS = [
