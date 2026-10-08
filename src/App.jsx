@@ -5725,6 +5725,32 @@ const manualDaily = {
       dailyCategory: "Rap",
     },
   ],
+  "2026-10-09": [
+     {
+      title: "Dernière danse",
+      artist: "Indila",
+      cover:  "https://is1-ssl.mzstatic.com/image/thumb/Music116/v4/49/58/30/49583018-308b-431d-c691-4a28e78be8cd/14UMGIM01109.rgb.jpg/600x600bb.jpg",
+      snippet: "/songs/pop/indila_derni_re_danse.mp3",
+      categories: ["pop"],
+      dailyCategory: "Pop",
+    },
+   {
+      title: "I Love You",
+      artist: "Fontaines D.C.",
+      cover:  "/songs/covers/loveyouf.jpg",
+      snippet: "/songs/rap/dru_hill_i_love_you.mp3",
+      categories: ["rock"],
+      dailyCategory: "Rock",
+    },
+    {
+      title: "My Name Is",
+      artist: "Eminem",
+      cover:  "/songs/covers/slim_shady.jpg",
+      snippet: "/songs/rap/my_name.mp3",
+      categories: ["rap"],
+      dailyCategory: "Rap",
+    },
+  ],
 };
 
 const LEVELS = [

@@ -809,5 +809,12 @@
     "categories": ["Rock", "Rock 10s"],
     "snippet": "/songs/rock/the_native_architects_animals.mp3",
     "cover": "https://is1-ssl.mzstatic.com/image/thumb/Music5/v4/40/a0/9f/40a09f21-3e4f-afde-2ea1-b0aa80e1c0dd/859713648210_cover.tif/600x600bb.jpg"
-  }
+  },
+  {
+    "title": "Metallica 808",
+    "artist": "TACONAFIDE, Quebonafide & Taco Hemingway",
+    "categories": ["Polskie Rap", "Polskie Rap 10s"],
+    "snippet": "/songs/Polskie/taconafide_quebonafide_taco_hemingway_metallica_808.mp3",
+    "cover": "https://is1-ssl.mzstatic.com/image/thumb/Music126/v4/4d/bc/56/4dbc56e0-bce7-a1db-ae86-9c774ea4cb36/23UMGIM28916.rgb.jpg/600x600bb.jpg"
+  },
 ]
