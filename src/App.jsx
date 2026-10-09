@@ -5725,7 +5725,7 @@ const manualDaily = {
       dailyCategory: "Rap",
     },
   ],
-  "2026-10-09": [
+  "2026-10-10": [
      {
       title: "Dernière danse",
       artist: "Indila",
