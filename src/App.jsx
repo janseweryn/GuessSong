@@ -5751,6 +5751,32 @@ const manualDaily = {
       dailyCategory: "Rap",
     },
   ],
+  "2026-10-11": [
+     {
+      title: "Where Is my Husband!",
+      artist: "Raye", 
+      cover:  "/songs/covers/husband.jpg",
+      snippet: "/songs/pop/husband.mp3",
+      categories: ["pop"],
+      dailyCategory: "Pop",
+    },
+   {
+      title: "Famous Last Words",
+      artist: "My Chemical Romance",
+      cover:  "/songs/covers/chemical.jpg",
+      snippet: "/songs/rock/my_chemical_romance_famous_last_words.mp3",
+      categories: ["rock"],
+      dailyCategory: "Rock",
+    },
+    {
+      title: "MEOW",
+      artist: "MEOVV",
+      cover:  "https://is1-ssl.mzstatic.com/image/thumb/Music211/v4/9b/7f/b9/9b7fb97f-57fd-0a2e-64de-30cd3a259c71/198704128974_Cover.jpg/600x600bb.jpg",
+      snippet: "/songs/pop/meovv_meow.mp3",
+      categories: ["rap"],
+      dailyCategory: "Rap",
+    },
+  ],
 };
 
 const LEVELS = [
