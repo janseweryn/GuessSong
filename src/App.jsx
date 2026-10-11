@@ -5777,6 +5777,32 @@ const manualDaily = {
       dailyCategory: "Rap",
     },
   ],
+   "2026-10-12": [
+     {
+      title: "Drag Me Down",
+      artist: "One Direction",
+      cover:  "https://is1-ssl.mzstatic.com/image/thumb/Music6/v4/6e/8c/4f/6e8c4f54-f777-b315-a2aa-ac656e8e8bb7/886445577778.jpg/600x600bb.jpg",
+      snippet: "/songs/pop/one_direction_drag_me_down_feat_lunchmoney_lewis_big_payno_x_afterhrs_remix.mp3",
+      categories: ["pop"],
+      dailyCategory: "Pop",
+    },
+   {
+      title: "Land of Confusion",
+      artist: "Genesis",
+      cover: "https://is1-ssl.mzstatic.com/image/thumb/Music115/v4/6c/44/66/6c446642-e67c-b19f-e8cb-e084eb549056/mzi.tbamlbgz.jpg/600x600bb.jpg",
+      snippet: "/songs/rock/genesis_land_of_confusion_2007_remaster.mp3",
+      categories: ["rock"],
+      dailyCategory: "Rock",
+    },
+    {
+      title: "Changes",
+      artist:"2Pac",
+      cover:  "/songs/covers/changes.jpg",
+      snippet: "/songs/rock/black_sabbath_changes.mp3",
+      categories: ["rap"],
+      dailyCategory: "Rap",
+    },
+  ],
 };
 
 const LEVELS = [
