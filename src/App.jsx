@@ -5803,6 +5803,32 @@ const manualDaily = {
       dailyCategory: "Rap",
     },
   ],
+  "2026-10-13": [
+     {
+      title: "expectations",
+      artist: "Olivia Rodrigo",
+      cover:  "https://is1-ssl.mzstatic.com/image/thumb/Music221/v4/1d/1b/f9/1d1bf9b1-44c6-9a6c-6ffb-c158488c06ce/26UMGIM39303.rgb.jpg/600x600bb.jpg",
+      snippet: "/songs/pop/olivia_rodrigo_expectations.mp3",
+      categories: ["pop"],
+      dailyCategory: "Pop",
+    },
+   {
+      title: "Soul Kitchen",
+      artist: "The Doors",
+      cover: "https://is1-ssl.mzstatic.com/image/thumb/Features115/v4/03/c6/2d/03c62d8a-487f-78c3-8416-488cfac664eb/dj.sboowgda.jpg/600x600bb.jpg",
+      snippet: "/songs/rock/the_doors_soul_kitchen.mp3",
+      categories: ["rock"],
+      dailyCategory: "Rock",
+    },
+    {
+      title: "Peso",
+      artist: "A$AP Rocky",
+      cover: "/songs/covers/livelong.jpg",
+      snippet: "/songs/rap/A$APRocky_Peso.mp3",
+      categories: ["rap"],
+      dailyCategory: "Rap",
+    },
+  ],
 };
 
 const LEVELS = [
