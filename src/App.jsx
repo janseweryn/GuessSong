@@ -5829,6 +5829,32 @@ const manualDaily = {
       dailyCategory: "Rap",
     },
   ],
+  "2026-10-14": [
+     {
+      title: "On Top of the World",
+      artist: "Imagine Dragons",
+      cover:  "https://is1-ssl.mzstatic.com/image/thumb/Music112/v4/1f/fa/09/1ffa092f-f52f-4a66-7d10-4cc5982dc747/12UMGIM46901.rgb.jpg/600x600bb.jpg",
+      snippet: "/songs/rock/imagine_dragons_on_top_of_the_world.mp3",
+      categories: ["pop"],
+      dailyCategory: "Pop",
+    },
+   {
+      title: "Centuries",
+      artist: "Fall Out Boy",
+      cover: "https://is1-ssl.mzstatic.com/image/thumb/Music124/v4/ea/5f/87/ea5f87ea-4bc3-0e01-456c-37401a4268f2/14UMGIM60337.rgb.jpg/600x600bb.jpg",
+      snippet: "/songs/rock/fall_out_boy_centuries.mp3",
+      categories: ["rock"],
+      dailyCategory: "Rock",
+    },
+    {
+      title: "Kill Bill",
+      artist: "SZA",
+      cover: "/songs/covers/sos.jpg",
+      snippet: "/songs/pop/kill_bill.mp3",
+      categories: ["rap"],
+      dailyCategory: "Rap",
+    },
+  ],
 };
 
 const LEVELS = [
