@@ -5855,6 +5855,32 @@ const manualDaily = {
       dailyCategory: "Rap",
     },
   ],
+    "2026-10-15": [
+     {
+      title: "Dance The Night",
+      artist: "Dua Lipa",
+      cover:  "/songs/covers/barbie.jpg",
+      snippet: "/songs/pop/dance_night.mp3",
+      categories: ["pop"],
+      dailyCategory: "Pop",
+    },
+   {
+      title: "Mystery of Love",
+      artist: "Sufjan Stevens",
+      cover: "https://is1-ssl.mzstatic.com/image/thumb/Music211/v4/db/7b/8e/db7b8e26-c198-903e-671e-e6b56859db5b/43396499461.jpg/600x600bb.jpg",
+      snippet: "/songs/pop/sufjan_stevens_mystery_of_love.mp3",
+      categories: ["rock"],
+      dailyCategory: "Rock",
+    },
+    {
+      title: "Jocelyn Flores",
+      artist: "XXXTENTACION",
+      cover: "/songs/covers/17.jpg",
+      snippet: "/songs/pop/lrn_slime_shiloh_dynasty_jocelyn_flores.mp3",
+      categories: ["rap"],
+      dailyCategory: "Rap",
+    },
+  ],
 };
 
 const LEVELS = [
