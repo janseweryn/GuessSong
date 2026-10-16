@@ -1,45 +1,60 @@
-const { createClient } = require('@supabase/supabase-js');
 
-// Te dane Netlify samo pobierze z "Environment variables", które w panelu
+import { createClient } from '@supabase/supabase-js';
+
 const supabase = createClient(
   process.env.SUPABASE_URL,
   process.env.SUPABASE_KEY
 );
 
-exports.handler = async (event) => {
-  // Obsługa CORS (żeby przeglądarka nie blokowała zapytania)
+export const handler = async (event) => {
   const headers = {
     "Access-Control-Allow-Origin": "*",
     "Access-Control-Allow-Headers": "Content-Type",
     "Access-Control-Allow-Methods": "POST, OPTIONS"
   };
 
-  // Obsługa zapytania wstępnego (pre-flight)
   if (event.httpMethod === "OPTIONS") {
-    return { statusCode: 200, headers };
+    return {
+      statusCode: 200,
+      headers
+    };
+  }
+
+  if (event.httpMethod !== "POST") {
+    return {
+      statusCode: 405,
+      headers,
+      body: JSON.stringify({ error: "Method not allowed" })
+    };
   }
 
   try {
     const { songKey, title, level } = JSON.parse(event.body);
 
-    // Wrzucamy dane do tabeli 'song_stats' w Supabase
     const { error } = await supabase
       .from('song_stats')
-      .insert([{ song_key: songKey, title: title, level: level }]);
+      .insert([
+        {
+          song_key: songKey,
+          title: title,
+          level: level
+        }
+      ]);
 
     if (error) throw error;
 
     return {
       statusCode: 200,
       headers,
-      body: JSON.stringify({ message: "Zapisano statystykę!" }),
+      body: JSON.stringify({ message: "Zapisano statystykę!" })
     };
   } catch (error) {
     console.error("Błąd bazy:", error);
+
     return {
       statusCode: 500,
       headers,
-      body: JSON.stringify({ error: error.message }),
+      body: JSON.stringify({ error: error.message })
     };
   }
 };
