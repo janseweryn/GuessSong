@@ -5881,6 +5881,32 @@ const manualDaily = {
       dailyCategory: "Rap",
     },
   ],
+    "2026-10-17": [
+     {
+      title: "Hot To Go!",
+      artist: "Chappell Roan",
+      cover:  "/songs/covers/princess.jpg",
+      snippet: "/songs/pop/hot_go.mp3",
+      categories: ["pop"],
+      dailyCategory: "Pop",
+    },
+   {
+      title: "Back to the Old House",
+      artist: "The Smiths",
+      cover: "https://is1-ssl.mzstatic.com/image/thumb/Music115/v4/fb/73/d5/fb73d503-8e0a-c17f-7f34-ac5a566a192d/825646642847.jpg/600x600bb.jpg",
+      snippet: "/songs/rock/the_smiths_back_to_the_old_house.mp3",
+      categories: ["rock"],
+      dailyCategory: "Rock",
+    },
+    {
+      title: "Black Beatles (feat. Gucci Mane)",
+      artist: "Rae Sremmurd",
+      cover: "https://is1-ssl.mzstatic.com/image/thumb/Music112/v4/22/fa/68/22fa68f2-4269-4f9d-5cda-9eca2071f0db/16UMGIM21219.rgb.jpg/600x600bb.jpg",
+      snippet: "/songs/rap/rae_sremmurd_black_beatles_feat_gucci_mane.mp3",
+      categories: ["rap"],
+      dailyCategory: "Rap",
+    },
+  ],
 };
 
 const LEVELS = [
