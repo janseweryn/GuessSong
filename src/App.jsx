@@ -57,6 +57,32 @@ const manualDaily = {
       dailyCategory: "Rap",
     },
   ],
+  "2026-10-19": [
+     {
+      title: "Don't You Worry Child (feat. John Martin)",
+      artist: "Swedish House Mafia",
+      cover:  "https://is1-ssl.mzstatic.com/image/thumb/Music124/v4/6a/30/7d/6a307d9d-2d13-999a-3b9c-03221087f845/15UMGIM27846.rgb.jpg/600x600bb.jpg",
+      snippet: "/songs/pop/swedish_house_mafia_don_t_you_worry_child_feat_john_martin.mp3",
+      categories: ["pop"],
+      dailyCategory: "Pop",
+    },
+   {
+      title: "Selfless",
+      artist: "The Strokes",
+      cover: "https://is1-ssl.mzstatic.com/image/thumb/Music115/v4/62/a6/ff/62a6ff2a-95c9-5302-31f4-2dcca9e40323/886448281085.jpg/600x600bb.jpg",
+      snippet: "/songs/rock/the_strokes_selfless.mp3",
+      categories: ["rock"],
+      dailyCategory: "Rock",
+    },
+    {
+      title: "Hate It or Love It (feat. 50 Cent)",
+      artist: "The Game",
+      cover:  "https://is1-ssl.mzstatic.com/image/thumb/Music118/v4/fe/d1/3b/fed13b47-091c-a793-56ad-b2bbc677e92a/00602498641453.rgb.jpg/600x600bb.jpg",
+      snippet: "/songs/rap/the_game_hate_it_or_love_it_feat_50_cent.mp3",
+      categories: ["rap"],
+      dailyCategory: "Rap",
+    },
+  ],
 };
 
 const LEVELS = [
