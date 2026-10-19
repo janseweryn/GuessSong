@@ -83,6 +83,32 @@ const manualDaily = {
       dailyCategory: "Rap",
     },
   ],
+  "2026-10-20": [
+     {
+      title: "We Can't Be Friends (wait for your love)",
+      artist: "Ariana Grande",
+      cover:  "/songs/covers/eternal.jpg",
+      snippet: "/songs/pop/we_cant_friends.mp3",
+      categories: ["pop"],
+      dailyCategory: "Pop",
+    },
+   {
+      title: "Rock the Casbah",
+      artist: "The Clash",
+      cover: "https://is1-ssl.mzstatic.com/image/thumb/Music115/v4/71/b6/8a/71b68ab0-f2d7-5cf0-636c-c27de6ce8aed/886443520707.jpg/600x600bb.jpg",
+      snippet: "/songs/rock/the_clash_rock_the_casbah.mp3",
+      categories: ["rock"],
+      dailyCategory: "Rock",
+    },
+    {
+      title: "Can I Kick It?",
+      artist: "A Tribe Called Quest",
+      cover:  "https://is1-ssl.mzstatic.com/image/thumb/Music115/v4/f8/28/e9/f828e985-7724-112e-1658-80f9dea61952/dj.zpkqadnl.jpg/600x600bb.jpg",
+      snippet: "/songs/rap/a_tribe_called_quest_can_i_kick_it.mp3",
+      categories: ["rap"],
+      dailyCategory: "Rap",
+    },
+  ],
 };
 
 const LEVELS = [
