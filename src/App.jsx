@@ -109,6 +109,32 @@ const manualDaily = {
       dailyCategory: "Rap",
     },
   ],
+  "2026-10-21": [
+     {
+      title: "A Sky Full Of Stars",
+      artist: "Coldplay", 
+      cover:  "/songs/covers/ghost.jpg",
+      snippet: "/songs/pop/full_stars.mp3",
+      categories: ["pop"],
+      dailyCategory: "Pop",
+    },
+   {
+      title: "Angie",
+      artist: "The Rolling Stones",  
+      cover: "/songs/covers/goats.jpg",
+      snippet: "/songs/rock/angie.mp3",
+      categories: ["rock"],
+      dailyCategory: "Rock",
+    },
+    {
+      title: "Godzilla (feat. Juice WRLD)",
+      artist:  "Eminem",
+      cover:  "/songs/covers/musicmurder.jpg",
+      snippet: "/songs/rap/godzilla.mp3",
+      categories: ["rap"],
+      dailyCategory: "Rap",
+    },
+  ],
 };
 
 const LEVELS = [
