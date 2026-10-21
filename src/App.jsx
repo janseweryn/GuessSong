@@ -135,6 +135,32 @@ const manualDaily = {
       dailyCategory: "Rap",
     },
   ],
+  "2026-10-22": [
+     {
+      title: "Lose You To Love Me",
+      artist: "Selena Gomez",
+      cover:  "https://is1-ssl.mzstatic.com/image/thumb/Music115/v4/2f/2a/ab/2f2aabd8-c2e6-a8f3-0ed2-c838488d6ec2/19UMGIM93235.rgb.jpg/600x600bb.jpg",
+      snippet: "/songs/pop/selena_gomez_lose_you_to_love_me.mp3",
+      categories: ["pop"],
+      dailyCategory: "Pop",
+    },
+   {
+      title: "Sour Times",
+      artist: "Portishead", 
+      cover: "https://is1-ssl.mzstatic.com/image/thumb/Music115/v4/c1/71/93/c1719342-df7d-e9c5-c87c-53dae5afb289/00042282855329.rgb.jpg/600x600bb.jpg",
+      snippet: "/songs/pop/portishead_sour_times.mp3",
+      categories: ["rock"],
+      dailyCategory: "Rock",
+    },
+    {
+      title: "death bed (feat. beabadoobee) [coffee for your head]",
+      artist:  "Powfu",
+      cover:  "https://is1-ssl.mzstatic.com/image/thumb/Music125/v4/8b/a9/36/8ba936f3-2d8b-1012-89cc-92f75eb76961/886448289180.jpg/600x600bb.jpg",
+      snippet:  "/songs/rap/powfu_death_bed_feat_beabadoobee_coffee_for_your_head.mp3",
+      categories: ["rap"],
+      dailyCategory: "Rap",
+    },
+  ],
 };
 
 const LEVELS = [
