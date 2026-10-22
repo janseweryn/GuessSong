@@ -161,6 +161,32 @@ const manualDaily = {
       dailyCategory: "Rap",
     },
   ],
+   "2026-10-23": [
+     {
+      title: "Nicole Kidman",
+      artist: "ADÉLA",
+      cover:  "https://is1-ssl.mzstatic.com/image/thumb/Music211/v4/53/c6/9a/53c69a6a-d1c4-0983-a20c-a67dceae554f/26UMGIM82372.rgb.jpg/600x600bb.jpg",
+      snippet: "/songs/pop/ad_la_nicole_kidman.mp3",
+      categories: ["pop"],
+      dailyCategory: "Pop",
+    },
+   {
+      title: "Marianne",
+      artist: "Fontaines D.C.",
+      cover: "https://is1-ssl.mzstatic.com/image/thumb/Music211/v4/24/10/8c/24108c9c-845b-40f3-6175-9effb95e1d5c/191404167373.png/600x600bb.jpg",
+      snippet: "/songs/rock/fontaines_d_c_marianne.mp3",
+      categories: ["rock"],
+      dailyCategory: "Rock",
+    },
+    {
+      title: "SaWaDiKa",
+      artist:  "LISA",
+      cover:  "https://is1-ssl.mzstatic.com/image/thumb/Music211/v4/de/b3/1c/deb31ca3-1670-7bf1-7d02-5cc60d11c882/196874742235.jpg/600x600bb.jpg",
+      snippet:  "/songs/pop/lisa_sawadika.mp3",
+      categories: ["rap"],
+      dailyCategory: "Rap",
+    },
+  ],
 };
 
 const LEVELS = [
