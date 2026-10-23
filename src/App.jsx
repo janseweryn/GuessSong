@@ -187,6 +187,57 @@ const manualDaily = {
       dailyCategory: "Rap",
     },
   ],
+  "2026-10-24": [
+     {
+      title: "I Ain't Worried",
+      artist: "OneRepublic",
+      cover:  "https://is1-ssl.mzstatic.com/image/thumb/Music122/v4/e6/14/14/e6141444-6597-4c3a-7ad1-86304528acf4/22UMGIM45569.rgb.jpg/600x600bb.jpg",
+      snippet: "/songs/pop/onerepublic_i_ain_t_worried.mp3",
+      categories: ["pop"],
+      dailyCategory: "Pop",
+    },
+   {
+      title: "I remember how your hands felt on mine",
+      artist: "Wisp",
+      cover: "https://is1-ssl.mzstatic.com/image/thumb/Music221/v4/99/f2/45/99f245a4-9518-9fa8-d95f-3723819d0f75/24UM1IM11172.rgb.jpg/600x600bb.jpg",
+      snippet: "/songs/rock/wisp_i_remember_how_your_hands_felt_on_mine.mp3",
+      categories: ["rock"],
+      dailyCategory: "Rock",
+    },
+    {
+      title: "Meet Me Halfway",
+      artist: "Black Eyed Peas",
+      cover:  "/songs/covers/end.jpg",
+      snippet:  "/songs/pop/meet_halfway.mp3",
+      categories: ["rap"],
+      dailyCategory: "Rap",
+    },
+  ],
+  "2026-10-25": [
+     {
+      title: "Magnetic",
+      artist: "ILLIT",
+      cover:  "h",
+      snippet: "/songs/pop/tonimi_anime_tunes_illit_magnetic_marimba.mp3",
+      categories: ["pop"],
+      dailyCategory: "Pop",
+    },
+   {
+      title: "Sunshine of Your Love",
+      artist: "Cream",
+      cover: "https://is1-ssl.mzstatic.com/image/thumb/Music115/v4/9f/3f/da/9f3fdaab-98af-bec1-633c-212a2705ccf3/00602537802913.rgb.jpg/600x600bb.jpg",
+      snippet: "/songs/rock/cream_sunshine_of_your_love.mp3",
+      dailyCategory: "Rock",
+    },
+    {
+      title: "Moonlight",
+      artist: "Kali Uchis",
+      cover:  "https://is1-ssl.mzstatic.com/image/thumb/Music123/v4/90/87/bf/9087bfb6-ba9a-3157-f102-a8829e634e33/23UMGIM03412.rgb.jpg/600x600bb.jpg",
+      snippet:  "/songs/pop/kali_uchis_moonlight.mp3",
+      categories: ["rap"],
+      dailyCategory: "Rap",
+    },
+  ],
 };
 
 const LEVELS = [
