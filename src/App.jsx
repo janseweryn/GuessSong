@@ -238,6 +238,31 @@ const manualDaily = {
       dailyCategory: "Rap",
     },
   ],
+  "2026-10-27": [
+     {
+      title: "I Knew You Were Trouble",
+      artist: "Taylor Swift",  
+      cover:  "/songs/covers/red.jpg",
+      snippet: "/songs/pop/knew_trouble.mp3",
+      categories: ["pop"],
+      dailyCategory: "Pop",
+    },
+   {
+      title: "Stairway to Heaven",
+      artist: "Led Zeppelin", 
+      cover: "/songs/covers/zeppelin4.jpg",
+      snippet: "/songs/rock/stairway_heaven.mp3",
+      dailyCategory: "Rock",
+    },
+    {
+      title: "Paint The Town Red",
+      artist: "Doja Cat", 
+      cover:  "/songs/covers/scarlet.jpg",
+      snippet: "/songs/pop/town_red.mp3",
+      categories: ["rap"],
+      dailyCategory: "Rap",
+    },
+  ],
 };
 
 const LEVELS = [
