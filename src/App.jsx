@@ -263,6 +263,31 @@ const manualDaily = {
       dailyCategory: "Rap",
     },
   ],
+  "2026-10-28": [
+     {
+      title: "Yes Or Yes",
+      artist: "Twice",  
+      cover:  "/songs/covers/yes.jpg",
+      snippet: "/songs/pop/yes2.mp3",
+      categories: ["pop"],
+      dailyCategory: "Pop",
+    },
+   {
+      title: "Take On Me",
+      artist: "a-ha",
+      cover: "https://is1-ssl.mzstatic.com/image/thumb/Music124/v4/3e/0a/38/3e0a38d9-b138-429a-61e1-aeac2fad3263/mzi.iefykuuf.jpg/600x600bb.jpg",
+      snippet: "/songs/pop/a_ha_take_on_me.mp3",
+      dailyCategory: "Rock",
+    },
+    {
+      title: "Kiss Me More (feat. SZA)",
+      artist: "Doja Cat", 
+      cover: "/songs/covers/her.jpg",
+      snippet: "/songs/pop/kiss_more.mp3",
+      categories: ["rap"],
+      dailyCategory: "Rap",
+    },
+  ],
 };
 
 const LEVELS = [
