@@ -288,6 +288,31 @@ const manualDaily = {
       dailyCategory: "Rap",
     },
   ],
+   "2026-10-29": [
+     {
+      title: "Be the One",
+      artist: "Dua Lipa",
+      cover:  "https://is1-ssl.mzstatic.com/image/thumb/Music126/v4/c1/54/2d/c1542d45-c6c2-12ca-7308-6eacd762c562/190295807870.jpg/600x600bb.jpg",
+      snippet: "/songs/pop/dua_lipa_be_the_one.mp3",
+      categories: ["pop"],
+      dailyCategory: "Pop",
+    },
+   {
+      title: "Riot",
+      artist: "Three Days Grace",
+      cover: "/songs/covers/onex.jpg",
+      snippet: "/songs/rock/riot.mp3",
+      dailyCategory: "Rock",
+    },
+    {
+      title: "TV Off (feat. Lefty Gunplay)",
+      artist: "Kendrick Lamar",
+      cover: "/songs/covers/gnx.jpg",
+      snippet: "/songs/rap/tv_off.mp3",
+      categories: ["rap"],
+      dailyCategory: "Rap",
+    },
+  ],
 };
 
 const LEVELS = [
