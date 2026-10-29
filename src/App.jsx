@@ -313,6 +313,31 @@ const manualDaily = {
       dailyCategory: "Rap",
     },
   ],
+   "2026-10-30": [
+     {
+      title: "Maps",
+      artist: "Maroon 5",
+      cover:  "https://is1-ssl.mzstatic.com/image/thumb/Music112/v4/0d/f0/8b/0df08b64-3743-4ae0-f3cc-1314716d841d/14UMGIM31675.rgb.jpg/600x600bb.jpg",
+      snippet: "/songs/pop/maroon_5_maps.mp3",
+      categories: ["pop"],
+      dailyCategory: "Pop",
+    },
+   {
+      title: "Bigmouth Strikes Again",
+      artist: "The Smiths",
+      cover: "https://is1-ssl.mzstatic.com/image/thumb/Music125/v4/1a/e8/70/1ae870c3-b402-096b-c4c4-8022af5a2ed9/745099189662.jpg/600x600bb.jpg",
+      snippet: "/songs/rock/the_smiths_bigmouth_strikes_again.mp3",
+      dailyCategory: "Rock",
+    },
+    {
+      title: "Wake Up in the Sky",
+      artist: "Gucci Mane, Bruno Mars & Kodak Black",
+      cover: "https://is1-ssl.mzstatic.com/image/thumb/Music118/v4/79/25/9a/79259a8e-b09e-cf09-e2d2-1159956cf303/075679856241.jpg/600x600bb.jpg",
+      snippet: "/songs/rap/gucci_mane_bruno_mars_kodak_black_wake_up_in_the_sky.mp3",
+      categories: ["rap"],
+      dailyCategory: "Rap",
+    },
+  ],
 };
 
 const LEVELS = [
