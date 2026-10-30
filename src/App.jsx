@@ -338,6 +338,31 @@ const manualDaily = {
       dailyCategory: "Rap",
     },
   ],
+  "2026-10-31": [
+     {
+      title: "Spooky, Scary Skeletons",
+      artist: "Andrew Gold",
+      cover:  "https://is1-ssl.mzstatic.com/image/thumb/Music112/v4/d4/fc/a7/d4fca707-6a4a-1766-dda6-cce312965889/22CRGIM34104.rgb.jpg/600x600bb.jpg",
+      snippet: "/songs/pop/andrew_gold_dave_wave_spooky_scary_skeletons_dave_wave_electro_swing_remix.mp3",
+      categories: ["pop"],
+      dailyCategory: "Pop",
+    },
+   {
+      title: "Thriller",
+      artist: "Michael Jackson",
+      cover: "/songs/covers/thriller.jpg",
+      snippet: "/songs/pop/jackson_5_i_can_only_give_you_love.mp3",
+      dailyCategory: "Rock",
+    },
+    {
+      title: "The Monster (feat. Rihanna)",
+      artist: "Eminem", 
+      cover: "/songs/covers/recovery.jpg",
+      snippet: "/songs/rap/monster.mp3",
+      categories: ["rap"],
+      dailyCategory: "Rap",
+    },
+  ],
 };
 
 const LEVELS = [
