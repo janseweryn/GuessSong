@@ -363,6 +363,31 @@ const manualDaily = {
       dailyCategory: "Rap",
     },
   ],
+  "2026-11-01": [
+     {
+      title: "Drop Dead",
+      artist: "Olivia Rodrigo",
+      cover:  "/songs/covers/Drop_Dead.png",
+      snippet: "/songs/pop/Olivia_Rodrigo_drop_dead.mp3",
+      categories: ["pop"],
+      dailyCategory: "Pop",
+    },
+   {
+      title: "Bal Wszystkich Świętych",
+      artist: "Budka Suflera",
+      cover: "https://is1-ssl.mzstatic.com/image/thumb/Music124/v4/c8/22/8e/c8228ee3-9f67-c33a-8e34-dbd2e7891832/Budka_Suflera_-_Bal_wszystkich_s_wie_tych_COVER.png/600x600bb.jpg",
+      snippet: "/songs/Polskie/budka_suflera_bal_wszystkich_swietych.mp3",
+      dailyCategory: "Rock",
+    },
+    {
+      title: "Come Back to Earth",
+      artist: "Mac Miller",
+      cover: "https://is1-ssl.mzstatic.com/image/thumb/Music124/v4/e3/38/b5/e338b529-da3f-b4b9-b8f9-1fae428e7a23/093624905899.jpg/600x600bb.jpg",
+      snippet: "/songs/rap/mac_miller_come_back_to_earth.mp3",
+      categories: ["rap"],
+      dailyCategory: "Rap",
+    },
+  ],
 };
 
 const LEVELS = [
