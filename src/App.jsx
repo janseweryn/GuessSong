@@ -388,6 +388,31 @@ const manualDaily = {
       dailyCategory: "Rap",
     },
   ],
+  "2026-11-02": [
+     {
+      title: "You Spin Me Round (Like a Record)",
+      artist: "Dead or Alive",
+      cover:  "https://is1-ssl.mzstatic.com/image/thumb/Music115/v4/1c/84/31/1c8431ca-9852-169c-ad8c-bcf97cc62ae4/mzi.dugjeekd.jpg/600x600bb.jpg",
+      snippet: "/songs/pop/dead_or_alive_you_spin_me_round_like_a_record.mp3",
+      categories: ["pop"],
+      dailyCategory: "Pop",
+    },
+   {
+      title: "Day Of The Dead",
+      artist: "Hollywood Undead",
+      cover: "/songs/covers/daydead.jpg",
+      snippet: "/songs/rock/day_dead.mp3",
+      dailyCategory: "Rock",
+    },
+    {
+      title: "Look At Me!",
+      artist: "XXXTENTACION",
+      cover: "https://is1-ssl.mzstatic.com/image/thumb/Music124/v4/70/aa/87/70aa8723-81da-ca48-c395-ab1cb19bbc9b/888915347232_cover.jpg/600x600bb.jpg",
+      snippet: "/songs/rap/xxxtentacion_look_at_me.mp3",
+      categories: ["rap"],
+      dailyCategory: "Rap",
+    },
+  ],
 };
 
 const LEVELS = [
