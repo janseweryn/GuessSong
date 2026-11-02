@@ -413,6 +413,31 @@ const manualDaily = {
       dailyCategory: "Rap",
     },
   ],
+  "2026-11-03": [
+     {
+      title: "No Tears Left To Cry",
+      artist: "Ariana Grande",
+      cover:  "/songs/covers/sweet.jpg",
+      snippet: "/songs/pop/tears_left.mp3",
+      categories: ["pop"],
+      dailyCategory: "Pop",
+    },
+   {
+      title: "Tears In Heaven",
+      artist: "Eric Clapton",
+      cover: "https://is1-ssl.mzstatic.com/image/thumb/Music122/v4/52/8b/d8/528bd887-f2c7-3e59-a100-b517e064d908/603497909032.jpg/600x600bb.jpg",
+      snippet: "/songs/rock/eric_clapton_tears_in_heaven_acoustic_live.mp3",
+      dailyCategory: "Rock",
+    },
+    {
+      title: "Niepowstrzymany",
+      artist: "Gimpson",
+      cover: "https://is1-ssl.mzstatic.com/image/thumb/Music211/v4/f5/42/de/f542de53-d538-58d8-28b6-d1974a545d9c/5902114895136.jpg/600x600bb.jpg",
+      snippet: "/songs/Polskie/gimpson_niepowstrzymany.mp3",
+      categories: ["rap"],
+      dailyCategory: "Rap",
+    },
+  ],
 };
 
 const LEVELS = [
