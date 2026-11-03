@@ -438,6 +438,31 @@ const manualDaily = {
       dailyCategory: "Rap",
     },
   ],
+  "2026-11-04": [
+     {
+      title: "California Gurls (feat. Snoop Dogg)",
+      artist: "Katy Perry",
+      cover:  "/songs/covers/teenagedream.jpg",
+      snippet: "/songs/pop/california_gurls.mp3",
+      categories: ["pop"],
+      dailyCategory: "Pop",
+    },
+   {
+      title: "Dust In the Wind",
+      artist: "Kansas",
+      cover: "https://is1-ssl.mzstatic.com/image/thumb/Music125/v4/05/05/5d/05055d03-fa2b-1848-75a4-6b626477937c/mzi.icapguzh.jpg/600x600bb.jpg",
+      snippet: "/songs/rock/kansas_dust_in_the_wind.mp3",
+      dailyCategory: "Rock",
+    },
+    {
+      title: "N.Y. State of Mind",
+      artist: "Nas",
+      cover: "https://is1-ssl.mzstatic.com/image/thumb/Music125/v4/b9/eb/cc/b9ebccbc-5ba4-2cdb-5332-b065739abd9a/886444567619.jpg/600x600bb.jpg",
+      snippet: "/songs/rap/nas_n_y_state_of_mind.mp3",
+      categories: ["rap"],
+      dailyCategory: "Rap",
+    },
+  ],
 };
 
 const LEVELS = [
