@@ -463,6 +463,31 @@ const manualDaily = {
       dailyCategory: "Rap",
     },
   ],
+  "2026-11-05": [
+     {
+      title: "Blue Jeans",
+      artist: "Lana Del Rey",
+      cover:  "https://is1-ssl.mzstatic.com/image/thumb/Music211/v4/59/10/66/591066ea-3c85-3dfe-ef82-ffdbbcdfc8b9/12UMGIM00033.rgb.jpg/600x600bb.jpg",
+      snippet: "/songs/rock/lana_del_rey_blue_jeans.mp3",
+      categories: ["pop"],
+      dailyCategory: "Pop",
+    },
+   {
+      title: "Mr. Blue Sky",
+      artist: "Electric Light Orchestra",
+      cover: "https://is1-ssl.mzstatic.com/image/thumb/Music221/v4/a3/6e/74/a36e7450-3818-f2c1-a137-d4ef5934c119/827969448922.jpg/600x600bb.jpg",
+      snippet: "/songs/rock/electric_light_orchestra_mr_blue_sky.mp3",
+      dailyCategory: "Rock",
+    },
+    {
+      title: "Heartbeat",
+      artist: "Childish Gambino",
+      cover: "https://is1-ssl.mzstatic.com/image/thumb/Music221/v4/8f/23/b8/8f23b822-dd02-573a-60d7-b20226819fd1/0892038002411_Cover.jpg/600x600bb.jpg",
+      snippet: "/songs/rap/childish_gambino_heartbeat.mp3",
+      categories: ["rap"],
+      dailyCategory: "Rap",
+    },
+  ],
 };
 
 const LEVELS = [
