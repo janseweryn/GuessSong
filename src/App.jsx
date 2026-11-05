@@ -488,6 +488,31 @@ const manualDaily = {
       dailyCategory: "Rap",
     },
   ],
+  "2026-11-06": [
+     {
+      title: "Lucid Dreams",
+      artist: "Juice WRLD",
+      cover:  "https://is1-ssl.mzstatic.com/image/thumb/Music115/v4/07/2b/a4/072ba4fa-7f4c-f478-6f22-13f9e62ac1be/21UMGIM53733.rgb.jpg/600x600bb.jpg",
+      snippet: "/songs/rap/juice_wrld_lucid_dreams.mp3",
+      categories: ["pop"],
+      dailyCategory: "Pop",
+    },
+   {
+      title: "Shape of My Heart",
+      artist: "Sting",
+      cover: "https://is1-ssl.mzstatic.com/image/thumb/Music221/v4/59/ac/f4/59acf4db-0ea8-a8e5-5607-01e931bb2d58/06UMGIM49867.rgb.jpg/600x600bb.jpg",
+      snippet:  "/songs/rock/sting_shape_of_my_heart.mp3",
+      dailyCategory: "Rock",
+    },
+    {
+      title: "The Message",
+      artist: "Nas",
+      cover: "https://is1-ssl.mzstatic.com/image/thumb/Music125/v4/b9/eb/cc/b9ebccbc-5ba4-2cdb-5332-b065739abd9a/886444567619.jpg/600x600bb.jpg",
+      snippet: "/songs/pop/grandmaster_flash_the_furious_five_the_message2.mp3",
+      categories: ["rap"],
+      dailyCategory: "Rap",
+    },
+  ],
 };
 
 const LEVELS = [
