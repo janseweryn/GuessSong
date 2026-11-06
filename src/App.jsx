@@ -513,6 +513,31 @@ const manualDaily = {
       dailyCategory: "Rap",
     },
   ],
+   "2026-11-07": [
+     {
+      title: "All I Want for Christmas Is You",
+      artist:  "Mariah Carey",
+      cover:  "a",
+      snippet:  "/songs/pop/clay_walker_all_i_want_for_christmas_is_you_feat_mary_elizabeth_walker.mp3",
+      categories: ["pop"],
+      dailyCategory: "Pop",
+    },
+   {
+      title: "Take Me Out",
+      artist: "Franz Ferdinand",
+      cover:  "https://is1-ssl.mzstatic.com/image/thumb/Music112/v4/83/c6/54/83c6541f-3b90-b46a-b46a-17bf8fd9af16/5034202113645.png/600x600bb.jpg",
+      snippet:   "/songs/pop/franz_ferdinand_take_me_out.mp3",
+      dailyCategory: "Rock",
+    },
+    {
+      title: "Hold On, We're Going Home (feat. Majid Jordan)",
+      artist: "Drake",
+      cover: "https://is1-ssl.mzstatic.com/image/thumb/Music115/v4/51/61/f3/5161f3c4-2292-f035-eb68-6f95bbc9edd6/00602537542338.rgb.jpg/600x600bb.jpg",
+      snippet: "/songs/rap/drake_hold_on_we_re_going_home_feat_majid_jordan.mp3",
+      categories: ["rap"],
+      dailyCategory: "Rap",
+    },
+  ],
 };
 
 const LEVELS = [
