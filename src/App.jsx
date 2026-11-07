@@ -538,6 +538,31 @@ const manualDaily = {
       dailyCategory: "Rap",
     },
   ],
+   "2026-11-08": [
+     {
+      title: "Sign of the Times",
+      artist:  "Harry Styles",
+      cover: "https://is1-ssl.mzstatic.com/image/thumb/Music124/v4/3d/5e/aa/3d5eaaa3-9a86-c264-5cd5-7fac83f99a59/886446451978.jpg/600x600bb.jpg",
+      snippet:  "/songs/pop/harry_styles_sign_of_the_times.mp3",
+      categories: ["pop"],
+      dailyCategory: "Pop",
+    },
+   {
+      title:  "That's All",
+      artist: "Genesis",
+      cover: "https://is1-ssl.mzstatic.com/image/thumb/Music115/v4/8b/7b/ce/8b7bcee5-4c31-aab1-7a65-82e757057e83/mzi.ykiyfzna.jpg/600x600bb.jpg",
+      snippet:   "/songs/rock/genesis_that_s_all.mp3",
+      dailyCategory: "Rock",
+    },
+    {
+      title: "Grill u Gawrona",
+      artist: "Białas & Lanek",
+      cover: "https://is1-ssl.mzstatic.com/image/thumb/Music115/v4/51/61/f3/5161f3c4-2292-f035-eb68-6f95bbc9edd6/00602537542338.rgb.jpg/600x600bb.jpg",
+      snippet:  "/songs/Polskie/bialas_lanek_grill_u_gawrona.mp3",
+      categories: ["rap"],
+      dailyCategory: "Rap",
+    },
+  ],
 };
 
 const LEVELS = [
