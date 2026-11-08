@@ -563,6 +563,31 @@ const manualDaily = {
       dailyCategory: "Rap",
     },
   ],
+  "2026-11-09": [
+     {
+      title: "Girl On Fire",
+      artist:  "Alicia Keys",
+      cover: "https://is1-ssl.mzstatic.com/image/thumb/Music125/v4/a7/66/bd/a766bd53-e015-62e7-fbbc-ab7dd628a989/886443653634.jpg/600x600bb.jpg",
+      snippet:  "/songs/pop/alicia_keys_girl_on_fire.mp3",
+      categories: ["pop"],
+      dailyCategory: "Pop",
+    },
+   {
+      title:  "R U Mine?",
+      artist: "Arctic Monkeys",
+      cover: "/songs/covers/am.jpg",
+      snippet:   "/songs/rock/ru_mine.mp3",
+      dailyCategory: "Rock",
+    },
+    {
+      title: "Money In My Pocket (MOMO)",
+      artist:  "MISAMO",
+      cover: "/songs/covers/momo.jpg",
+      snippet:  "/songs/pop/dennis_brown_money_in_my_pocket.mp3",
+      categories: ["rap"],
+      dailyCategory: "Rap",
+    },
+  ],
 };
 
 const LEVELS = [
