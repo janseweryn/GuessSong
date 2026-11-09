@@ -588,6 +588,31 @@ const manualDaily = {
       dailyCategory: "Rap",
     },
   ],
+  "2026-11-10": [
+     {
+      title: "Golden",
+      artist:  "HUNTR/X, EJAE, AUDREY NUNA, REI AMI & KPop Demon Hunters Cast",
+      cover: "https://is1-ssl.mzstatic.com/image/thumb/Music211/v4/e1/15/42/e1154273-8ecd-5702-e6e6-597f28001681/25UMGIM82363.rgb.jpg/600x600bb.jpg",
+      snippet:   "/songs/pop/huntr_x_ejae_audrey_nuna_rei_ami_kpop_demon_hunters_cast_golden.mp3",
+      categories: ["pop"],
+      dailyCategory: "Pop",
+    },
+   {
+      title:  "Barracuda",
+      artist: "Heart",
+      cover: "https://is1-ssl.mzstatic.com/image/thumb/Music115/v4/1b/83/f2/1b83f233-20c6-c876-ab7a-15757ad397b1/074643479929.jpg/600x600bb.jpg",
+      snippet:  "/songs/rock/heart_barracuda.mp3",
+      dailyCategory: "Rock",
+    },
+    {
+      title: "EVIL J0RDAN",
+      artist:  "Playboi Carti", 
+      cover: "/songs/covers/music.jpg",
+      snippet:  "/songs/rap/jordan.mp3",
+      categories: ["rap"],
+      dailyCategory: "Rap",
+    },
+  ],
 };
 
 const LEVELS = [
