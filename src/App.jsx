@@ -713,6 +713,31 @@ const manualDaily = {
       dailyCategory: "Rap",
     },
   ],
+  "2026-11-15": [
+     {
+      title: "Side to Side (feat. Nicki Minaj)",
+      artist:  "Ariana Grande",
+      cover: "/songs/covers/woman.jpg",
+      snippet:   "/songs/pop/side_to_side.mp3",
+      categories: ["pop"],
+      dailyCategory: "Pop",
+    },
+   {
+      title:  "Radio Ga Ga",
+      artist: "Queen",
+      cover: "/songs/covers/works.jpg",
+      snippet: "/songs/rock/gaga.mp3",
+      dailyCategory: "Rock",
+    },
+    {
+      title: "Sucker For Pain (with Logic, Ty Dolla $ign & X Ambassadors)",
+      artist: "Lil Wayne, Wiz Khalifa & Imagine Dragons",
+      cover: "https://is1-ssl.mzstatic.com/image/thumb/Music125/v4/ea/7b/3a/ea7b3a69-b589-603a-037c-b161f328afb1/075679910462.jpg/600x600bb.jpg",
+      snippet:  "/songs/rap/lil_wayne_wiz_khalifa_imagine_dragons_sucker_for_pain_with_logic_ty_dolla_ign_x_ambassadors.mp3",
+      categories: ["rap"],
+      dailyCategory: "Rap",
+    },
+  ],
 };
 
 const LEVELS = [
