@@ -738,6 +738,31 @@ const manualDaily = {
       dailyCategory: "Rap",
     },
   ],
+  "2026-11-16": [
+     {
+      title: "Please Please Please",
+      artist:  "Sabrina Carpenter",
+      cover: "/songs/covers/short_sweet.jpg",
+      snippet:   "/songs/pop/ppp.mp3",
+      categories: ["pop"],
+      dailyCategory: "Pop",
+    },
+   {
+      title:  "The Trooper",
+      artist: "Iron Maiden",  
+      cover: "/songs/covers/piecemind.jpg",
+      snippet: "/songs/rock/trooper.mp3",
+      dailyCategory: "Rock",
+    },
+    {
+      title: "Can't Tell Me Nothing",
+      artist: "Kanye West",  
+      cover: "/songs/covers/graduation.jpg",
+      snippet: "/songs/rap/tell_nothing.mp3",
+      categories: ["rap"],
+      dailyCategory: "Rap",
+    },
+  ],
 };
 
 const LEVELS = [
