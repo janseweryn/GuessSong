@@ -763,6 +763,31 @@ const manualDaily = {
       dailyCategory: "Rap",
     },
   ],
+   "2026-11-17": [
+     {
+      title: "Where Is my Husband!",
+      artist:  "Raye",  
+      cover: "/songs/covers/husband.jpg",
+      snippet:   "/songs/pop/husband.mp3",
+      categories: ["pop"],
+      dailyCategory: "Pop",
+    },
+   {
+      title:  "what’s wrong with me",
+      artist: "Olivia Rodrigo & Robert Smith",
+      cover: "https://is1-ssl.mzstatic.com/image/thumb/Music221/v4/1d/1b/f9/1d1bf9b1-44c6-9a6c-6ffb-c158488c06ce/26UMGIM39303.rgb.jpg/600x600bb.jpg",
+      snippet: "/songs/pop/olivia_rodrigo_robert_smith_what_s_wrong_with_me.mp3",
+      dailyCategory: "Rock",
+    },
+    {
+      title: "Body",
+      artist: "Don Toliver", 
+      cover: "https://is1-ssl.mzstatic.com/image/thumb/Music221/v4/00/c1/dd/00c1dd09-3f86-7288-01dc-63b9f4262f57/075679599377.jpg/600x600bb.jpg",
+      snippet: "/songs/rap/don_toliver_body.mp3",
+      categories: ["rap"],
+      dailyCategory: "Rap",
+    },
+  ],
 };
 
 const LEVELS = [
