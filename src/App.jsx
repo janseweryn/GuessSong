@@ -788,6 +788,31 @@ const manualDaily = {
       dailyCategory: "Rap",
     },
   ],
+  "2026-11-18": [
+     {
+      title: "Die On This Hill",
+      artist: "SIENNA SPIRO",
+      cover: "https://is1-ssl.mzstatic.com/image/thumb/Music221/v4/f0/53/d1/f053d15c-e4b0-7577-dc4d-2ab7d192e1b9/25UM1IM42518.rgb.jpg/600x600bb.jpg",
+      snippet:   "/songs/pop/sienna_spiro_die_on_this_hill.mp3",
+      categories: ["pop"],
+      dailyCategory: "Pop",
+    },
+   {
+      title:  "Going Under",
+      artist: "Evanescence",
+      cover: "https://is1-ssl.mzstatic.com/image/thumb/Music115/v4/10/4c/21/104c21e6-9ef0-4d3a-d1bd-d47167f121e5/00601501406300.rgb.jpg/600x600bb.jpg",
+      snippet: "/songs/rock/evanescence_going_under.mp3",
+      dailyCategory: "Rock",
+    },
+    {
+      title: "Can't Hold Us (feat. Ray Dalton)",
+      artist: "Macklemore & Ryan Lewis",
+      cover: "/songs/covers/heist.jpg",
+      snippet: "/songs/pop/cant_hold.mp3",
+      categories: ["rap"],
+      dailyCategory: "Rap",
+    },
+  ],
 };
 
 const LEVELS = [
