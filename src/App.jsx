@@ -813,6 +813,31 @@ const manualDaily = {
       dailyCategory: "Rap",
     },
   ],
+  "2026-11-19": [
+     {
+      title: "Gimme More",
+      artist: "Britney Spears",  
+      cover: "/songs/covers/blackout.jpg",
+      snippet:  "/songs/pop/gimme_more.mp3",
+      categories: ["pop"],
+      dailyCategory: "Pop",
+    },
+   {
+      title:  "Ruby",
+      artist: "Kaiser Chiefs",
+      cover: "https://is1-ssl.mzstatic.com/image/thumb/Music128/v4/c5/e6/83/c5e6833f-f0c8-a2e1-13b2-ba7e9a170eb5/00602547151865.rgb.jpg/600x600bb.jpg",
+      snippet: "/songs/rock/kaiser_chiefs_ruby.mp3",
+      dailyCategory: "Rock",
+    },
+    {
+      title: "EASY",
+      artist: "LE SSERAFIM",
+      cover: "https://is1-ssl.mzstatic.com/image/thumb/Music221/v4/22/0f/fd/220ffdbf-152c-5b65-d5af-01256c1328c2/196922796531_Cover.jpg/600x600bb.jpg",
+      snippet: "/songs/pop/le_sserafim_easy.mp3",
+      categories: ["rap"],
+      dailyCategory: "Rap",
+    },
+  ],
 };
 
 const LEVELS = [
