@@ -838,6 +838,31 @@ const manualDaily = {
       dailyCategory: "Rap",
     },
   ],
+  "2026-11-20": [
+     {
+      title:  "Shotgun",
+      artist: "George Ezra",
+      cover: "/songs/covers/blackout.jpg",
+      snippet:  "https://is1-ssl.mzstatic.com/image/thumb/Music115/v4/b0/47/cf/b047cf32-2af6-7ed5-754e-e4eed488be27/886446561875.jpg/600x600bb.jpg",
+      categories: ["pop"],
+      dailyCategory: "Pop",
+    },
+   {
+      title:  "Lonely Boy",
+      artist: "The Black Keys",
+      cover: "https://is1-ssl.mzstatic.com/image/thumb/Music115/v4/55/39/ca/5539caf8-333e-5ad2-06ca-eaf5d84cd264/mzm.nmxwulyo.jpg/600x600bb.jpg",
+      snippet: "/songs/rock/the_black_keys_lonely_boy.mp3",
+      dailyCategory: "Rock",
+    },
+    {
+      title: "Rzabol w Rapie",
+      artist: "Rzabka",
+      cover: "/songs/covers/rzabol.png",
+      snippet: "/songs/Polskie/RzabolwRapie.mp3",
+      categories: ["rap"],
+      dailyCategory: "Rap",
+    },
+  ],
 };
 
 const LEVELS = [

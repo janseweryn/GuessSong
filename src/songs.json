@@ -4953,7 +4953,7 @@
     "artist": "Twice",  
     "categories": ["Pop","Pop 20s","Rap", "Rap 00s"],
     "snippet": "/songs/pop/move_that.mp3",
-    "cover": "/songs/covers/a.jpg"
+    "cover": "/songs/covers/momo.jpg"
   },
    { 
    "title": "Paranoid",
@@ -15114,6 +15114,13 @@
     "cover": "https://is1-ssl.mzstatic.com/image/thumb/Music126/v4/7d/22/97/7d229722-d4ea-9802-120a-5ee2cbf91dc6/4050538785579.jpg/600x600bb.jpg"
   },
   {
+    "title": "Rzabol w Rapie",
+    "artist": "Rzabka",
+    "categories": ["Polskie Rap", "Polskie Rap 10s"],
+    "snippet": "/songs/Polskie/RzabolwRapie.mp3",
+    "cover": "/songs/covers/rzabol.png"
+  },
+  {
     "title": "Purple Rain",
     "artist": "Prince & The Revolution",
     "categories": ["Pop", "Pop 80s"],
@@ -15462,6 +15469,13 @@
     "categories": ["Pop", "Pop 20s"],
     "snippet": "/songs/pop/olivia_rodrigo_serena_joy.mp3",
     "cover": "https://is1-ssl.mzstatic.com/image/thumb/Music221/v4/74/88/51/748851f3-26da-36f5-65a3-d41fe0b292ec/26UM1IM06641.rgb.jpg/600x600bb.jpg"
+  },
+  {
+    "title": "Die On This Hill",
+    "artist": "SIENNA SPIRO",
+    "categories": ["Pop", "Pop 20s"],
+    "snippet": "/songs/pop/sienna_spiro_die_on_this_hill.mp3",
+    "cover": "https://is1-ssl.mzstatic.com/image/thumb/Music221/v4/f0/53/d1/f053d15c-e4b0-7577-dc4d-2ab7d192e1b9/25UM1IM42518.rgb.jpg/600x600bb.jpg"
   },
   {
     "title": "what’s wrong with me",
