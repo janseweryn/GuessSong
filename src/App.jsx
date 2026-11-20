@@ -842,8 +842,8 @@ const manualDaily = {
      {
       title:  "Shotgun",
       artist: "George Ezra",
-      cover: "/songs/covers/blackout.jpg",
-      snippet:  "https://is1-ssl.mzstatic.com/image/thumb/Music115/v4/b0/47/cf/b047cf32-2af6-7ed5-754e-e4eed488be27/886446561875.jpg/600x600bb.jpg",
+      cover: "/https://is1-ssl.mzstatic.com/image/thumb/Music115/v4/b0/47/cf/b047cf32-2af6-7ed5-754e-e4eed488be27/886446561875.jpg/600x600bb.jpg",
+      snippet:  "/songs/pop/george_ezra_shotgun.mp3",
       categories: ["pop"],
       dailyCategory: "Pop",
     },
