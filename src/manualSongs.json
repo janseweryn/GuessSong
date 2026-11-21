@@ -738,6 +738,41 @@
     "cover": "/songs/covers/cure.png"
   },
   {
+    "title": "Clock Strikes",
+    "artist": "ONE OK ROCK",
+    "categories": ["Rock", "Rock 10s"],
+    "snippet": "/songs/rock/wildside_clock_strikes.mp3",
+    "cover": "/songs/covers/jinseiboku.png"
+  },
+  {
+    "title": "List",
+    "artist": "Hey",
+    "categories": ["Polskie Rock", "Polskie Rock 90s"],
+    "snippet": "/songs/Polskie/bruno_mars_marry_you.mp3",
+    "cover": "/songs/covers/list.png"
+  },
+  {
+    "title": "diss na całą polską rap scene",
+    "artist": "TWR aka Król Podziemia",
+    "categories": ["Polskie Rap", "Polskie Rap 20s"],
+    "snippet": "/songs/Polskie/twrdiss.mp3",
+    "cover": "/songs/covers/twrdiss.png"
+  },
+  {
+    "title": "MC Hammer",
+    "artist": "TWR aka Król Podziemia",
+    "categories": ["Polskie Rap", "Polskie Rap 20s"],
+    "snippet": "/songs/Polskie/twrmlot.mp3",
+    "cover": "/songs/covers/twrmlot.png"
+  },
+  {
+    "title": "The Beginning",
+    "artist": "ONE OK ROCK",
+    "categories": ["Rock", "Rock 10s"],
+    "snippet": "/songs/rock/fannix_one_ok_rock_the_beginning.mp3",
+    "cover": "/songs/covers/jinseiboku.png"
+  },
+  {
       "title": "Impact (feat. xaviersobased)",
       "artist": "Nettspend",
       "categories": ["Rap", "Rap 20s"],
@@ -779,6 +814,7 @@
     "snippet": "/songs/rap/dru_hill_i_love_you.mp3",
     "cover": "https://is1-ssl.mzstatic.com/image/thumb/Music113/v4/4c/7e/1b/4c7e1be2-0274-1aab-cb99-63e06a89586a/06UMGIM14172.rgb.jpg/600x600bb.jpg"
   },
+  
   {
     "title": "Welcome Home (Sanitariun)",
     "artist": "Metallica",
@@ -792,6 +828,13 @@
     "categories": ["Rock", "Rock 20s"],
     "snippet": "/songs/rock/green_day_oh_yeah.mp3",
     "cover": "https://is1-ssl.mzstatic.com/image/thumb/Music114/v4/d1/0d/a4/d10da4d8-cd8b-99ae-3064-7ff617cf1fd2/093624897613.jpg/600x600bb.jpg"
+  },
+  {
+    "title": "All 'Bout the Money",
+    "artist": "Meja",
+    "categories": ["Rap", "Rap 00s"],
+    "snippet": "/songs/rap/gucci_mane_all_about_the_money_feat_rick_ross.mp3",
+    "cover": "https://is1-ssl.mzstatic.com/image/thumb/Music221/v4/07/11/9d/07119da9-29b2-d223-91e3-e2d67c3f05eb/093624974130.jpg/600x600bb.jpg"
   },
   {
     "title": "Intoxicated",
@@ -816,5 +859,12 @@
     "categories": ["Polskie Rap", "Polskie Rap 10s"],
     "snippet": "/songs/Polskie/taconafide_quebonafide_taco_hemingway_metallica_808.mp3",
     "cover": "https://is1-ssl.mzstatic.com/image/thumb/Music126/v4/4d/bc/56/4dbc56e0-bce7-a1db-ae86-9c774ea4cb36/23UMGIM28916.rgb.jpg/600x600bb.jpg"
+  },
+  {
+    "title": "Rzabol w Rapie",
+    "artist": "Rzabka",
+    "categories": ["Polskie Rap", "Polskie Rap 10s"],
+    "snippet": "/songs/Polskie/RzabolwRapie.mp3",
+    "cover": "a"
   }
 ]

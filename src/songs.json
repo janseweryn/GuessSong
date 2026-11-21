@@ -7,6 +7,41 @@
     "cover": "/songs/covers/when_we_all_fall.jpg"
   },
   {
+    "title": "The Way I Am",
+    "artist": "Eminem",
+    "categories": ["Rap", "Rap 90s"],
+    "snippet": "/songs/pop/charlie_puth_the_way_i_am.mp3",
+    "cover": "/songs/covers/slim_shady.jpg"
+  },
+  {
+    "title": "Scars",
+    "artist": "Papa Roach",
+    "categories": ["Rock", "Rock 00s"],
+    "snippet": "/songs/rock/papa_roach_scars.mp3",
+    "cover": "https://is1-ssl.mzstatic.com/image/thumb/Music116/v4/99/f2/4e/99f24eba-4414-5f6f-d9c7-5ccdd3809433/15UMGIM34100.rgb.jpg/600x600bb.jpg"
+  },
+  {
+    "title": "Gone",
+    "artist": "ROSÉ",
+    "categories": ["Pop", "Pop 20s"],
+    "snippet": "/songs/pop/ros_gone.mp3",
+    "cover": "/songs/covers/roser.png"
+  },
+  {
+    "title": "On the Ground",
+    "artist": "ROSÉ",
+    "categories": ["Pop", "Pop 20s"],
+    "snippet": "/songs/pop/ole_60_rose.mp3",
+    "cover": "/songs/covers/roser.png"
+  },
+  {
+    "title": "Fell In Love With a Girl",
+    "artist": "The White Stripes",
+    "categories": ["Rock", "Rock 00s"],
+    "snippet": "/songs/rock/the_white_stripes_fell_in_love_with_a_girl.mp3",
+    "cover": "https://is1-ssl.mzstatic.com/image/thumb/Music115/v4/1c/fb/1d/1cfb1dec-aa4c-1cd7-da73-9d8b27e0ac41/886448798040.jpg/600x600bb.jpg"
+  },
+  {
     "title": "Good 4 U",
     "artist": "Olivia Rodrigo",
     "categories": ["Pop", "Pop 20s"],
@@ -11712,6 +11747,55 @@
     "cover": "https://is1-ssl.mzstatic.com/image/thumb/Music123/v4/f3/2d/fc/f32dfc28-e9b1-17ec-7239-555652f6709e/cover.jpg/600x600bb.jpg"
   },
   {
+    "title": "Megitsune",
+    "artist": "BABYMETAL",
+    "categories": ["Rock", "Rock 10s"],
+    "snippet": "/songs/rock/babymetal_megitsune.mp3",
+    "cover": "https://is1-ssl.mzstatic.com/image/thumb/Music221/v4/25/b1/84/25b18443-a659-5425-470f-b2e72a33318d/116513.jpg/600x600bb.jpg"
+  },
+  {
+    "title": "Clock Strikes",
+    "artist": "ONE OK ROCK",
+    "categories": ["Rock", "Rock 90s"],
+    "snippet": "/songs/rock/wildside_clock_strikes.mp3",
+    "cover": "https://is1-ssl.mzstatic.com/image/thumb/Music126/v4/9c/d8/53/9cd85318-58cb-04d5-aab1-3a0f9137b638/859707913096_cover.jpg/600x600bb.jpg"
+  },
+  {
+    "title": "The Beginning",
+    "artist": "ONE OK ROCK",
+    "categories": ["Rock", "Rock 10s"],
+    "snippet": "/songs/rock/fannix_one_ok_rock_the_beginning.mp3",
+    "cover": "https://is1-ssl.mzstatic.com/image/thumb/Music118/v4/67/ca/43/67ca43c9-0605-8680-a3af-2bdebf2f86f3/1b244f46-3ae7-4ae3-ab99-a11a22f50e2a.jpg/600x600bb.jpg"
+  },
+  {
+    "title": "Firestarter",
+    "artist": "The Prodigy",
+    "categories": ["Pop", "Pop 90s"],
+    "snippet": "/songs/pop/the_prodigy_firestarter.mp3",
+    "cover": "https://is1-ssl.mzstatic.com/image/thumb/Music126/v4/96/8b/08/968b08e4-cb2b-54c2-32bb-dba77ad1c2ca/634904912161.png/600x600bb.jpg"
+  },
+  {
+    "title": "Omen (Reprise)",
+    "artist": "The Prodigy",
+    "categories": ["Pop", "Pop 00s"],
+    "snippet": "/songs/pop/the_prodigy_omen_reprise.mp3",
+    "cover": "https://is1-ssl.mzstatic.com/image/thumb/Music211/v4/fe/f4/d8/fef4d852-a3a4-bd2d-6bac-723fb9aaf70d/119051.jpg/600x600bb.jpg"
+  },
+  {
+    "title": "Voodoo People (Pendulum Mix)",
+    "artist": "The Prodigy",
+    "categories": ["Pop", "Pop 90s"],
+    "snippet": "/songs/pop/the_prodigy_voodoo_people.mp3",
+    "cover": "https://is1-ssl.mzstatic.com/image/thumb/Music122/v4/86/e9/c2/86e9c2d6-10e8-f692-aaaf-4d99c0324fb8/634904911461.png/600x600bb.jpg"
+  },
+  {
+    "title": "Cough Syrup",
+    "artist": "Young the Giant",
+    "categories": ["Rock", "Rock 10s"],
+    "snippet": "/songs/rock/young_the_giant_cough_syrup.mp3",
+    "cover": "https://is1-ssl.mzstatic.com/image/thumb/Features125/v4/ac/1f/32/ac1f32cf-5951-aaa9-f029-9a80b8aad061/dj.pscqbrtu.jpg/600x600bb.jpg"
+  },
+  {
     "title": "Kryzysowa narzeczona",
     "artist": "Lady Pank",
     "categories": [
@@ -11810,6 +11894,27 @@
     ],
     "snippet": "/songs/Polskie/maanam_szare_miraze_remastered.mp3",
     "cover": "https://is1-ssl.mzstatic.com/image/thumb/Music6/v4/1d/b8/ab/1db8abf9-fae1-b1ae-39c7-28367c563564/5099909579156_1500x1500_300dpi.jpg/600x600bb.jpg"
+  },
+  {
+    "title": "Parówa z Berlina (Sentino Diss)",
+    "artist": "Gimpson",
+    "categories": ["Polskie Rap", "Polskie Rap 20s"],
+    "snippet": "/songs/Polskie/gimpson_parowa_z_berlina_sentino_diss.mp3",
+    "cover": "https://is1-ssl.mzstatic.com/image/thumb/Music221/v4/cb/ee/13/cbee13b7-07cd-e8ae-0fa9-66bc53b8c861/5907983545960.jpg/600x600bb.jpg"
+  },
+  {
+    "title": "Damy Radę",
+    "artist": "Happysad",
+    "categories": ["Polskie Rock", "Polskie Rock 00s"],
+    "snippet": "/songs/Polskie/happysad_damy_rade.mp3",
+    "cover": "https://is1-ssl.mzstatic.com/image/thumb/Music49/v4/2b/3e/62/2b3e625a-f791-040b-fa4c-59ee3d7d4c2f/5908295000024.jpg/600x600bb.jpg"
+  },
+  {
+    "title": "Ajrisz",
+    "artist": "T.Love",
+    "categories": ["Polskie Rock", "Polskie Rock 00s"],
+    "snippet": "/songs/Polskie/t_love_ajrisz.mp3",
+    "cover": "https://is1-ssl.mzstatic.com/image/thumb/Music113/v4/57/e3/61/57e3616c-599a-e71e-f1d0-d908229bffd2/724353611057.jpg/600x600bb.jpg"
   },
   {
     "title": "Sacrum (feat. Kasia Wilk)",

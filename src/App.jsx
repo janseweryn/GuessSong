@@ -863,6 +863,31 @@ const manualDaily = {
       dailyCategory: "Rap",
     },
   ],
+  "2026-11-21": [
+     {
+      title:  "Gone",
+      artist: "ROSÉ",
+      cover: "/songs/covers/roser.png",
+      snippet:  "/songs/pop/ros_gone.mp3",
+      categories: ["pop"],
+      dailyCategory: "Pop",
+    },
+   {
+      title:  "Scars",
+      artist: "Papa Roach",
+      cover: "https://is1-ssl.mzstatic.com/image/thumb/Music116/v4/99/f2/4e/99f24eba-4414-5f6f-d9c7-5ccdd3809433/15UMGIM34100.rgb.jpg/600x600bb.jpg",
+      snippet: "/songs/rock/papa_roach_scars.mp3",
+      dailyCategory: "Rock",
+    },
+    {
+      title: "The Way I Am",
+      artist: "Eminem",
+      cover: "/songs/covers/slim_shady.jpg",
+      snippet: "/songs/pop/charlie_puth_the_way_i_am.mp3",
+      categories: ["rap"],
+      dailyCategory: "Rap",
+    },
+  ],
 };
 
 const LEVELS = [
