@@ -888,6 +888,31 @@ const manualDaily = {
       dailyCategory: "Rap",
     },
   ],
+  "2026-11-22": [
+     {
+      title:  "Hand in My Pocket",
+      artist: "Alanis Morissette",
+      cover: "https://is1-ssl.mzstatic.com/image/thumb/Music22/v4/91/8b/72/918b72f8-b9f3-d7b4-75b9-e8400b7a2bbe/mzm.wpmxeayz.jpg/600x600bb.jpg",
+      snippet:  "/songs/pop/alanis_morissette_hand_in_my_pocket_acoustic_version.mp3",
+      categories: ["pop"],
+      dailyCategory: "Pop",
+    },
+   {
+      title:  "Before I Forget",
+      artist: "Slipknot",
+      cover: "https://is1-ssl.mzstatic.com/image/thumb/Music124/v4/7c/5d/17/7c5d174e-f7c5-2fba-04c4-c3d89b605300/016861752347.jpg/600x600bb.jpg",
+      snippet: "/songs/rock/slipknot_before_i_forget.mp3",
+      dailyCategory: "Rock",
+    },
+    {
+      title: "The Time Is Now",
+      artist: "John Cena & Tha Trademarc",
+      cover: "https://is1-ssl.mzstatic.com/image/thumb/Music124/v4/f7/1a/1b/f71a1bce-ebf2-66cc-e1c8-b2563719dc22/mzi.nzichsfo.jpg/600x600bb.jpg",
+      snippet: "/songs/rap/john_cena_tha_trademarc_the_time_is_now.mp3",
+      categories: ["rap"],
+      dailyCategory: "Rap",
+    },
+  ],
 };
 
 const LEVELS = [
