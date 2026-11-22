@@ -913,6 +913,31 @@ const manualDaily = {
       dailyCategory: "Rap",
     },
   ],
+   "2026-11-23": [
+     {
+      title:  "Crush",
+      artist: "Jennifer Paige",
+      cover: "https://is1-ssl.mzstatic.com/image/thumb/Music128/v4/6a/91/35/6a913582-c229-2321-3f82-0009c4058459/00720616217127.rgb.jpg/600x600bb.jpg",
+      snippet:  "/songs/pop/jennifer_paige_crush.mp3",
+      categories: ["pop"],
+      dailyCategory: "Pop",
+    },
+   {
+      title:  "Sleepwalking",
+      artist: "Bring Me The Horizon",
+      cover: "/songs/covers/sempti.jpg",
+      snippet: "/songs/rock/sleepwalking.mp3",
+      dailyCategory: "Rock",
+    },
+    {
+      title: "The Spins",
+      artist: "Mac Miller",
+      cover: "https://is1-ssl.mzstatic.com/image/thumb/Music116/v4/47/4a/5f/474a5fa1-692f-7d66-4bac-4db1cfee292d/198009520879.png/600x600bb.jpg",
+      snippet: "/songs/rap/cardo_grandz_wokeuplikethis_instrumental.mp3",
+      categories: ["rap"],
+      dailyCategory: "Rap",
+    },
+  ],
 };
 
 const LEVELS = [
