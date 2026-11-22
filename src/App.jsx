@@ -880,7 +880,7 @@ const manualDaily = {
       dailyCategory: "Rock",
     },
     {
-      title: "The Way I Am",
+      title: "The Way I A",
       artist: "Eminem",
       cover: "/songs/covers/slim_shady.jpg",
       snippet: "/songs/pop/charlie_puth_the_way_i_am.mp3",
