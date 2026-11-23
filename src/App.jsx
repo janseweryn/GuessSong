@@ -938,6 +938,31 @@ const manualDaily = {
       dailyCategory: "Rap",
     },
   ],
+  "2026-11-24": [
+     {
+      title:  "I Think We're Alone Now",
+      artist: "Tiffany",
+      cover: "https://is1-ssl.mzstatic.com/image/thumb/Music126/v4/c9/c6/14/c9c614af-96b7-4adc-922d-e4cf685a0dfa/06UMGIM07184.rgb.jpg/600x600bb.jpg",
+      snippet: "/songs/pop/tiffany_i_think_we_re_alone_now.mp3",
+      categories: ["pop"],
+      dailyCategory: "Pop",
+    },
+   {
+      title:  "Man In the Box",
+      artist: "Alice In Chains",
+      cover: "https://is1-ssl.mzstatic.com/image/thumb/Music/2f/47/fa/mzi.effcotrm.jpg/600x600bb.jpg",
+      snippet: "/songs/rock/alice_in_chains_man_in_the_box_live.mp3",
+      dailyCategory: "Rock",
+    },
+    {
+      title: "Dwutakt",
+      artist: "Alberto, Olek",
+      cover: "/songs/covers/dwutakt.jpg",
+      snippet: "/songs/Polskie/Alberto_Dwutakt.mp3",
+      categories: ["rap"],
+      dailyCategory: "Rap",
+    },
+  ],
 };
 
 const LEVELS = [
