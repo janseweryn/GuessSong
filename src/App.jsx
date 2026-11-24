@@ -963,6 +963,31 @@ const manualDaily = {
       dailyCategory: "Rap",
     },
   ],
+  "2026-11-25": [
+     {
+      title:  "Don't Start Now",
+      artist: "Dua Lipa",
+      cover: "/songs/covers/nostalgia.jpg",
+      snippet: "/songs/pop/dont_start_now.mp3",
+      categories: ["pop"],
+      dailyCategory: "Pop",
+    },
+   {
+      title:  "Perfect Strangers",
+      artist: "Deep Purple",
+      cover: "https://is1-ssl.mzstatic.com/image/thumb/Music125/v4/74/2f/93/742f932b-551d-76da-2bd0-c7860b803812/18UMGIM31697.rgb.jpg/600x600bb.jpg",
+      snippet: "/songs/rock/deep_purple_perfect_strangers.mp3",
+      dailyCategory: "Rock",
+    },
+    {
+      title: "Hit 'Em Up",
+      artist: "2Pac",
+      cover: "https://is1-ssl.mzstatic.com/image/thumb/Music124/v4/72/00/89/720089d8-c063-a323-e0cc-de921e50b968/00602527051789.rgb.jpg/600x600bb.jpg",
+      snippet: "/songs/rap/2pac_hit_em_up.mp3",
+      categories: ["rap"],
+      dailyCategory: "Rap",
+    },
+  ],
 };
 
 const LEVELS = [
