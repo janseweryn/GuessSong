@@ -988,6 +988,31 @@ const manualDaily = {
       dailyCategory: "Rap",
     },
   ],
+   "2026-11-26": [
+     {
+      title:  "No Time To Die",
+      artist: "Billie Eilish",
+      cover: "https://is1-ssl.mzstatic.com/image/thumb/Music124/v4/05/68/41/0568414d-c25e-2ffe-2577-960fcc09308f/20UMGIM09330.rgb.jpg/600x600bb.jpg",
+      snippet: "/songs/rock/billie_eilish_no_time_to_die.mp3",
+      categories: ["pop"],
+      dailyCategory: "Pop",
+    },
+   {
+      title:  "Against All Odds (Take a Look at Me Now)",
+      artist:  "Phil Collins",
+      cover: "https://is1-ssl.mzstatic.com/image/thumb/Music115/v4/1c/83/f9/1c83f950-aa62-aeb7-f561-21d9541514ba/dj.wxggooob.jpg/600x600bb.jpg",
+      snippet: "/songs/rock/phil_collins_against_all_odds_take_a_look_at_me_now.mp3",
+      dailyCategory: "Rock",
+    },
+    {
+      title: "This Is America",
+      artist: "Childish Gambino",
+      cover: "https://is1-ssl.mzstatic.com/image/thumb/Music126/v4/c0/ce/08/c0ce088f-ba0e-fa72-e2e7-a4b11cbc8310/ALT_APPLE_MUSIC_FUTURE_INTERNOS_003-SM_SQUARE_1400x1400px.jpg/600x600bb.jpg",
+      snippet: "/songs/pop/childish_gambino_this_is_america_mixed.mp3",
+      categories: ["rap"],
+      dailyCategory: "Rap",
+    },
+  ],
 };
 
 const LEVELS = [
