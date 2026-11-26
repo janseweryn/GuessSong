@@ -1013,6 +1013,31 @@ const manualDaily = {
       dailyCategory: "Rap",
     },
   ],
+  "2026-11-27": [
+     {
+      title:  "Glad You Came",
+      artist: "The Wanted",
+      cover: "https://is1-ssl.mzstatic.com/image/thumb/Music115/v4/6a/ca/bd/6acabd76-3a7a-78dd-c896-c102736fc634/00602537528097.rgb.jpg/600x600bb.jpg",
+      snippet: "/songs/pop/the_wanted_glad_you_came.mp3",
+      categories: ["pop"],
+      dailyCategory: "Pop",
+    },
+   {
+      title:  "Like a Stone",
+      artist:  "Audioslave",
+      cover: "https://is1-ssl.mzstatic.com/image/thumb/Features115/v4/9c/b6/c2/9cb6c246-3626-7789-26a9-79b787e5668d/dj.owymmnty.jpg/600x600bb.jpg",
+      snippet: "/songs/rock/audioslave_like_a_stone.mp3",
+      dailyCategory: "Rock",
+    },
+    {
+      title: "SAD!",
+      artist: "XXXTENTACION",
+      cover: "https://is1-ssl.mzstatic.com/image/thumb/Music116/v4/f0/b0/21/f0b021d2-8bfb-e2ff-93f9-17c64147f971/18UMGIM14845.rgb.jpg/600x600bb.jpg",
+      snippet: "/songs/pop/xxxtentacion_changes.mp3",
+      categories: ["rap"],
+      dailyCategory: "Rap",
+    },
+  ],
 };
 
 const LEVELS = [
