@@ -1038,6 +1038,31 @@ const manualDaily = {
       dailyCategory: "Rap",
     },
   ],
+  "2026-11-28": [
+     {
+      title:  "DESPECHÁ",
+      artist: "ROSALÍA",
+      cover: "https://is1-ssl.mzstatic.com/image/thumb/Music115/v4/6a/ca/bd/6acabd76-3a7a-78dd-c896-c102736fc634/00602537528097.rgb.jpg/600x600bb.jpg",
+      snippet: "/songs/pop/rosal_a_despech_remix_mixed.mp3",
+      categories: ["pop"],
+      dailyCategory: "Pop",
+    },
+   {
+      title:  "Sunshine of Your Love",
+      artist: "Cream",
+      cover: "https://is1-ssl.mzstatic.com/image/thumb/Music115/v4/9f/3f/da/9f3fdaab-98af-bec1-633c-212a2705ccf3/00602537802913.rgb.jpg/600x600bb.jpg",
+      snippet: "/songs/rock/cream_sunshine_of_your_love.mp3",
+      dailyCategory: "Rock",
+    },
+    {
+      title: "Work (feat. Drake)",
+      artist: "Rihanna", 
+      cover: "/songs/covers/anti.jpg",
+      snippet: "/songs/pop/work.mp3",
+      categories: ["rap"],
+      dailyCategory: "Rap",
+    },
+  ],
 };
 
 const LEVELS = [
